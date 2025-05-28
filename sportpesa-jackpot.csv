@@ -1,0 +1,2691 @@
+date,home_team,away_team,score,result
+14-11-2024,Belgium,Italy,0-1,away
+14-11-2024,Slovenia,Norway,1-4,away
+14-11-2024,Costa Rica,Panama,0-1,away
+14-11-2024,Botswana,Mauritania,1-1,draw
+14-11-2024,Uganda,South Africa,0-2,away
+14-11-2024,Zimbabwe,Kenya,1-1,draw
+14-11-2024,Cape Verde,Egypt,1-1,draw
+14-11-2024,Cyprus,Lithuania,2-1,home
+14-11-2024,Angola,Ghana,1-1,draw
+14-11-2024,Operario,Mirassol,1-1,draw
+14-11-2024,Scotland,Croatia,1-0,home
+14-11-2024,Luxembourg,Bulgaria,0-1,away
+14-11-2024,San Marino,Gibraltar,1-1,draw
+06-11-2024,Stuttgart,Atalanta,0-2,away
+06-11-2024,Sparta Prague,Brest,1-2,away
+06-11-2024,Inter,Arsenal,1-0,home
+06-11-2024,Galatasaray,Tottenham,3-2,home
+06-11-2024,Union Saint Gilloise,AS Roma,1-1,draw
+06-11-2024,Hoffenheim,Lyon,2-2,draw
+06-11-2024,AZ Alkmaar,Fenerbahce,3-1,home
+06-11-2024,Lazio,FC Porto,2-1,home
+06-11-2024,Jagiellonia,Molde,3-0,home
+06-11-2024,HNK Sibenik,Lok. Zagreb,0-3,away
+06-11-2024,Union Berlin,Freiburg,0-0,draw
+06-11-2024,Frosinone,Palermo,1-1,draw
+06-11-2024,St. Truiden,KV Mechelen,2-1,home
+30-10-2024,Venezia,Udinese,3-2,home
+30-10-2024,Royal AM,Polokwane,0-1,away
+30-10-2024,Mantova,Palermo,0-0,draw
+30-10-2024,Newcastle,Chelsea,2-0,home
+30-10-2024,Deportivo Moron,Temperley,0-0,draw
+30-10-2024,Como,Lazio,1-5,away
+30-10-2024,Gaziantep,Goztepe,2-1,home
+30-10-2024,Ulm,Schalke,0-0,draw
+30-10-2024,Al Nassr,Al Hilal,1-1,draw
+30-10-2024,Bourg en Bresse,Nimes,2-1,home
+30-10-2024,Villefranche,Versailles,1-3,away
+30-10-2024,Bohemians,Galway,1-1,draw
+30-10-2024,Luton,West Brom,1-1,draw
+24-10-2024,Midtjylland,Union Saint Gilloise,1-0,home
+24-10-2024,Qarabag,Ajax,0-3,away
+24-10-2024,NK Celje,Basaksehir,5-1,home
+24-10-2024,Hearts,Omonia,2-0,home
+24-10-2024,Larne,Shamrock Rovers,1-4,away
+24-10-2024,Djurgarden,Vitoria Guimaraes,1-2,away
+24-10-2024,Fenerbahce,Manchester Utd,1-1,draw
+24-10-2024,HJK Helsinki,Din. Minsk,1-0,home
+24-10-2024,Paphos,Heidenheim,0-1,away
+24-10-2024,O. Ljubljana,LASK,2-0,home
+24-10-2024,Twente,Lazio,0-2,away
+24-10-2024,Malmo FF,Olympiacos Piraeus,0-1,away
+24-10-2024,Mlada Boleslav,Lugano,0-1,away
+14-11-2024,Belgium,Italy,0-1,away
+14-11-2024,Slovenia,Norway,1-4,away
+14-11-2024,Costa Rica,Panama,0-1,away
+14-11-2024,Botswana,Mauritania,1-1,draw
+14-11-2024,Uganda,South Africa,0-2,away
+14-11-2024,Zimbabwe,Kenya,1-1,draw
+14-11-2024,Cape Verde,Egypt,1-1,draw
+14-11-2024,Cyprus,Lithuania,2-1,home
+14-11-2024,Angola,Ghana,1-1,draw
+14-11-2024,Operario,Mirassol,1-1,draw
+14-11-2024,Scotland,Croatia,1-0,home
+14-11-2024,Luxembourg,Bulgaria,0-1,away
+14-11-2024,San Marino,Gibraltar,1-1,draw
+06-11-2024,Stuttgart,Atalanta,0-2,away
+06-11-2024,Sparta Prague,Brest,1-2,away
+06-11-2024,Inter,Arsenal,1-0,home
+06-11-2024,Galatasaray,Tottenham,3-2,home
+06-11-2024,Union Saint Gilloise,AS Roma,1-1,draw
+06-11-2024,Hoffenheim,Lyon,2-2,draw
+06-11-2024,AZ Alkmaar,Fenerbahce,3-1,home
+06-11-2024,Lazio,FC Porto,2-1,home
+06-11-2024,Jagiellonia,Molde,3-0,home
+06-11-2024,HNK Sibenik,Lok. Zagreb,0-3,away
+06-11-2024,Union Berlin,Freiburg,0-0,draw
+06-11-2024,Frosinone,Palermo,1-1,draw
+06-11-2024,St. Truiden,KV Mechelen,2-1,home
+30-10-2024,Venezia,Udinese,3-2,home
+30-10-2024,Royal AM,Polokwane,0-1,away
+30-10-2024,Mantova,Palermo,0-0,draw
+30-10-2024,Newcastle,Chelsea,2-0,home
+30-10-2024,Deportivo Moron,Temperley,0-0,draw
+30-10-2024,Como,Lazio,1-5,away
+30-10-2024,Gaziantep,Goztepe,2-1,home
+30-10-2024,Ulm,Schalke,0-0,draw
+30-10-2024,Al Nassr,Al Hilal,1-1,draw
+30-10-2024,Bourg en Bresse,Nimes,2-1,home
+30-10-2024,Villefranche,Versailles,1-3,away
+30-10-2024,Bohemians,Galway,1-1,draw
+30-10-2024,Luton,West Brom,1-1,draw
+24-10-2024,Midtjylland,Union Saint Gilloise,1-0,home
+24-10-2024,Qarabag,Ajax,0-3,away
+24-10-2024,NK Celje,Basaksehir,5-1,home
+24-10-2024,Hearts,Omonia,2-0,home
+24-10-2024,Larne,Shamrock Rovers,1-4,away
+24-10-2024,Djurgarden,Vitoria Guimaraes,1-2,away
+24-10-2024,Fenerbahce,Manchester Utd,1-1,draw
+24-10-2024,HJK Helsinki,Din. Minsk,1-0,home
+24-10-2024,Paphos,Heidenheim,0-1,away
+24-10-2024,O. Ljubljana,LASK,2-0,home
+24-10-2024,Twente,Lazio,0-2,away
+24-10-2024,Malmo FF,Olympiacos Piraeus,0-1,away
+24-10-2024,Mlada Boleslav,Lugano,0-1,away
+18-10-2024,Gloria Buzau,FC Hermannstadt,3-0,home
+18-10-2024,Stripfing,ASK Voitsberg,1-2,away
+18-10-2024,Waldhof Mannheim,Erzgebirge Aue,3-0,home
+18-10-2024,Orgryte,Sandviken,4-2,home
+18-10-2024,Quevilly Rouen,Nancy,0-1,away
+18-10-2024,Boulogne,Orleans,3-0,home
+18-10-2024,Villefranche,Rouen,2-1,home
+18-10-2024,Chateauroux,Le Mans,1-2,away
+18-10-2024,Red Star,Caen,2-2,draw
+18-10-2024,Jong AZ Alkmaar,Helmond,2-3,away
+18-10-2024,VVV Venlo,Dordrecht,2-3,away
+18-10-2024,Dep. Riestra,Atl. Tucuman,2-0,home
+18-10-2024,Sarmiento Junin,Gimnasia L.P.,1-1,draw
+10-10-2024,Finland,Ireland,1-2,away
+10-10-2024,Bolivia,Colombia,1-0,home
+10-10-2024,Bonaire,Montserrat,0-1,away
+10-10-2024,Madagascar,Gambia,1-1,draw
+10-10-2024,Estonia,Azerbaijan,3-1,home
+10-10-2024,Leiria,Felgueiras,1-3,away
+10-10-2024,HIK Hellerup,BK Frem,1-2,away
+10-10-2024,Tenerife,Zaragoza,2-3,away
+10-10-2024,Algeciras,Hercules,2-3,away
+10-10-2024,Iceland,Wales,2-2,draw
+10-10-2024,Slovakia,Sweden,2-2,draw
+10-10-2024,Waterford,Drogheda,0-0,draw
+10-10-2024,KKS Kalisz,Hutnik Krakow,1-1,draw
+03-10-2024,FC Noah,Mlada Boleslav,1.45,unknown
+03-10-2024,Din. Minsk,Hearts,1-2,away
+03-10-2024,Cercle Brugge,St. Gallen,6-2,home
+03-10-2024,Maccabi Tel Aviv,Midtjylland,0-2,away
+03-10-2024,Besiktas,Eintracht Frankfurt,1-3,away
+03-10-2024,FC Porto,Manchester Utd,3-3,draw
+03-10-2024,Rangers,Lyon,1-4,away
+03-10-2024,Twente,Fenerbahce,1-1,draw
+03-10-2024,Almere City,Willem II,0-1,away
+03-10-2024,Augsburg,B. Monchengladbach,2-1,home
+03-10-2024,Huesca,Cadiz CF,3-1,home
+03-10-2024,Leganes,Valencia,0-0,draw
+03-10-2024,Sunderland,Leeds,2-2,draw
+26-09-2024,Espanyol,Villarreal,1-2,away
+26-09-2024,Las Palmas,Betis,1-1,draw
+26-09-2024,Halmstad,Kalmar,2-2,draw
+26-09-2024,Vasteras SK,Goteborg,1-1,draw
+26-09-2024,Cercle Brugge,KAA Gent,2-1,home
+26-09-2024,Greuther Furth,Fortuna Dusseldorf,1-2,away
+26-09-2024,Auxerre,Brest,3-0,home
+26-09-2024,Sivasspor,Basaksehir,1-2,away
+26-09-2024,Heracles,Heerenveen,2-1,home
+26-09-2024,Eindhoven FC,Roda,0-0,draw
+26-09-2024,Albacete,Dep. La Coruna,2-5,away
+26-09-2024,Cittadella,Frosinone,1-2,away
+26-09-2024,Valladolid,Mallorca,1-2,away
+20-09-2024,Troyes,Rodez,0-3,away
+20-09-2024,Dunkerque,Pau FC,3-2,home
+20-09-2024,Bastia,Paris FC,2-1,home
+20-09-2024,Dordrecht,Excelsior,2-2,draw
+20-09-2024,Den Bosch,FC Emmen,1-0,home
+20-09-2024,Amiens,Clermont,1-0,home
+20-09-2024,Augsburg,Mainz,2-3,away
+20-09-2024,Catanzaro,Cremonese,1-2,away
+20-09-2024,Verona,Torino,2-3,away
+20-09-2024,Motherwell,Dundee Utd,2-1,home
+20-09-2024,Galway,Shelbourne,1-0,home
+20-09-2024,Stoke,Hull,1-3,away
+20-09-2024,Alaves,Sevilla,2-1,home
+13-09-2024,Aalborg,Lyngby,2-1,home
+13-09-2024,Landskrona,Oster,0-0,draw
+13-09-2024,Ostersund,Helsingborg,1-0,home
+13-09-2024,Trelleborg,Orebro,2-1,home
+13-09-2024,Sochaux,Nancy,2-3,away
+13-09-2024,Cordoba,Dep. La Coruna,2-0,home
+13-09-2024,Dep. Riestra,Huracan,1-0,home
+13-09-2024,Eindhoven FC,Dordrecht,0-0,draw
+13-09-2024,FC Emmen,Roda,1-3,away
+13-09-2024,Rodez,Guingamp,1-2,away
+13-09-2024,Laval,AC Ajaccio,1-1,draw
+13-09-2024,Dunfermline,Raith,2-0,home
+13-09-2024,Hull,Sheffield Utd,0-2,away
+05-09-2024,Scotland,Poland,2-3,away
+05-09-2024,Denmark,Switzerland,2-0,home
+05-09-2024,Dundalk,St. Patricks,1-2,away
+05-09-2024,San Marino,Liechtenstein,1-0,home
+05-09-2024,Lithuania,Cyprus,0-1,away
+05-09-2024,Nimes,Rouen,2-2,draw
+05-09-2024,Le Mans,Dijon,0-0,draw
+05-09-2024,Bohemians,Shelbourne,1-1,draw
+05-09-2024,Kosovo,Romania,0-3,away
+05-09-2024,Iceland,Montenegro,2-0,home
+05-09-2024,Slovenia,Austria,1-1,draw
+05-09-2024,Wales,Turkey,0-0,draw
+05-09-2024,Tenerife,Racing Santander,0-1,away
+28-08-2024,Cosenza,Spezia,0-0,draw
+28-08-2024,Nottingham,Newcastle,1-1,draw
+28-08-2024,Slavia Prague,Lille,2-1,home
+28-08-2024,Slovan Bratislava,FC Midtjylland,3-2,home
+28-08-2024,Zira,Omonia Nicosia,1-0,home
+28-08-2024,Ruzomberok,FC Noah,3-1,home
+28-08-2024,Elfsborg,Molde,0-1,away
+28-08-2024,Olimpija Ljubljana,HNK Rijeka,5-0,home
+28-08-2024,Paksi FC,Mlada Boleslav,0-3,away
+28-08-2024,Panathinaikos,Lens,2-0,home
+28-08-2024,Maribor,Djurgardens IF,0-1,away
+28-08-2024,Steaua Bucuresti,LASK Linz,1-0,home
+28-08-2024,Rapid Vienna,Sporting Braga,2-2,draw
+23-08-2024,Hannover,Hamburger SV,1-0,home
+23-08-2024,Celta Vigo,Valencia,3-1,home
+23-08-2024,Racing Santander,Eibar,2-2,draw
+23-08-2024,Nimes,Chateauroux,1-0,home
+23-08-2024,Oss,Cambuur,1-0,home
+23-08-2024,Laval,Guingamp,0-1,away
+23-08-2024,Pau FC,Caen,1-0,home
+23-08-2024,First Vienna,Floridsdorfer AC,0-2,away
+23-08-2024,Modena,Bari,2-1,home
+23-08-2024,Treaty United,Wexford,1-3,away
+23-08-2024,Athlone,Bray,0-1,away
+23-08-2024,Dundalk,St. Patricks,2.70,unknown
+23-08-2024,Sevilla,Villarreal,1-2,away
+15-08-2024,Pyunik Yerevan,Ordabasy,1-0,home
+15-08-2024,Legia,Brondby,1-1,draw
+15-08-2024,Zira,Osijek,2-2,draw
+15-08-2024,Sheriff Tiraspol,O. Ljubljana,0-1,away
+15-08-2024,Elfsborg,Rijeka,2-0,home
+15-08-2024,H. Beer Sheva,Mlada Boleslav,2-4,away
+15-08-2024,Cercle Brugge,Molde,1-0,home
+15-08-2024,Servette,Braga,1-2,away
+15-08-2024,Slask Wroclaw,St. Gallen,3-2,home
+15-08-2024,Wisla,Trnava,2-0,home
+15-08-2024,Shamrock Rovers,Celje,2-1,home
+15-08-2024,Decic,HJK,2-1,home
+15-08-2024,Betis,Girona,1-1,draw
+08-08-2024,Silkeborg,KAA Gent,2-2,draw
+08-08-2024,Zurich,Vitoria Guimaraes,0-3,away
+08-08-2024,O. Ljubljana,Sheriff Tiraspol,3-0,home
+08-08-2024,Klaksvik,Borac Banja Luka,2-1,home
+08-08-2024,Maccabi Petah Tikva,CFR Cluj,0-1,away
+08-08-2024,Kilmarnock,Tromso,2-2,draw
+08-08-2024,Botev Plovdiv,Zrinjski,2-1,home
+08-08-2024,Hunedoara,FC Astana,1-2,away
+08-08-2024,Partizan,Lugano,0-1,away
+08-08-2024,Panathinaikos,Ajax,0-1,away
+08-08-2024,Maribor,Vojvodina,2-1,home
+08-08-2024,St. Patricks,Sabah Baku,1-0,home
+08-08-2024,St. Mirren,Brann,1-1,draw
+01-08-2024,Polissya Zhytomyr,O. Ljubljana,1-2,away
+01-08-2024,Sabah,Maccabi Haifa,2-5,away
+01-08-2024,Paide,Stjarnan,4-0,home
+01-08-2024,Torpedo Kutaisi,Omonia,1-2,away
+01-08-2024,Silkeborg,Molde,3-2,home
+01-08-2024,Cherno More,H. Beer Sheva,1-2,away
+01-08-2024,Egnatia,Vikingur Reykjavik,0-2,away
+01-08-2024,Smouha,Al Masry,1-0,home
+01-08-2024,Buducnost,CSKA 1948,1-0,home
+01-08-2024,GIF Sundsvall,Utsikten,1-0,home
+01-08-2024,Stade Nyonnais,Schaffhausen,0-3,away
+01-08-2024,FC Koln,Hamburger SV,1-2,away
+01-08-2024,Finn Harps,Bray,1-2,away
+25-07-2024,Zalgiris,Pafos FC,2-1,home
+25-07-2024,Zira,Dun. Streda,4-0,home
+25-07-2024,Zimbru,Ararat-Armenia,0-3,away
+25-07-2024,Maribor,CS U Craiova,2-0,home
+25-07-2024,Valur,St. Mirren,0-0,draw
+25-07-2024,St. Patricks,Vaduz,3-1,home
+25-07-2024,FC Sarajevo,Spartak Trnava,0-0,draw
+25-07-2024,CA Platense,Velez Sarsfield,0-2,away
+25-07-2024,Atl. Tucuman,Instituto Cordoba,1-0,home
+25-07-2024,Correcaminos,Cancun,2.50,unknown
+25-07-2024,Puszcza,Gornik Zabrze,2-2,draw
+25-07-2024,Club Almagro,Def. de Belgrano,1-0,home
+25-07-2024,Etoile-Carouge,Xamax,3-1,home
+18-07-2024,Zira,Sheriff Tiraspol,1-2,away
+18-07-2024,Paphos,Elfsborg,2-5,away
+18-07-2024,Palestino,Cuiaba,1-1,draw
+18-07-2024,Ind. Rivadavia,Gimnasia L.P.,1-0,home
+18-07-2024,Atletico Bucaramanga,Junior,1-0,home
+18-07-2024,Vila Nova FC,Santos,1-1,draw
+18-07-2024,Instituto Cordoba,Independiente,3-1,home
+18-07-2024,Cerro Porteno,Athletico-PR,1-1,draw
+18-07-2024,Ind. Medellin,Millonarios,1-1,draw
+18-07-2024,Politehnica Iasi,FC Botosani,1-0,home
+18-07-2024,AGF Aarhus,FC Midtjylland,1-1,draw
+18-07-2024,Barracas Central,Newells Old Boys,0-1,away
+18-07-2024,UTC Cajamarca,Cusco FC,2-1,home
+10-07-2024,Din. Minsk,Pyunik Yerevan,0-0,draw
+10-07-2024,Netherlands,England,1-2,away
+10-07-2024,Gremio,Cruzeiro,0-2,away
+10-07-2024,Athletico-PR,Bahia,1-3,away
+10-07-2024,Vasco da Gama,Corinthians,2-0,home
+10-07-2024,Uruguay,Colombia,0-1,away
+10-07-2024,MP Mikkeli,KaPa,2-6,away
+10-07-2024,Fram,KR Reykjavik,1-0,home
+10-07-2024,Criciuma,Fluminense,1-1,draw
+10-07-2024,Atletico-MG,Sao Paulo,2-1,home
+10-07-2024,Vitoria,Botafogo RJ,0-1,away
+10-07-2024,Sarpsborg 08,Rosenborg,4-1,home
+10-07-2024,FC Hermannstadt,CS U Craiova,0-0,draw
+03-07-2024,Sandefjord,Tromso,1-2,away
+03-07-2024,Cuiaba,Botafogo RJ,1-2,away
+03-07-2024,Vasco da Gama,Fortaleza,2-0,home
+03-07-2024,Criciuma,Cruzeiro,1-0,home
+03-07-2024,Toronto FC,Orlando City,1-2,away
+03-07-2024,DC United,FC Cincinnati,2-3,away
+03-07-2024,Atletico-MG,Flamengo RJ,2-4,away
+03-07-2024,Waterford,St. Patricks,1-0,home
+03-07-2024,Fluminense,Internacional,1-1,draw
+03-07-2024,Los Angeles Galaxy,Los Angeles FC,1-2,away
+03-07-2024,Suwon City,Ulsan Hyundai,1-1,draw
+03-07-2024,Incheon Utd,Sangju Sangmu,1-1,draw
+03-07-2024,Spain,Germany,1-1,draw
+25-06-2024,Netherlands,Austria,2-3,away
+25-06-2024,Denmark,Serbia,0-0,draw
+25-06-2024,Peru,Canada,0-1,away
+25-06-2024,Mirassol,Santos,0-0,draw
+25-06-2024,Ponte Preta,Ceara,3-1,home
+25-06-2024,Amazonas,Coritiba,1-0,home
+25-06-2024,Nagoya Grampus,Urawa Reds Diamonds,0-1,away
+25-06-2024,Kyoto Sanga,Kashiwa Reysol,2-2,draw
+25-06-2024,Jubilo Iwata,Tokyo Verdy,3-0,home
+25-06-2024,Avispa Fukuoka,Yokohama F. Marinos,2-1,home
+25-06-2024,Jeonbuk Hyundai,Pohang Steelers,1-1,draw
+25-06-2024,Jeju Utd,Incheon Utd,1-0,home
+25-06-2024,Czech Republic,Turkey,1-2,away
+19-06-2024,Lahti,Gnistan,3-3,draw
+19-06-2024,Haka,Inter Turku,0-0,draw
+19-06-2024,HJK Helsinki,KuPS,3-1,home
+19-06-2024,EIF Ekenas,IFK Mariehamn,1-2,away
+19-06-2024,Juventude,Vasco da Gama,2-0,home
+19-06-2024,Inter Miami,Columbus Crew,2-1,home
+19-06-2024,Montreal Impact,New York Red Bulls,2-2,draw
+19-06-2024,Toronto,Nashville,1-2,away
+19-06-2024,Birmingham Legion,San Antonio,3-0,home
+19-06-2024,Houston Dynamo,Seattle Sounders,2-2,draw
+19-06-2024,Dallas,Minnesota,5-3,home
+19-06-2024,Sporting Kansas City,Real Salt Lake,3-4,away
+19-06-2024,Spain,Italy,1-0,home
+11-06-2024,Mauritius,Swaziland,2-1,home
+11-06-2024,Azerbaijan,Kazakhstan,3-2,home
+11-06-2024,Rampla Juniors,Boston River,1-1,draw
+11-06-2024,Angola,Cameroon,1-1,draw
+11-06-2024,Gabon,Gambia,3-2,home
+11-06-2024,Atletico GO,Corinthians,2-2,draw
+11-06-2024,Mirassol,Goias,1-0,home
+11-06-2024,Bragantino,Atletico-MG,1-2,away
+11-06-2024,Gimnasia Jujuy,Chacarita Juniors,0-1,away
+11-06-2024,Godoy Cruz,Rosario Central,1-1,draw
+11-06-2024,Waterford,Shelbourne,0-1,away
+11-06-2024,Finn Harps,UCD Dublin,1-1,draw
+11-06-2024,Kerry,Longford Town,2-1,home
+04-06-2024,Barracas Central,Huracan,0-2,away
+04-06-2024,Progreso,Cerro Largo,0-1,away
+04-06-2024,Austria,Serbia,2-1,home
+04-06-2024,Ireland,Hungary,2-1,home
+04-06-2024,Ind. Rivadavia,Union de Santa Fe,0-1,away
+04-06-2024,Banfield,Newells Old Boys,2-0,home
+04-06-2024,Paysandu PA,America Minerio,2-0,home
+04-06-2024,Kashiwa Reysol,Nagoya Grampus,1-1,draw
+04-06-2024,Cerezo Osaka,Machida Zelvia,1-3,away
+04-06-2024,Mexico,Uruguay,0-4,away
+04-06-2024,VPS Vaasa,Ilves Tampere,1-1,draw
+04-06-2024,Armenia,Kazakhstan,2-1,home
+04-06-2024,Poland,Ukraine,3-1,home
+29-05-2024,Olympiacos,Fiorentina,0-0,draw
+29-05-2024,Metropolitanos,Deportivo Garcilaso,1-1,draw
+29-05-2024,Montreal Impact,DC United,4-2,home
+29-05-2024,Chicago Fire,Orlando City,1-1,draw
+29-05-2024,Sporting Kansas City,Vancouver Whitecaps,1-2,away
+29-05-2024,Sakaryaspor,Bodrumspor,1-1,draw
+29-05-2024,Cremonese,Venezia,0-0,draw
+29-05-2024,Sagan Tosu,FC Tokyo,0-1,away
+29-05-2024,St. Patricks,Galway United,2-1,home
+29-05-2024,Waterford,Bohemians,2-1,home
+29-05-2024,Treaty United,Longford,1-0,home
+29-05-2024,UCD Dublin,Bray,0-0,draw
+29-05-2024,Finn Harps,Wexford Youths,1-0,home
+23-05-2024,Orebro,Utsikten,0-1,away
+23-05-2024,IK Brage,Degerfors,0-1,away
+23-05-2024,Varberg,Oddevold,2-1,home
+23-05-2024,Besiktas,Trabzonspor,3-2,home
+23-05-2024,Al Ettifaq,Al Shabab,1-0,home
+23-05-2024,Al Feiha,Al Taawon,1-1,draw
+23-05-2024,Ternana,Bari,0-3,away
+23-05-2024,VFL Bochum,Fortuna Dusseldorf,0-3,away
+23-05-2024,Raith Rovers,Ross County,1-2,away
+23-05-2024,Kolding IF,AAB Aalborg,2-3,away
+23-05-2024,Kerry,Finn Harps,2-0,home
+23-05-2024,Athlone Town,UCD Dublin,2-2,draw
+23-05-2024,Bohemians,St. Patricks,2-2,draw
+17-05-2024,Utsikten,Oster,1-1,draw
+17-05-2024,Gefle,Sundsvall,1-0,home
+17-05-2024,Trelleborg,Helsingborg,0-0,draw
+17-05-2024,Al Nassr,Al Hilal,1-1,draw
+17-05-2024,Aarau,Wil,0-4,away
+17-05-2024,Palermo,Sampdoria,2-0,home
+17-05-2024,Mirandes,Elche,1-1,draw
+17-05-2024,Fiorentina,Napoli,2-2,draw
+17-05-2024,Drogheda,Galway,2-3,away
+17-05-2024,St. Patricks,Derry City,0-1,away
+17-05-2024,Grenoble,Amiens,1-3,away
+17-05-2024,Troyes,Annecy,1-1,draw
+17-05-2024,Sligo Rovers,Bohemians,0-3,away
+10-05-2024,Jong Ajax,Jong AZ Alkmaar,1-4,away
+10-05-2024,Al Khaleej,Al Wehda,1-2,away
+10-05-2024,Sudtirol,Palermo,0-1,away
+10-05-2024,Catanzaro,Sampdoria,1-3,away
+10-05-2024,Spezia,Venezia,2-1,home
+10-05-2024,Lausanne-Sport,FC Basel,0-0,draw
+10-05-2024,AC Ajaccio,Grenoble,1-2,away
+10-05-2024,Waterford,Dundalk,4-1,home
+10-05-2024,Athlone Town,Bray Wanderers,2-1,home
+10-05-2024,Nimes,Sochaux,4-2,home
+10-05-2024,Dijon,Martigues,3-2,home
+10-05-2024,Orleans,Red Star,2-1,home
+10-05-2024,Nancy,Chateauroux,1-3,away
+03-05-2024,Dordrecht,Willem II,1-1,draw
+03-05-2024,Almere City,Heerenveen,1-1,draw
+03-05-2024,Bastia,Amiens,1-2,away
+03-05-2024,Fortuna Sittard,Go Head Eagles,0-0,draw
+03-05-2024,Barnsley,Bolton,1-3,away
+03-05-2024,Villarreal B,Levante,0-3,away
+03-05-2024,Torino,Bologna,0-0,draw
+03-05-2024,Galway United,Derry City,0-0,draw
+03-05-2024,Cobh Ramblers,Bray Wanderers,2-1,home
+03-05-2024,Ayr United,Dunfermline,3-3,draw
+03-05-2024,Westerlo,St. Truiden,2-2,draw
+03-05-2024,Getafe,Ath Bilbao,0-2,away
+03-05-2024,Luton Town,Everton,1-1,draw
+24-04-2024,Brommapojkarna,Sirius,1-1,draw
+24-04-2024,IFK Goteborg,BK Hacken,0-1,away
+24-04-2024,Stade Nyonnais,FC Vaduz,0-2,away
+24-04-2024,Rapid Vienna,Sturm Graz,1-3,away
+24-04-2024,Wolverhampton,Bournemouth,0-1,away
+24-04-2024,Coventry,Hull,2-3,away
+24-04-2024,Crystal Palace,Newcastle,2-0,home
+24-04-2024,Marseille,Nice,2-2,draw
+24-04-2024,Monaco,Lille,1-0,home
+24-04-2024,Columbus Crew,CF Monterrey,2-1,home
+24-04-2024,Independiente DV,Palmeiras,2-3,away
+24-04-2024,Kalmar,GAIS,2-3,away
+24-04-2024,Royal Antwerp,Union Saint Gilloise,0-3,away
+18-04-2024,Lille,Aston Villa,2-1,home
+18-04-2024,Marseille,Benfica,1-0,home
+18-04-2024,Roma,AC Milan,2-1,home
+18-04-2024,Patriotas,Ind. Medellin,2-3,away
+18-04-2024,Al Riyadh,Al Taee,1-2,away
+18-04-2024,Inter Turku,KuPS,1-1,draw
+18-04-2024,Doxa,Nea Salamis,1-0,home
+18-04-2024,Genoa,Lazio,0-1,away
+18-04-2024,SV Elversberg,Schalke 04,1-1,draw
+18-04-2024,Feirense,Leixoes,1-1,draw
+18-04-2024,Schaffhausen,Xamax,1-1,draw
+18-04-2024,Palermo,Parma,0-0,draw
+18-04-2024,Tenerife,Leganes,0-0,draw
+12-04-2024,VPS Vaasa,Seinajoen JK,1-1,draw
+12-04-2024,FC Liefering,Grazer AK,2-0,home
+12-04-2024,HP Koge,B.93 Kopenhagen,5-3,home
+12-04-2024,Odense,Viborg,1-3,away
+12-04-2024,Dijon,Orleans,1-0,home
+12-04-2024,Nimes,Versailles,0-1,away
+12-04-2024,Avranches,Epinal,0-2,away
+12-04-2024,Chateauroux,Le Mans,1-2,away
+12-04-2024,Villefranche,Rouen,1-1,draw
+12-04-2024,Floridsdorfer AC,Leoben,0-2,away
+12-04-2024,Leganes,Espanyol,0-0,draw
+12-04-2024,St. Truiden,St. Liege,3-3,draw
+12-04-2024,Betis,Celta Vigo,2-1,home
+03-04-2024,Kayserispor,Kasimpasa,0-2,away
+03-04-2024,Kocaelispor,Goztepe,3-2,home
+03-04-2024,Panathinaikos,AEK Athens,2-1,home
+03-04-2024,Brentford,Brighton,0-0,draw
+03-04-2024,Fiorentina,Atalanta,1-0,home
+03-04-2024,Cuiaba MT,Lanus,1-1,draw
+03-04-2024,Rayo Zuliano,Danubio FC,0-2,away
+03-04-2024,Basaksehir,Besiktas,1-1,draw
+03-04-2024,Granada,Valencia,0-1,away
+03-04-2024,Waalwijk,Almere City,0-0,draw
+03-04-2024,Talleres Cordoba,Sao Paulo,2-1,home
+03-04-2024,Salernitana,Sassuolo,2-2,draw
+03-04-2024,Lille,Marseille,3-1,home
+26-03-2024,Georgia,Greece,0-0,draw
+26-03-2024,FC GOAL,Sochaux,2-2,draw
+26-03-2024,Uruguay,Ivory Coast,1-2,away
+26-03-2024,Wales,Poland,0-0,draw
+26-03-2024,Austria,Turkey,6-1,home
+26-03-2024,Ireland,Switzerland,0-1,away
+26-03-2024,Solihull Moors,Southend,0-3,away
+26-03-2024,Spain,Brazil,3-3,draw
+26-03-2024,Perez Zeledon,Sporting San Jose,1-2,away
+26-03-2024,Santos Guapiles,AD Guanacasteca,0-0,draw
+26-03-2024,Bogota,Tigres,0-1,away
+26-03-2024,Victoriano Arenas,Deportivo Espanol,0-0,draw
+26-03-2024,Deportivo Laferrere,Flandria,1-1,draw
+21-03-2024,Russia,Serbia,4-0,home
+21-03-2024,Cyprus,Latvia,1-1,draw
+21-03-2024,Bosnia & Herzegovina,Ukraine,1-2,away
+21-03-2024,Israel,Iceland,1-4,away
+21-03-2024,Tecnico Universitario,Independiente DV,1-1,draw
+21-03-2024,South Adelaide,Adelaide Raiders,3-4,away
+21-03-2024,Nigeria,Ghana,2-1,home
+21-03-2024,Norway,Czech Republic,1-2,away
+21-03-2024,Sochaux,Chateauroux,0-2,away
+21-03-2024,Epinal,Dijon,1-1,draw
+21-03-2024,Bray,Wexford,3-4,away
+21-03-2024,Athlone,Longford,3-3,draw
+21-03-2024,Hungary,Turkey,1-0,home
+13-03-2024,Dundee FC,Aberdeen,1-0,home
+13-03-2024,Atl. Madrid,Inter,2-1,home
+13-03-2024,Borussia Dortmund,PSV,2-0,home
+13-03-2024,Cimarrones de Sonora,M. Zacatecas,2-2,draw
+13-03-2024,Slavia Prague,AC Milan,1-3,away
+13-03-2024,Rangers,Benfica,0-1,away
+13-03-2024,Villarreal,Marseille,3-1,home
+13-03-2024,Al Khaleej,Al Akhdoud,2-2,draw
+13-03-2024,Maccabi Tel Aviv,Olympiacos,1-4,away
+13-03-2024,LD Alajuelense,New England Revolution,1-1,draw
+13-03-2024,Maringa,Amazonas,0-1,away
+13-03-2024,Leones Negros,Celaya,0-0,draw
+13-03-2024,Newcastle Jets,Adelaide United,0-1,away
+06-03-2024,Middlesbrough,Norwich,3-1,home
+06-03-2024,Watford,Swansea,1-1,draw
+06-03-2024,Cardiff,Huddersfield,1-0,home
+06-03-2024,QPR,West Brom,2-2,draw
+06-03-2024,Houston Dynamo,Columbus Crew,0-1,away
+06-03-2024,Future FC,Masr Club,0-0,draw
+06-03-2024,Roma,Brighton,4-0,home
+06-03-2024,Molde,Club Brugge,2-1,home
+06-03-2024,Sturm Graz,Lille,0-3,away
+06-03-2024,SC Freiburg,West Ham,1-0,home
+06-03-2024,Servette,Viktoria Plzen,0-0,draw
+06-03-2024,Dinamo Zagreb,PAOK,2-0,home
+06-03-2024,Union Saint Gilloise,Fenerbahce,0-3,away
+28-02-2024,Wolverhampton,Brighton,1-0,home
+28-02-2024,Livingston,Motherwell,1-3,away
+28-02-2024,AD Guanacasteca,CS Cartagines,1-0,home
+28-02-2024,Petrolul Ploiesti,CS U Craiova,2-3,away
+28-02-2024,Apollon Limassol,AEK Larnaca,2-1,home
+28-02-2024,Ath Bilbao,Atl. Madrid,3-0,home
+28-02-2024,Gimnasia Y Esgrima,Instituto Cordoba,1-3,away
+28-02-2024,Farco FC,National Bank,2-1,home
+28-02-2024,Hertha BSC,Holstein Kiel,2-2,draw
+28-02-2024,FC Midtjylland,FC Copenhagen,2-0,home
+28-02-2024,Stade Nyonnais,FC Wil,1-1,draw
+28-02-2024,Lazio,AC Milan,0-1,away
+28-02-2024,Sligo Rovers,Shelbourne,0-1,away
+21-02-2024,Panathinaikos,PAOK,0-1,away
+21-02-2024,CD Feirense,Viseu,0-3,away
+21-02-2024,Napoli,Barcelona,1-1,draw
+21-02-2024,Karabakh,Sporting Braga,0-2,away
+21-02-2024,Dinamo Zagreb,Betis,1-1,draw
+21-02-2024,Rennes,AC Milan,3-2,home
+21-02-2024,Torino,Lazio,0-2,away
+21-02-2024,Slovan Bratislava,Sturm Graz,0-1,away
+21-02-2024,Ferencvaros,Olympiacos,0-1,away
+21-02-2024,Sparta Prague,Galatasaray,4-1,home
+21-02-2024,Al Riyadh,Al Raed,1-1,draw
+21-02-2024,Wehen,Paderborn,1-2,away
+21-02-2024,Nimes,Villefranche,1-1,draw
+13-02-2024,Birmingham,Blackburn,1-0,home
+13-02-2024,RB Leipzig,Real Madrid,0-1,away
+13-02-2024,Al Ittihad,Talaea El Gaish,2-2,draw
+13-02-2024,Arab Contractors,Enppi,0-1,away
+13-02-2024,PAOK,Panathinaikos,0-1,away
+13-02-2024,Bologna,Fiorentina,2-0,home
+13-02-2024,Ismaily SC,Ceramica Cleopatra,2-1,home
+13-02-2024,Al Khaleej,Al Ettifaq,0-2,away
+13-02-2024,Shakhtar Donetsk,Marseille,2-2,draw
+13-02-2024,Union Saint Gilloise,Eintracht Frankfurt,2-2,draw
+13-02-2024,Molde,Legia,3-2,home
+13-02-2024,Servette,Ludogorets,0-0,draw
+13-02-2024,Maccabi Haifa,KAA Gent,1-0,home
+06-02-2024,Glentoran,Cliftonville,2-2,draw
+06-02-2024,Port Vale,Leyton Orient,0-1,away
+06-02-2024,Burton,Cheltenham,Postp,postponed
+06-02-2024,Mallorca,Real Sociedad,0-0,draw
+06-02-2024,Sarmiento,Defensa y Justicia,2-3,away
+06-02-2024,Once Caldas,La Equidad,0-0,draw
+06-02-2024,Atl. Tucuman,Argentinos Jrs,0-0,draw
+06-02-2024,Sivasspor,Konyaspor,0-0,draw
+06-02-2024,Lyon,Lille,2-1,home
+06-02-2024,Cambuur,Vitesse,3-1,home
+06-02-2024,Strasbourg,Le Havre,3-1,home
+06-02-2024,Montpellier,Nice,1-4,away
+06-02-2024,Aston Villa,Chelsea,1-3,away
+31-01-2024,Panetolikos,OFI Crete,3-1,home
+31-01-2024,Maccabi Petah Tikva,Hapoel Hadera,1-0,home
+31-01-2024,Hapoel Beer Sheva,Maccabi Haifa,2-1,home
+31-01-2024,Rio Ave,Estoril,1-1,draw
+31-01-2024,Sheffield Wed,Watford,0-0,draw
+31-01-2024,Belgrano,San Lorenzo,1-1,draw
+31-01-2024,Correcaminos,Cancun,3-1,home
+31-01-2024,West Ham,Bournemouth,1-1,draw
+31-01-2024,FC Stade Lausanne Ouchy,FC Luzern,0-3,away
+31-01-2024,Wolverhampton,Manchester Utd,3-4,away
+31-01-2024,Union de Santa Fe,Estudiantes L.P.,0-1,away
+31-01-2024,Central Cordoba,Godoy Cruz,0-2,away
+31-01-2024,Brisbane Roar,Wellington,1-1,draw
+23-01-2024,Guinea,Senegal,0-2,away
+23-01-2024,Pendikspor,Kasimpasa,3-2,home
+23-01-2024,Lubeck,Munich 1860,1-1,draw
+23-01-2024,Duisburg,Hallescher,2-3,away
+23-01-2024,Concarneau,Troyes,1-0,home
+23-01-2024,Laval,Paris FC,1-1,draw
+23-01-2024,Bastia,Caen,1-2,away
+23-01-2024,Dunkerque,AC Ajaccio,2-0,home
+23-01-2024,Pau FC,St Etienne,0-1,away
+23-01-2024,Wigan,Wycombe,1-0,home
+23-01-2024,Morecambe,Crewe,Postp,postponed
+23-01-2024,Angola,Burkina Faso,2-0,home
+23-01-2024,Celta Vigo,Real Sociedad,1-2,away
+17-01-2024,Almere City,Fortuna Sittard,1-2,away
+17-01-2024,Olympiacos,Panathinaikos,0-0,draw
+17-01-2024,Valencia,Celta Vigo,1-3,away
+17-01-2024,Bristol Rovers,Norwich,1-3,away
+17-01-2024,D.R. Congo,Zambia,1-1,draw
+17-01-2024,Osasuna,Real Sociedad,0-2,away
+17-01-2024,Club Leon,U.A.N.L.- Tigres,1-2,away
+17-01-2024,Equatorial Guinea,Guinea Bissau,4-2,home
+17-01-2024,Ivory Coast,Nigeria,0-1,away
+17-01-2024,Napoli,Fiorentina,3-0,home
+17-01-2024,Egypt,Ghana,2-2,draw
+17-01-2024,Atl. Madrid,Real Madrid,2-2,draw
+17-01-2024,Wellington,Melbourne Victory,1-1,draw
+12-01-2024,Sakaryaspor,Goztepe,1-2,away
+12-01-2024,Chateauroux,Nancy,0-1,away
+12-01-2024,Martigues,Dijon,3-1,home
+12-01-2024,GOAL FC,Versailles,2-0,home
+12-01-2024,RFC Liege,Patro Eisden,1-0,home
+12-01-2024,ADO Den Haag,De Graafschap,5-3,home
+12-01-2024,Telstar,Jong AZ Alkmaar,1-1,draw
+12-01-2024,Sporting Braga B,Felgueiras,3-3,draw
+12-01-2024,FC Giugliano 1928,Foggia,4-1,home
+12-01-2024,Taranto,Picerno,1-1,draw
+12-01-2024,Portimonense,Sporting Farense,1-0,home
+12-01-2024,Queretaro FC,Deportivo Toluca,2-2,draw
+12-01-2024,CC Mariners,Melbourne Victory,1-1,draw
+02-01-2024,Getafe,Rayo Vallecano,0-2,away
+02-01-2024,Apollon Limassol,APOEL Nicosia,2-2,draw
+02-01-2024,Lugo,Celta Vigo B,0-1,away
+02-01-2024,Algeciras,Recreativo Huelva,2-3,away
+02-01-2024,West Ham,Brighton,0-0,draw
+02-01-2024,Valencia,Villarreal,3-1,home
+02-01-2024,Granada CF,Cadiz CF,2-0,home
+02-01-2024,Ethnikos Achnas,Nea Salamis,2-3,away
+02-01-2024,Celta Vigo,Betis,2-1,home
+02-01-2024,Girona,Atl. Madrid,4-3,home
+02-01-2024,Adelaide United,Wellington Phoenix,2-2,draw
+02-01-2024,Sevilla,Ath Bilbao,0-2,away
+02-01-2024,Crystal Palace,Everton,0-0,draw
+26-12-2023,Bournemouth,Fulham,3-0,home
+26-12-2023,Sheffield Utd,Luton,2-3,away
+26-12-2023,Hull,Sunderland,0-1,away
+26-12-2023,Exeter,Wycombe,1-0,home
+26-12-2023,Cheltenham,Shrewsbury,2-0,home
+26-12-2023,Port Vale,Barnsley,2-3,away
+26-12-2023,Al Ittihad,Farco FC,3-1,home
+26-12-2023,Palermo,Cremonese,3-2,home
+26-12-2023,Birmingham,Stoke,1-3,away
+26-12-2023,Al Ittihad,Al Nassr,2-5,away
+26-12-2023,Sampdoria,Bari,1-1,draw
+26-12-2023,Ipswich,Leicester,1-1,draw
+26-12-2023,Manchester Utd,Aston Villa,3-2,home
+20-12-2023,Zaragoza,Levante,2-2,draw
+20-12-2023,Waldhof Mannheim,Munich 1860,1-0,home
+20-12-2023,RKAV Volendam,Amsterdam FC,0-1,away
+20-12-2023,Heidenheim,Freiburg,3-2,home
+20-12-2023,KV Mechelen,St. Liege,3-0,home
+20-12-2023,Nice,Lens,2-0,home
+20-12-2023,Villarreal,Celta Vigo,3-2,home
+20-12-2023,Brisbane Roar,CC Mariners,0-3,away
+20-12-2023,Betis,Girona,1-1,draw
+20-12-2023,Villarreal B,R. Oviedo,1-1,draw
+20-12-2023,Vitesse,Heerenveen,1-0,home
+20-12-2023,Mallorca,Osasuna,3-2,home
+20-12-2023,Amorebieta,Alcorcon,1-2,away
+14-12-2023,LASK,Toulouse,1-2,away
+14-12-2023,Rennes,Villarreal,2-3,away
+14-12-2023,Legia,AZ Alkmaar,2-0,home
+14-12-2023,Ludogorets,Nordsjaelland,1-0,home
+14-12-2023,Rakow,Atalanta,0-4,away
+14-12-2023,Lugano,Besiktas,0-2,away
+14-12-2023,Maccabi Tel Aviv,Gent,3-1,home
+14-12-2023,Western United,Brisbane Roar,2-1,home
+14-12-2023,North East Utd,Mohun Bagan,1-3,away
+14-12-2023,Al Raed,Dhamk,0-1,away
+14-12-2023,FC Voluntari,U Craiova 1948,0-1,away
+14-12-2023,Schalke 04,Greuther Furth,2-2,draw
+14-12-2023,Al Fateh,Al Shabab,1-1,draw
+07-12-2023,AGF Aarhus,Brondby,2-0,home
+07-12-2023,Al Shabab,Al Ettifaq,0-0,draw
+07-12-2023,Racing Ferrol,Leganes,1-0,home
+07-12-2023,Everton,Newcastle,3-0,home
+07-12-2023,Hannover,Karlsruher SC,2-2,draw
+07-12-2023,Hallescher,Arminia Bielefeld,2-2,draw
+07-12-2023,Eindhoven FC,FC Emmen,3-2,home
+07-12-2023,De Graafschap,Cambuur,2-3,away
+07-12-2023,Juventus,Napoli,1-0,home
+07-12-2023,Raith Rovers,Partick Thistle,4-3,home
+07-12-2023,Kortrijk,Westerlo,1-2,away
+07-12-2023,Getafe,Valencia,1-0,home
+07-12-2023,Montpellier,Lens,0-0,draw
+29-11-2023,Future FC,Zamalek,0-2,away
+29-11-2023,Galatasaray,Manchester Utd,3-3,draw
+29-11-2023,Sevilla,PSV,2-3,away
+29-11-2023,Benfica,Inter,3-3,draw
+29-11-2023,Sporting Braga,Union Berlin,1-1,draw
+29-11-2023,Farco FC,Arab Contractors,1-1,draw
+29-11-2023,Sparta Prague,Betis,1-0,home
+29-11-2023,KF Ballkani,Viktoria Plzen,0-1,away
+29-11-2023,Besiktas,Club Brugge,0-5,away
+29-11-2023,HJK Helsinki,Aberdeen,2-2,draw
+29-11-2023,Toulouse,Union Saint Gilloise,0-0,draw
+29-11-2023,Nordsjaelland,Fenerbahce,6-1,home
+29-11-2023,Brisbane Roar,Western Sydney Wanderers,2-2,draw
+24-11-2023,Al Markhiya,Al Ahli Doha,0-2,away
+24-11-2023,LKS Lodz,Zaglebie Lubin,0-2,away
+24-11-2023,Chrobry Glogow,Podbeskidzie,3-0,home
+24-11-2023,Nimes,Orleans,2-3,away
+24-11-2023,Waldhof Mannheim,Verl,1-2,away
+24-11-2023,Al Taee,Al Raed,4-3,home
+24-11-2023,Helmond,FC Emmen,1-2,away
+24-11-2023,Dordrecht,ADO Den Haag,2-2,draw
+24-11-2023,Jong PSV,Jong AZ Alkmaar,1-2,away
+24-11-2023,Jagiellonia,GKS Piast Gliwice,0-0,draw
+24-11-2023,Sampdoria,Spezia,2-1,home
+24-11-2023,Atalanta U23,Mantova,0-2,away
+24-11-2023,Dunfermline,Raith Rovers,0-3,away
+15-11-2023,Ethiopia,Sierra Leone,0-0,draw
+15-11-2023,Tepatitlan de Morelos,Zacatecas Mineros,0-2,away
+15-11-2023,Cimarrones de Sonora,Atlante,2-0,home
+15-11-2023,Venados,Cancun,1-0,home
+15-11-2023,Thailand,China,1-2,away
+15-11-2023,Tajikistan,Jordan,1-1,draw
+15-11-2023,Botswana,Mozambique,2-3,away
+15-11-2023,Gabon,Kenya,2-1,home
+15-11-2023,Sudan,Togo,1-1,draw
+15-11-2023,Georgia,Scotland,2-2,draw
+15-11-2023,Boston River,La Luz,1-2,away
+15-11-2023,Luxembourg,Bosnia & Herzegovina,4-1,home
+15-11-2023,Bolivia,Peru,2-0,home
+08-11-2023,– St. Mirren,Hibernian,2-2,draw
+08-11-2023,– Sao Paulo,Bragantino,1-0,home
+08-11-2023,– New England Revolution,Philadelphia Union,0-1,away
+08-11-2023,– La Equidad,Millonarios,2-1,home
+08-11-2023,– Flamengo RJ,Palmeiras,3-0,home
+08-11-2023,– Slavia Prague,AS Roma,2-0,home
+08-11-2023,– Ferencvaros,Racing Genk,1-1,draw
+08-11-2023,– Hacken,Molde,1-3,away
+08-11-2023,– AEK Athens FC,Marseille,0-2,away
+08-11-2023,– Corinthians,Atletico-MG,1-1,draw
+08-11-2023,– Goias,Santos,0-1,away
+08-11-2023,– B. Monchengladbach,Wolfsburg,4-0,home
+08-11-2023,– Montpellier,Nice,0-0,draw
+01-11-2023,– West Ham,Arsenal,3-1,home
+01-11-2023,– Ipswich,Fulham,1-3,away
+01-11-2023,– Hertha Berlin,Mainz,3-0,home
+01-11-2023,– St Johnstone,Kilmarnock,2-1,home
+01-11-2023,– Motherwell,Aberdeen,2-4,away
+01-11-2023,– Fleetwood,Blackpool,3-3,draw
+01-11-2023,– Manchester Utd,Newcastle,0-3,away
+01-11-2023,– Corinthians,Athletico-PR,1-0,home
+01-11-2023,– Botafogo RJ,Palmeiras,3-4,away
+01-11-2023,– Dyn. Kyiv,Shakhtar Donetsk,0-1,away
+01-11-2023,– Darmstadt,Bochum,1-2,away
+01-11-2023,– Bologna,Lazio,1-0,home
+01-11-2023,– Morton,Dunfermline,1-2,away
+25-10-2023,– FC Giugliano 1928,Crotone,1-2,away
+25-10-2023,– Monopoli,Picerno,1-1,draw
+25-10-2023,– Casertana,Juve Stabia,2-1,home
+25-10-2023,– Atl. Tucuman,Talleres Cordoba,1-0,home
+25-10-2023,– Deportivo Pereira,Junior,0-2,away
+25-10-2023,– Klaksvik,O. Ljubljana,3-0,home
+25-10-2023,– Panathinaikos,Rennes,1-2,away
+25-10-2023,– Amstetten,Kapfenberg,1-1,draw
+25-10-2023,– VFL Bochum,Mainz,2-2,draw
+25-10-2023,– LKS Lodz,Gornik Zabrze,0-5,away
+25-10-2023,– Cittadella,Cremonese,1-2,away
+25-10-2023,– Dundalk,Bohemians,2-0,home
+25-10-2023,– FC Arouca,Moreirense,0-1,away
+19-10-2023,– Inter Miami,Charlotte,2-2,draw
+19-10-2023,– Poli Iasi,Sepsi OSK,1-0,home
+19-10-2023,– Gimnasia L.P.,Argentinos Jrs,3-2,home
+19-10-2023,– Tombense,Vila Nova FC,2-1,home
+19-10-2023,– Santos,Bragantino,1-3,away
+19-10-2023,– Rudes,Slaven Belupo,0-0,draw
+19-10-2023,– KFCO Wilrijk,Lommel SK,2-1,home
+19-10-2023,– Den Bosch,VVV Venlo,1-2,away
+19-10-2023,– De Graafschap,Groningen,2-1,home
+19-10-2023,– Wil,Thun,0-3,away
+19-10-2023,– Sligo Rovers,Dundalk,0-2,away
+19-10-2023,– Triestina,L.R. Vicenza,0-0,draw
+19-10-2023,– Monopoli,Virtus Francavilla,3-0,home
+11-10-2023,– Bogota,Cortulua,1-1,draw
+11-10-2023,– Real Soacha,Real Santander,0-1,away
+11-10-2023,– Dep. Cali,Deportes Tolima,2-0,home
+11-10-2023,– CD Tapatio,Leones Negros,2-4,away
+11-10-2023,– Azerbaijan U21,Northern Ireland U21,0-1,away
+11-10-2023,– Russia,Cameroon,1-0,home
+11-10-2023,– Slovakia U21,Poland U21,2-2,draw
+11-10-2023,– Albania,Czech Republic,3-0,home
+11-10-2023,– Greece U21,Croatia U21,2-2,draw
+11-10-2023,– Estonia,Azerbaijan,0-2,away
+11-10-2023,– Austria,Belgium,2-3,away
+11-10-2023,– Ireland,Greece,0-2,away
+11-10-2023,– R. Oviedo,Albacete,3-0,home
+04-10-2023,– Newcastle,Paris SG,4-1,home
+04-10-2023,– Celtic,Lazio,1-2,away
+04-10-2023,– Borussia Dortmund,AC Milan,0-0,draw
+04-10-2023,– Sporting Gijon,Elche,2-0,home
+04-10-2023,– Burgos,Leganes,1-0,home
+04-10-2023,– Marseille,Brighton,2-2,draw
+04-10-2023,– Sporting Lisbon,Atalanta,1-2,away
+04-10-2023,– Freiburg,West Ham,1-2,away
+04-10-2023,– AEK Athens,Ajax,1-1,draw
+04-10-2023,– Rakow,Sturm Graz,0-1,away
+04-10-2023,– Hacken,Qarabag,0-1,away
+04-10-2023,– Maccabi Haifa,Panathinaikos,0-0,draw
+04-10-2023,– PAOK,Eintracht Frankfurt,2-1,home
+27-09-2023,– St. Gallen,Young Boys,2-1,home
+27-09-2023,– Como,Sampdoria,1-0,home
+27-09-2023,– Catanzaro,Cittadella,1-1,draw
+27-09-2023,– Chelsea,Brighton,1-0,home
+27-09-2023,– Royal Antwerp,KAA Gent,0-0,draw
+27-09-2023,– Newcastle,Manchester City,1-0,home
+27-09-2023,– Cadiz CF,Rayo Vallecano,0-0,draw
+27-09-2023,– Valencia,Real Sociedad,0-1,away
+27-09-2023,– Ismaily SC,Al Ittihad,3-1,home
+27-09-2023,– Monza,Bologna,0-0,draw
+27-09-2023,– Granada,Betis,1-1,draw
+27-09-2023,– Orebro,Utsikten,5-1,home
+27-09-2023,– Osasuna,Atl. Madrid,0-2,away
+20-09-2023,– Huddersfield,Stoke,2-2,draw
+20-09-2023,– Norwich,Leicester,0-2,away
+20-09-2023,– Qarabag,Molde,1-0,home
+20-09-2023,– Racing Genk,Fiorentina,2-2,draw
+20-09-2023,– Rangers,Betis,1-0,home
+20-09-2023,– Olympiacos,Freiburg,2-3,away
+20-09-2023,– Ajax,Marseille,3-3,draw
+20-09-2023,– Lugano,Bodo/Glimt,0-0,draw
+20-09-2023,– Gremio,Palmeiras,1-0,home
+20-09-2023,– Lahti,AC Oulu,2-1,home
+20-09-2023,– KTP,Ilves,0-3,away
+20-09-2023,– Salernitana,Frosinone,1-1,draw
+20-09-2023,– FC Cartagena,Eibar,1-2,away
+15-09-2023,– Londrina,Ituano,2-2,draw
+15-09-2023,– Santos,Cruzeiro,0-3,away
+15-09-2023,– Platense,Lanus,2-1,home
+15-09-2023,– Coritiba,Bahia,2-4,away
+15-09-2023,– UTA Arad,U. Cluj,0-1,away
+15-09-2023,– Duisburg,Verl,2-3,away
+15-09-2023,– Viborg,Midtjylland,2-2,draw
+15-09-2023,– Sonderjyske,Aalborg,1-1,draw
+15-09-2023,– Jong PSV,De Graafschap,1-3,away
+15-09-2023,– VVV Venlo,NAC Breda,3-1,home
+15-09-2023,– Din. Bucuresti,U Craiova 1948,0-1,away
+15-09-2023,– Hull,Coventry,1-1,draw
+15-09-2023,– Southampton,Leicester,1-4,away
+06-09-2023,– Sonderjyske,Vejle,0-1,away
+06-09-2023,– Tigres,Bogota,0-1,away
+06-09-2023,– Real Soacha,Leones,1-2,away
+06-09-2023,– Orsomarso,Quindio,0-0,draw
+06-09-2023,– Jocoro,Once Municipal,0-1,away
+06-09-2023,– Memphis,Tampa Bay,3-2,home
+06-09-2023,– Wales,South Korea,0-0,draw
+06-09-2023,– Niort,Cholet,2-0,home
+06-09-2023,– Marignane,Nancy,1-1,draw
+06-09-2023,– Luxembourg,Iceland,3-1,home
+06-09-2023,– Levante,Espanyol,1-4,away
+06-09-2023,– Saudi Arabia,Costa Rica,1-3,away
+06-09-2023,– Ituano,Vila Nova FC,1-2,away
+30-08-2023,– Nottingham,Burnley,0-1,away
+30-08-2023,– Charlotte,Orlando City,1-1,draw
+30-08-2023,– Racing Club,Boca Juniors,0-0,draw
+30-08-2023,– HJK,Farul Constanta,2-0,home
+30-08-2023,– Twente,Fenerbahce,0-1,away
+30-08-2023,– APOEL,KAA Gent,1-2,away
+30-08-2023,– Brann,AZ Alkmaar,3-3,draw
+30-08-2023,– Dnipro-1,Trnava,1-1,draw
+30-08-2023,– Adana Demirspor,Genk,1-0,home
+30-08-2023,– Partizani,Astana,1-1,draw
+30-08-2023,– Lugano,Union Saint Gilloise,0-1,away
+30-08-2023,– Aberdeen,Hacken,1-3,away
+30-08-2023,– Zrinjski,LASK,1-1,draw
+23-08-2023,– Molde,Galatasaray,2-3,away
+23-08-2023,– Maccabi Haifa,Young Boys,0-0,draw
+23-08-2023,– Vargas Torres,ImbaburaImbabura,1-1,draw
+23-08-2023,– FC Cincinnati,Inter Miami,2-2,draw
+23-08-2023,– FC Tulsa,Birmingham,1-3,away
+23-08-2023,– San Luis,Club Leon,3-0,home
+23-08-2023,– Struga,Breidablik,0-1,away
+23-08-2023,– Sepsi OSK,Bodo/Glimt,2-2,draw
+23-08-2023,– Dyn. Kyiv,Besiktas,2-3,away
+23-08-2023,– O. Ljubljana,Qarabag,0-2,away
+23-08-2023,– Osasuna,Brugge,1-2,away
+23-08-2023,– Slovan Bratislava,Aris,2-1,home
+23-08-2023,– Hearts,PAOK,1-2,away
+17-08-2023,– HJK Helsinki,Qarabag,1-2,away
+17-08-2023,– Levski Sofia,H. Beer Sheva,2-1,home
+17-08-2023,– Austria Vienna,Legia,3-5,away
+17-08-2023,– Breidablik,Zrinjski,1-0,home
+17-08-2023,– Osijek,Adana Demirspor,3-2,home
+17-08-2023,– Neman,Celje,1-4,away
+17-08-2023,– Libertad,Delfin,1-3,away
+17-08-2023,– Debrecen,Rapid Vienna,0-5,away
+17-08-2023,– Londrina,Atletico GO,0-2,away
+17-08-2023,– Avispa Fukuoka,Albirex Niigata,0-1,away
+17-08-2023,– Urawa Reds,Nagoya Grampus,1-0,home
+17-08-2023,– Incheon,Gwangju FC,2-2,draw
+17-08-2023,– Suwon Bluewings,Jeju Utd,1-0,home
+09-08-2023,– VPS,SJK,3-2,home
+09-08-2023,– Hodd,Sandnes,Postp,postponed
+09-08-2023,– AEK Larnaca,Maccabi Tel Aviv,1-1,draw
+09-08-2023,– Polokwane,Stellenbosch,1-0,home
+09-08-2023,– Chippa Utd.,TS Galaxy,0-0,draw
+09-08-2023,– Slovan Bratislava,Maccabi Haifa,1-2,away
+09-08-2023,– A. Klagenfurt,Wolfsberger AC,2-2,draw
+09-08-2023,– Benfica,FC Porto,2-0,home
+09-08-2023,– Struga,Hesperange,3-1,home
+09-08-2023,– Omonia,Midtjylland,1-0,home
+09-08-2023,– Dila Gori,APOEL,0-2,away
+09-08-2023,– Valmiera,Partizani,1-2,away
+09-08-2023,– Hibernian,Luzern,3-1,home
+03-08-2023,– Tobol Kostanay,FC Basel,1-2,away
+03-08-2023,– Pyunik Yerevan,Kalmar,2-1,home
+03-08-2023,– Santa Coloma,Sutjeska,2-0,home
+03-08-2023,– Urartu,Farul Constanta,2-3,away
+03-08-2023,– FK Panevezys,H. Beer Sheva,1-1,draw
+03-08-2023,– Zalaegerszegi,Osijek,1-2,away
+03-08-2023,– Sepsi,CSKA Sofia,4-0,home
+03-08-2023,– Dila Gori,Vorskla Poltava,3-1,home
+03-08-2023,– Vojvodina,APOEL Nicosia,1-2,away
+03-08-2023,– AGF Aarhus,Brugge,1-0,home
+03-08-2023,– Larne,FC Ballkani,1-4,away
+03-08-2023,– Luzern,Djurgarden,1-1,draw
+03-08-2023,– Shamrock Rovers,Ferencvaros,0-2,away
+26-07-2023,– Rigas,Sabah Baku,0-2,away
+26-07-2023,– Sheriff Tiraspol,Maccabi Haifa,1-0,home
+26-07-2023,– CSKA 1948 Sofia,FCSB,0-1,away
+26-07-2023,– San Lorenzo,CA Platense,0-0,draw
+26-07-2023,– Gremio,Flamengo RJ,0-2,away
+26-07-2023,– Gabala,Omonia,2-3,away
+26-07-2023,– Torpedo Kutaisi,Aktobe,1-4,away
+26-07-2023,– Kecskemeti TE,Riga FC,2-1,home
+26-07-2023,– Djurgarden,Luzern,1-2,away
+26-07-2023,– Gzira,Dudelange,2-0,home
+26-07-2023,– KA Akureyri,Dundalk,3-1,home
+26-07-2023,– Shkupi Skopje,Levski Sofia,0-2,away
+26-07-2023,– Zeljeznicar,Neftci Baku,2-2,draw
+20-07-2023,– College Europa,KF Dukagjini,2-3,away
+20-07-2023,– Santa Coloma,Penybont,0-0,draw
+20-07-2023,– Paide,B36 Torshavn,0-0,draw
+20-07-2023,– Honka,Tobol,0-0,draw
+20-07-2023,– Milsami,FK Panevezys,0-1,away
+20-07-2023,– Levadia,Zilina,1-2,away
+20-07-2023,– Dila Gori,Dun. Streda,2-0,home
+20-07-2023,– Dinamo Batumi,KF Tirana,1-2,away
+20-07-2023,– KF Gjilani,Progres,0-2,away
+20-07-2023,– Gap Connahs Quay,KA Akureyri,0-2,away
+20-07-2023,– St. Patricks,Dudelange,2-3,away
+20-07-2023,– Vikingur Reykjavik,Riga FC,1-0,home
+20-07-2023,– Crusaders,Haka,1-0,home
+12-07-2023,– Farul,Sheriff Tiraspol,1-0,home
+12-07-2023,– El Ittihad,Arab Contractors,0-0,draw
+12-07-2023,– Indy Eleven,Charleston,1-1,draw
+12-07-2023,– Sporting Cristal,SC Emelec,0-1,away
+12-07-2023,– Ind. Medellin,San Lorenzo,0-1,away
+12-07-2023,– Nashville,Philadelphia Union,0-2,away
+12-07-2023,– Athletico-PR,Flamengo,0-2,away
+12-07-2023,– San Jose Earthquakes,Seattle Sounders,2-0,home
+12-07-2023,– Gzira,Glentoran,2-2,draw
+12-07-2023,– Torpedo Kutaisi,FC Sarajevo,2-2,draw
+12-07-2023,– KF Tirana,Dinamo Batumi,1-1,draw
+12-07-2023,– Santos Laguna,Club Atlas,0-0,draw
+12-07-2023,– Shelbourne,Bohemians SC,1-1,draw
+05-07-2023,– Iwaki,Tochigi SC,1-0,home
+05-07-2023,– Mito Hollyhock,Tokushima Vortis,3-1,home
+05-07-2023,– Omiya Ardija,JEF United Chiba,2-1,home
+05-07-2023,– Rosario Central,Estudiantes L.P.,0-0,draw
+05-07-2023,– CRB,Sport Recife,2-0,home
+05-07-2023,– Sao Paulo,Palmeiras,1-0,home
+05-07-2023,– Racing Club,San Lorenzo,1-1,draw
+05-07-2023,– America MG,Corinthians,1-0,home
+05-07-2023,– Gangwon,Gwangju FC,1-1,draw
+05-07-2023,– Hangzhou NG,Shanghai Shenhua,0-1,away
+05-07-2023,– Orebro,Osters,1-1,draw
+05-07-2023,– Bohemians,Dundalk,3-2,home
+05-07-2023,– Wexford,Athlone,1-4,away
+28-06-2023,– JJK Jyvaskyla,KPV Kokkola,0-0,draw
+28-06-2023,– FF Jaro,Kerho 07,0-1,away
+28-06-2023,– Levadia,Flora,0-0,draw
+28-06-2023,– England U21,Germany U21,2-0,home
+28-06-2023,– Al Masry,Coca Cola,2-0,home
+28-06-2023,– Vestmannaeyjar,KA Akureyri,2-0,home
+28-06-2023,– ABC,Atletico GO,1-1,draw
+28-06-2023,– Guarani,Mirassol,2-1,home
+28-06-2023,– Londrina,Juventude,1-2,away
+28-06-2023,– Stjarnan,Hafnarfjordur,5-0,home
+28-06-2023,– Enppi,Farco FC,2-1,home
+28-06-2023,– Talaea El Gaish,Ceramica Cleopatra,0-0,draw
+28-06-2023,– Cork City,Drogheda,1-1,draw
+20-06-2023,– Burundi,Namibia,3-2,home
+20-06-2023,– Slovakia U21,Austria U21,1-1,draw
+20-06-2023,– Montenegro,Czech Republic,1-4,away
+20-06-2023,– Sudan,Mauritania,0-3,away
+20-06-2023,– Bolivia,Chile,0-0,draw
+20-06-2023,– Estudiantes L.P.,San Lorenzo,1-1,draw
+20-06-2023,– Santos,Corinthians,0-2,away
+20-06-2023,– CF Montreal,Nashville SC,1-0,home
+20-06-2023,– Orlando City,Philadelphia Union,2-2,draw
+20-06-2023,– Fluminense,Atletico-MG,1-1,draw
+20-06-2023,– Tigre,Velez Sarsfield,2-1,home
+20-06-2023,– Colorado Rapids,Vancouver Whitecaps,Postp,postponed
+20-06-2023,– Norway U21,Switzerland U21,1-2,away
+14-06-2023,– Colon Santa Fe,Estudiantes L.P.,1-0,home
+14-06-2023,– Gimnasia L.P.,Huracan,1-0,home
+14-06-2023,– Atl. Tucuman,Godoy Cruz,2-1,home
+14-06-2023,– Indonesia,Palestine,0-0,draw
+14-06-2023,– Hartford Athletic,Detroit,1-3,away
+14-06-2023,– Norway U21,Scotland U21,0-0,draw
+14-06-2023,– Israel U21,Belgium U21,0-2,away
+14-06-2023,– Spain,Italy,2-1,home
+14-06-2023,– USA,Mexico,3-0,home
+14-06-2023,– Finland,Slovenia,2-0,home
+14-06-2023,– Kosovo,Romania,0-0,draw
+14-06-2023,– Greece,Ireland,2-1,home
+14-06-2023,– Trinidad & Tobago,Guadeloupe,Postp,postponed
+06-06-2023,– Basaksehir,Trabzonspor,3-1,home
+06-06-2023,– Almere City,FC Emmen,2-0,home
+06-06-2023,– CA Penarol,Defensa y Justicia,0-3,away
+06-06-2023,– Chapecoense,Vila Nova GO,0-1,away
+06-06-2023,– Haka,Ilves Tampere,1-1,draw
+06-06-2023,– Ankaragucu,Adana Demirspor,1-2,away
+06-06-2023,– Smouha,Ceramica Cleopatra,2-2,draw
+06-06-2023,– Fiorentina,West Ham,1-2,away
+06-06-2023,– Nacional (Uru),Internacional (Bra),1-1,draw
+06-06-2023,– CRB,Mirassol,2-0,home
+06-06-2023,– KPV Kokkola,SalPa Salo,1-0,home
+06-06-2023,– Ismaily SC,Talaea El Gaish,0-1,away
+06-06-2023,– Aswan SC,Arab Contractors,1-1,draw
+31-05-2023,– Al Wehda,Al Feiha,0-1,away
+31-05-2023,– Arab Contractors,Ismaily SC,2-2,draw
+31-05-2023,– Sevilla,Roma,1-1,draw
+31-05-2023,– Fortaleza,Palmeiras,1-0,home
+31-05-2023,– Inter Miami,New York Red Bulls,0-1,away
+31-05-2023,– Corinthians,Atletico-MG,2-0,home
+31-05-2023,– Haras El Hodood,Aswan FC,1-0,home
+31-05-2023,– Jonkoping Sogra,Osters IF,2-3,away
+31-05-2023,– Vestmannaeyjar,HK Kopavogur,3-0,home
+31-05-2023,– Fylkir,KR Reykjavik,3-3,draw
+31-05-2023,– Sarmiento,Newells Old Boys,0-0,draw
+31-05-2023,– Austria Lustenau,TSV Hartberg,5-1,home
+31-05-2023,– Josko Ried,Wolfsberger AC,1-2,away
+24-05-2023,– Djurgarden,Hacken,1-0,home
+24-05-2023,– Ross County,St Johnstone,3-3,draw
+24-05-2023,– Dundee Utd,Kilmarnock,0-3,away
+24-05-2023,– Livingston,Motherwell,1-1,draw
+24-05-2023,– Espanyol,Atl. Madrid,3-3,draw
+24-05-2023,– Patronato Parana,Olimpia Asuncion,0-2,away
+24-05-2023,– Juventude,Atletico GO,3-0,home
+24-05-2023,– Londrina,Ceara,1-3,away
+24-05-2023,– Criciuma,Sport Recife,1-0,home
+24-05-2023,– FBC Melgar,Atl. Nacional,0-1,away
+24-05-2023,– Mallorca,Valencia,1-0,home
+24-05-2023,– Ankaragucu,Basaksehir,2-1,home
+24-05-2023,– Grasshoppers,St. Gallen,2-2,draw
+17-05-2023,– Marumo Gallants,Young Africans,1-2,away
+17-05-2023,– AEL Limassol,Karmiotissa,3-0,home
+17-05-2023,– Karlstad,Hammarby TFF,2-2,draw
+17-05-2023,– Ankaragucu,Antalyaspor,1-1,draw
+17-05-2023,– National Bank,Ismaily SC,2-0,home
+17-05-2023,– Airdrieonians,Hamilton,1-0,home
+17-05-2023,– Sport Recife,Sao Paulo,0-2,away
+17-05-2023,– Toronto FC,New York Red Bulls,0-0,draw
+17-05-2023,– America MG,Internacional,2-0,home
+17-05-2023,– AZ Alkmaar,West Ham,0-1,away
+17-05-2023,– Sevilla,Juventus,1-1,draw
+17-05-2023,– Arsenal Sarandi,Independiente,2-1,home
+17-05-2023,– Hillerod,Koge,1-0,home
+10-05-2023,– AC Milan,Inter,0-2,away
+10-05-2023,– Coquimbo,U. De Chile,2-1,home
+10-05-2023,– Rangers,San Luis,2-1,home
+10-05-2023,– FC Cincinnati,New York City,1-0,home
+10-05-2023,– Cruzeiro,Fluminense,0-2,away
+10-05-2023,– Los Angeles Galaxy,Seattle Sounders,3-1,home
+10-05-2023,– Pontedera,Siena,Postp,postponed
+10-05-2023,– Sonderjyske,Vejle,1-1,draw
+10-05-2023,– Coritiba,Vasco,1-1,draw
+10-05-2023,– Botafogo RJ,Corinthians,3-0,home
+10-05-2023,– U. De Concepcion,Antofagasta,1-3,away
+10-05-2023,– FC Tokyo,Kawasaki Frontale,2-1,home
+10-05-2023,– Slaven Belupo,Lok. Zagreb,0-0,draw
+03-05-2023,– Mjallby,AIK Football,0-0,draw
+03-05-2023,– Sparta Prague,Slavia Prague,0-2,away
+03-05-2023,– Panathinaikos,PAOK,1-1,draw
+03-05-2023,– Valencia,Villarreal,1-1,draw
+03-05-2023,– Stuttgart,Eintracht Frankfurt,2-3,away
+03-05-2023,– Burton,Cambridge Utd,1-0,home
+03-05-2023,– Getafe,Celta Vigo,1-0,home
+03-05-2023,– CD Palestino,San Lorenzo,0-0,draw
+03-05-2023,– Colo Colo,Boca Juniors,0-2,away
+03-05-2023,– Club Guarani,SC Emelec,1-1,draw
+03-05-2023,– Norrkoping,Hammarby,2-0,home
+03-05-2023,– Empoli,Bologna,3-1,home
+03-05-2023,– Huddersfield,Sheffield Utd,1-0,home
+25-04-2023,– Wolverhampton,Crystal Palace,2-0,home
+25-04-2023,– Lincoln,Burton,0-1,away
+25-04-2023,– Leeds,Leicester,1-1,draw
+25-04-2023,– Tigre,Huracan,1-0,home
+25-04-2023,– Gangwon,FC Seoul,3-2,home
+25-04-2023,– Gwangju,Jeju Utd,0-1,away
+25-04-2023,– Suwon City,Daegu,1-1,draw
+25-04-2023,– Hradec Kralove,Slovan Liberec,1-2,away
+25-04-2023,– Servette,Zurich,4-0,home
+25-04-2023,– Sheffield Utd,West Brom,2-0,home
+25-04-2023,– Southampton,Bournemouth,0-1,away
+25-04-2023,– Rotherham,Cardiff,1-2,away
+25-04-2023,– Tottenham,Manchester Utd,2-2,draw
+19-04-2023,– Istanbulspor,Antalyaspor,3-3,draw
+19-04-2023,– Kayserispor,Kasimpasa,0-0,draw
+19-04-2023,– Konyaspor,Adana Demirspor,1-2,away
+19-04-2023,– Blackburn,Coventry,1-1,draw
+19-04-2023,– Swansea,Preston,4-2,home
+19-04-2023,– Bayern Munich,Manchester City,1-1,draw
+19-04-2023,– Defensa y Justicia,America MG,2-1,home
+19-04-2023,– Sivasspor,Trabzonspor,4-1,home
+19-04-2023,– Sporting Lisbon,Juventus,1-1,draw
+19-04-2023,– San Lorenzo,Fortaleza CE,0-2,away
+19-04-2023,– Universitario,Goias,2-2,draw
+19-04-2023,– Deportes Tolima,Tigre,1-2,away
+19-04-2023,– Apollon Limassol,Pafos FC,0-1,away
+12-04-2023,– AC Milan,Napoli,1-0,home
+12-04-2023,– San Lorenzo,Boca Juniors,1-0,home
+12-04-2023,– Union Magdalena,Deportivo Pereira,0-3,away
+12-04-2023,– Coritiba,Sport Recife,3-3,draw
+12-04-2023,– Belgrano,Huracan,2-0,home
+12-04-2023,– Estudiantes L.P.,Atl. Tucuman,0-0,draw
+12-04-2023,– Rosario Central,Independiente,1-0,home
+12-04-2023,– Correcaminos,Celaya,0-1,away
+12-04-2023,– Feyenoord,Roma,1-0,home
+12-04-2023,– Altay,Altinordu,1-2,away
+12-04-2023,– Anderlecht,AZ Alkmaar,2-0,home
+12-04-2023,– Colon Santa Fe,Talleres,2-2,draw
+12-04-2023,– Envigado,Deportes Tolima,2-1,home
+05-04-2023,– Perugia,Reggina,1-3,away
+05-04-2023,– RB Leipzig,Dortmund,2-0,home
+05-04-2023,– Barcelona,Real Madrid,0-4,away
+05-04-2023,– West Ham,Newcastle,1-5,away
+05-04-2023,– Danubio,Emelec,2-0,home
+05-04-2023,– Huachipato,U. Espanola,1-0,home
+05-04-2023,– Pumas Tabasco,Zacatepec,1-0,home
+05-04-2023,– Deportivo Pereira,Colo Colo,1-1,draw
+05-04-2023,– Slask Wroclaw,Piast Gliwice,0-1,away
+05-04-2023,– Al Ittihad,Coca Cola,0-1,away
+05-04-2023,– FBC Melgar,Olimpia Asuncion,1-1,draw
+05-04-2023,– Tigre,Sao Paulo,0-2,away
+05-04-2023,– Western United,CC Mariners,0-3,away
+28-03-2023,– Turkey,Croatia,0-2,away
+28-03-2023,– AFC Wimbledon,Walsall,2-0,home
+28-03-2023,– Crawley,Grimsby,1-1,draw
+28-03-2023,– Exeter,Barnsley,3-1,home
+28-03-2023,– Togo,Burkina Faso,1-1,draw
+28-03-2023,– Tulsa,Pittsburgh,0-0,draw
+28-03-2023,– Bandirmaspor,Bodrumspor,0-4,away
+28-03-2023,– Perez Zeledon,Puntarenas FC,1-0,home
+28-03-2023,– Queretaro,Cruz Azul,2-2,draw
+28-03-2023,– Smouha,El Ismaily,1-3,away
+28-03-2023,– Defensa y Justicia,Velez Sarsfield,0-0,draw
+28-03-2023,– Kashiwa Reysol,Urawa Reds,0-3,away
+28-03-2023,– Zlate Moravce,MFK Skalica,0-0,draw
+23-03-2023,– Italy,England,1-2,away
+23-03-2023,– La Equidad,Chico,2-2,draw
+23-03-2023,– America De Cali,Junior,2-0,home
+23-03-2023,– Australia,Ecuador,3-1,home
+23-03-2023,– Japan,Uruguay,1-1,draw
+23-03-2023,– South Korea,Colombia,2-2,draw
+23-03-2023,– Bulgaria,Montenegro,0-1,away
+23-03-2023,– Denizlispor,Boluspor,1-2,away
+23-03-2023,– Cholet,Versailles,1-1,draw
+23-03-2023,– Paris 13 Atl.,Bourg Peronnas,1-0,home
+23-03-2023,– Saint Brieuc,Nancy,Postp,postponed
+23-03-2023,– Sedan,Dunkerque,1-3,away
+23-03-2023,– Avranches,Le Puy,3-1,home
+14-03-2023,– FC Porto,Inter,0-0,draw
+14-03-2023,– Tlaxcala FC,Merida,1-1,draw
+14-03-2023,– İndependiente Santa Fe,America De Cali,2-0,home
+14-03-2023,– Correcaminos UAT,Tepatitlan FC,2-1,home
+14-03-2023,– NK Celje,Olimpija Ljubljana,0-1,away
+14-03-2023,– Southampton,Brentford,0-2,away
+14-03-2023,– Real Madrid,Liverpool,1-0,home
+14-03-2023,– Fenerbahce,Sevilla,1-0,home
+14-03-2023,– Slovan Bratislava,Basel,2-2,draw
+14-03-2023,– Djurgarden,Lech Poznan,0-3,away
+14-03-2023,– AZ Alkmaar,Lazio,2-1,home
+14-03-2023,– Real Sociedad,Roma,0-0,draw
+14-03-2023,– Union Saint Gilloise,Union Berlin,3-0,home
+07-03-2023,– Huddersfield,Bristol City,0-0,draw
+07-03-2023,– Walsall,Bradford City,0-0,draw
+07-03-2023,– Cheltenham,Lincoln,0-0,draw
+07-03-2023,– Plymouth,Derby,2-1,home
+07-03-2023,– Audax Italiano,Universidad Catolica,3-2,home
+07-03-2023,– Tacuary,Club General Caballero JLM,2-2,draw
+07-03-2023,– Vissel Kobe,Nagoya Grampus,0-2,away
+07-03-2023,– Sagan Tosu,Consadole Sapporo,0-0,draw
+07-03-2023,– Shonan Bellmare,Urawa Red Diamonds,0-0,draw
+07-03-2023,– Kashiwa Reysol,Kashima Antlers,1-1,draw
+07-03-2023,– Kyoto Sanga,Gamba Osaka,1-3,away
+07-03-2023,– Liptovsky Mikulas,MFK Skalica,2-2,draw
+07-03-2023,– Ismaily SC,Farco FC,0-0,draw
+28-02-2023,– Preston,Coventry,0-0,draw
+28-02-2023,– Barrow,Salford,1-1,draw
+28-02-2023,– Gillingham,Bradford City,0-2,away
+28-02-2023,– Luton,Millwall,2-2,draw
+28-02-2023,– Slovacko,Bohemians,1-2,away
+28-02-2023,– Farco FC,Arab Contractors,2-1,home
+28-02-2023,– NK Osijek,Hajduk Split,1-2,away
+28-02-2023,– FC Sion,FC Lugano,0-3,away
+28-02-2023,– St. Gallen,FC Basel,1-1,draw
+28-02-2023,– Osasuna,Ath Bilbao,1-0,home
+28-02-2023,– AAB Aalborg,Viborg FF,2-0,home
+28-02-2023,– Royal Antwerp,Union Saint Gilloise,1-0,home
+28-02-2023,– Real Madrid,Barcelona,0-1,away
+21-02-2023,– Rotherham,Sunderland,2-1,home
+21-02-2023,– Swansea,Stoke,1-3,away
+21-02-2023,– Millwall,Burnley,1-1,draw
+21-02-2023,– Liverpool,Real Madrid,2-5,away
+21-02-2023,– Tlaxcala FC,CD Tapatio,1-2,away
+21-02-2023,– Bengaluru FC,Sporting Goa,3-1,home
+21-02-2023,– Dnipro-1,AEK Larnaca,0-0,draw
+21-02-2023,– PSV,Sevilla,2-0,home
+21-02-2023,– Monaco,Bayer Leverkusen,2-3,away
+21-02-2023,– FC Basel,Trabzonspor,2-0,home
+21-02-2023,– Manchester Utd,Barcelona,2-1,home
+21-02-2023,– Union Berlin,Ajax,3-1,home
+21-02-2023,– Sibenik,Istra 1961,0-0,draw
+15-02-2023,– Omonia,APOEL,1-2,away
+15-02-2023,– Arsenal,Manchester City,1-3,away
+15-02-2023,– Motherwell,St. Mirren,2-1,home
+15-02-2023,– Preston,Luton,1-1,draw
+15-02-2023,– Borussia Dortmund,Chelsea,1-0,home
+15-02-2023,– Club Necaxa,Unam Pumas,3-1,home
+15-02-2023,– RB Salzburg,Roma,1-0,home
+15-02-2023,– Sporting Braga,Fiorentina,0-4,away
+15-02-2023,– Sevilla,PSV,3-0,home
+15-02-2023,– Sheriff Tiraspol,Partizan,0-1,away
+15-02-2023,– Mirassol,Ituano,1-0,home
+15-02-2023,– Corinthians,Palmeiras,2-2,draw
+15-02-2023,– Western United,Wellington,0-3,away
+08-02-2023,– Nurnberg,Fortuna Dusseldorf,1-1,draw
+08-02-2023,– Angers,Nantes,1-1,draw
+08-02-2023,– Toulouse,Reims,3-1,home
+08-02-2023,– Bragantino SP,Sao Paulo,2-1,home
+08-02-2023,– Botafogo SP,Ituano SP,2-3,away
+08-02-2023,– Nacional Potosi,EL Nacional Quito,1-6,away
+08-02-2023,– Pumas Tabasco,Correcaminos,2-1,home
+08-02-2023,– Aizawl FC,Rajasthan United,2-1,home
+08-02-2023,– Nea Salamis,Anorthosis,0-1,away
+08-02-2023,– Santo Andre,EC Agua Santa,0-2,away
+08-02-2023,– Queretaro FC,Club Leon,0-3,away
+08-02-2023,– Brisbane Roar,CC Mariners,1-2,away
+01-02-2023,– Waalwijk,Go Ahead Eagles,3-1,home
+01-02-2023,– Grasshoppers,Basel,3-5,away
+01-02-2023,– Oxford Utd,Barnsley,1-2,away
+01-02-2023,– Kilmarnock,Dundee Utd,1-0,home
+01-02-2023,– Tlaxcala FC,Alebrijes Oaxaca,3-1,home
+01-02-2023,– Club Atletico La Paz,Cimarrones de Sonora,1-2,away
+01-02-2023,– Kayserispor,Basaksehir,1-0,home
+01-02-2023,– Chennaiyin,Delhi Dynamos,2-2,draw
+01-02-2023,– Adana Demirspor,Fenerbahce,1-1,draw
+01-02-2023,– Anorthosis,Omonia,4-1,home
+01-02-2023,– Zulte Waregem,KV Mechelen,1-2,away
+01-02-2023,– San Luis,Puebla FC,2-0,home
+01-02-2023,– Tiddim Road Athlectic Club,Mohammedan SC,0-0,draw
+25-01-2023,– Mainz,Borussia Dortmund,1-2,away
+25-01-2023,– Fortuna Sittard,SC Heerenveen,2-0,home
+25-01-2023,– SC Freiburg,Eintracht Frankfurt,1-1,draw
+25-01-2023,– Augsburg,B. Monchengladbach,1-0,home
+25-01-2023,– Werder Bremen,Union Berlin,1-2,away
+25-01-2023,– Osasuna,Sevilla,1-1,draw
+25-01-2023,– Santo Andre SP,Botafogo SP,1-1,draw
+25-01-2023,– Melbourne Victory,Sydney FC,1-2,away
+25-01-2023,– Aizawl FC,Mohammedan FC,1-0,home
+25-01-2023,– Groningen,Cambuur,0-1,away
+25-01-2023,– Valencia,Ath Bilbao,1-3,away
+25-01-2023,– Club Atlas,Santos Laguna,2-2,draw
+25-01-2023,– Newcastle Jets,Brisbane Roar,4-0,home
+18-01-2023,– Talaea El Gaish,Ismaily SC,1-1,draw
+18-01-2023,– D.R. Congo,Ivory Coast,0-0,draw
+18-01-2023,– AC Milan,Inter,0-3,away
+18-01-2023,– Livingston,Dundee Utd,Postp,postponed
+18-01-2023,– Gaziantep BB,Konyaspor,0-0,draw
+18-01-2023,– National Bank Egypt,El Ittihad Alexandria,2-3,away
+18-01-2023,– Villarreal,Real Madrid,2-3,away
+18-01-2023,– Gokulam Kerala FC,Real Kashmir,2-0,home
+18-01-2023,– Istra 1961,NK Slaven Belupo,0-0,draw
+18-01-2023,– Sochaux,Caen,1-2,away
+18-01-2023,– Cholet,FC Martigues,Postp,postponed
+18-01-2023,– Stade Brieuc,Paris 13 Atl.,1-0,home
+18-01-2023,– Villefranche,Red Star,3-1,home
+11-01-2023,– AEL Limassol,Apollon Limassol,0-0,draw
+11-01-2023,– Kortrijk,Mechelen,0-1,away
+11-01-2023,– AC Ajaccio,Reims,0-1,away
+11-01-2023,– AJ Auxerre,Toulouse,0-5,away
+11-01-2023,– Nantes,Lyon,0-0,draw
+11-01-2023,– VVV Venlo,FC Emmen,2-3,away
+11-01-2023,– Nottingham,Wolverhampton,1-1,draw
+11-01-2023,– Alebrijes Oaxaca,Celaya,0-1,away
+11-01-2023,– Cancun FC,Leones Negros,2-2,draw
+11-01-2023,– Ghazl El Mahallah,Enppi Club,1-0,home
+11-01-2023,– Heracles,Go Ahead Eagles,0-1,away
+11-01-2023,– Union Saint Gilloise,KAA Gent,4-0,home
+11-01-2023,– Macarthur,CC Mariners,1-2,away
+03-01-2023,– Umraniyespor,Hatayspor,2-2,draw
+03-01-2023,– Cape Town City,Supersport Utd,0-1,away
+03-01-2023,– Ismaily SC,National Bank,0-0,draw
+03-01-2023,– Sporting Gijon,Rayo Vallecano,2-0,home
+03-01-2023,– Levante,Getafe,3-2,home
+03-01-2023,– Kasimpasa,Alanyaspor,4-1,home
+03-01-2023,– Panetolikos,Atromitos,2-0,home
+03-01-2023,– Inter,Napoli,1-0,home
+03-01-2023,– Leeds,West Ham,2-2,draw
+03-01-2023,– Alaves,Valladolid,1-0,home
+03-01-2023,– Sporting Goa,Hyderabad,1-3,away
+03-01-2023,– Leixoes,Moreirense,0-1,away
+03-01-2023,– Perth Glory,WS Wanderers,1-0,home
+28-12-2022,– Troyes,Nantes,0-0,draw
+28-12-2022,– Istanbulspor,Kasimpasa,2-1,home
+28-12-2022,– Portimonense,Casa Pia Atletico,1-2,away
+28-12-2022,– St Johnstone,Hearts,2-3,away
+28-12-2022,– Livingston,St. Mirren,1-1,draw
+28-12-2022,– Giresunspor,Gaziantep BB,2-1,home
+28-12-2022,– Girona,Rayo Vallecano,2-2,draw
+28-12-2022,– Betis,Ath Bilbao,0-0,draw
+28-12-2022,– GD Estoril,Boavista,Postp,postponed
+28-12-2022,– Blackburn,Middlesbrough,1-2,away
+28-12-2022,– Wigan,Sunderland,1-4,away
+28-12-2022,– Nice,Lens,0-0,draw
+28-12-2022,– Western United FC,Brisbane Roar,1-1,draw
+21-12-2022,– Deinze,Zulte Waregem,1-2,away
+21-12-2022,– UD Logrones,Albacete Balompie,0-0,draw
+21-12-2022,– Jamshedpur,Sporting Goa,2-2,draw
+21-12-2022,– OFI Crete,Atromitos FC,0-1,away
+21-12-2022,– Aris Limassol,APOEL Nicosia,1-1,draw
+21-12-2022,– Omonia Nicosia,Apollon Limassol,2-0,home
+21-12-2022,– CD Eldense,Burgos,1-0,home
+21-12-2022,– CD Linares,Racing Santander,1-0,home
+21-12-2022,– Gimnastic Tarragona,Malaga,2-1,home
+21-12-2022,– Real Oviedo,Granada CF,1-0,home
+21-12-2022,– Moreirense,FC Arouca,1-2,away
+21-12-2022,– Brisbane Roar,Western Sydney Wanderers,1-1,draw
+21-12-2022,– Perth Glory,Wellington,1-1,draw
+15-12-2022,– GD Estoril,Famalicao,0-1,away
+15-12-2022,– Viseu,CD Tondela,4-1,home
+15-12-2022,– Newcastle Jets,Brisbane Roar,0-1,away
+15-12-2022,– Abha,Al Tai,2-1,home
+15-12-2022,– Santa Clara,FC Arouca,1-2,away
+15-12-2022,– FCV Dender Eh,Jong Krc Genk,Postp,postponed
+15-12-2022,– Roda Kerkrade,Pec Zwolle,Postp,postponed
+15-12-2022,– NAC Breda,Almere City,0-1,away
+15-12-2022,– Helmond,Den Bosch,1-0,home
+15-12-2022,– De Graafschap,Willem II,0-3,away
+15-12-2022,– Nancy,FC Martigues,Postp,postponed
+15-12-2022,– Dunkerque,Bourg Peronnas,Postp,postponed
+15-12-2022,– Saint Brieuc,Villefranche Sur Saone,1-0,home
+07-12-2022,– Huesca,FC Andorra,1-0,home
+07-12-2022,– Tenerife,Alaves,2-1,home
+07-12-2022,– Burgos,Eibar,1-2,away
+07-12-2022,– Modena,Venezia,2-2,draw
+07-12-2022,– Cittadella,Bari,0-3,away
+07-12-2022,– Reggio Calabria,Frosinone,0-3,away
+07-12-2022,– Lugo,Sporting Gijon,0-1,away
+07-12-2022,– UD Ibiza Elvissa,Racing Santander,1-0,home
+07-12-2022,– Brisbane Roar,Adelaide United,1-1,draw
+07-12-2022,– Villefranche Sur Saone,Chateauroux,1-1,draw
+07-12-2022,– Sedan,Cholet,2-1,home
+07-12-2022,– Avranches,Nancy,1-0,home
+07-12-2022,– Netherlands,Argentina,2-2,draw
+01-12-2022,– America De Cali,Rionegro Aguilas,1-1,draw
+01-12-2022,– Dep. Pasto,Ind. Medellin,0-0,draw
+01-12-2022,– Ind. Santa Fe,Millonarios,1-1,draw
+01-12-2022,– Sreenidi Deccan FC,Mohammedan SC,4-3,home
+01-12-2022,– Meizhou Kejia,Shanghai Shenhua,0-1,away
+01-12-2022,– Viseu,GD Estoril,3-2,home
+01-12-2022,– Croatia,Belgium,0-0,draw
+01-12-2022,– CS Maritimo,Rio Ave,0-1,away
+01-12-2022,– Arab Contractors,Ceramica Cleopatra,2-1,home
+01-12-2022,– Ismaily SC,Smouha Club,0-1,away
+01-12-2022,– Serbia,Switzerland,2-3,away
+01-12-2022,– Crewe,Newport,1-2,away
+01-12-2022,– Doncaster,Walsall,0-2,away
+22-11-2022,– Mexico,Poland,0-0,draw
+22-11-2022,– Forest Green,Cheltenham,1-1,draw
+22-11-2022,– Grimsby,Accrington,0-1,away
+22-11-2022,– Salford,Bradford City,1-0,home
+22-11-2022,– Crawley,Gillingham,0-0,draw
+22-11-2022,– Linfield Belfast,Larne,1-0,home
+22-11-2022,– AFC Wimbledon,Sutton,1-0,home
+22-11-2022,– Deportivo Pasto,America De Cali,1-0,home
+22-11-2022,– Farco FC,Ismaily SC,1-1,draw
+22-11-2022,– Colchester,Bristol Rovers,1-2,away
+22-11-2022,– Port Vale,Barnsley,2-1,home
+22-11-2022,– Wales,Iran,0-2,away
+22-11-2022,– Qatar,Senegal,1-3,away
+15-11-2022,– Hartlepool,Solihull Moors,1-1,draw
+15-11-2022,– Buxton,Scarborough Athletic,0-1,away
+15-11-2022,– Atletico Huila,Chico,1-0,home
+15-11-2022,– Rimini Calcio,Vicenza,1-1,draw
+15-11-2022,– Cyprus,Bulgaria,0-2,away
+15-11-2022,– ADO Den Haag,Roda Kerkrade,0-1,away
+15-11-2022,– Mexico,Sweden,1-2,away
+15-11-2022,– Foggia,Crotone,2-0,home
+15-11-2022,– Nicaragua,El Salvador,1-0,home
+15-11-2022,– Teplice,Zbrojovka Brno,2-2,draw
+15-11-2022,– Ireland,Norway,1-2,away
+15-11-2022,– Jong AZ Alkmar,Jong Ajax,1-1,draw
+15-11-2022,– Penafiel,Moreirense,1-2,away
+08-11-2022,– Hannover,Fortuna Dusseldorf,2-0,home
+08-11-2022,– Elche,Girona,1-2,away
+08-11-2022,– Bournemouth,Everton,4-1,home
+08-11-2022,– Birmingham,Swansea,2-2,draw
+08-11-2022,– Jahn Regensburg,Eintracht Braunschweig,1-1,draw
+08-11-2022,– Hansa,Nurnberg,1-1,draw
+08-11-2022,– FC Koln,Bayer Leverkusen,1-2,away
+08-11-2022,– Sevilla,Real Sociedad,1-2,away
+08-11-2022,– Espanyol,Villarreal,0-1,away
+08-11-2022,– FC Luzern,FC Basel,0-2,away
+08-11-2022,– Wolverhampton,Leeds,1-0,home
+08-11-2022,– Shrewsbury,Oxford Utd,1-1,draw
+08-11-2022,– Rayo Vallecano,Celta Vigo,0-0,draw
+01-11-2022,– Racing Santander,Alaves,1-1,draw
+01-11-2022,– FC Porto,Atl. Madrid,2-1,home
+01-11-2022,– Coventry,Blackburn,1-0,home
+01-11-2022,– Hull,Middlesbrough,1-3,away
+01-11-2022,– Sporting CP,Eintracht Frankfurt,1-2,away
+01-11-2022,– Marseille,Tottenham,1-2,away
+01-11-2022,– UD Ibiza,Leganes,0-2,away
+01-11-2022,– Birmingham,Millwall,0-0,draw
+01-11-2022,– Huddersfield,Sunderland,0-2,away
+01-11-2022,– Mirandes,Tenerife,1-0,home
+01-11-2022,– Olympiacos Piraeus,Nantes,0-2,away
+01-11-2022,– Zalgiris,Slovan Bratislava,1-2,away
+01-11-2022,– Silkeborg,Anderlecht,0-2,away
+25-10-2022,– RB Leipzig,Real Madrid,3-2,home
+25-10-2022,– CA Platense,Lanus,1-1,draw
+25-10-2022,– Barcelona,Bayern Munich,0-3,away
+25-10-2022,– Eintracht Frankfurt,Marseille,2-1,home
+25-10-2022,– Botafogo RJ,Bragantino,2-1,home
+25-10-2022,– Goias,America MG,2-2,draw
+25-10-2022,– AEK Larnaca,Dyn. Kyiv,3-3,draw
+25-10-2022,– Ludogorets,Betis,0-1,away
+25-10-2022,– Fenerbahce,Rennes,3-3,draw
+25-10-2022,– Austria Vienna,Lech Poznan,1-1,draw
+25-10-2022,– PSV,Arsenal,2-0,home
+25-10-2022,– Nantes,Qarabag,2-1,home
+25-10-2022,– Sivasspor,CFR Cluj,3-0,home
+19-10-2022,– Cadiz CF,Betis,0-0,draw
+19-10-2022,– Valladolid,Celta Vigo,4-1,home
+19-10-2022,– AIK,Hacken,1-2,away
+19-10-2022,– Bournemouth,Southampton,0-1,away
+19-10-2022,– Luzern,St. Gallen,3-3,draw
+19-10-2022,– Wigan,Middlesbrough,1-4,away
+19-10-2022,– Mechelen,St. Liege,2-0,home
+19-10-2022,– Millwall,Watford,3-0,home
+19-10-2022,– Manchester Utd,Tottenham,2-0,home
+19-10-2022,– Almeria,Girona,3-2,home
+19-10-2022,– Degerfors,Goteborg,3-1,home
+19-10-2022,– Osasuna,Espanyol,1-0,home
+19-10-2022,– Fulham,Aston Villa,3-0,home
+11-10-2022,– Dinamo Zagreb,RB Salzburg,1-1,draw
+11-10-2022,– AC Milan,Chelsea,0-2,away
+11-10-2022,– FC Andorra,Burgos,0-1,away
+11-10-2022,– Racing Santander,Zaragoza,1-0,home
+11-10-2022,– Corinthians,Flamengo,0-0,draw
+11-10-2022,– Betis,Roma,1-1,draw
+11-10-2022,– Union Saint Gilloise,Sporting Braga,3-3,draw
+11-10-2022,– Nantes,SC Freiburg,0-4,away
+11-10-2022,– Djurgardens IF,KAA Gent,4-2,home
+11-10-2022,– Slovan Bratislava,FC Basel,3-3,draw
+11-10-2022,– Ferencvaros,Red Star Belgrade,2-1,home
+11-10-2022,– Trabzonspor,Monaco,4-0,home
+11-10-2022,– Steaua Bucuresti,Silkeborg,0-5,away
+04-10-2022,– Marseille,Sporting Lisbon,4-1,home
+04-10-2022,– Plymouth,Sheffield Wed,2-1,home
+04-10-2022,– Hartlepool,Doncaster,2-1,home
+04-10-2022,– Walsall,Northampton,1-0,home
+04-10-2022,– Ajax,Napoli,1-6,away
+04-10-2022,– FC Porto,Bayer Leverkusen,2-0,home
+04-10-2022,– Cardiff,Blackburn,1-0,home
+04-10-2022,– Hull,Wigan,2-1,home
+04-10-2022,– Rotherham,Millwall,1-1,draw
+04-10-2022,– Sevilla FC,Borussia Dortmund,1-4,away
+04-10-2022,– Preston,West Bromwich,1-0,home
+04-10-2022,– Pyunik Yerevan,Zalgiris,2-0,home
+04-10-2022,– FC Midtjylland,Feyenoord,2-2,draw
+27-09-2022,– Portugal,Spain,0-1,away
+27-09-2022,– Ukraine,Scotland,0-0,draw
+27-09-2022,– CA Atlanta,Chaco For Ever,3-1,home
+27-09-2022,– Raya2 Expansion,M.Zacatecas,0-3,away
+27-09-2022,– Mexico,Colombia,2-3,away
+27-09-2022,– Inter Turku,Haka,0-1,away
+27-09-2022,– Coritiba,Ceara,1-0,home
+27-09-2022,– Celaya,Atlante,2-1,home
+27-09-2022,– Cuiaba,America MG,2-1,home
+27-09-2022,– Goias,Botafogo RJ,0-1,away
+27-09-2022,– Atletico-MG,Palmeiras,0-1,away
+27-09-2022,– Honka,HJK Helsinki,1-0,home
+27-09-2022,– Barracas Central,Gimnasia Y Esgrima,1-1,draw
+23-09-2022,– Bastia-Borgo,Le Mans,2-2,draw
+23-09-2022,– Stade Briochin,Orleans,1-1,draw
+23-09-2022,– Villefranche,Bourg en Bresse,3-2,home
+23-09-2022,– Versailles,Nancy,2-2,draw
+23-09-2022,– Sedan,Le Puy,0-0,draw
+23-09-2022,– Paris 13 Atl.,Avranches,0-1,away
+23-09-2022,– Ireland U21,Israel U21,1-1,draw
+23-09-2022,– Italy,England,1-0,home
+23-09-2022,– Finland,Romania,1-1,draw
+23-09-2022,– Alloa Athletic,Airdrieonians,1-0,home
+23-09-2022,– Dordrecht,Maastricht,1-2,away
+23-09-2022,– Morocco,Chile,2-0,home
+23-09-2022,– The New Saints,Dundee FC,0-3,away
+14-09-2022,– Shakhtar Donetsk,Celtic,1-1,draw
+14-09-2022,– Colon Santa Fe,San Lorenzo,0-0,draw
+14-09-2022,– Everton Vina Del Mar,Nublense,1-1,draw
+14-09-2022,– Alebrijes Oaxaca,Atlante,2-2,draw
+14-09-2022,– Lanus,Boca Juniors,0-1,away
+14-09-2022,– Vancouver Whitecaps,Los Angeles Galaxy,3-0,home
+14-09-2022,– Olympiacos,Freiburg,0-3,away
+14-09-2022,– Karabakh,Nantes,3-0,home
+14-09-2022,– Djurgarden,Molde,3-2,home
+14-09-2022,– Basaksehir,Fiorentina,3-0,home
+14-09-2022,– Steaua Bucuresti,Anderlecht,0-0,draw
+14-09-2022,– Partizan,Nice,1-1,draw
+14-09-2022,– Rigas Futbola Skola,Hearts,0-2,away
+08-09-2022,– Slovacko,Partizan,3-3,draw
+08-09-2022,– Nice,FC Koln,1-1,draw
+08-09-2022,– Sturm Graz,Midtjylland,1-0,home
+08-09-2022,– Ferencvaros,Trabzonspor,3-2,home
+08-09-2022,– Nantes,Olympiacos,2-1,home
+08-09-2022,– Criciuma,Bahia,0-0,draw
+08-09-2022,– Enosis Paralimni,Doxa Katokopia,1-2,away
+08-09-2022,– Sochi,Dynamo Moscow,2-1,home
+08-09-2022,– Oliveirense,Penafiel,1-1,draw
+08-09-2022,– Versailles,Dunkerque,2-0,home
+08-09-2022,– Sedan,Avranches,0-1,away
+08-09-2022,– Cholet,Orleans,1-1,draw
+08-09-2022,– Shelbourne,Sligo Rovers,0-2,away
+31-08-2022,– Udinese,Fiorentina,1-0,home
+31-08-2022,– Empoli,Verona,1-1,draw
+31-08-2022,– Angers,Reims,2-4,away
+31-08-2022,– FC Rostov,Dynamo Moscow,2-0,home
+31-08-2022,– Farul,Steaua Bucuresti,3-1,home
+31-08-2022,– Atletico GO,Sao Paulo,3-1,home
+31-08-2022,– Incheon,Gangwon,0-1,away
+31-08-2022,– Consadole Sapporo,Cerezo Osaka,2-1,home
+31-08-2022,– Heidenheim,Fortuna Dusseldorf,2-1,home
+31-08-2022,– Mezokovesd,Zalaegerszegi,0-5,away
+31-08-2022,– Le Havre,Caen,2-1,home
+31-08-2022,– West Brom,Burnley,1-1,draw
+31-08-2022,– Leganes,Eibar,2-1,home
+23-08-2022,– Newport,Portsmouth,3-2,home
+23-08-2022,– Barrow,Lincoln,2-2,draw
+23-08-2022,– Stevenage,Peterborough,1-0,home
+23-08-2022,– Gillingham,Exeter,0-0,draw
+23-08-2022,– Norwich,Bournemouth,2-2,draw
+23-08-2022,– Forfar Athletic,Kelty Hearts,1-2,away
+23-08-2022,– Elgin City,Stenhousemuir,3-1,home
+23-08-2022,– Guadalajara Chivas,Monterrey,1-0,home
+23-08-2022,– Sivasspor,Malmo FF,0-2,away
+23-08-2022,– Twente,Fiorentina,0-0,draw
+23-08-2022,– Viking,Steaua Bucuresti,1-3,away
+23-08-2022,– Linfield,Rigas,0-0,draw
+23-08-2022,– Hearts,Zurich,0-1,away
+18-08-2022,– Rakow,Slavia Prague,2-1,home
+18-08-2022,– El Gouna,Ghazl El Mahallah,0-0,draw
+18-08-2022,– Al Masry,Ismaily SC,4-1,home
+18-08-2022,– Pyunik Yerevan,Sheriff Tiraspol,0-0,draw
+18-08-2022,– Apollon,Olympiacos,1-1,draw
+18-08-2022,– CSKA Sofia,Basel,1-0,home
+18-08-2022,– Young Boys,Anderlecht,0-1,away
+18-08-2022,– Maccabi Tel Aviv,Nice,1-0,home
+18-08-2022,– HJK Helsinki,Silkeborg,1-0,home
+18-08-2022,– SC Dnipro-1,AEK Larnaca,1-2,away
+18-08-2022,– Zrinjski Mostar,Slovan Bratislava,1-0,home
+18-08-2022,– Maribor,CFR Cluj,0-0,draw
+18-08-2022,– Austria Vienna,Fenerbahce,0-2,away
+11-08-2022,– Tobol Kostonay,Zrinjski Mostar,1-1,draw
+11-08-2022,– Chojnice,Zks Stal Rzeszow,1-1,draw
+11-08-2022,– El Ismaily,Al Ittihad,1-0,home
+11-08-2022,– Panathinaikos,Slavia Prague,1-1,draw
+11-08-2022,– Klaksvik,FC Ballkani,2-1,home
+11-08-2022,– Shkendija,AIK Football,1-1,draw
+11-08-2022,– Hibernians,Rigas,1-3,away
+11-08-2022,– West Brom,Sheffield Utd,1-0,home
+11-08-2022,– MVO Wanderers,CA Fenix,2-1,home
+11-08-2022,– Queretaro,Atl. San Luis,1-1,draw
+11-08-2022,– Gnistan,Jaro,2-2,draw
+11-08-2022,– Miedze Legnica,Zaglebie Lubin,0-1,away
+11-08-2022,– Kaiserslautern,Paderborn,0-1,away
+03-08-2022,– Landskrona BoIS,Skovde AIK,0-1,away
+03-08-2022,– Dalkurd,Norrby,2-1,home
+03-08-2022,– Dunajska Streda,Steaua Bucuresti,0-1,away
+03-08-2022,– Juarez FC,San Luis,1-1,draw
+03-08-2022,– AEK Larnaca,Partizan,2-1,home
+03-08-2022,– Stjordals Blink,Grorud,1-0,home
+03-08-2022,– Sandnes,Sogndal,6-0,home
+03-08-2022,– Spartak Trnava,Rakow Czestochowa,0-2,away
+03-08-2022,– Jonkoping,Vasteras SK,2-1,home
+03-08-2022,– Zorya Luhansk,CS U Craiova,1-0,home
+03-08-2022,– Sepsi OSK,Djurgarden,1-3,away
+03-08-2022,– Brondby,Basel,1-0,home
+03-08-2022,– Hajduk Split,Vitoria Guimaraes,3-1,home
+28-07-2022,– Paide,Ararat-Armenia,0-0,draw
+28-07-2022,– El Gouna,Ismaily SC,0-3,away
+28-07-2022,– Farco FC,Talaea El Gaish,0-1,away
+28-07-2022,– Maccabi Netanya,Basaksehir,0-1,away
+28-07-2022,– Elfsborg,Molde,1-2,away
+28-07-2022,– Dinamo Batumi,Lech Poznan,1-1,draw
+28-07-2022,– Olimpija Ljubljana,Sepsi OSK,2-0,home
+28-07-2022,– Lechia Gdansk,Rapid Vienna,1-2,away
+28-07-2022,– Hamrun,Velez Mostar,1-0,home
+28-07-2022,– FC Vaduz,Luka Koper,0-1,away
+28-07-2022,– Buducnost,Breidablik,2-1,home
+28-07-2022,– Puskas Academy,Vitoria Guimaraes,0-0,draw
+28-07-2022,– Coca Cola,Zamalek,0-1,away
+20-07-2022,– CA Fenix,MVO Wanderers,1-0,home
+20-07-2022,– Maccabi Haifa,Olympiacos,1-1,draw
+20-07-2022,– San Lorenzo,Union de Santa Fe,2-2,draw
+20-07-2022,– Botev Plovdiv,APOEL Nicosia,0-0,draw
+20-07-2022,– Dyn. Kyiv,Fenerbahce,0-0,draw
+20-07-2022,– Maribor,Sheriff Tiraspol,0-0,draw
+20-07-2022,– Goias,Fluminense,2-3,away
+20-07-2022,– CSA,Cruzeiro,1-1,draw
+20-07-2022,– Defensa y Justicia,Independiente,2-1,home
+20-07-2022,– Internacional,Sao Paulo,3-3,draw
+20-07-2022,– Lanus,Velez Sarsfield,2-2,draw
+20-07-2022,– Guadalajara Chivas,Club Leon,0-0,draw
+20-07-2022,– Aris Limassol,Neftci Baku,2-0,home
+13-07-2022,– El Ismaily,Smouha,1-0,home
+13-07-2022,– Dinamo Batumi,Slovan Bratislava,0-0,draw
+13-07-2022,– Shakhtyor Soligorsk,Maribor,0-2,away
+13-07-2022,– Linfield Belfast,The New Saints,1-0,home
+13-07-2022,– Goias,Atletico GO,0-3,away
+13-07-2022,– Ceara,Fortaleza,1-0,home
+13-07-2022,– Inter Miami,Philadelphia Union,1-2,away
+13-07-2022,– Santos,Corinthians,1-0,home
+13-07-2022,– Dallas,New York City,0-1,away
+13-07-2022,– College Europa,Vikingur Gota,1-2,away
+13-07-2022,– Ararat Yerevan,Shkendija,2-2,draw
+13-07-2022,– Milsami,FK Panevezys,2-0,home
+13-07-2022,– Seinajoen JK,Flora Talinn,3-2,home
+06-07-2022,– Yokohama F. Marinos,Sanfrecce Hiroshima,3-0,home
+06-07-2022,– Suwon Samsung,Daegu,1-1,draw
+06-07-2022,– Renofa Yamaguchi,Oita Trinita,0-0,draw
+06-07-2022,– Vegalta Sendai,Ventforet Kofu,3-0,home
+06-07-2022,– Incheon,Suwon FC,0-1,away
+06-07-2022,– Jubilo Iwata,Avispa Fukuoka,0-1,away
+06-07-2022,– Kashiwa Reysol,Nagoya Grampus,0-1,away
+06-07-2022,– V-Varen Nagasaki,Montedio Yamagata,1-1,draw
+06-07-2022,– Roasso Kumamoto,Tokushima Vortis,1-1,draw
+06-07-2022,– Jeonnam Dragons,Gyeongnam,1-1,draw
+06-07-2022,– FC Seoul,Jeonbuk Hyundai,0-1,away
+06-07-2022,– Grorud,Sandnes,1-3,away
+06-07-2022,– Kristiansund,Tromso,Postp,postponed
+28-06-2022,– Ghazl El Mahallah,El Ismaily,0-0,draw
+28-06-2022,– Arab Contractors,National Bank Egypt,1-1,draw
+28-06-2022,– Brusque,Bahia,0-2,away
+28-06-2022,– Corinthians,Boca Juniors,0-0,draw
+28-06-2022,– Daegu,Pohang Steelers,3-2,home
+28-06-2022,– Nautico,Criciuma,1-1,draw
+28-06-2022,– Talleres Cordoba,Colon Santa Fe,1-1,draw
+28-06-2022,– Orlando City,Nashville SC,1-1,draw
+28-06-2022,– Toronto FC,Columbus Crew,1-2,away
+28-06-2022,– Chicago Fire,Philadelphia Union,1-0,home
+28-06-2022,– Tlaxcala,Cimarrones de Sonora,2-0,home
+28-06-2022,– CRB,Tombense,0-0,draw
+28-06-2022,– Novorizontino,Vasco,2-0,home
+21-06-2022,– Levadia Tallinn,Vikingur Reykjavik,1-6,away
+21-06-2022,– Aldosivi,Platense,0-0,draw
+21-06-2022,– Central Cordoba,San Lorenzo,0-2,away
+21-06-2022,– Gamba Osaka,Oita Trinita,3-1,home
+21-06-2022,– Bucheon,Anyang,0-1,away
+21-06-2022,– Seinajoen JK,Haka,2-2,draw
+21-06-2022,– JaPS,Mikkelin,1-4,away
+21-06-2022,– Resistencia,de Octubre,0-1,away
+21-06-2022,– Bahia,Athletico-PR,1-2,away
+21-06-2022,– Fortaleza,Ceara,2-0,home
+21-06-2022,– New York Red Bulls,New York City,3-0,home
+21-06-2022,– Sao Paulo,Palmeiras,1-0,home
+21-06-2022,– CSA,Gremio,1-1,draw
+14-06-2022,– Plaza Colonia,Boston River,0-0,draw
+14-06-2022,– San Lorenzo,Arsenal Sarandi,3-3,draw
+14-06-2022,– Patronato,Aldosivi,1-0,home
+14-06-2022,– Juventude,Santos,1-2,away
+14-06-2022,– Barracas Central,Union de Santa Fe,1-2,away
+14-06-2022,– Atl. Tucuman,Lanus,2-1,home
+14-06-2022,– Banfield,Central Cordoba,2-1,home
+14-06-2022,– Colon Santa FE,River Plate,1-0,home
+14-06-2022,– Athletico-PR,Corinthians,1-1,draw
+14-06-2022,– Keflavik,Stjarnan,2-2,draw
+14-06-2022,– Valur,Breidablik,3-2,home
+14-06-2022,– Racing Club,Velez Sarsfield,2-0,home
+14-06-2022,– Platense,Gimnasia L.P.,1-1,draw
+07-06-2022,– Germany,England,1-1,draw
+07-06-2022,– Bosnia & Herzegovina,Romania,1-0,home
+07-06-2022,– Faroe Islands,Luxembourg,0-1,away
+07-06-2022,– Vila Nova FC,Brusque,0-2,away
+07-06-2022,– Nautico,Vasco,2-3,away
+07-06-2022,– Cuiaba,Corinthians,1-0,home
+07-06-2022,– Ireland,Ukraine,0-1,away
+07-06-2022,– Juventude,Athletico-PR,1-3,away
+07-06-2022,– America MG,Ceara,0-2,away
+07-06-2022,– Santos,Internacional,1-1,draw
+07-06-2022,– Atletico Bucaramanga,Atletico Nacional,0-1,away
+07-06-2022,– Malta,Estonia,1-2,away
+07-06-2022,– North Macedonia,Georgia,0-3,away
+01-06-2022,– Scotland,Ukraine,1-3,away
+01-06-2022,– Real Cartagena,Leones,0-1,away
+01-06-2022,– Bogota,Fortaleza,0-2,away
+01-06-2022,– Fortaleza,Ceara,0-1,away
+01-06-2022,– USA,Morocco,3-0,home
+01-06-2022,– CRB,CSA,0-0,draw
+01-06-2022,– Bulgaria,North Macedonia,1-1,draw
+01-06-2022,– Cyprus,Kosovo,0-2,away
+01-06-2022,– Spain,Portugal,1-1,draw
+01-06-2022,– Czech Republic,Switzerland,2-1,home
+01-06-2022,– Serbia,Norway,0-1,away
+01-06-2022,– Slovenia,Sweden,0-2,away
+01-06-2022,– Northern Ireland,Greece,0-1,away
+25-05-2022,– Tokyo Verdy,Zwiegen Kanazawa,1-3,away
+25-05-2022,– Thespakusatsu,Roasso Kumamoto,2-3,away
+25-05-2022,– Vegalta Sendai,Fagiano Okayama,0-0,draw
+25-05-2022,– V-Varen Nagasaki,Jef United Chiba,0-2,away
+25-05-2022,– Shimizu S-Pulse,FC Tokyo,0-3,away
+25-05-2022,– Cerezo Osaka,Urawa Reds,2-0,home
+25-05-2022,– Ventforet Kofu,Tokushima Vortis,1-1,draw
+25-05-2022,– Kristiansund,Tromso,Postp,postponed
+25-05-2022,– Roma,Feyenoord,1-0,home
+25-05-2022,– Los Angeles Galaxy,Los Angeles FC,3-1,home
+25-05-2022,– Hammarby,Malmo,0-0,draw
+25-05-2022,– Kayserispor,Sivasspor,1-1,draw
+25-05-2022,– Sarpsborg,Molde,1-2,away
+17-05-2022,– Nottingham,Sheffield Utd,1-2,away
+17-05-2022,– Pohang,Jeonbuk,0-1,away
+17-05-2022,– Urawa Reds,Yokohama F. Marinos,3-3,draw
+17-05-2022,– Slovacko,Sparta Prague,3-1,home
+17-05-2022,– Orgryte,Trelleborgs,1-2,away
+17-05-2022,– Excelsior,Heracles,3-0,home
+17-05-2022,– Northampton,Mansfield,0-1,away
+17-05-2022,– Eintracht Frankfurt,Rangers,1-1,draw
+17-05-2022,– DC United,New York City,0-2,away
+17-05-2022,– Vancouver Whitecaps,FC Dallas,2-1,home
+17-05-2022,– AFC Eskilstuna,Norrby,1-2,away
+17-05-2022,– Osters,Halmstad,1-4,away
+17-05-2022,– Lugano,Zurich,2-1,home
+11-05-2022,– Randers FC,Aalborg,2-2,draw
+11-05-2022,– Al Ittihad,Smouha,2-5,away
+11-05-2022,– Osasuna,Getafe,1-1,draw
+11-05-2022,– AIK,Malmo,2-0,home
+11-05-2022,– Utrecht,AZ Alkmaar,2-2,draw
+11-05-2022,– Sparta Rotterdam,PEC Zwolle,2-0,home
+11-05-2022,– Waalwijk,Heracles,2-0,home
+11-05-2022,– Servette,Lugano,2-2,draw
+11-05-2022,– St. Mirren,Livingston,0-0,draw
+11-05-2022,– St Johnstone,Aberdeen,1-0,home
+11-05-2022,– Juventus,Inter,2-2,draw
+11-05-2022,– Vejle,AGF Aarhus,1-0,home
+11-05-2022,– Tottenham,Arsenal,3-0,home
+04-05-2022,– Blaublitz,Ryukyu,2-1,home
+04-05-2022,– Tokushima Vortis,JEF United Chiba,1-0,home
+04-05-2022,– Fagiano Okayama,Mito Hollyhock,2-1,home
+04-05-2022,– Tokyo Verdy,Vegalta Sendai,3-1,home
+04-05-2022,– Gamba Osaka,Consadole Sapporo,0-0,draw
+04-05-2022,– Newcastle Jets,Western United,1-1,draw
+04-05-2022,– PAOK,Olympiacos,1-2,away
+04-05-2022,– Pailan Arrows,Kenkre FC,1-0,home
+04-05-2022,– Seongnam,Jeju Utd,1-2,away
+04-05-2022,– Suwon FC,Incheon,2-2,draw
+04-05-2022,– Sangju Sangmu,Gangwon,1-0,home
+04-05-2022,– Eintracht Frankfurt,West Ham,1-0,home
+04-05-2022,– Marseille,Feyenoord,0-0,draw
+26-04-2022,– Barnsley,Blackpool,0-2,away
+26-04-2022,– Swindon,Forest Green,2-1,home
+26-04-2022,– Sunderland,Rotherham,1-1,draw
+26-04-2022,– Portsmouth,Wigan,3-2,home
+26-04-2022,– Arab Contractors,Al Ittihad,1-1,draw
+26-04-2022,– Blaublitz Akita,Fagiano Okayama,0-1,away
+26-04-2022,– Tokushima Vortis,Montedio Yamagata,0-1,away
+26-04-2022,– Roasso Kumamoto,Vegalta Sendai,0-2,away
+26-04-2022,– Omiya Ardija,Thespakusatsu,3-2,home
+26-04-2022,– Yokohama,Machida Zelvia,1-1,draw
+26-04-2022,– Ventforet Kofu,Tokyo Verdy,2-0,home
+26-04-2022,– Sonderjyske,Odense,1-2,away
+26-04-2022,– Leicester,Roma,1-1,draw
+20-04-2022,– Bordeaux,St Etienne,2-2,draw
+20-04-2022,– Troyes,Clermont,0-1,away
+20-04-2022,– Norrkoping,Hacken,1-1,draw
+20-04-2022,– Hajduk Split,D. Zagreb,1-0,home
+20-04-2022,– Celta Vigo,Getafe,0-2,away
+20-04-2022,– Newcastle,Crystal Palace,1-0,home
+20-04-2022,– Everton,Leicester,1-1,draw
+20-04-2022,– Strasbourg,Rennes,2-1,home
+20-04-2022,– PAOK,Olympiacos Piraeus,0-0,draw
+20-04-2022,– Levante,Sevilla,2-3,away
+20-04-2022,– Espanyol,Rayo Vallecano,0-1,away
+20-04-2022,– Burnley,Southampton,2-0,home
+20-04-2022,– Real Sociedad,Barcelona,0-1,away
+12-04-2022,– Portsmouth,Rotherham,3-0,home
+12-04-2022,– Burton,Wigan,0-0,draw
+12-04-2022,– Real Madrid,Chelsea,1-3,away
+12-04-2022,– Perth Glory,Wellington,0-1,away
+12-04-2022,– Kyoto Sanga,Consadole Sapporo,3-2,home
+12-04-2022,– Sagan Tosu,Kashiwa Reysol,1-3,away
+12-04-2022,– Avispa Fukuoka,Jubilo Iwata,2-1,home
+12-04-2022,– Tokushima Vortis,Shimizu S-Pulse,4-1,home
+12-04-2022,– Nagoya Grampus,Sanfrecce Hiroshima,1-2,away
+12-04-2022,– Guadalajara Chivas,Monterrey,1-3,away
+12-04-2022,– Atalanta,RB Leipzig,0-2,away
+12-04-2022,– PAOK,Marseille,0-1,away
+12-04-2022,– Slavia Prague,Feyenoord,1-3,away
+05-04-2022,– Ternana,Lecce,1-4,away
+05-04-2022,– AFC Wimbledon,Charlton,1-1,draw
+05-04-2022,– Fleetwood,Lincoln,1-1,draw
+05-04-2022,– Reading,Stoke,2-1,home
+05-04-2022,– Sagan Tosu,Consadole Sapporo,5-0,home
+05-04-2022,– Perth Glory,Melbourne Victory,0-1,away
+05-04-2022,– Augsburg,Mainz,2-1,home
+05-04-2022,– Cittadella,Perugia,0-0,draw
+05-04-2022,– Pisa,Brescia,0-0,draw
+05-04-2022,– Burnley,Everton,3-2,home
+05-04-2022,– Dunfermline,Raith,2-0,home
+05-04-2022,– West Brom,Bournemouth,2-0,home
+05-04-2022,– Sporting Braga,Rangers,1-0,home
+29-03-2022,– Cyprus,Estonia,2-0,home
+29-03-2022,– Saudi Arabia,Australia,1-0,home
+29-03-2022,– Poland,Sweden,2-0,home
+29-03-2022,– Netherlands,Germany,1-1,draw
+29-03-2022,– Tunisia,Mali,0-0,draw
+29-03-2022,– Chile,Uruguay,0-2,away
+29-03-2022,– Ecuador,Argentina,1-1,draw
+29-03-2022,– Brisbane Roar,Wellington,0-3,away
+29-03-2022,– Blaublitz Akita,Ventforet Kofu,0-0,draw
+29-03-2022,– Jef United Chiba,Niigata Albirex,1-0,home
+29-03-2022,– Renofa Yamaguchi,Tokushima Vortis,0-0,draw
+29-03-2022,– Ryukyu,Tokyo Verdy,2-5,away
+29-03-2022,– Perth Glory,Newcastle Jets,0-0,draw
+24-03-2022,– Australia,Japan,0-2,away
+24-03-2022,– South Korea,Iran,2-0,home
+24-03-2022,– Vietnam,Oman,0-1,away
+24-03-2022,– Lebanon,Syria,0-3,away
+24-03-2022,– Moldova,Kazakhstan,1-2,away
+24-03-2022,– Estonia,Cyprus,0-0,draw
+24-03-2022,– Iraq,United Arab Emirates,1-0,home
+24-03-2022,– Hungary,Serbia,0-1,away
+24-03-2022,– Wales,Austria,2-1,home
+24-03-2022,– Scotland,Poland,1-1,draw
+24-03-2022,– D.R. Congo,Morocco,1-1,draw
+24-03-2022,– Egypt,Senegal,1-0,home
+24-03-2022,– Ghana,Nigeria,0-0,draw
+15-03-2022,– Niort,Sochaux,1-1,draw
+15-03-2022,– Rodez,Guingamp,1-1,draw
+15-03-2022,– Nimes,Auxerre,1-2,away
+15-03-2022,– Barnsley,Bristol City,2-0,home
+15-03-2022,– Birmingham,Middlesbrough,0-2,away
+15-03-2022,– Plymouth,Portsmouth,1-0,home
+15-03-2022,– Ascoli,Pisa,2-0,home
+15-03-2022,– Brighton,Tottenham,0-2,away
+15-03-2022,– Luton,Preston,4-0,home
+15-03-2022,– Cardiff,Stoke,2-1,home
+15-03-2022,– Millwall,Huddersfield,2-0,home
+15-03-2022,– Blackpool,Sheffield Utd,0-0,draw
+15-03-2022,– Red Star Belgrade,Rangers,2-1,home
+08-03-2022,– Barnsley,Stoke,1-1,draw
+08-03-2022,– St. Albans,Oxford City,1-1,draw
+08-03-2022,– Crawley,Bristol Rovers,1-2,away
+08-03-2022,– Solihull Moors,Notts Co,3-3,draw
+08-03-2022,– CC Mariners,Melbourne Victory,1-1,draw
+08-03-2022,– Wellington,Newcastle Jets,3-2,home
+08-03-2022,– Dundee FC,St. Mirren,0-1,away
+08-03-2022,– Real Madrid,Paris SG,3-1,home
+08-03-2022,– PAOK,KAA Gent,1-0,home
+08-03-2022,– Partizan,Feyenoord,2-5,away
+08-03-2022,– Leeds,Aston Villa,0-3,away
+08-03-2022,– Sporting Braga,Monaco,2-0,home
+08-03-2022,– Bodo/Glimt,AZ Alkmaar,2-1,home
+01-03-2022,– Burnley,Leicester,0-2,away
+01-03-2022,– Portsmouth,Oxford Utd,3-2,home
+01-03-2022,– AC Milan,Inter,0-0,draw
+01-03-2022,– Josko Ried,TSV Hartberg,2-1,home
+01-03-2022,– Southampton,West Ham,3-1,home
+01-03-2022,– LASK,Salzburg,0-0,draw
+01-03-2022,– VFL Bochum,Freiburg,1-1,draw
+01-03-2022,– Brugge,KAA Gent,0-3,away
+01-03-2022,– Livingston,Dundee Utd,2-1,home
+01-03-2022,– Dundee FC,Hibernian,0-0,draw
+01-03-2022,– Valencia,Ath Bilbao,1-0,home
+01-03-2022,– Fiorentina,Juventus,0-1,away
+01-03-2022,– Sporting,FC Porto,1-2,away
+22-02-2022,– Spal,Ternana,5-1,home
+22-02-2022,– Alessandria,Perugia,1-2,away
+22-02-2022,– Swansea,Bournemouth,D,unknown
+22-02-2022,– Preston,Nottingham,0-0,draw
+22-02-2022,– Bristol City,Coventry,1-2,away
+22-02-2022,– Charlton,MK Dons,0-2,away
+22-02-2022,– Wycombe,Wigan,1-3,away
+22-02-2022,– Villarreal,Juventus,1-1,draw
+22-02-2022,– Reading,Birmingham,2-1,home
+22-02-2022,– Derby,Millwall,1-2,away
+22-02-2022,– Atl. Madrid,Manchester Utd,1-1,draw
+22-02-2022,– Real Sociedad,RB Leipzig,1-3,away
+22-02-2022,– Napoli,Barcelona,2-4,away
+15-02-2022,– Ternana,Monza,0-1,away
+15-02-2022,– Pordenone,Cittadella,0-1,away
+15-02-2022,– Grenoble,Niort,1-0,home
+15-02-2022,– Elgin City,Annan,0-2,away
+15-02-2022,– Stirling,Forfar Athletic,1-1,draw
+15-02-2022,– Millwall,QPR,2-0,home
+15-02-2022,– Cardiff,Coventry,2-0,home
+15-02-2022,– Burton,Bolton,3-1,home
+15-02-2022,– Hartlepool,Tranmere,1-0,home
+15-02-2022,– Bristol Rovers,Sutton,2-0,home
+15-02-2022,– Crotone,Brescia,0-1,away
+15-02-2022,– Zenit,Betis,2-3,away
+15-02-2022,– Rapid Vienna,Vitesse,2-1,home
+08-02-2022,– Newcastle,Everton,3-1,home
+08-02-2022,– Fleetwood,MK Dons,1-1,draw
+08-02-2022,– Accrington,Oxford Utd,2-0,home
+08-02-2022,– Carlisle,Port Vale,1-3,away
+08-02-2022,– Oldham,Bristol Rovers,2-1,home
+08-02-2022,– Preston,Huddersfield,0-0,draw
+08-02-2022,– QPR,Middlesbrough,2-2,draw
+08-02-2022,– Sheffield Utd,West Brom,2-0,home
+08-02-2022,– Dundee Utd,Motherwell,2-0,home
+08-02-2022,– St. Mirren,St Johnstone,2-1,home
+08-02-2022,– Ross County,Livingston,1-1,draw
+08-02-2022,– Nice,Marseille,4-1,home
+08-02-2022,– Wolverhampton,Arsenal,0-1,away
+01-02-2022,– Auxerre,Paris FC,1-2,away
+01-02-2022,– Valenciennes,Nancy,6-1,home
+01-02-2022,– Swansea,Luton,0-1,away
+01-02-2022,– Hibernian,Hearts,0-0,draw
+01-02-2022,– Gillingham,Crewe,1-0,home
+01-02-2022,– Colchester,Rochdale,1-1,draw
+01-02-2022,– Dundee FC,Dundee Utd,0-0,draw
+01-02-2022,– Ross County,Aberdeen,1-1,draw
+01-02-2022,– St. Mirren,Motherwell,1-1,draw
+01-02-2022,– Bolivia,Chile,2-3,away
+01-02-2022,– Barnsley,Cardiff,0-1,away
+01-02-2022,– Celtic,Rangers,3-0,home
+01-02-2022,– Real Sociedad,Betis,0-4,away
+25-01-2022,– Hartlepool,Charlton,2-2,draw
+25-01-2022,– St. Mirren,Aberdeen,1-0,home
+25-01-2022,– Burton,MK Dons,0-1,away
+25-01-2022,– AFC Wimbledon,Ipswich,0-2,away
+25-01-2022,– Gillingham,Shrewsbury,0-0,draw
+25-01-2022,– Coventry,Stoke,1-0,home
+25-01-2022,– Barrow,Salford,0-2,away
+25-01-2022,– Walsall,Bradford City,1-2,away
+25-01-2022,– Scunthorpe,Bristol Rovers,2-3,away
+25-01-2022,– Ivory Coast,Egypt,0-0,draw
+25-01-2022,– Dundee Utd,Ross County,2-1,home
+25-01-2022,– Motherwell,Hibernian,0-0,draw
+25-01-2022,– St Johnstone,Dundee FC,0-0,draw
+18-01-2022,– Munich 1860,Karlsruher SC,0-1,away
+18-01-2022,– VFL Bochum,Mainz,3-1,home
+18-01-2022,– Covilha,CD Feirense,2-2,draw
+18-01-2022,– Cadiz CF,Espanyol,2-2,draw
+18-01-2022,– Goztepe,Sivasspor,2-1,home
+18-01-2022,– Caykur Rizespor,Antalyaspor,0-0,draw
+18-01-2022,– Groningen,NEC Nijmegen,1-2,away
+18-01-2022,– NAC Breda,PEC Zwolle,2-1,home
+18-01-2022,– Hertha Berlin,Union Berlin,2-3,away
+18-01-2022,– Twente,AZ Alkmaar,1-2,away
+18-01-2022,– Real Sociedad,Atl. Madrid,2-0,home
+18-01-2022,– Valencia,Sevilla,1-1,draw
+18-01-2022,– Alanyaspor,Hatayspor,6-0,home
+11-01-2022,– Nigeria,Egypt,1-0,home
+11-01-2022,– Sudan,Guinea Bissau,0-0,draw
+11-01-2022,– Tunisia,Mali,0-1,away
+11-01-2022,– Mauritania,Gambia,0-1,away
+11-01-2022,– Tottenham,Chelsea,0-1,away
+11-01-2022,– Yeni Malatyaspor,Goztepe,1-2,away
+11-01-2022,– Hansa Rostock,Hannover,0-1,away
+11-01-2022,– Creteil,Le Mans,2-3,away
+11-01-2022,– Concarneau,Orleans,Postp,postponed
+11-01-2022,– Boulogne,Red Star,Postp,postponed
+11-01-2022,– Sete,Cholet,Postp,postponed
+11-01-2022,– Chambly,Stade Briochin,1-1,draw
+11-01-2022,– Excelsior,De Graafschap,0-0,draw
+04-01-2022,– Hartlepool,Bolton,1-0,home
+04-01-2022,– Charlton,MK Dons,1-0,home
+04-01-2022,– Ponferradina,Espanyol,1-1,draw
+04-01-2022,– Lens,Lille,2-2,draw
+04-01-2022,– Eibar,Mallorca,1-2,away
+04-01-2022,– Valladolid,Betis,0-3,away
+04-01-2022,– Mirandes,Rayo Vallecano,0-1,away
+04-01-2022,– Panathinaikos,Aris,2-0,home
+04-01-2022,– Fuenlabrada,Cadiz CF,0-1,away
+04-01-2022,– Girona,Osasuna,1-0,home
+04-01-2022,– Salernitana,Venezia,Postp,postponed
+04-01-2022,– Almeria,Elche,1-2,away
+04-01-2022,– Arsenal,Liverpool,Postp,postponed
+21-12-2021,– Quevilly Rouen,Caen,2-2,draw
+21-12-2021,– Nancy,Dijon,0-3,away
+21-12-2021,– Sevilla,Barcelona,1-1,draw
+21-12-2021,– Hatayspor,Konyaspor,1-3,away
+21-12-2021,– Gaziantep,Alanyaspor,2-1,home
+21-12-2021,– Verona,Fiorentina,1-1,draw
+21-12-2021,– Willem II,NEC Nijmegen,0-1,away
+21-12-2021,– Clermont,Strasbourg,Postp,postponed
+21-12-2021,– Montpellier,Angers,4-1,home
+21-12-2021,– Troyes,Brest,1-1,draw
+21-12-2021,– Monaco,Rennes,2-1,home
+21-12-2021,– St Etienne,Nantes,0-1,away
+21-12-2021,– Ath Bilbao,Real Madrid,1-2,away
+14-12-2021,– San Sebastian Reyes,Fuenlabrada,0-0,draw
+14-12-2021,– Huesca,Girona,0-1,away
+14-12-2021,– Arminia Bielefeld,Bochum,2-0,home
+14-12-2021,– Norwich,Aston Villa,0-2,away
+14-12-2021,– Oostende,Kortrijk,0-2,away
+14-12-2021,– Genoa,Salernitana,1-0,home
+14-12-2021,– Lamia,Volos,2-1,home
+14-12-2021,– Mechelen,Gent,4-3,home
+14-12-2021,– Union Berlin,Freiburg,0-0,draw
+14-12-2021,– Crystal Palace,Southampton,2-2,draw
+14-12-2021,– Arsenal,West Ham,2-0,home
+14-12-2021,– Tenerife,Eibar,1-2,away
+14-12-2021,– Sampdoria,Torino,2-1,home
+07-12-2021,– Bristol Rovers,Port Vale,1-2,away
+07-12-2021,– Harrogate,Forest Green,1-4,away
+07-12-2021,– Accrington,AFC Wimbledon,0-2,away
+07-12-2021,– Charlton,Ipswich,2-0,home
+07-12-2021,– FC Porto,Atl. Madrid,1-3,away
+07-12-2021,– Livingston,Hibernian,1-0,home
+07-12-2021,– Hartlepool,Rochdale,2-1,home
+07-12-2021,– Barrow,Salford,Postp,postponed
+07-12-2021,– RB Salzburg,Sevilla,1-0,home
+07-12-2021,– VFL Wolfsburg,Lille,1-3,away
+07-12-2021,– Legia,Spartak Moscow,0-1,away
+07-12-2021,– Fenerbahce,Eintracht Frankfurt,1-1,draw
+07-12-2021,– Celtic,Betis,3-2,home
+30-11-2021,– CA Fenix,CA Boston River,0-0,draw
+30-11-2021,– Motherwell,Dundee Utd,1-0,home
+30-11-2021,– Leeds,Crystal Palace,1-0,home
+30-11-2021,– Banfield,Independiente,4-1,home
+30-11-2021,– Brest,St Etienne,1-0,home
+30-11-2021,– Angers,Monaco,1-3,away
+30-11-2021,– Troyes,Lorient,2-0,home
+30-11-2021,– Metz,Montpellier,1-3,away
+30-11-2021,– Southampton,Leicester,2-2,draw
+30-11-2021,– Dundee FC,St Johnstone,1-0,home
+30-11-2021,– Clermont,Lens,2-2,draw
+30-11-2021,– Nantes,Marseille,0-1,away
+30-11-2021,– Rennes,Lille,1-2,away
+23-11-2021,– Villarreal,Manchester Utd,0-2,away
+23-11-2021,– Nottingham,Luton,0-0,draw
+23-11-2021,– Lincoln,Portsmouth,0-3,away
+23-11-2021,– Sheffield Wed,MK Dons,2-1,home
+23-11-2021,– Gillingham,Cheltenham,0-2,away
+23-11-2021,– Ipswich,Rotherham,0-2,away
+23-11-2021,– Lille,Salzburg,1-0,home
+23-11-2021,– Sporting Lisbon,Dortmund,3-1,home
+23-11-2021,– Galatasaray,Marseille,4-2,home
+23-11-2021,– FC Midtjylland,Sporting Braga,3-2,home
+23-11-2021,– Dinamo Zagreb,Racing Genk,1-1,draw
+23-11-2021,– Maccabi Haifa,Union Berlin,0-1,away
+23-11-2021,– Monaco,Real Sociedad,2-1,home
+16-11-2021,– Wales,Belgium,1-1,draw
+16-11-2021,– Plymouth,Sheffield Wed,3-0,home
+16-11-2021,– Exeter,Bradford City,0-0,draw
+16-11-2021,– Cheltenham,Gillingham,1-0,home
+16-11-2021,– Notts Co,Rochdale,1-2,away
+16-11-2021,– Cambridge Utd,Northampton,3-1,home
+16-11-2021,– Venezuela,Peru,1-2,away
+16-11-2021,– Argentina,Brazil,0-0,draw
+16-11-2021,– Canada,Mexico,2-1,home
+16-11-2021,– Hannover,Paderborn,0-0,draw
+16-11-2021,– HB Koge,Esbjerg,3-0,home
+16-11-2021,– QPR,Luton,2-0,home
+16-11-2021,– Sligo Rovers,Bohemians,1-1,draw
+09-11-2021,– Scunthorpe,Doncaster,2-3,away
+09-11-2021,– Leyton Orient,Charlton,1-0,home
+09-11-2021,– Stevenage,Cambridge Utd,1-0,home
+09-11-2021,– Sutton,AFC Wimbledon,1-0,home
+09-11-2021,– Fleetwood,Accrington,1-4,away
+09-11-2021,– Santiago Wanderers,Curico Unido,0-3,away
+09-11-2021,– Agropecuario,Belgrano,1-2,away
+09-11-2021,– Leones,Chico,0-0,draw
+09-11-2021,– Walsall,Forest Green,0-2,away
+09-11-2021,– China,Oman,1-1,draw
+09-11-2021,– Armenia,North Macedonia,0-5,away
+09-11-2021,– Azerbaijan,Luxembourg,1-3,away
+09-11-2021,– Paraguay,Chile,0-1,away
+02-11-2021,– VFL Wolfsburg,RB Salzburg,2-1,home
+02-11-2021,– Peterborough,Huddersfield,1-1,draw
+02-11-2021,– Luton,Middlesbrough,3-1,home
+02-11-2021,– Nottingham,Sheffield Utd,1-1,draw
+02-11-2021,– Sheffield Wed,Sunderland,3-0,home
+02-11-2021,– Atalanta,Manchester Utd,2-2,draw
+02-11-2021,– Blackpool,Stoke,0-1,away
+02-11-2021,– Barnsley,Derby,2-1,home
+02-11-2021,– Cardiff,QPR,0-1,away
+02-11-2021,– Borussia Dortmund,Ajax,1-3,away
+02-11-2021,– Kairat Almaty,Karabakh,1-2,away
+02-11-2021,– Olympiacos,Eintracht Frankfurt,1-2,away
+02-11-2021,– Royal Antwerp,Fenerbahce,0-3,away
+26-10-2021,– Spezia,Genoa,1-1,draw
+26-10-2021,– Nurnberg,Hamburger SV,1-1,draw
+26-10-2021,– Espanyol,Ath Bilbao,1-1,draw
+26-10-2021,– VFL Bochum,Augsburg,2-2,draw
+26-10-2021,– Udinese,Verona,1-1,draw
+26-10-2021,– Jahn Regensburg,Hansa Rostock,2-2,draw
+26-10-2021,– Stuttgart,FC Koln,0-2,away
+26-10-2021,– Hannover,Fortuna Dusseldorf,3-0,home
+26-10-2021,– Stoke,Brentford,1-2,away
+26-10-2021,– Burnley,Tottenham,0-1,away
+26-10-2021,– St Johnstone,Hearts,1-1,draw
+26-10-2021,– Motherwell,St. Mirren,2-2,draw
+26-10-2021,– Granada,Getafe,1-1,draw
+19-10-2021,– Stoke,Bournemouth,0-1,away
+19-10-2021,– Bristol City,Nottingham,1-2,away
+19-10-2021,– QPR,Blackburn,1-0,home
+19-10-2021,– Derby,Luton,2-2,draw
+19-10-2021,– FC Porto,AC Milan,1-0,home
+19-10-2021,– Atl. Madrid,Liverpool,2-3,away
+19-10-2021,– Ajax,Dortmund,4-0,home
+19-10-2021,– Preston,Coventry,2-1,home
+19-10-2021,– HJK,Maccabi Tel Aviv,0-5,away
+19-10-2021,– Betis,Bayer Leverkusen,1-1,draw
+19-10-2021,– Rapid Vienna,D. Zagreb,2-1,home
+19-10-2021,– Lokomotiv Moscow,Galatasaray,0-1,away
+19-10-2021,– Baumit Jablonec,Randers FC,2-2,draw
+15-10-2021,– Hannover,Schalke,0-1,away
+15-10-2021,– Viktoria Berlin,Osnabruck,1-2,away
+15-10-2021,– MTK Budapest,Puskas Academy,0-1,away
+15-10-2021,– Hamilton,Partick Thistle,1-6,away
+15-10-2021,– Waterford,Finn Harps,4-1,home
+15-10-2021,– Eibar,Almeria,1-0,home
+15-10-2021,– Nublense,Union La Calera,0-2,away
+15-10-2021,– Defensa y Justicia,Estudiantes L.P.,2-1,home
+15-10-2021,– Shimizu S-Pulse,Kashiwa Reysol,0-1,away
+15-10-2021,– Yokohama,Tokushima Vortis,5-3,home
+15-10-2021,– Heidenheim,St. Pauli,2-4,away
+15-10-2021,– HB Koge,Nykobing,1-0,home
+15-10-2021,– Union Berlin,VFL Wolfsburg,2-0,home
+06-10-2021,– Italy,Spain,1-2,away
+06-10-2021,– Tigres FC (Col),Real Cartagena,1-2,away
+06-10-2021,– Brasil de Pelotas,Operario,1-0,home
+06-10-2021,– Ceara,Internacional,0-0,draw
+06-10-2021,– Atletico GO,Athletico-PR,0-2,away
+06-10-2021,– Sport Recife,Juventude,3-1,home
+06-10-2021,– Saudi Arabia,Japan,1-0,home
+06-10-2021,– Belgium,France,2-3,away
+06-10-2021,– Honduras,Costa Rica,0-0,draw
+06-10-2021,– Peru,Chile,2-0,home
+06-10-2021,– El Salvador,Panama,1-0,home
+06-10-2021,– Tokyo Verdy,Fagiano Okayama,1-2,away
+06-10-2021,– Naftan Novopolotsk,Dnepr Mogilev,1-1,draw
+28-09-2021,– Huddersfield,Blackburn,3-2,home
+28-09-2021,– Hull,Blackpool,1-1,draw
+28-09-2021,– Preston,Stoke,1-1,draw
+28-09-2021,– Middlesbrough,Sheffield Utd,2-0,home
+28-09-2021,– AC Milan,Atl. Madrid,1-2,away
+28-09-2021,– Paris SG,Manchester City,2-0,home
+28-09-2021,– Luton,Coventry,5-0,home
+28-09-2021,– Juventus,Chelsea,1-0,home
+28-09-2021,– Benfica,Barcelona,3-0,home
+28-09-2021,– WFL Wolfsburg,Sevilla,1-1,draw
+28-09-2021,– Sparta Prague,Rangers,1-0,home
+28-09-2021,– Real Sociedad,Monaco,1-1,draw
+28-09-2021,– Vitesse,Rennes,1-2,away
+21-09-2021,– Varzim,Estrela,3-1,home
+21-09-2021,– Valenciennes,Bastia,2-1,home
+21-09-2021,– Guingamp,Sochaux,1-2,away
+21-09-2021,– Amiens,Pau FC,2-2,draw
+21-09-2021,– FC Zurich,Servette,2-2,draw
+21-09-2021,– Crawley,Harrogate,2-2,draw
+21-09-2021,– Crewe,Morecambe,1-3,away
+21-09-2021,– Gillingham,Charlton,1-1,draw
+21-09-2021,– Fulham,Leeds,0-0,draw
+21-09-2021,– Levante,Celta Vigo,0-2,away
+21-09-2021,– Palmeiras,Atletico Mineiro,0-0,draw
+21-09-2021,– Shakhtar Donetsk,Dynamo Kyiv,3-0,home
+21-09-2021,– Wolverhampton,Tottenham,2-2,draw
+14-09-2021,– Lille,VFL Wolfsburg,0-0,draw
+14-09-2021,– Villarreal,Atalanta,2-2,draw
+14-09-2021,– Reading,Peterborough,3-1,home
+14-09-2021,– Nottingham,Middlesbrough,0-2,away
+14-09-2021,– Swansea,Millwall,0-0,draw
+14-09-2021,– Sporting Lisbon,Ajax,1-5,away
+14-09-2021,– Inter,Real Madrid,0-1,away
+14-09-2021,– Rapid Vienna,Racing Genk,0-1,away
+14-09-2021,– Rennes,Tottenham,2-2,draw
+14-09-2021,– Slavia Prague,Union Berlin,3-1,home
+14-09-2021,– Brondby,Sparta Prague,0-0,draw
+14-09-2021,– PSV,Real Sociedad,2-2,draw
+14-09-2021,– Rangers,Lyon,0-2,away
+10-09-2021,– CS Mioveni,Chindia Targoviste,0-1,away
+10-09-2021,– FC Bastia-Borgo,Boulogne,0-3,away
+10-09-2021,– Saint Brieuc,Orleans,2-1,home
+10-09-2021,– Avranches,Laval,0-1,away
+10-09-2021,– Annecy,Red Star,6-0,home
+10-09-2021,– Jong PSV,Jong Ajax,3-1,home
+10-09-2021,– Sligo Rovers,St. Patricks,2-0,home
+10-09-2021,– Atlanta Utd,Orlando City,3-0,home
+10-09-2021,– Vila Nova,Nautico,1-0,home
+10-09-2021,– Jaguares de Cordoba,Ind. Medellin,0-1,away
+10-09-2021,– Club Tijuana,Santos Laguna,2-1,home
+10-09-2021,– Niigata Albirex,Montedio Yamagata,1-2,away
+10-09-2021,– Oita Trinita,Shonan Bellmare,2-0,home
+01-09-2021,– IFK Lulea,Pitea,0-0,draw
+01-09-2021,– Russia,Croatia,0-0,draw
+01-09-2021,– Slovenia,Slovakia,1-1,draw
+01-09-2021,– Belarus U21,Iceland U21,1-2,away
+01-09-2021,– Hungary U21,Israel U21,1-2,away
+01-09-2021,– Iceland,Romania,0-2,away
+01-09-2021,– Norway U21,Austria U21,3-1,home
+01-09-2021,– Den Bosch,Excelsior,0-5,away
+01-09-2021,– Sedan,Avranches,2-0,home
+01-09-2021,– Sete,Creteil,3-1,home
+01-09-2021,– Korona Kielce,Miedz Legnica,0-0,draw
+01-09-2021,– Drogheda,Sligo Rovers,0-0,draw
+01-09-2021,– Girona,Sporting Gijon,1-2,away
+26-08-2021,– Zorya Luhansk,Rapid Vienna,2-3,away
+26-08-2021,– AZ Alkmaar,Celtic,2-1,home
+26-08-2021,– CFR Cluj,Red Star Belgrade,1-2,away
+26-08-2021,– Ural Yekaterinburg,FC Rostov,1-1,draw
+26-08-2021,– Dynamo Moscow,Lokomotiv Moscow,1-1,draw
+26-08-2021,– Nurnberg,Karlsruher SC,2-1,home
+26-08-2021,– Sandhausen,Ingolstadt,0-2,away
+26-08-2021,– Mallorca,Espanyol,1-0,home
+26-08-2021,– Las Palmas,Huesca,2-1,home
+26-08-2021,– Belenenses,Moreirense,1-1,draw
+26-08-2021,– Warta Poznan,Jagiellonia,1-1,draw
+26-08-2021,– Kortrijk,Mechelen,2-2,draw
+26-08-2021,– Malaga,Alcorcon,1-0,home
+17-08-2021,– Huddersfield,Preston,1-0,home
+17-08-2021,– Swansea,Stoke,1-3,away
+17-08-2021,– Peterborough,Cardiff,2-2,draw
+17-08-2021,– Blackpool,Coventry,0-1,away
+17-08-2021,– Millwall,Fulham,1-2,away
+17-08-2021,– MK Dons,Charlton,2-1,home
+17-08-2021,– AFC Wimbledon,Gillingham,1-1,draw
+17-08-2021,– Lincoln,Bolton,0-1,away
+17-08-2021,– Cheltenham,Ipswich,2-1,home
+17-08-2021,– Nottingham,Blackburn,1-2,away
+17-08-2021,– Birmingham,Bournemouth,0-2,away
+17-08-2021,– Middlesbrough,QPR,2-3,away
+17-08-2021,– Benfica,PSV Eindhoven,2-1,home
+12-08-2021,– Molde,Trabzonspor,1-1,draw
+12-08-2021,– Teuta Durres,Shamrock Rovers,0-2,away
+12-08-2021,– Shimizu S-Pulse,Gamba Osaka,0-1,away
+12-08-2021,– St. Pauli,Hamburger SV,3-2,home
+12-08-2021,– Freiburg II,Dortmund II,2-5,away
+12-08-2021,– Bastia-Borgo,Bourg en Bresse,2-2,draw
+12-08-2021,– Cholet,Sete,3-1,home
+12-08-2021,– Go Ahead Eagles,Heerenveen,0-1,away
+12-08-2021,– Huesca,Eibar,2-0,home
+12-08-2021,– Stal Mielec,Wisla Krakow,2-1,home
+12-08-2021,– Charleroi,Royal Antwerp,1-1,draw
+12-08-2021,– Valencia,Getafe,1-0,home
+12-08-2021,– Estoril,Vitoria Guimaraes,0-0,draw
+04-08-2021,– Spartak Moscow,Benfica,0-2,away
+04-08-2021,– Valur,KR Reykjavik,1-0,home
+04-08-2021,– Once Caldas,Ind. Medellin,1-3,away
+04-08-2021,– FK Sochi,Partizan,1-1,draw
+04-08-2021,– Rakow,Rubin Kazan,0-0,draw
+04-08-2021,– HIFK,SJK,Postp,postponed
+04-08-2021,– Resovia Rzeszow,GKS Tychy,1-0,home
+04-08-2021,– Jihlava,Dukla Prague,0-0,draw
+04-08-2021,– Silkeborg,Viborg,4-1,home
+04-08-2021,– Horsens,Helsingor,0-1,away
+04-08-2021,– Bournemouth,West Brom,2-2,draw
+04-08-2021,– Dynamo Dresden,Paderborn,2-1,home
+04-08-2021,– Dundalk,St. Patricks,1-4,away
+28-07-2021,– Union de Santa Fe,Banfield,0-1,away
+28-07-2021,– Godoy Cruz,Atl. Tucuman,1-2,away
+28-07-2021,– Midtjylland,Celtic,1-1,draw
+28-07-2021,– Galatasaray,PSV,1-2,away
+28-07-2021,– Sarmiento,Platense,1-0,home
+28-07-2021,– Gimnasia L.P.,Rosario Central,1-0,home
+28-07-2021,– Gaz Metan Medias,Argesul Pitesti,2-2,draw
+28-07-2021,– Odra Opole,Miedz Legnica,1-4,away
+28-07-2021,– Paderborn,Nurnberg,2-2,draw
+28-07-2021,– GKS Tychy,LKS Lodz,1-1,draw
+28-07-2021,– Rapid Bucuresti,Farul,0-0,draw
+28-07-2021,– Puebla,Guadalajara Chivas,0-2,away
+28-07-2021,– Haka,HIFK,Postp,postponed
+21-07-2021,– Sandefjord,Haugesund,1-1,draw
+21-07-2021,– Stabaek,Lillestrom,2-3,away
+21-07-2021,– Columbus Crew,Nashville SC,0-0,draw
+21-07-2021,– CSA,Vasco da Gama,2-2,draw
+21-07-2021,– Spartak Trnava,Sepsi OSK,0-0,draw
+21-07-2021,– Austin FC,Seattle Sounders,0-1,away
+21-07-2021,– Argesul Pitesti,UTA Arad,0-1,away
+21-07-2021,– Nieciecza KS,Stal Mielec,1-1,draw
+21-07-2021,– FC Juniors,Lafnitz,2-4,away
+21-07-2021,– FK Rostov,Dynamo Moscow,0-2,away
+21-07-2021,– Schalke 04,Hamburger SV,1-3,away
+21-07-2021,– CS Mioveni,Rapid Bucuresti,0-2,away
+21-07-2021,– Standard Liege,Racing Genk,1-1,draw
+15-07-2021,– MuSa,PK-35,1-1,draw
+15-07-2021,– Grotta,Fjolnir,2-1,home
+15-07-2021,– Nacional,CA Penarol,1-2,away
+15-07-2021,– Ilves Tempere,Seinajoen JK,0-1,away
+15-07-2021,– Confianca,Guarani,1-4,away
+15-07-2021,– Matsumoto Yamaga,Mito Hollyhock,0-1,away
+15-07-2021,– Avispa Fukuoka,Gamba Osaka,0-1,away
+15-07-2021,– Sagan Tosu,Nagoya Grampus,3-1,home
+15-07-2021,– Cerezo Osaka,Vissel Kobe,1-1,draw
+15-07-2021,– Renofa Yamaguchi,Blaublitz Akita,1-0,home
+15-07-2021,– Akropolis,Norrby,0-3,away
+15-07-2021,– Landskrona Bois,Trelleborgs FF,4-2,home
+15-07-2021,– GAIS,IK Brage,0-2,away
+08-07-2021,– Atletico Mineiro,Flamengo,2-1,home
+08-07-2021,– Atletico Ottawa,Pacific FC,0-1,away
+08-07-2021,– Charleston Battery,Pittsburgh Riverhounds,1-1,draw
+08-07-2021,– Miami FC,Tampa Bay Rowdies,2-1,home
+08-07-2021,– Chicago Fire,Orlando City,3-1,home
+08-07-2021,– Internacional,Sao Paulo,0-2,away
+08-07-2021,– Austin FC,Los Angeles FC,0-2,away
+08-07-2021,– MC Magra,CS Constantine,1-0,home
+08-07-2021,– New York Red Bulls,Philadelphia Union,1-1,draw
+08-07-2021,– Londrina,Guarani,0-1,away
+08-07-2021,– FC Cincinnati,Columbus Crew,2-2,draw
+08-07-2021,– Goias,Nautico,0-1,away
+08-07-2021,– Kagoshima United,Kataller Toyama,2-2,draw
+30-06-2021,– Fluminense,Athletico-PR,1-4,away
+30-06-2021,– Internacional,Palmeiras,1-2,away
+30-06-2021,– Londrina,Avai,1-3,away
+30-06-2021,– Goias,Vasco da Gama,1-0,home
+30-06-2021,– Corinthians,Sao Paulo,0-0,draw
+30-06-2021,– Mjondalen,Odd Ballklubb,1-2,away
+30-06-2021,– Colorado Springs,Orange County Blues,0-2,away
+30-06-2021,– Jerv,Sogndal,1-0,home
+30-06-2021,– Grorud,Sandnes,1-0,home
+30-06-2021,– Ranheim,Fredrikstad,1-1,draw
+30-06-2021,– Cork City,Treaty United,2-3,away
+30-06-2021,– UC Dublin,Galway,0-2,away
+30-06-2021,– Belgium,Italy,1-2,away
+23-06-2021,– Sweden,Poland,3-2,home
+23-06-2021,– Temperley,San Martin De Tucuman,0-1,away
+23-06-2021,– Deportivo Moron,San Telmo,2-0,home
+23-06-2021,– Claypole,San Martin Burzaco,2-1,home
+23-06-2021,– Torque,CA Penarol,0-1,away
+23-06-2021,– Portugal,France,2-2,draw
+23-06-2021,– Bragantino,Palmeiras,3-1,home
+23-06-2021,– Atletico GO,Fluminense,1-0,home
+23-06-2021,– Deportivo Maldonado,CA Progreso,1-1,draw
+23-06-2021,– Chile,Paraguay,0-2,away
+23-06-2021,– Bahia,Athletico-PR,2-1,home
+23-06-2021,– Cruzeiro,Vasco Da Gama,2-1,home
+23-06-2021,– Sarpsborg,Viking,1-2,away
+16-06-2021,– Turkey,Wales,0-2,away
+16-06-2021,– National Bank,Enppi,2-3,away
+16-06-2021,– Ceramica Cleopatra,El Masry Club,1-2,away
+16-06-2021,– Internacional,Atletico Mineiro,0-1,away
+16-06-2021,– Corinthians,Bragantino,1-2,away
+16-06-2021,– Ponte Preta,Cruzeiro,0-1,away
+16-06-2021,– Villa Dalmine,Deportivo Moron,2-0,home
+16-06-2021,– Guillermo Brown,Gimnasia Jujuy,0-0,draw
+16-06-2021,– Chacarita Juniors,Agropecuario Argentino,2-2,draw
+16-06-2021,– Santamarina,All Boys,2-0,home
+16-06-2021,– Plaza Colonia,Liverpool M.,2-1,home
+16-06-2021,– Nueva Chicago,Deportivo Maipu,1-2,away
+16-06-2021,– Ind. Rivadavia,Barracas Central,0-0,draw
+03-06-2021,– Spain U21,Portugal U21,0-1,away
+03-06-2021,– Rayo Vallecano,Leganes,3-0,home
+03-06-2021,– Netherlands U21,Germany U21,1-2,away
+03-06-2021,– Latvia,Lithuania,3-1,home
+03-06-2021,– Korona Kielce,Widzew Lodz,1-1,draw
+03-06-2021,– Matsumoto Yamaga,Machida Zelvia,1-5,away
+03-06-2021,– Ventforet Kofu,Albirex Niigata,2-2,draw
+03-06-2021,– Brisbane Roar,Sydney FC,0-2,away
+03-06-2021,– Blaublitz Akita,Ryukyu,1-1,draw
+03-06-2021,– Jeonnam Dragons,Seoul E Land,3-0,home
+03-06-2021,– Bucheon,Chungnam Asan FC,1-0,home
+03-06-2021,– Arka Gdynia,Radomiak Radom,0-2,away
+03-06-2021,– Trelleborgs FF,GIF Sundsvall,1-0,home
+26-05-2021,– Sogndal,Fredrikstad,1-2,away
+26-05-2021,– Hapoel Beer Sheva,Maccabi Petach Tikva,2-0,home
+26-05-2021,– Difaa El Jadidi,FUS Rabat,3-1,home
+26-05-2021,– Universidad Catolica,Atletico Nacional,2-0,home
+26-05-2021,– Macarthur,CC Mariners,1-2,away
+26-05-2021,– Sagamihara,Ehime,0-1,away
+26-05-2021,– Gamba Osaka,Tokushima Vortis,2-1,home
+26-05-2021,– Lillestrom,Odd Ballklubb,1-0,home
+26-05-2021,– Toulouse,Nantes,1-2,away
+26-05-2021,– Omiya Ardija,Jef United Chiba,0-2,away
+26-05-2021,– Kashiwa Reysol,Consadole Sapporo,1-2,away
+26-05-2021,– Seongnam Ilhwa,Suwon City,2-3,away
+26-05-2021,– AFC Eskilstuna,Trelleborgs FF,3-2,home
+17-05-2021,– Cittadella,Monza,3-0,home
+17-05-2021,– Bournemouth,Brentford,1-0,home
+17-05-2021,– VFB Lubeck,Zwickau,1-2,away
+17-05-2021,– Verona,Bologna,2-2,draw
+17-05-2021,– Venezia,Lecce,1-0,home
+17-05-2021,– Girona,Sporting Gijon,1-0,home
+17-05-2021,– Barnsley,Swansea,0-1,away
+17-05-2021,– Landskrona Bois,Falkenbergs,2-1,home
+17-05-2021,– Oxford Utd,Blackpool,0-3,away
+17-05-2021,– Southampton,Leeds,0-2,away
+17-05-2021,– Newport,Forest Green,2-0,home
+17-05-2021,– Lincoln,Sunderland,2-0,home
+17-05-2021,– Atalanta,Juventus,1-2,away
+11-05-2021,– Osters IF,GIF Sundsvall,0-2,away
+11-05-2021,– Vendsyssel FF,Kolding IF,3-0,home
+11-05-2021,– Elche,Alaves,0-2,away
+11-05-2021,– Cagliari,Fiorentina,0-0,draw
+11-05-2021,– Kalmar,IFK Goteborg,0-0,draw
+11-05-2021,– Sirius FK,Elfsborg,0-2,away
+11-05-2021,– Dundee Utd,Motherwell,2-2,draw
+11-05-2021,– Huesca,Ath Bilbao,1-0,home
+11-05-2021,– Celta Vigo,Getafe,1-0,home
+11-05-2021,– Halmstad BK,Mjallby,1-1,draw
+11-05-2021,– Aston Villa,Everton,0-0,draw
+11-05-2021,– Eibar,Betis,1-1,draw
+11-05-2021,– RB Leipzig,Borussia Dortmund,1-4,away
+04-05-2021,– Notts County,Sutton United,3-2,home
+04-05-2021,– GAIS,Osters IF,3-2,home
+04-05-2021,– VFB Lubeck,Wehen,0-3,away
+04-05-2021,– Hansa Rostock,Ingolstadt,1-1,draw
+04-05-2021,– Shrewsbury,Ipswich,0-0,draw
+04-05-2021,– Oita Trinita,Tokushima Vortis,1-1,draw
+04-05-2021,– Sanfrecce Hiroshima,Yokohama F. Marinos,1-1,draw
+04-05-2021,– Yokohama,Shonan Bellmare,1-1,draw
+04-05-2021,– Hermannstadt,Viitorul Constanta,0-0,draw
+04-05-2021,– Unterhaching,Waldhof Mannheim,0-2,away
+04-05-2021,– Uerdingen,Viktoria Koln,1-1,draw
+04-05-2021,– Duisburg,Bayern II,2-2,draw
+04-05-2021,– Chelsea,Real Madrid,2-0,home
+27-04-2021,– Argesul Pitesti,UTA Arad,4-1,home
+27-04-2021,– Nurnberg,Holstein Kiel,1-1,draw
+27-04-2021,– Yeovil,Solihull Moors,3-0,home
+27-04-2021,– Bromley,Chesterfield,1-2,away
+27-04-2021,– Eastleigh,Notts Co,2-0,home
+27-04-2021,– Real Madrid,Chelsea,1-1,draw
+27-04-2021,– Chindia Targoviste,Astra Giurgiu,0-0,draw
+27-04-2021,– Orleans,Villefranche,1-3,away
+27-04-2021,– Paris SG,Manchester City,1-2,away
+27-04-2021,– Rosario Central,San Lorenzo,2-0,home
+27-04-2021,– CS U Craiova,Steaua Bucuresti,2-0,home
+27-04-2021,– Ankaragucu,Gaziantep BB,0-1,away
+27-04-2021,– Villarreal,Arsenal,2-1,home
+21-04-2021,– Akhmat Grozny,Krylya Sovetov,0-0,draw
+21-04-2021,– Lokomotiv Moscow,CSKA Moscow,3-0,home
+21-04-2021,– Jagiellonia,Stal Mielec,3-3,draw
+21-04-2021,– Zaglebie Lubin,Wisla Krakow,4-1,home
+21-04-2021,– Osasuna,Valencia,3-1,home
+21-04-2021,– Betis,Ath Bilbao,0-0,draw
+21-04-2021,– ND Gorica,Bravo,3-2,home
+21-04-2021,– Hoffenheim,B. Monchengladbach,3-2,home
+21-04-2021,– Werder Bremen,Mainz,0-1,away
+21-04-2021,– Hamilton,Motherwell,0-1,away
+21-04-2021,– Elche,Valladolid,1-1,draw
+21-04-2021,– Roma,Atalanta,1-1,draw
+21-04-2021,– Granada,Eibar,4-1,home
+13-04-2021,– GIF Sundsvall,Helsingborg,2-2,draw
+13-04-2021,– Sheffield Wed,Swansea,0-2,away
+13-04-2021,– Doncaster,Burton,0-3,away
+13-04-2021,– Rotherham,QPR,3-1,home
+13-04-2021,– Rochdale,Swindon,2-1,home
+13-04-2021,– Walsall,Tranmere,1-0,home
+13-04-2021,– Queen of South,Raith,0-1,away
+13-04-2021,– Paris SG,Bayern Munich,0-1,away
+13-04-2021,– Patriotas,Once Caldas,1-1,draw
+13-04-2021,– Kisvarda,Ujpest,0-1,away
+13-04-2021,– Osnabruck,Jahn Regensburg,0-1,away
+13-04-2021,– Rotherham,Coventry,0-1,away
+13-04-2021,– Roma,Ajax,1-1,draw
+07-04-2021,– FK Sochi,Lokomotiv Moscow,1-3,away
+07-04-2021,– Antalyaspor,Sivasspor,2-4,away
+07-04-2021,– KFCO Wilrijk,Charleroi,2-1,home
+07-04-2021,– AEK Athens,PAOK,0-1,away
+07-04-2021,– CSKA Sofia,Ludogorets Razgrad,1-1,draw
+07-04-2021,– Gaziantep BB,Basaksehir,2-0,home
+07-04-2021,– Denizlispor,Kasimpasa,1-1,draw
+07-04-2021,– Jagiellonia,Cracovia,2-1,home
+07-04-2021,– Argesul Pitesti,Chindia Targoviste,3-1,home
+07-04-2021,– Din. Bucuresti,Clinceni,1-3,away
+07-04-2021,– Creteil,Bourg Peronnas,1-1,draw
+07-04-2021,– Fulham,Wolverhampton,0-1,away
+07-04-2021,– Portimonense,Vitoria Guimaraes,3-0,home
+30-03-2021,– Alcorcon,Real Oviedo,1-1,draw
+30-03-2021,– Malaga,Almeria,0-3,away
+30-03-2021,– Raith Rovers,Dunfermline,5-1,home
+30-03-2021,– Wales,Czech Republic,1-0,home
+30-03-2021,– Albacete,CD Castellon,0-1,away
+30-03-2021,– CE Sabadell,Girona,2-2,draw
+30-03-2021,– Mirandes,Tenerife,Postp,postponed
+30-03-2021,– Austria,Denmark,0-4,away
+30-03-2021,– Cosenza,Ascoli,2-1,home
+30-03-2021,– Northampton,Shrewsbury,1-0,home
+30-03-2021,– Oldham,Stevenage,0-1,away
+30-03-2021,– Pescara Calcio,Pisa,3-1,home
+30-03-2021,– Varzim,Benfica B,2-1,home
+23-03-2021,– Mansfield,Forest Green,0-0,draw
+23-03-2021,– Blackpool,Peterborough,3-1,home
+23-03-2021,– Scunthorpe,Bradford City,2-0,home
+23-03-2021,– Yeovil,Notts Co,2-2,draw
+23-03-2021,– Arbroath,Falkirk,1-2,away
+23-03-2021,– Puszcza,Radomiak Radom,Postp,postponed
+23-03-2021,– Ethiopia,Madagascar,4-0,home
+23-03-2021,– Finland,Bosnia & Herzegovina,2-2,draw
+23-03-2021,– Moldova,Faroe Islands,1-1,draw
+23-03-2021,– Viseu,Varzim,0-1,away
+23-03-2021,– Cape Verde,Cameroon,3-1,home
+23-03-2021,– Sete,Villefranche,0-2,away
+23-03-2021,– Korona Kielce,Miedze Legnica,0-0,draw
+16-03-2021,– Venezia,Lecce,2-3,away
+16-03-2021,– Cosenza,Vicenza,1-1,draw
+16-03-2021,– Covilha,Oliveirense,1-0,home
+16-03-2021,– Luton,Coventry,2-0,home
+16-03-2021,– Mansfield,Carlisle,1-1,draw
+16-03-2021,– Port Vale,Newport,2-1,home
+16-03-2021,– Bournemouth,Swansea,3-0,home
+16-03-2021,– Fleetwood,Ipswich,2-0,home
+16-03-2021,– Sagan Tosu,Kashiwa Reysol,2-0,home
+16-03-2021,– Torino,Sassuolo,3-2,home
+16-03-2021,– Meppen,Uerdingen,0-4,away
+16-03-2021,– QPR,Millwall,3-2,home
+16-03-2021,– Sheffield Wed,Huddersfield,1-1,draw
+09-03-2021,– Blackburn,Swansea,1-1,draw
+09-03-2021,– MK Dons,Blackpool,0-1,away
+09-03-2021,– Bristol Rovers,Accrington,4-1,home
+09-03-2021,– Crewe,Doncaster,1-0,home
+09-03-2021,– AFC Wimbledon,Burton,0-1,away
+09-03-2021,– Ipswich,Lincoln,1-1,draw
+09-03-2021,– Peterborough,Hull,1-3,away
+09-03-2021,– Leyton Orient,Stevenage,0-0,draw
+09-03-2021,– Port Vale,Oldham,0-0,draw
+09-03-2021,– Mansfield,Cheltenham,3-1,home
+09-03-2021,– Portsmouth,Sunderland,0-2,away
+09-03-2021,– Marseille,Rennes,1-0,home
+09-03-2021,– Bayern II,Verl,1-2,away
+03-03-2021,– Levski Sofia,Beroe,3-1,home
+03-03-2021,– Kayserispor,Caykur Rizespor,2-1,home
+03-03-2021,– St Etienne,Lens,2-3,away
+03-03-2021,– Metz,Angers,0-1,away
+03-03-2021,– Petrolul Ploiesti,Astra Giurgiu,0-3,away
+03-03-2021,– QPR,Barnsley,1-3,away
+03-03-2021,– Genoa,Sampdoria,1-1,draw
+03-03-2021,– Sheffield Wed,Rotherham,1-2,away
+03-03-2021,– Nantes,Reims,1-2,away
+03-03-2021,– Stoke,Swansea,1-2,away
+03-03-2021,– Sonderjyske,Odense,1-1,draw
+03-03-2021,– Levante,Ath Bilbao,1-1,draw
+03-03-2021,– Liverpool,Chelsea,0-1,away
+23-02-2021,– Le Mans,Boulogne,3-0,home
+23-02-2021,– Villefranche,Red Star,Postp,postponed
+23-02-2021,– Sete,Quevilly Rouen,0-1,away
+23-02-2021,– Rotherham,Nottingham,0-1,away
+23-02-2021,– Luton,Millwall,1-1,draw
+23-02-2021,– Atl. Madrid,Chelsea,0-1,away
+23-02-2021,– Melbourne Victory,Wellington Phoenix,2-0,home
+23-02-2021,– FC Zlin,Mlada Boleslav,2-1,home
+23-02-2021,– Nimes,Lorient,1-0,home
+23-02-2021,– Barnsley,Stoke,2-0,home
+23-02-2021,– Preston,QPR,0-0,draw
+23-02-2021,– Blackburn,Watford,2-3,away
+23-02-2021,– Atalanta,Real Madrid,0-1,away
+17-02-2021,– Burnley,Fulham,1-1,draw
+17-02-2021,– Oostende,Racing Genk,3-1,home
+17-02-2021,– Barnsley,Blackburn,2-1,home
+17-02-2021,– Sevilla FC,Borussia Dortmund,2-3,away
+17-02-2021,– Dynamo Kyiv,Brugge,1-1,draw
+17-02-2021,– Real Sociedad,Manchester Utd,0-4,away
+17-02-2021,– Benfica,Arsenal,1-1,draw
+17-02-2021,– RB Salzburg,Villarreal,0-2,away
+17-02-2021,– Lille,Ajax,1-2,away
+17-02-2021,– Adelaide United,CC Mariners,3-2,home
+17-02-2021,– Eintracht Braunschweig,Jahn Regensburg,2-0,home
+17-02-2021,– Cagliari,Torino,0-1,away
+17-02-2021,– Wolverhampton,Leeds,1-0,home
+09-02-2021,– TSV Hartberg,WSG Wattens,Postp,postponed
+09-02-2021,– Burnley,Bournemouth,0-2,away
+09-02-2021,– Petrolul Ploiesti,Politehnica Iasi,3-0,home
+09-02-2021,– Rotherham,Cardiff,1-2,away
+09-02-2021,– Northampton,Wigan,0-1,away
+09-02-2021,– Walsall,Mansfield,1-1,draw
+09-02-2021,– Scunthorpe,Bradford City,Postp,postponed
+09-02-2021,– FC Winterthur,Grasshoppers,2-3,away
+09-02-2021,– Universitatea Cluj,UTA Arad,2-1,home
+09-02-2021,– Admira Wacke,SCR Altach,3-1,home
+09-02-2021,– Kilmarnock,Motherwell,0-1,away
+09-02-2021,– Sevilla,Barcelona,2-0,home
+09-02-2021,– Everton,Tottenham,4-4,draw
+02-02-2021,– Chateauroux,Chambly,4-0,home
+02-02-2021,– Caen,Valenciennes,1-1,draw
+02-02-2021,– AJ Auxerre,Toulouse,3-1,home
+02-02-2021,– Dunkerque,Rodez Aveyron,0-0,draw
+02-02-2021,– Coventry,Nottingham,1-2,away
+02-02-2021,– Rotherham,Derby,3-0,home
+02-02-2021,– Newcastle,Crystal Palace,1-2,away
+02-02-2021,– Metz,Montpellier,1-1,draw
+02-02-2021,– Reims,Angers,0-0,draw
+02-02-2021,– Leeds,Everton,1-2,away
+02-02-2021,– Stuttgart,B. Monchengladbach,1-2,away
+02-02-2021,– Lens,Marseille,2-2,draw
+02-02-2021,– St Etienne,Nantes,1-1,draw
+26-01-2021,– Valladolid,Levante,2-4,away
+26-01-2021,– Bristol City,Huddersfield,2-1,home
+26-01-2021,– Betis,Real Sociedad,1-1,draw
+26-01-2021,– Clinceni,Botosani,2-1,home
+26-01-2021,– Politehnica Iasi,UTA Arad,1-2,away
+26-01-2021,– Dundee Utd,St. Mirren,1-5,away
+26-01-2021,– St Johnstone,Aberdeen,0-0,draw
+26-01-2021,– Barnsley,Cardiff,2-2,draw
+26-01-2021,– Swansea,Brentford,1-1,draw
+26-01-2021,– Waalwijk,Sittard,1-2,away
+26-01-2021,– Paderborn,Holstein Kiel,1-1,draw
+26-01-2021,– Karlsruher,Hannover,1-0,home
+26-01-2021,– Everton,Leicester,1-1,draw
+19-01-2021,– Cadiz CF,Levante,2-2,draw
+19-01-2021,– Blackburn,Swansea,Postp,postponed
+19-01-2021,– Hertha Berlin,Hoffenheim,0-3,away
+19-01-2021,– Rotherham,Stoke,3-3,draw
+19-01-2021,– Schalke,FC Koln,1-2,away
+19-01-2021,– Eupen,KFCO Wilrijk,3-1,home
+19-01-2021,– Mechelen,Standard Liege,0-4,away
+19-01-2021,– Huddersfield,Millwall,0-1,away
+19-01-2021,– Nottingham,Middlesbrough,1-2,away
+19-01-2021,– SC Freiburg,Eintracht Frankfurt,2-2,draw
+19-01-2021,– Birmingham,Preston,0-1,away
+19-01-2021,– Ankaragucu,Kasimpasa,1-0,home
+19-01-2021,– Zulte Waregem,OH Leuven,2-3,away
+12-01-2021,– Sheffield Utd,Newcastle,1-0,home
+12-01-2021,– Wolverhampton,Everton,1-2,away
+12-01-2021,– Palmeiras,River Plate,0-2,away
+12-01-2021,– FC Hermannstadt,Din. Bucuresti,0-2,away
+12-01-2021,– PAOK,Olympiacos Piraeus,1-1,draw
+12-01-2021,– ADO Den Haag,VVV Venlo,1-4,away
+12-01-2021,– Santos,Boca Juniors,3-0,home
+12-01-2021,– Lanus,Velez Sarsfield,3-0,home
+12-01-2021,– Aris Salonica,AEK Athens,0-1,away
+12-01-2021,– Willem II,Groningen,2-3,away
+12-01-2021,– Kickers Wurzburger,Eintracht Braunschweig,0-0,draw
+12-01-2021,– Lazio,Roma,3-0,home
+12-01-2021,– Vicenza,Frosinone,0-0,draw
+05-01-2021,– Chambly,Le Havre,0-1,away
+05-01-2021,– Guingamp,Amiens,2-2,draw
+05-01-2021,– Cagliari,Benevento,1-2,away
+05-01-2021,– Bologna,Udinese,2-2,draw
+05-01-2021,– Torino,Verona,1-1,draw
+05-01-2021,– Antalyaspor,Fatih Karagumruk,3-1,home
+05-01-2021,– Metz,Bordeaux,0-0,draw
+05-01-2021,– AC Milan,Juventus,1-3,away
+05-01-2021,– Botafogo RJ,Athletico-PR,0-2,away
+05-01-2021,– Sport Recife,Fortaleza,1-0,home
+05-01-2021,– Ceara,Internacional,0-2,away
+05-01-2021,– Karlsruher,Greuther Furth,3-2,home
+05-01-2021,– Waldhof Mannheim,Verl,2-2,draw
+29-12-2020,– Birmingham,Derby,0-4,away
+29-12-2020,– Burnley,Sheffield Utd,1-0,home
+29-12-2020,– Brighton,Arsenal,0-1,away
+29-12-2020,– Moreirense,Santa Clara,1-0,home
+29-12-2020,– Luton,Bristol City,2-1,home
+29-12-2020,– Northampton,Gillingham,3-1,home
+29-12-2020,– Plymouth,Oxford Utd,2-3,away
+29-12-2020,– Huddersfield,Blackburn,2-1,home
+29-12-2020,– Rotherham,Barnsley,1-2,away
+29-12-2020,– Cadiz CF,Valladolid,0-0,draw
+29-12-2020,– Brentford,Bournemouth,2-1,home
+29-12-2020,– Ath Bilbao,Real Sociedad,0-1,away
+29-12-2020,– Osasuna,Alaves,1-1,draw
+22-12-2020,– Crotone,Parma,2-1,home
+22-12-2020,– Brentford,Newcastle,1-0,home
+22-12-2020,– Grenoble,Troyes,2-0,home
+22-12-2020,– Niort,Valenciennes,Postp,postponed
+22-12-2020,– Caen,Sochaux,1-4,away
+22-12-2020,– Dynamo Dresden,Darmstadt,0-3,away
+22-12-2020,– Getafe,Celta Vigo,1-1,draw
+22-12-2020,– Nimes,Dijon,1-3,away
+22-12-2020,– Wehen,Jahn Regensburg,0-0,draw
+22-12-2020,– Spezia,Genoa,1-2,away
+22-12-2020,– Angers,Marseille,2-1,home
+22-12-2020,– FC Porto,Benfica,2-0,home
+22-12-2020,– Alaves,Eibar,2-1,home
+15-12-2020,– QPR,Stoke,0-0,draw
+15-12-2020,– Barnsley,Preston,2-1,home
+15-12-2020,– Bristol City,Millwall,0-2,away
+15-12-2020,– Nottingham,Sheffield Wed,2-0,home
+15-12-2020,– Watford,Brentford,1-1,draw
+15-12-2020,– Derby,Swansea,2-0,home
+15-12-2020,– Reims,Nantes,3-2,home
+15-12-2020,– Arminia Bielefeld,Augsburg,0-1,away
+15-12-2020,– Verona,Sampdoria,1-2,away
+15-12-2020,– Fulham,Brighton,0-0,draw
+15-12-2020,– Rennes,Marseille,2-1,home
+15-12-2020,– Coventry,Huddersfield,0-0,draw
+15-12-2020,– Reading,Norwich,1-2,away

@@ -1,0 +1,1684 @@
+Date,JackpotId,Home,Away,Score,Result
+2023-01-01T20:24:14.192Z,3,AFC Bournemouth,Crystal Palace,0:2,Away
+2023-01-01T20:24:14.192Z,3,Hapoel Tel Aviv FC,Maccabi Netanya FC,1:1,Draw
+2023-01-01T20:24:14.192Z,3,Sekhukhune United,AmaZulu FC,0:0,Draw
+2023-01-01T20:24:14.192Z,3,Bnei Sakhnin FC,Hapoel Haifa FC,1:2,Away
+2023-01-01T20:24:14.192Z,3,FC Ashdod,Hapoel Jerusalem FC,1:1,Draw
+2023-01-01T20:24:14.192Z,3,Blackburn Rovers,Cardiff City,1:0,Home
+2023-01-01T20:24:14.192Z,3,Angers SCO,FC Lorient,1:2,Away
+2023-01-01T20:24:14.192Z,3,Hartlepool United,Harrogate Town,3:3,Draw
+2023-01-01T20:24:14.192Z,3,Walsall FC,Mansfield Town,2:1,Home
+2023-01-01T20:24:14.192Z,3,Huddersfield Town,Luton Town,1:2,Away
+2023-01-01T20:24:14.192Z,3,Blackpool,Sunderland AFC,1:1,Draw
+2023-01-01T20:24:14.192Z,3,Morecambe FC,Burton Albion,5:0,Home
+2023-01-01T20:24:14.192Z,3,Colchester United,Swindon Town,1:0,Home
+2023-01-01T20:24:14.192Z,3,Crewe Alexandra,Tranmere Rovers FC,1:0,Home
+2023-01-01T20:24:14.192Z,3,Doncaster Rovers,Carlisle United,2:1,Home
+2023-01-01T20:24:14.192Z,3,Grimsby Town,Stockport County FC,1:0,Home
+2023-01-01T20:24:14.192Z,3,Hapoel Hadera FC,Maccabi Bney Reine,2:2,Draw
+2023-01-08T20:02:30.164Z,4,KAS Eupen,Royal Charleroi SC,1:2,Away
+2023-01-08T20:02:30.164Z,4,Millwall FC,Sheffield United,0:2,Away
+2023-01-08T20:02:30.164Z,4,AFC Bournemouth,Burnley FC,2:4,Away
+2023-01-08T20:02:30.164Z,4,Cambridge United,Bristol Rovers,1:2,Away
+2023-01-08T20:02:30.164Z,4,Morecambe FC,Cheltenham Town,2:1,Home
+2023-01-08T20:02:30.164Z,4,RKC Waalwijk,SC Heerenveen,0:0,Draw
+2023-01-08T20:02:30.164Z,4,Brentford FC,West Ham United,0:1,Away
+2023-01-08T20:02:30.164Z,4,Fortuna Sittard,Go Ahead Eagles,0:2,Away
+2023-01-08T20:02:30.164Z,4,Royal Antwerp FC,KAA Gent,2:0,Home
+2023-01-08T20:02:30.164Z,4,Espanyol Barcelona,Girona FC,2:2,Draw
+2023-01-08T20:02:30.164Z,4,US Salernitana,Torino FC,1:1,Draw
+2023-01-08T20:02:30.164Z,4,Bristol City,Swansea City,1:1,Draw
+2023-01-08T20:02:30.164Z,4,Spezia Calcio,US Lecce,0:0,Draw
+2023-01-08T20:02:30.164Z,4,SV Zulte Waregem,Yellow-Red KV Mechelen,2:0,Home
+2023-01-08T20:02:30.164Z,4,FC Pacos Ferreira,GD Chaves,1:1,Draw
+2023-01-08T20:02:30.164Z,4,Excelsior Rotterdam,FC Groningen,1:0,Home
+2023-01-08T20:02:30.164Z,4,Fenerbahce Istanbul,Galatasaray Istanbul,0:3,Away
+2023-01-15T16:40:46.418Z,5,Nottingham Forest,Leicester City,2:0,Home
+2023-01-15T16:40:46.418Z,5,Wolverhampton Wanderers,West Ham United,1:0,Home
+2023-01-15T16:40:46.418Z,5,Luton Town,West Bromwich Albion,2:3,Away
+2023-01-15T16:40:46.418Z,5,Preston North End,Norwich City,0:4,Away
+2023-01-15T16:40:46.418Z,5,Reading FC,Queens Park Rangers,2:2,Draw
+2023-01-15T16:40:46.418Z,5,Sunderland AFC,Swansea City,1:3,Away
+2023-01-15T16:40:46.418Z,5,DR Congo,Uganda,0:0,Draw
+2023-01-15T16:40:46.418Z,5,Girona FC,Sevilla FC,2:1,Home
+2023-01-15T16:40:46.418Z,5,KAS Eupen,St. Truidense VV,0:2,Away
+2023-01-15T16:40:46.418Z,5,FC Volendam,RKC Waalwijk,2:1,Home
+2023-01-15T16:40:46.418Z,5,Ivory Coast,Senegal,0:1,Away
+2023-01-15T16:40:46.418Z,5,Real Sociedad San Sebastian,Athletic Bilbao,3:1,Home
+2023-01-15T16:40:46.418Z,5,Getafe CF,Espanyol Barcelona,1:2,Away
+2023-01-15T16:40:46.418Z,5,Go Ahead Eagles,FC Utrecht,2:2,Draw
+2023-01-15T16:40:46.418Z,5,Angers SCO,Clermont Foot 63,1:2,Away
+2023-01-15T16:40:46.418Z,5,Montpellier HSC,FC Nantes,0:3,Away
+2023-01-15T16:40:46.418Z,5,Stade Reims,OGC Nice,0:0,Draw
+2023-01-23T08:45:34.907Z,6,AFC Bournemouth,Nottingham Forest,1:1,Draw
+2023-01-23T08:45:34.907Z,6,Southampton FC,Aston Villa,0:1,Away
+2023-01-23T08:45:34.907Z,6,Birmingham City,Preston North End,1:2,Away
+2023-01-23T08:45:34.907Z,6,Blackpool,Huddersfield Town,PD:X,Draw
+2023-01-23T08:45:34.907Z,6,Cardiff City,Millwall FC,0:1,Away
+2023-01-23T08:45:34.907Z,6,Queens Park Rangers,Swansea City,1:1,Draw
+2023-01-23T08:45:34.907Z,6,Wigan Athletic,Luton Town,0:2,Away
+2023-01-23T08:45:34.907Z,6,Espanyol Barcelona,Real Betis Seville,1:0,Home
+2023-01-23T08:45:34.907Z,6,SC Cambuur,Sparta Rotterdam,0:3,Away
+2023-01-23T08:45:34.907Z,6,RKC Waalwijk,Go Ahead Eagles,PD:2,Away
+2023-01-23T08:45:34.907Z,6,Gaziantep FK,Sivasspor,1:2,Away
+2023-01-23T08:45:34.907Z,6,Sunderland AFC,Middlesbrough FC,2:0,Home
+2023-01-23T08:45:34.907Z,6,Feyenoord Rotterdam,Ajax Amsterdam,1:1,Draw
+2023-01-23T08:45:34.907Z,6,Leeds United,Brentford FC,0:0,Draw
+2023-01-23T08:45:34.907Z,6,AC Monza,Sassuolo Calcio,1:1,Draw
+2023-01-23T08:45:34.907Z,6,Maritimo Madeira,Estoril Praia,1:0,Home
+2023-01-23T08:45:34.907Z,6,Borussia Monchengladbach,Bayer Leverkusen,2:3,Away
+2023-01-29T20:31:20.135Z,7,Hull City,Queens Park Rangers,3:0,Home
+2023-01-29T20:31:20.135Z,7,Blackburn Rovers,Birmingham City,2:2,Draw
+2023-01-29T20:31:20.135Z,7,Getafe CF,Real Betis Seville,0:1,Away
+2023-01-29T20:31:20.135Z,7,FC Twente Enschede,Feyenoord Rotterdam,1:1,Draw
+2023-01-29T20:31:20.135Z,7,OGC Nice,Lille OSC,1:0,Home
+2023-01-29T20:31:20.135Z,7,RSC Anderlecht,Royal Antwerp FC,0:0,Draw
+2023-01-29T20:31:20.135Z,7,Real Valladolid,Valencia CF,1:0,Home
+2023-01-29T20:31:20.135Z,7,Brighton & Hove Albion,Liverpool FC,2:1,Home
+2023-01-29T20:31:20.135Z,7,AJ Auxerre,Montpellier HSC,0:2,Away
+2023-01-29T20:31:20.135Z,7,Clermont Foot 63,FC Nantes,0:0,Draw
+2023-01-29T20:31:20.135Z,7,Schalke 04,1. FC Cologne,0:0,Draw
+2023-01-29T20:31:20.135Z,7,Cercle Brugge,KAA Gent,3:2,Home
+2023-01-29T20:31:20.135Z,7,CA Osasuna,Atletico Madrid,0:1,Away
+2023-01-29T20:31:20.135Z,7,SC Cambuur,Fortuna Sittard,1:2,Away
+2023-01-29T20:31:20.135Z,7,Bayer Leverkusen,Borussia Dortmund,0:2,Away
+2023-01-29T20:31:20.135Z,7,RC Celta de Vigo,Athletic Bilbao,1:0,Home
+2023-01-29T20:31:20.135Z,7,Boavista Porto,Portimonense SC,4:2,Home
+2023-02-05T17:01:26.560Z,8,Preston North End,Bristol City,1:2,Away
+2023-02-05T17:01:26.560Z,8,Huddersfield Town,Queens Park Rangers,1:1,Draw
+2023-02-05T17:01:26.560Z,8,Reading FC,Watford FC,2:2,Draw
+2023-02-05T17:01:26.560Z,8,KAS Eupen,KVC Westerlo,1:1,Draw
+2023-02-05T17:01:26.560Z,8,FC Emmen,Vitesse Arnhem,2:2,Draw
+2023-02-05T17:01:26.560Z,8,Excelsior Rotterdam,RKC Waalwijk,0:0,Draw
+2023-02-05T17:01:26.560Z,8,Stade Rennes,Lille OSC,1:3,Away
+2023-02-05T17:01:26.560Z,8,Estoril Praia,Vitoria SC Guimaraes,0:1,Away
+2023-02-05T17:01:26.560Z,8,Argentinos Juniors,Racing Club Avellaneda,1:0,Home
+2023-02-05T17:01:26.560Z,8,Atletico Lanus,CA San Lorenzo de Almagro,2:1,Home
+2023-02-05T17:01:26.560Z,8,Royal Antwerp FC,Club Brugge,0:0,Draw
+2023-02-05T17:01:26.560Z,8,Villarreal CF B,Granada CF,0:2,Away
+2023-02-05T17:01:26.560Z,8,FC Sion,FC Zurich,0:1,Away
+2023-02-05T17:01:26.560Z,8,Go Ahead Eagles,NEC Nijmegen,1:0,Home
+2023-02-05T17:01:26.560Z,8,Nottingham Forest,Leeds United,1:0,Home
+2023-02-05T17:01:26.560Z,8,AC Ajaccio,FC Nantes,0:2,Away
+2023-02-05T17:01:26.560Z,8,Torino FC,Udinese Calcio,1:0,Home
+2023-02-12T22:08:51.629Z,9,Southampton FC,Wolverhampton Wanderers,1:2,Away
+2023-02-12T22:08:51.629Z,9,KVC Westerlo,KAA Gent,3:3,Draw
+2023-02-12T22:08:51.629Z,9,UD Almeria,Real Betis Seville,2:3,Away
+2023-02-12T22:08:51.629Z,9,Lazio Rome,Atalanta BC,0:2,Away
+2023-02-12T22:08:51.629Z,9,Valencia CF,Athletic Bilbao,1:2,Away
+2023-02-12T22:08:51.629Z,9,Macarthur FC,Wellington Phoenix FC,2:1,Home
+2023-02-12T22:08:51.629Z,9,Toulouse FC,Stade Rennes,3:1,Home
+2023-02-12T22:08:51.629Z,9,Getafe CF,Rayo Vallecano,1:1,Draw
+2023-02-12T22:08:51.629Z,9,Vitesse Arnhem,FC Utrecht,2:0,Home
+2023-02-12T22:08:51.629Z,9,Angers SCO,AJ Auxerre,1:1,Draw
+2023-02-12T22:08:51.629Z,9,Montpellier HSC,Stade Brest 29,3:0,Home
+2023-02-12T22:08:51.629Z,9,Hertha BSC,Borussia Monchengladbach,4:1,Home
+2023-02-12T22:08:51.629Z,9,RC Celta de Vigo,Atletico Madrid,0:1,Away
+2023-02-12T22:08:51.629Z,9,1. FC Cologne,Eintracht Frankfurt,3:0,Home
+2023-02-12T22:08:51.629Z,9,Real Valladolid,CA Osasuna,0:0,Draw
+2023-02-12T22:08:51.629Z,9,Sporting Lisbon,FC Porto,1:2,Away
+2023-02-12T22:08:51.629Z,9,Olympique Lyon,RC Lens,2:1,Home
+2023-02-19T18:29:27.668Z,10,Huddersfield Town,Birmingham City,2:1,Home
+2023-02-19T18:29:27.668Z,10,Hull City,Preston North End,0:0,Draw
+2023-02-19T18:29:27.668Z,10,Blackpool,Stoke City,1:0,Home
+2023-02-19T18:29:27.668Z,10,Everton FC,Leeds United,1:0,Home
+2023-02-19T18:29:27.668Z,10,Portimonense SC,Maritimo Madeira,2:1,Home
+2023-02-19T18:29:27.668Z,10,FC Winterthur,FC Sion,1:1,Draw
+2023-02-19T18:29:27.668Z,10,RCD Mallorca,Villarreal CF,4:2,Home
+2023-02-19T18:29:27.668Z,10,Newcastle United,Liverpool FC,0:2,Away
+2023-02-19T18:29:27.668Z,10,CD Leganes,UD Las Palmas,0:0,Draw
+2023-02-19T18:29:27.668Z,10,FC Groningen,FC Emmen,1:1,Draw
+2023-02-19T18:29:27.668Z,10,SC Cambuur,SC Heerenveen,1:2,Away
+2023-02-19T18:29:27.668Z,10,Motherwell FC,Heart of Midlothian FC,2:0,Home
+2023-02-19T18:29:27.668Z,10,Elche CF,Espanyol Barcelona,0:1,Away
+2023-02-19T18:29:27.668Z,10,SD Huesca,Granada CF,1:1,Draw
+2023-02-19T18:29:27.668Z,10,ESTAC Troyes,Montpellier HSC,0:1,Away
+2023-02-19T18:29:27.668Z,10,Rayo Vallecano,Sevilla FC,1:1,Draw
+2023-02-19T18:29:27.668Z,10,Santa Clara Azores,FC Famalicao,1:3,Away
+2023-02-26T18:48:20.800Z,11,Everton FC,Aston Villa,0:2,Away
+2023-02-26T18:48:20.800Z,11,Birmingham City,Luton Town,0:1,Away
+2023-02-26T18:48:20.800Z,11,Bristol City,Hull City,1:0,Home
+2023-02-26T18:48:20.800Z,11,Queens Park Rangers,Blackburn Rovers,1:3,Away
+2023-02-26T18:48:20.800Z,11,Stoke City,Millwall FC,0:1,Away
+2023-02-26T18:48:20.800Z,11,West Bromwich Albion,Middlesbrough FC,2:0,Home
+2023-02-26T18:48:20.800Z,11,Cadiz CF,Rayo Vallecano,1:0,Home
+2023-02-26T18:48:20.800Z,11,Schalke 04,VfB Stuttgart,2:1,Home
+2023-02-26T18:48:20.800Z,11,Maritimo Madeira,Santa Clara Azores,3:1,Home
+2023-02-26T18:48:20.800Z,11,US Lecce,Sassuolo Calcio,0:1,Away
+2023-02-26T18:48:20.800Z,11,Valencia CF,Real Sociedad San Sebastian,1:0,Home
+2023-02-26T18:48:20.800Z,11,Tottenham Hotspur,Chelsea FC,2:0,Home
+2023-02-26T18:48:20.800Z,11,FC Nantes,Stade Rennes,0:1,Away
+2023-02-26T18:48:20.800Z,11,Clermont Foot 63,Strasbourg Alsace,1:1,Draw
+2023-02-26T18:48:20.800Z,11,SC Freiburg,Bayer Leverkusen,1:1,Draw
+2023-02-26T18:48:20.800Z,11,Rio Ave FC,GD Chaves,1:0,Home
+2023-02-26T18:48:20.800Z,11,FC Lugano,FC Basel 1893,2:2,Draw
+2023-03-05T22:37:19.412Z,12,Tenerife CD,SD Eibar,0:1,Away
+2023-03-05T22:37:19.412Z,12,Southampton FC,Leicester City,1:0,Home
+2023-03-05T22:37:19.412Z,12,FC Volendam,FC Emmen,3:1,Home
+2023-03-05T22:37:19.412Z,12,Standard Liege,KVC Westerlo,2:0,Home
+2023-03-05T22:37:19.412Z,12,ACF Fiorentina,AC Milan,2:1,Home
+2023-03-05T22:37:19.412Z,12,CD Mirandes,Real Oviedo,1:0,Home
+2023-03-05T22:37:19.412Z,12,Spezia Calcio,Hellas Verona,0:0,Draw
+2023-03-05T22:37:19.412Z,12,Hansa Rostock,Karlsruher SC,0:2,Away
+2023-03-05T22:37:19.412Z,12,Real Valladolid,Espanyol Barcelona,2:1,Home
+2023-03-05T22:37:19.412Z,12,Nottingham Forest,Everton FC,2:2,Draw
+2023-03-05T22:37:19.412Z,12,Liverpool FC,Manchester United,7:0,Home
+2023-03-05T22:37:19.412Z,12,VfL Wolfsburg,Eintracht Frankfurt,2:2,Draw
+2023-03-05T22:37:19.412Z,12,Rayo Vallecano,Athletic Bilbao,0:0,Draw
+2023-03-05T22:37:19.412Z,12,Santa Clara Azores,Vitoria SC Guimaraes,1:3,Away
+2023-03-05T22:37:19.412Z,12,SC Cambuur,Go Ahead Eagles,4:1,Home
+2023-03-05T22:37:19.412Z,12,Stade Rennes,Olympique Marseille,0:1,Away
+2023-03-05T22:37:19.412Z,12,AS Roma,Juventus Turin,1:0,Home
+2023-03-12T21:23:44.475Z,13,Everton FC,Brentford FC,1:0,Home
+2023-03-12T21:23:44.475Z,13,Preston North End,Cardiff City,2:0,Home
+2023-03-12T21:23:44.475Z,13,Queens Park Rangers,Watford FC,1:0,Home
+2023-03-12T21:23:44.475Z,13,Elche CF,Real Valladolid,1:1,Draw
+2023-03-12T21:23:44.475Z,13,FC Pacos Ferreira,Santa Clara Azores,1:0,Home
+2023-03-12T21:23:44.475Z,13,KAS Eupen,KV Oostende,4:4,Draw
+2023-03-12T21:23:44.475Z,13,Bologna FC,Lazio Rome,0:0,Draw
+2023-03-12T21:23:44.475Z,13,Sparta Rotterdam,Vitesse Arnhem,3:1,Home
+2023-03-12T21:23:44.475Z,13,NEC Nijmegen,FC Utrecht,2:2,Draw
+2023-03-12T21:23:44.475Z,13,US Lecce,Torino FC,0:2,Away
+2023-03-12T21:23:44.475Z,13,RCD Mallorca,Real Sociedad San Sebastian,1:1,Draw
+2023-03-12T21:23:44.475Z,13,AC Ajaccio,Montpellier HSC,0:1,Away
+2023-03-12T21:23:44.475Z,13,FC Nantes,OGC Nice,2:2,Draw
+2023-03-12T21:23:44.475Z,13,Hellas Verona,AC Monza,1:1,Draw
+2023-03-12T21:23:44.475Z,13,Rio Ave FC,Gil Vicente Barcelos,2:1,Home
+2023-03-12T21:23:44.475Z,13,KRC Genk,Union Saint-Gilloise,1:2,Away
+2023-03-12T21:23:44.475Z,13,VfL Wolfsburg,Union Berlin,1:1,Draw
+2023-03-20T10:17:12.259Z,14,Rotherham United,Cardiff City,PD:2,Away
+2023-03-20T10:17:12.259Z,14,Aberdeen FC,Heart of Midlothian FC,3:0,Home
+2023-03-20T10:17:12.259Z,14,Stoke City,Norwich City,0:0,Draw
+2023-03-20T10:17:12.259Z,14,Albacete Balompie,Granada CF,1:2,Away
+2023-03-20T10:17:12.259Z,14,Portimonense SC,FC Vizela,0:1,Away
+2023-03-20T10:17:12.259Z,14,Espanyol Barcelona,RC Celta de Vigo,1:3,Away
+2023-03-20T10:17:12.259Z,14,FC Emmen,Sparta Rotterdam,0:2,Away
+2023-03-20T10:17:12.259Z,14,Chamois Niort FC,Stade Lavallois MFC,3:2,Home
+2023-03-20T10:17:12.259Z,14,Quevilly-Rouen Metropole,FC Metz,1:2,Away
+2023-03-20T10:17:12.259Z,14,FC Groningen,SC Heerenveen,0:2,Away
+2023-03-20T10:17:12.259Z,14,Sampdoria Genoa,Hellas Verona,3:1,Home
+2023-03-20T10:17:12.259Z,14,Eintracht Braunschweig,Hannover 96,1:0,Home
+2023-03-20T10:17:12.259Z,14,Excelsior Rotterdam,SC Cambuur,4:1,Home
+2023-03-20T10:17:12.259Z,14,ESTAC Troyes,Stade Brest 29,2:2,Draw
+2023-03-20T10:17:12.259Z,14,CA Osasuna,Villarreal CF,0:3,Away
+2023-03-20T10:17:12.259Z,14,FK Austria Wien,SK Rapid Wien,2:0,Home
+2023-03-20T10:17:12.259Z,14,Lazio Rome,AS Roma,1:0,Home
+2023-03-26T20:16:20.828Z,15,Peterborough United,Derby County,2:0,Home
+2023-03-26T20:16:20.828Z,15,Doncaster Rovers,Northampton Town,0:2,Away
+2023-03-26T20:16:20.828Z,15,Racing Santander,Levante UD,0:1,Away
+2023-03-26T20:16:20.828Z,15,UD Ibiza,Burgos CF,2:0,Home
+2023-03-26T20:16:20.828Z,15,Bogota FC,Tigres FC,0:1,Away
+2023-03-26T20:16:20.828Z,15,Portland Timbers,Los Angeles Galaxy,0:0,Draw
+2023-03-26T20:16:20.828Z,15,Charlotte FC,New York Red Bulls,1:1,Draw
+2023-03-26T20:16:20.828Z,15,Columbus Crew,Atlanta United FC,6:1,Home
+2023-03-26T20:16:20.828Z,15,DC United,New England Revolution,1:2,Away
+2023-03-26T20:16:20.828Z,15,Houston Dynamo,New York City FC,1:0,Home
+2023-03-26T20:16:20.828Z,15,Sporting Kansas City,Seattle Sounders,1:4,Away
+2023-03-26T20:16:20.828Z,15,CF Correcaminos UAT,CD Mineros de Zacatecas,1:0,Home
+2023-03-26T20:16:20.828Z,15,Pumas de Tabasco,Raya2 Expansion,1:3,Away
+2023-03-26T20:16:20.828Z,15,Iwaki FC,Machida Zelvia,0:1,Away
+2023-03-26T20:16:20.828Z,15,FC Dordrecht,Helmond Sport,0:0,Draw
+2023-03-26T20:16:20.828Z,15,SD Ponferradina,CD Mirandes,0:0,Draw
+2023-03-26T20:16:20.828Z,15,Real Zaragoza,Albacete Balompie,1:1,Draw
+2023-04-02T18:52:18.644Z,16,Crystal Palace,Leicester City,2:1,Home
+2023-04-02T18:52:18.644Z,16,AFC Bournemouth,Fulham FC,2:1,Home
+2023-04-02T18:52:18.644Z,16,Nottingham Forest,Wolverhampton Wanderers,1:1,Draw
+2023-04-02T18:52:18.644Z,16,Cadiz CF,Sevilla FC,0:2,Away
+2023-04-02T18:52:18.644Z,16,SC Cambuur,FC Emmen,1:2,Away
+2023-04-02T18:52:18.644Z,16,Stade Rennes,RC Lens,0:1,Away
+2023-04-02T18:52:18.644Z,16,RKC Waalwijk,Vitesse Arnhem,1:0,Home
+2023-04-02T18:52:18.644Z,16,Umraniyespor,Konyaspor,2:2,Draw
+2023-04-02T18:52:18.644Z,16,Bologna FC,Udinese Calcio,3:0,Home
+2023-04-02T18:52:18.644Z,16,Grasshopper Club Zurich,FC Lugano,2:1,Home
+2023-04-02T18:52:18.644Z,16,FC Nantes,Stade Reims,0:3,Away
+2023-04-02T18:52:18.644Z,16,Stade Brest 29,Toulouse FC,3:1,Home
+2023-04-02T18:52:18.644Z,16,Giresunspor,Alanyaspor,2:2,Draw
+2023-04-02T18:52:18.644Z,16,Maritimo Madeira,Boavista Porto,4:2,Home
+2023-04-02T18:52:18.644Z,16,Newcastle United,Manchester United,2:0,Home
+2023-04-02T18:52:18.644Z,16,Werder Bremen,TSG Hoffenheim,1:2,Away
+2023-04-02T18:52:18.644Z,16,Villarreal CF,Real Sociedad San Sebastian,2:0,Home
+2023-04-09T19:01:11.231Z,17,Brentford FC,Newcastle United,1:2,Away
+2023-04-09T19:01:11.231Z,17,Fulham FC,West Ham United,0:1,Away
+2023-04-09T19:01:11.231Z,17,Tottenham Hotspur,Brighton & Hove Albion,2:1,Home
+2023-04-09T19:01:11.231Z,17,Sampdoria Genoa,US Cremonese,2:3,Away
+2023-04-09T19:01:11.231Z,17,Hellas Verona,Sassuolo Calcio,2:1,Home
+2023-04-09T19:01:11.231Z,17,Torino FC,AS Roma,0:1,Away
+2023-04-09T19:01:11.231Z,17,Lazio Rome,Juventus Turin,2:1,Home
+2023-04-09T19:01:11.231Z,17,KAA Gent,Union Saint-Gilloise,1:1,Draw
+2023-04-09T19:01:11.231Z,17,Olympique Lyon,Stade Rennes,3:1,Home
+2023-04-09T19:01:11.231Z,17,Real Valladolid,RCD Mallorca,3:3,Draw
+2023-04-09T19:01:11.231Z,17,AC Ajaccio,AJ Auxerre,0:3,Away
+2023-04-09T19:01:11.231Z,17,Montpellier HSC,Toulouse FC,1:2,Away
+2023-04-09T19:01:11.231Z,17,ESTAC Troyes,Clermont Foot 63,0:2,Away
+2023-04-09T19:01:11.231Z,17,Borussia Monchengladbach,VfL Wolfsburg,2:0,Home
+2023-04-09T19:01:11.231Z,17,Liverpool FC,Arsenal FC,2:2,Draw
+2023-04-09T19:01:11.231Z,17,VfL Bochum,VfB Stuttgart,2:3,Away
+2023-04-09T19:01:11.231Z,17,UD Almeria,Valencia CF,2:1,Home
+2023-04-16T20:12:42.705Z,18,Wolverhampton Wanderers,Brentford FC,2:0,Home
+2023-04-16T20:12:42.705Z,18,Chelsea FC,Brighton & Hove Albion,1:2,Away
+2023-04-16T20:12:42.705Z,18,Southampton FC,Crystal Palace,0:2,Away
+2023-04-16T20:12:42.705Z,18,KAS Eupen,SV Zulte Waregem,1:5,Away
+2023-04-16T20:12:42.705Z,18,Blackpool,Wigan Athletic,1:0,Home
+2023-04-16T20:12:42.705Z,18,Queens Park Rangers,Coventry City,0:3,Away
+2023-04-16T20:12:42.705Z,18,Stoke City,West Bromwich Albion,1:2,Away
+2023-04-16T20:12:42.705Z,18,Estoril Praia,Portimonense SC,0:1,Away
+2023-04-16T20:12:42.705Z,18,Stade Rennes,Stade Reims,3:0,Home
+2023-04-16T20:12:42.705Z,18,KV Oostende,Oud-Heverlee Leuven,0:4,Away
+2023-04-16T20:12:42.705Z,18,Sparta Rotterdam,SC Heerenveen,4:0,Home
+2023-04-16T20:12:42.705Z,18,America FC MG,Fluminense FC RJ,0:3,Away
+2023-04-16T20:12:42.705Z,18,Botafogo FR RJ,Sao Paulo FC SP,2:1,Home
+2023-04-16T20:12:42.705Z,18,Gimnasia Y Esgrima La Plata,CA Belgrano,0:2,Away
+2023-04-16T20:12:42.705Z,18,Malaga CF,FC Cartagena,1:0,Home
+2023-04-16T20:12:42.705Z,18,Union de Santa Fe,CA Tigre,0:0,Draw
+2023-04-16T20:12:42.705Z,18,VfL Wolfsburg,Bayer Leverkusen,0:0,Draw
+2023-04-25T15:53:32.758Z,19,Brentford FC,Aston Villa,1:1,Draw
+2023-04-25T15:53:32.758Z,19,Leicester City,Wolverhampton Wanderers,2:1,Home
+2023-04-25T15:53:32.758Z,19,Preston North End,Blackburn Rovers,1:1,Draw
+2023-04-25T15:53:32.758Z,19,FC Groningen,NEC Nijmegen,0:1,Away
+2023-04-25T15:53:32.758Z,19,Sampdoria Genoa,Spezia Calcio,1:1,Draw
+2023-04-25T15:53:32.758Z,19,Kawasaki Frontale,Urawa Red Diamonds,1:1,Draw
+2023-04-25T15:53:32.758Z,19,Kasimpasa Istanbul,Konyaspor,1:2,Away
+2023-04-25T15:53:32.758Z,19,PSV Eindhoven,Ajax Amsterdam,3:0,Home
+2023-04-25T15:53:32.758Z,19,AFC Bournemouth,West Ham United,0:4,Away
+2023-04-25T15:53:32.758Z,19,AC Ajaccio,Stade Brest 29,0:0,Draw
+2023-04-25T15:53:32.758Z,19,Montpellier HSC,Stade Rennes,1:0,Home
+2023-04-25T15:53:32.758Z,19,Brighton & Hove Albion,Manchester United,0:0,Draw
+2023-04-25T15:53:32.758Z,19,Bayer Leverkusen,RB Leipzig,2:0,Home
+2023-04-25T15:53:32.758Z,19,Borussia Monchengladbach,Union Berlin,0:1,Away
+2023-04-25T15:53:32.758Z,19,Juventus Turin,SSC Napoli,0:1,Away
+2023-04-25T15:53:32.758Z,19,Olympique Lyon,Olympique Marseille,1:2,Away
+2023-04-25T15:53:32.758Z,19,Sevilla FC,Villarreal CF,2:1,Home
+2023-04-30T19:03:10.928Z,20,AS Roma,AC Milan,1:1,Draw
+2023-04-30T19:03:10.928Z,20,Schalke 04,Werder Bremen,2:1,Home
+2023-04-30T19:03:10.928Z,20,Velez Sarsfield,CA San Lorenzo de Almagro,0:0,Draw
+2023-04-30T19:03:10.928Z,20,Servette Geneva,FC St. Gallen 1879,1:1,Draw
+2023-04-30T19:03:10.928Z,20,Torino FC,Atalanta BC,1:2,Away
+2023-04-30T19:03:10.928Z,20,Gimnasia Y Esgrima La Plata,CA Tigre,1:1,Draw
+2023-04-30T19:03:10.928Z,20,Coritiba FC PR,Sao Paulo FC SP,1:1,Draw
+2023-04-30T19:03:10.928Z,20,Fortaleza EC CE,Fluminense FC RJ,4:2,Home
+2023-04-30T19:03:10.928Z,20,Skovde AIK,IK Brage,0:0,Draw
+2023-04-30T19:03:10.928Z,20,Cadiz CF,Valencia CF,2:1,Home
+2023-04-30T19:03:10.928Z,20,Glasgow Rangers,Celtic Glasgow,0:1,Away
+2023-04-30T19:03:10.928Z,20,AFC Bournemouth,Leeds United,4:1,Home
+2023-04-30T19:03:10.928Z,20,Clermont Foot 63,Stade Reims,1:0,Home
+2023-04-30T19:03:10.928Z,20,VfL Wolfsburg,FSV Mainz,3:0,Home
+2023-04-30T19:03:10.928Z,20,Besiktas Istanbul,Galatasaray Istanbul,3:1,Home
+2023-04-30T19:03:10.928Z,20,Ajax Amsterdam,PSV Eindhoven,1:1,Draw
+2023-04-30T19:03:10.928Z,20,Espanyol Barcelona,Getafe CF,1:0,Home
+2023-05-07T20:07:05.725Z,21,Wolverhampton Wanderers,Aston Villa,1:0,Home
+2023-05-07T20:07:05.725Z,21,OGC Nice,Stade Rennes,2:1,Home
+2023-05-07T20:07:05.725Z,21,AS Roma,Inter Milano,0:2,Away
+2023-05-07T20:07:05.725Z,21,US Cremonese,Spezia Calcio,2:0,Home
+2023-05-07T20:07:05.725Z,21,RC Lens,Olympique Marseille,2:1,Home
+2023-05-07T20:07:05.725Z,21,CA Belgrano,Atletico Tucuman,1:0,Home
+2023-05-07T20:07:05.725Z,21,San Jose Earthquakes,Los Angeles FC,2:1,Home
+2023-05-07T20:07:05.725Z,21,Charlotte FC,New York City FC,3:2,Home
+2023-05-07T20:07:05.725Z,21,Inter Miami CF,Atlanta United FC,2:1,Home
+2023-05-07T20:07:05.725Z,21,Umraniyespor,Sivasspor,4:1,Home
+2023-05-07T20:07:05.725Z,21,Atalanta BC,Juventus Turin,0:2,Away
+2023-05-07T20:07:05.725Z,21,FC Lorient,Stade Brest 29,2:1,Home
+2023-05-07T20:07:05.725Z,21,FC Nantes,Strasbourg Alsace,0:2,Away
+2023-05-07T20:07:05.725Z,21,AJ Auxerre,Clermont Foot 63,1:1,Draw
+2023-05-07T20:07:05.725Z,21,Maritimo Madeira,Rio Ave FC,2:2,Draw
+2023-05-07T20:07:05.725Z,21,Newcastle United,Arsenal FC,0:2,Away
+2023-05-07T20:07:05.725Z,21,Vitoria SC Guimaraes,FC Vizela,3:0,Home
+2023-05-14T19:44:33.788Z,22,Aston Villa,Tottenham Hotspur,2:1,Home
+2023-05-14T19:44:33.788Z,22,Southampton FC,Fulham FC,0:2,Away
+2023-05-14T19:44:33.788Z,22,FC Vizela,FC Famalicao,0:0,Draw
+2023-05-14T19:44:33.788Z,22,Cercle Brugge,KAA Gent,0:4,Away
+2023-05-14T19:44:33.788Z,22,Villarreal CF,Athletic Bilbao,5:1,Home
+2023-05-14T19:44:33.788Z,22,Sunderland AFC,Luton Town,2:1,Home
+2023-05-14T19:44:33.788Z,22,FC Volendam,Sparta Rotterdam,2:1,Home
+2023-05-14T19:44:33.788Z,22,CA Independiente Avellaneda,CA Tigre,2:1,Home
+2023-05-14T19:44:33.788Z,22,CA Banfield,CA San Lorenzo de Almagro,1:2,Away
+2023-05-14T19:44:33.788Z,22,Hellas Verona,Torino FC,0:1,Away
+2023-05-14T19:44:33.788Z,22,Coventry City,Middlesbrough FC,0:0,Draw
+2023-05-14T19:44:33.788Z,22,RC Celta de Vigo,Valencia CF,1:2,Away
+2023-05-14T19:44:33.788Z,22,VfB Stuttgart,Bayer Leverkusen,1:1,Draw
+2023-05-14T19:44:33.788Z,22,Rio Ave FC,Vitoria SC Guimaraes,0:1,Away
+2023-05-14T19:44:33.788Z,22,AS Monaco,Lille OSC,0:0,Draw
+2023-05-14T19:44:33.788Z,22,Bologna FC,AS Roma,0:0,Draw
+2023-05-14T19:44:33.788Z,22,Defensa y Justicia,Estudiantes de La Plata,1:1,Draw
+2023-05-21T22:05:21.156Z,23,Fulham FC,Crystal Palace,2:2,Draw
+2023-05-21T22:05:21.156Z,23,Wolverhampton Wanderers,Everton FC,1:1,Draw
+2023-05-21T22:05:21.156Z,23,FC Arouca,GD Chaves,1:0,Home
+2023-05-21T22:05:21.156Z,23,FC Nantes,Montpellier HSC,0:3,Away
+2023-05-21T22:05:21.156Z,23,KVC Westerlo,Standard Liege,3:0,Home
+2023-05-21T22:05:21.156Z,23,Lille OSC,Olympique Marseille,2:1,Home
+2023-05-21T22:05:21.156Z,23,Botafogo FR RJ,Fluminense FC RJ,1:0,Home
+2023-05-21T22:05:21.156Z,23,America FC MG,Fortaleza EC CE,2:1,Home
+2023-05-21T22:05:21.156Z,23,Club Brugge,Royal Antwerp FC,2:0,Home
+2023-05-21T22:05:21.156Z,23,SK Rapid Wien,LASK,1:1,Draw
+2023-05-21T22:05:21.156Z,23,West Ham United,Leeds United,3:1,Home
+2023-05-21T22:05:21.156Z,23,FSV Mainz,VfB Stuttgart,1:4,Away
+2023-05-21T22:05:21.156Z,23,Adana Demirspor,Besiktas Istanbul,1:4,Away
+2023-05-21T22:05:21.156Z,23,SSC Napoli,Inter Milano,3:1,Home
+2023-05-21T22:05:21.156Z,23,KRC Genk,Union Saint-Gilloise,1:1,Draw
+2023-05-21T22:05:21.156Z,23,CA Belgrano,CA Talleres de Cordoba,1:1,Draw
+2023-05-21T22:05:21.156Z,23,Sporting Lisbon,Benfica Lisbon,2:2,Draw
+2023-05-28T21:43:19.651Z,25,ACF Fiorentina,AS Roma,2:1,Home
+2023-05-28T21:43:19.651Z,25,Sevilla FC,Real Madrid,1:2,Away
+2023-05-28T21:43:19.651Z,25,Montpellier HSC,OGC Nice,2:3,Away
+2023-05-28T21:43:19.651Z,25,Orlando City SC,Atlanta United FC,1:1,Draw
+2023-05-28T21:43:19.651Z,25,Carlisle United,Stockport County FC,1:1,Draw
+2023-05-28T21:43:19.651Z,25,AZ Alkmaar,PSV Eindhoven,1:2,Away
+2023-05-28T21:43:19.651Z,25,Fortuna Sittard,NEC Nijmegen,1:1,Draw
+2023-05-28T21:43:19.651Z,25,AC Monza,US Lecce,0:1,Away
+2023-05-28T21:43:19.651Z,25,Racing Santander,FC Cartagena,3:1,Home
+2023-05-28T21:43:19.651Z,25,Aston Villa,Brighton & Hove Albion,2:1,Home
+2023-05-28T21:43:19.651Z,25,Chelsea FC,Newcastle United,1:1,Draw
+2023-05-28T21:43:19.651Z,25,Leeds United,Tottenham Hotspur,1:4,Away
+2023-05-28T21:43:19.651Z,25,Girona FC,Real Betis Seville,1:2,Away
+2023-05-28T21:43:19.651Z,25,Cadiz CF,RC Celta de Vigo,1:0,Home
+2023-05-28T21:43:19.651Z,25,Getafe CF,CA Osasuna,2:1,Home
+2023-05-28T21:43:19.651Z,25,Juventus Turin,AC Milan,0:1,Away
+2023-05-28T21:43:19.651Z,25,SC Corinthians SP,Fluminense FC RJ,2:0,Home
+2023-06-04T21:49:35.312Z,26,KFUM Oslo,Kristiansund BK,2:0,Home
+2023-06-04T21:49:35.312Z,26,Raufoss IL,Fredrikstad FK,1:1,Draw
+2023-06-04T21:49:35.312Z,26,Skeid Fotball,Bryne FK,2:0,Home
+2023-06-04T21:49:35.312Z,26,AIK,Kalmar FF,1:1,Draw
+2023-06-04T21:49:35.312Z,26,FC Nordsjaelland,Viborg FF,0:0,Draw
+2023-06-04T21:49:35.312Z,26,Sandefjord Fotball,Odds BK,4:1,Home
+2023-06-04T21:49:35.312Z,26,Tromsoe IL,Sarpsborg 08,2:1,Home
+2023-06-04T21:49:35.312Z,26,Plaza Colonia,Cerro Largo FC,3:3,Draw
+2023-06-04T21:49:35.312Z,26,KRC Genk,Royal Antwerp FC,2:2,Draw
+2023-06-04T21:49:35.312Z,26,RCD Mallorca,Rayo Vallecano,3:0,Home
+2023-06-04T21:49:35.312Z,26,Villarreal CF,Atletico Madrid,2:2,Draw
+2023-06-04T21:49:35.312Z,26,Viking FK,Molde FK,3:4,Away
+2023-06-04T21:49:35.312Z,26,Real Betis Seville,Valencia CF,1:1,Draw
+2023-06-04T21:49:35.312Z,26,RC Celta de Vigo,FC Barcelona,2:1,Home
+2023-06-04T21:49:35.312Z,26,Elche CF,Cadiz CF,1:1,Draw
+2023-06-04T21:49:35.312Z,26,Espanyol Barcelona,UD Almeria,3:3,Draw
+2023-06-04T21:49:35.312Z,26,US Lecce,Bologna FC,2:3,Away
+2023-06-11T21:49:03.210Z,27,Coritiba FC PR,Santos FC SP,0:0,Draw
+2023-06-11T21:49:03.210Z,27,CA Platense,CA Tigre,1:0,Home
+2023-06-11T21:49:03.210Z,27,EC Bahia BA,Cruzeiro EC MG,2:2,Draw
+2023-06-11T21:49:03.210Z,27,Omiya Ardija,Fujieda MYFC,2:3,Away
+2023-06-11T21:49:03.210Z,27,Gamba Osaka,FC Tokyo,3:1,Home
+2023-06-11T21:49:03.210Z,27,Kawasaki Frontale,Sanfrecce Hiroshima,1:0,Home
+2023-06-11T21:49:03.210Z,27,Fagiano Okayama,Tokyo Verdy,1:2,Away
+2023-06-11T21:49:03.210Z,27,AFC Eskilstuna,Helsingborgs IF,0:1,Away
+2023-06-11T21:49:03.210Z,27,Ostersunds FK,Orgryte IS,2:1,Home
+2023-06-11T21:49:03.210Z,27,Skeid Fotball,KFUM Oslo,0:4,Away
+2023-06-11T21:49:03.210Z,27,America FC MG,CA Paranaense PR,2:2,Draw
+2023-06-11T21:49:03.210Z,27,AA Ponte Preta SP,SC Recife PE,1:1,Draw
+2023-06-11T21:49:03.210Z,27,Londrina EC PR,Mirassol FC SP,1:2,Away
+2023-06-11T21:49:03.210Z,27,Stabaek IF,Rosenborg BK,2:2,Draw
+2023-06-11T21:49:03.210Z,27,Aalesunds FK,Tromsoe IL,2:3,Away
+2023-06-11T21:49:03.210Z,27,Spezia Calcio,Hellas Verona,1:3,Away
+2023-06-11T21:49:03.210Z,27,Sao Paulo FC SP,SE Palmeiras SP,0:2,Away
+2023-06-18T18:23:40.352Z,28,Botswana,Libya,1:0,Home
+2023-06-18T18:23:40.352Z,28,Deportivo Moron,Agropecuario Argentino,2:1,Home
+2023-06-18T18:23:40.352Z,28,Tristan Suarez,Atletico de Rafaela,0:0,Draw
+2023-06-18T18:23:40.352Z,28,Iceland,Slovakia,1:2,Away
+2023-06-18T18:23:40.352Z,28,Levante UD,Deportivo Alaves,0:0,Draw
+2023-06-18T18:23:40.352Z,28,Hartford Athletic,Charleston Battery,3:4,Away
+2023-06-18T18:23:40.352Z,28,Aguilas Doradas Rionegro,CD Alianza Petrolera,1:1,Draw
+2023-06-18T18:23:40.352Z,28,Guyana,Grenada,1:1,Draw
+2023-06-18T18:23:40.352Z,28,Phoenix Rising FC,Louisville City FC,2:2,Draw
+2023-06-18T18:23:40.352Z,28,Iwaki FC,JEF United Ichihara Chiba,0:0,Draw
+2023-06-18T18:23:40.352Z,28,Nagoya Grampus,Sanfrecce Hiroshima,2:1,Home
+2023-06-18T18:23:40.352Z,28,Kashiwa Reysol,Avispa Fukuoka,0:1,Away
+2023-06-18T18:23:40.352Z,28,Kyoto Sanga FC,FC Tokyo,1:3,Away
+2023-06-18T18:23:40.352Z,28,Rwanda,Mozambique,0:2,Away
+2023-06-18T18:23:40.352Z,28,Tanzania,Niger,1:0,Home
+2023-06-18T18:23:40.352Z,28,Cape Verde,Burkina Faso,3:1,Home
+2023-06-18T18:23:40.352Z,28,Congo,Mali,0:2,Away
+2023-06-26T09:30:29.841Z,29,Viking FK,SK Brann,3:1,Home
+2023-06-26T09:30:29.841Z,29,KR Reykjavik,KA Akureyri,2:0,Home
+2023-06-26T09:30:29.841Z,29,Union de Santa Fe,CA Independiente Avellaneda,3:0,Home
+2023-06-26T09:30:29.841Z,29,Chapecoense SC,Criciuma EC SC,1:1,Draw
+2023-06-26T09:30:29.841Z,29,Tombense FC MG,Gremio Novorizontino SP,1:2,Away
+2023-06-26T09:30:29.841Z,29,Fortaleza EC CE,Atletico Mineiro MG,2:1,Home
+2023-06-26T09:30:29.841Z,29,Atletico Lanus,CA Talleres de Cordoba,2:1,Home
+2023-06-26T09:30:29.841Z,29,Hartford Athletic,Indy Eleven,0:2,Away
+2023-06-26T09:30:29.841Z,29,DC United,FC Cincinnati,3:0,Home
+2023-06-26T09:30:29.841Z,29,Real Salt Lake,Minnesota United FC,2:2,Draw
+2023-06-26T09:30:29.841Z,29,Incheon United FC,Pohang Steelers FC,0:1,Away
+2023-06-26T09:30:29.841Z,29,Gimpo FC,Jeonnam Dragons,1:2,Away
+2023-06-26T09:30:29.841Z,29,Suwon FC,Gangwon FC,1:1,Draw
+2023-06-26T09:30:29.841Z,29,Moss FK,Kongsvinger IL Fotball,0:1,Away
+2023-06-26T09:30:29.841Z,29,Hamarkameratene,Odds BK,0:1,Away
+2023-06-26T09:30:29.841Z,29,Arsenal de Sarandi,CA Platense,0:2,Away
+2023-06-26T09:30:29.841Z,29,Sampaio Correa FC MA,Ceara SC CE,1:1,Draw
+2023-07-02T22:16:27.030Z,30,NC Magra,CS Constantine,2:1,Home
+2023-07-02T22:16:27.030Z,30,RC Arbaa,USM Alger,2:1,Home
+2023-07-02T22:16:27.030Z,30,Longford Town FC,Wexford FC,2:1,Home
+2023-07-02T22:16:27.030Z,30,Sampaio Correa FC MA,Criciuma EC SC,0:2,Away
+2023-07-02T22:16:27.030Z,30,EC Bahia BA,Gremio FB Porto Alegrense RS,1:2,Away
+2023-07-02T22:16:27.030Z,30,Inter Miami CF,Austin FC,1:1,Draw
+2023-07-02T22:16:27.030Z,30,Cuba,Guadeloupe,1:4,Away
+2023-07-02T22:16:27.030Z,30,SC Internacional RS,Cruzeiro EC MG,0:0,Draw
+2023-07-02T22:16:27.030Z,30,FC Dallas,Los Angeles FC,2:0,Home
+2023-07-02T22:16:27.030Z,30,Roasso Kumamoto,Tokyo Verdy,0:1,Away
+2023-07-02T22:16:27.030Z,30,Gimpo FC,Chungnam Asan FC,1:1,Draw
+2023-07-02T22:16:27.030Z,30,Halmstads BK,IFK Goteborg,0:0,Draw
+2023-07-02T22:16:27.030Z,30,Bryne FK,Raufoss IL,4:1,Home
+2023-07-02T22:16:27.030Z,30,SC Corinthians SP,Red Bull Bragantino SP,0:1,Away
+2023-07-02T22:16:27.030Z,30,FK Haugesund,Odds BK,2:1,Home
+2023-07-02T22:16:27.030Z,30,CA Independiente Avellaneda,CA Huracan,1:0,Home
+2023-07-02T22:16:27.030Z,30,EC Juventude RS,EC Vitoria BA,1:0,Home
+2023-07-09T17:38:30.539Z,31,FC KTP Kotka,Tampereen Ilves,0:0,Draw
+2023-07-09T17:38:30.539Z,31,Gefle IF,AFC Eskilstuna,2:0,Home
+2023-07-09T17:38:30.539Z,31,ABC FC RN,Criciuma EC SC,0:1,Away
+2023-07-09T17:38:30.539Z,31,CR Vasco da Gama RJ,Cruzeiro EC MG,0:1,Away
+2023-07-09T17:38:30.539Z,31,Ituano FC SP,EC Juventude RS,1:1,Draw
+2023-07-09T17:38:30.539Z,31,Tombense FC MG,Sampaio Correa FC MA,0:1,Away
+2023-07-09T17:38:30.539Z,31,Coritiba FC PR,America FC MG,3:1,Home
+2023-07-09T17:38:30.539Z,31,CF Montreal,Atlanta United FC,0:1,Away
+2023-07-09T17:38:30.539Z,31,Chicago Fire,Nashville SC,1:0,Home
+2023-07-09T17:38:30.539Z,31,Los Angeles Galaxy,Philadelphia Union,3:1,Home
+2023-07-09T17:38:30.539Z,31,Blaublitz Akita,Roasso Kumamoto,1:1,Draw
+2023-07-09T17:38:30.539Z,31,Iwaki FC,Mito Hollyhock,4:3,Home
+2023-07-09T17:38:30.539Z,31,Tochigi SC,Vegalta Sendai,2:2,Draw
+2023-07-09T17:38:30.539Z,31,Machida Zelvia,Tokyo Verdy,2:2,Draw
+2023-07-09T17:38:30.539Z,31,Fredrikstad FK,Kongsvinger IL Fotball,1:1,Draw
+2023-07-09T17:38:30.539Z,31,Sandefjord Fotball,Stabaek IF,0:0,Draw
+2023-07-09T17:38:30.539Z,31,Tromsoe IL,Vaalerenga IF,0:0,Draw
+2023-07-16T21:32:19.085Z,32,Vaasan Palloseura,AC Oulu,3:0,Home
+2023-07-16T21:32:19.085Z,32,Degerfors IF,IK Sirius,0:3,Away
+2023-07-16T21:32:19.085Z,32,RKS Rakow Czestochowa,Legia Warszawa,0:0,Draw
+2023-07-16T21:32:19.085Z,32,Miami FC,Charleston Battery,1:1,Draw
+2023-07-16T21:32:19.085Z,32,Birmingham Legion FC,Tampa Bay Rowdies,1:0,Home
+2023-07-16T21:32:19.085Z,32,Loudoun United FC,Orange County SC,1:3,Away
+2023-07-16T21:32:19.085Z,32,Portland Timbers,Columbus Crew,3:2,Home
+2023-07-16T21:32:19.085Z,32,Azul Claro Numazu,Kagoshima United,2:0,Home
+2023-07-16T21:32:19.085Z,32,Mito Hollyhock,Montedio Yamagata,3:1,Home
+2023-07-16T21:32:19.085Z,32,Cerezo Osaka,Urawa Red Diamonds,2:0,Home
+2023-07-16T21:32:19.085Z,32,FC Tokyo,Kashima Antlers,1:3,Away
+2023-07-16T21:32:19.085Z,32,Shonan Bellmare,Avispa Fukuoka,0:1,Away
+2023-07-16T21:32:19.085Z,32,Omiya Ardija,Tochigi SC,0:0,Draw
+2023-07-16T21:32:19.085Z,32,Zweigen Kanazawa,Vegalta Sendai,2:1,Home
+2023-07-16T21:32:19.085Z,32,AFC Eskilstuna,IK Brage,2:1,Home
+2023-07-16T21:32:19.085Z,32,Mjallby AIF,IFK Norrkoping FK,1:2,Away
+2023-07-16T21:32:19.085Z,32,Fluminense FC RJ,CR Flamengo RJ,0:0,Draw
+2023-07-23T23:00:12.888Z,33,Polonia Warszawa,GKS Tychy,2:3,Away
+2023-07-23T23:00:12.888Z,33,Criciuma EC SC,Gremio Novorizontino SP,0:1,Away
+2023-07-23T23:00:12.888Z,33,EC Bahia BA,SC Corinthians SP,0:0,Draw
+2023-07-23T23:00:12.888Z,33,Cuiaba Esporte Clube MT,Sao Paulo FC SP,2:1,Home
+2023-07-23T23:00:12.888Z,33,Detroit City FC,Monterey Bay FC,1:0,Home
+2023-07-23T23:00:12.888Z,33,Gremio FB Porto Alegrense RS,Atletico Mineiro MG,1:0,Home
+2023-07-23T23:00:12.888Z,33,New Mexico United,Sacramento Republic FC,3:0,Home
+2023-07-23T23:00:12.888Z,33,Utsiktens BK,Jonkopings Sodra IF,2:1,Home
+2023-07-23T23:00:12.888Z,33,FC Vaduz,FC Sion,0:2,Away
+2023-07-23T23:00:12.888Z,33,MKS Znicz Pruszkow,CWKS Resovia,2:0,Home
+2023-07-23T23:00:12.888Z,33,Guarani FC SP,AC Goianiense GO,1:0,Home
+2023-07-23T23:00:12.888Z,33,Hamarkameratene,Stabaek IF,3:2,Home
+2023-07-23T23:00:12.888Z,33,Tromsoe IL,SK Brann,3:1,Home
+2023-07-23T23:00:12.888Z,33,Odds BK,Vaalerenga IF,2:1,Home
+2023-07-23T23:00:12.888Z,33,SJK Akatemia,Ekenas Idrottsforening,0:4,Away
+2023-07-23T23:00:12.888Z,33,Silkeborg IF,Broendby IF,1:2,Away
+2023-07-23T23:00:12.888Z,33,Stroemsgodset IF,Rosenborg BK,0:1,Away
+2023-07-30T23:00:47.882Z,34,Trelleborgs FF,Landskrona BoIS,0:3,Away
+2023-07-30T23:00:47.882Z,34,Eintracht Braunschweig,Holstein Kiel,0:1,Away
+2023-07-30T23:00:47.882Z,34,Hansa Rostock,1 FC Nuremberg,2:0,Home
+2023-07-30T23:00:47.882Z,34,Greuther Furth,SC Paderborn 07,5:0,Home
+2023-07-30T23:00:47.882Z,34,Tombense FC MG,Criciuma EC SC,2:2,Draw
+2023-07-30T23:00:47.882Z,34,Mikkelin Palloilijat,IF Gnistan,0:0,Draw
+2023-07-30T23:00:47.882Z,34,Aalesunds FK,Stroemsgodset IF,1:0,Home
+2023-07-30T23:00:47.882Z,34,NK Domzale,Bravo Ljubljana,1:1,Draw
+2023-07-30T23:00:47.882Z,34,IFK Mariehamn,FC Inter Turku,0:2,Away
+2023-07-30T23:00:47.882Z,34,IFK Goteborg,Kalmar FF,2:0,Home
+2023-07-30T23:00:47.882Z,34,MSK Zilina,MFK Ruzomberok,3:1,Home
+2023-07-30T23:00:47.882Z,34,Deportes Magallanes,Universidad de Chile,2:1,Home
+2023-07-30T23:00:47.882Z,34,NK Rudes Zagreb,NK Osijek,3:4,Away
+2023-07-30T23:00:47.882Z,34,St. Truidense VV,Standard Liege,1:0,Home
+2023-07-30T23:00:47.882Z,34,Gremio Novorizontino SP,Vila Nova FC GO,3:1,Home
+2023-07-30T23:00:47.882Z,34,FC CFR 1907 Cluj,CS Universitatea Craiova,1:1,Draw
+2023-07-30T23:00:47.882Z,34,Barranquilla FC,Tigres FC,0:0,Draw
+2023-08-06T19:35:18.398Z,35,Sagan Tosu,Avispa Fukuoka,0:1,Away
+2023-08-06T19:35:18.398Z,35,Urawa Red Diamonds,Yokohama Marinos,0:0,Draw
+2023-08-06T19:35:18.398Z,35,Kyoto Sanga FC,Kashiwa Reysol,0:1,Away
+2023-08-06T19:35:18.398Z,35,Thespakusatsu,Tochigi SC,1:0,Home
+2023-08-06T19:35:18.398Z,35,Omiya Ardija,Blaublitz Akita,1:0,Home
+2023-08-06T19:35:18.398Z,35,Tokushima Vortis,JEF United Ichihara Chiba,3:3,Draw
+2023-08-06T19:35:18.398Z,35,1 FC Nuremberg,Hannover 96,2:2,Draw
+2023-08-06T19:35:18.398Z,35,RSC Anderlecht,Royal Antwerp FC,1:0,Home
+2023-08-06T19:35:18.398Z,35,Karlsruher SC,Hamburger SV,2:2,Draw
+2023-08-06T19:35:18.398Z,35,FK Teplice,FK Jablonec,0:0,Draw
+2023-08-06T19:35:18.398Z,35,Kalmar FF,AIK,1:1,Draw
+2023-08-06T19:35:18.398Z,35,Grasshopper Club Zurich,FC Basel 1893,3:1,Home
+2023-08-06T19:35:18.398Z,35,Tromsoe IL,Lillestrom SK,3:1,Home
+2023-08-06T19:35:18.398Z,35,FK Haugesund,Rosenborg BK,1:2,Away
+2023-08-06T19:35:18.398Z,35,Blau-Weiss Linz,TSV Hartberg,3:3,Draw
+2023-08-06T19:35:18.398Z,35,Sunderland AFC,Ipswich Town,1:2,Away
+2023-08-06T19:35:18.398Z,35,KV Kortrijk,St. Truidense VV,0:1,Away
+2023-08-13T20:07:31.402Z,36,Daejeon Citizen FC,FC Seoul,4:3,Home
+2023-08-13T20:07:31.402Z,36,Incheon United FC,Daegu FC,3:1,Home
+2023-08-13T20:07:31.402Z,36,Naestved BK,Kolding IF,1:2,Away
+2023-08-13T20:07:31.402Z,36,FC Baden,FC Vaduz,2:3,Away
+2023-08-13T20:07:31.402Z,36,Brentford FC,Tottenham Hotspur,2:2,Draw
+2023-08-13T20:07:31.402Z,36,FC Nantes,Toulouse FC,1:2,Away
+2023-08-13T20:07:31.402Z,36,Hobro IK,Vendsyssel FF,0:1,Away
+2023-08-13T20:07:31.402Z,36,IK Sirius,Kalmar FF,3:0,Home
+2023-08-13T20:07:31.402Z,36,GIF Sundsvall,Trelleborgs FF,1:1,Draw
+2023-08-13T20:07:31.402Z,36,Cercle Brugge,KRC Genk,0:1,Away
+2023-08-13T20:07:31.402Z,36,Motherwell FC,Hibernian FC,2:1,Home
+2023-08-13T20:07:31.402Z,36,Burgos CF,SD Huesca,1:1,Draw
+2023-08-13T20:07:31.402Z,36,Halmstads BK,IFK Norrkoping FK,1:3,Away
+2023-08-13T20:07:31.402Z,36,Chelsea FC,Liverpool FC,1:1,Draw
+2023-08-13T20:07:31.402Z,36,Erzurumspor FK,Bandirmaspor,1:1,Draw
+2023-08-13T20:07:31.402Z,36,Estrela Amadora,Vitoria SC Guimaraes,0:1,Away
+2023-08-13T20:07:31.402Z,36,Albacete Balompie,Espanyol Barcelona,1:1,Draw
+2023-08-20T21:09:07.757Z,37,Fulham FC,Brentford FC,0:3,Away
+2023-08-20T21:09:07.757Z,37,Caykur Rizespor,Alanyaspor,0:0,Draw
+2023-08-20T21:09:07.757Z,37,Tottenham Hotspur,Manchester United,2:0,Home
+2023-08-20T21:09:07.757Z,37,Empoli FC,Hellas Verona,0:1,Away
+2023-08-20T21:09:07.757Z,37,Genoa CFC,ACF Fiorentina,1:4,Away
+2023-08-20T21:09:07.757Z,37,Hatayspor Antakya,Kasimpasa Istanbul,0:0,Draw
+2023-08-20T21:09:07.757Z,37,Portimonense SC,Boavista Porto,1:4,Away
+2023-08-20T21:09:07.757Z,37,CA Osasuna,Athletic Bilbao,0:2,Away
+2023-08-20T21:09:07.757Z,37,VfL 1899 Osnabruck,1 FC Nuremberg,2:3,Away
+2023-08-20T21:09:07.757Z,37,Holstein Kiel,1. FC Magdeburg,2:4,Away
+2023-08-20T21:09:07.757Z,37,Le Havre AC,Stade Brest 29,1:2,Away
+2023-08-20T21:09:07.757Z,37,FC Lorient,OGC Nice,1:1,Draw
+2023-08-20T21:09:07.757Z,37,Estoril Praia,Rio Ave FC,2:0,Home
+2023-08-20T21:09:07.757Z,37,Hamarkameratene,Rosenborg BK,3:0,Home
+2023-08-20T21:09:07.757Z,37,FC Sudtirol Bolzano,Spezia Calcio,3:3,Draw
+2023-08-20T21:09:07.757Z,37,KV Kortrijk,KAS Eupen,1:3,Away
+2023-08-20T21:09:07.757Z,37,RC Lens,Stade Rennes,1:1,Draw
+2023-08-27T18:21:45.840Z,38,Everton FC,Wolverhampton Wanderers,0:1,Away
+2023-08-27T18:21:45.840Z,38,Cadiz CF,UD Almeria,1:1,Draw
+2023-08-27T18:21:45.840Z,38,SC Farense,GD Chaves,5:0,Home
+2023-08-27T18:21:45.840Z,38,Granada CF,RCD Mallorca,3:2,Home
+2023-08-27T18:21:45.840Z,38,KV Kortrijk,Standard Liege,1:1,Draw
+2023-08-27T18:21:45.840Z,38,Excelsior Rotterdam,Fortuna Sittard,2:2,Draw
+2023-08-27T18:21:45.840Z,38,New York Red Bulls,Inter Miami CF,0:2,Away
+2023-08-27T18:21:45.840Z,38,PEC Zwolle,FC Utrecht,1:0,Home
+2023-08-27T18:21:45.840Z,38,Strasbourg Alsace,Toulouse FC,2:0,Home
+2023-08-27T18:21:45.840Z,38,Mjallby AIF,Hammarby IF,0:3,Away
+2023-08-27T18:21:45.840Z,38,FSV Mainz,Eintracht Frankfurt,1:1,Draw
+2023-08-27T18:21:45.840Z,38,St. Truidense VV,Cercle Brugge,0:2,Away
+2023-08-27T18:21:45.840Z,38,Boavista Porto,Casa Pia Lisbon,1:1,Draw
+2023-08-27T18:21:45.840Z,38,SC Heerenveen,Sparta Rotterdam,1:3,Away
+2023-08-27T18:21:45.840Z,38,Racing Club de Ferrol,Sporting Gijon,2:0,Home
+2023-08-27T18:21:45.840Z,38,Sandefjord Fotball,FK Haugesund,0:0,Draw
+2023-08-27T18:21:45.840Z,38,Newcastle United,Liverpool FC,1:2,Away
+2023-09-03T19:44:42.665Z,39,Brighton & Hove Albion,Newcastle United,3:1,Home
+2023-09-03T19:44:42.665Z,39,Go Ahead Eagles,SC Heerenveen,3:2,Home
+2023-09-03T19:44:42.665Z,39,Portimonense SC,Estrela Amadora,1:1,Draw
+2023-09-03T19:44:42.665Z,39,Glasgow Rangers,Celtic Glasgow,0:1,Away
+2023-09-03T19:44:42.665Z,39,KAA Gent,Club Brugge,2:1,Home
+2023-09-03T19:44:42.665Z,39,FC Andorra,Tenerife CD,0:1,Away
+2023-09-03T19:44:42.665Z,39,Kalmar FF,Mjallby AIF,0:2,Away
+2023-09-03T19:44:42.665Z,39,Union Saint-Gilloise,Royal Antwerp FC,2:2,Draw
+2023-09-03T19:44:42.665Z,39,RCD Mallorca,Athletic Bilbao,0:0,Draw
+2023-09-03T19:44:42.665Z,39,GD Chaves,Moreirense FC,1:2,Away
+2023-09-03T19:44:42.665Z,39,Estoril Praia,Boavista Porto,1:2,Away
+2023-09-03T19:44:42.665Z,39,FC Basel 1893,FC Zurich,2:2,Draw
+2023-09-03T19:44:42.665Z,39,Stroemsgodset IF,Stabaek IF,2:1,Home
+2023-09-03T19:44:42.665Z,39,Union Berlin,RB Leipzig,0:3,Away
+2023-09-03T19:44:42.665Z,39,IFK Norrkoping FK,Djurgardens IF,0:2,Away
+2023-09-03T19:44:42.665Z,39,KRC Genk,RSC Anderlecht,1:1,Draw
+2023-09-03T19:44:42.665Z,39,Royal Charleroi SC,St. Truidense VV,1:1,Draw
+2023-09-11T08:46:48.902Z,40,AFC Wimbledon,Stockport County FC,1:2,Away
+2023-09-11T08:46:48.902Z,40,Milton Keynes Dons,Notts County,1:1,Draw
+2023-09-11T08:46:48.902Z,40,Accrington Stanley,Mansfield Town,0:3,Away
+2023-09-11T08:46:48.902Z,40,Crawley Town,Newport County,4:1,Home
+2023-09-11T08:46:48.902Z,40,Burgos CF,SD Eibar,1:0,Home
+2023-09-11T08:46:48.902Z,40,Real Oviedo,Sporting Gijon,0:0,Draw
+2023-09-11T08:46:48.902Z,40,Cobh Ramblers,Athlone Town AFC,1:0,Home
+2023-09-11T08:46:48.902Z,40,"Virgin Islands, British",Turks and Caicos Islands,3:1,Home
+2023-09-11T08:46:48.902Z,40,Cerro Largo FC,CA Fenix Montevideo,PD:1,Home
+2023-09-11T08:46:48.902Z,40,FC Tulsa,Phoenix Rising FC,0:0,Draw
+2023-09-11T08:46:48.902Z,40,Colorado Springs Switchbacks FC,San Antonio FC,1:1,Draw
+2023-09-11T08:46:48.902Z,40,Portland Timbers,Los Angeles FC,2:0,Home
+2023-09-11T08:46:48.902Z,40,Shanghai Jiading City Dev,Heilongjiang Ice City,1:0,Home
+2023-09-11T08:46:48.902Z,40,Kazakhstan,Northern Ireland,1:0,Home
+2023-09-11T08:46:48.902Z,40,CA Cerro,CA River Plate (URU),PD:1,Home
+2023-09-11T08:46:48.902Z,40,Faroe Islands,Moldova,0:1,Away
+2023-09-11T08:46:48.902Z,40,Tristan Suarez,Deportivo Riestra,0:0,Draw
+2023-09-17T18:33:08.017Z,41,Bristol City,West Bromwich Albion,0:0,Draw
+2023-09-17T18:33:08.017Z,41,Kilmarnock FC,Hibernian FC,2:2,Draw
+2023-09-17T18:33:08.017Z,41,Rio Ave FC,FC Famalicao,1:1,Draw
+2023-09-17T18:33:08.017Z,41,Inter Milano,AC Milan,5:1,Home
+2023-09-17T18:33:08.017Z,41,VfL Bochum,Eintracht Frankfurt,1:1,Draw
+2023-09-17T18:33:08.017Z,41,USL Dunkerque,Grenoble Foot,0:0,Draw
+2023-09-17T18:33:08.017Z,41,Rodez Aveyron Football,Angers SCO,4:1,Home
+2023-09-17T18:33:08.017Z,41,Paris FC,Amiens SC,3:0,Home
+2023-09-17T18:33:08.017Z,41,SK Sturm Graz,FC Salzburg,2:2,Draw
+2023-09-17T18:33:08.017Z,41,Cardiff City,Swansea City,2:0,Home
+2023-09-17T18:33:08.017Z,41,Cagliari Calcio,Udinese Calcio,0:0,Draw
+2023-09-17T18:33:08.017Z,41,Getafe CF,CA Osasuna,3:2,Home
+2023-09-17T18:33:08.017Z,41,FC Twente Enschede,Ajax Amsterdam,3:1,Home
+2023-09-17T18:33:08.017Z,41,Frosinone Calcio,Sassuolo Calcio,4:2,Home
+2023-09-17T18:33:08.017Z,41,1. FC Heidenheim,Werder Bremen,4:2,Home
+2023-09-17T18:33:08.017Z,41,US Catanzaro,Parma Calcio,0:5,Away
+2023-09-17T18:33:08.017Z,41,ACF Fiorentina,Atalanta BC,3:2,Home
+2023-09-25T10:26:21.248Z,42,Middlesbrough FC,Southampton FC,2:1,Home
+2023-09-25T10:26:21.248Z,42,Dundee FC,Kilmarnock FC,2:2,Draw
+2023-09-25T10:26:21.248Z,42,Airdrieonians FC,Raith Rovers FC,1:0,Home
+2023-09-25T10:26:21.248Z,42,CA Osasuna,Sevilla FC,0:0,Draw
+2023-09-25T10:26:21.248Z,42,Burgos CF,Elche CF,4:0,Home
+2023-09-25T10:26:21.248Z,42,Werder Bremen,1. FC Cologne,2:1,Home
+2023-09-25T10:26:21.248Z,42,NEC Nijmegen,FC Utrecht,3:0,Home
+2023-09-25T10:26:21.248Z,42,Casa Pia Lisbon,Vitoria SC Guimaraes,0:0,Draw
+2023-09-25T10:26:21.248Z,42,Stade Brest 29,Olympique Lyon,1:0,Home
+2023-09-25T10:26:21.248Z,42,FC Metz,Strasbourg Alsace,0:1,Away
+2023-09-25T10:26:21.248Z,42,Ajax Amsterdam,Feyenoord Rotterdam,PD:1,Home
+2023-09-25T10:26:21.248Z,42,Cercle Brugge,Union Saint-Gilloise,0:2,Away
+2023-09-25T10:26:21.248Z,42,Rayo Vallecano,Villarreal CF,1:1,Draw
+2023-09-25T10:26:21.248Z,42,Real Oviedo,Real Valladolid,0:1,Away
+2023-09-25T10:26:21.248Z,42,Montpellier HSC,Stade Rennes,0:0,Draw
+2023-09-25T10:26:21.248Z,42,Torino FC,AS Roma,1:1,Draw
+2023-09-25T10:26:21.248Z,42,Atletico Madrid,Real Madrid,3:1,Home
+2023-10-01T18:51:16.742Z,43,Tottenham Hotspur,Liverpool FC,2:1,Home
+2023-10-01T18:51:16.742Z,43,Boavista Porto,FC Famalicao,2:2,Draw
+2023-10-01T18:51:16.742Z,43,Real Sociedad San Sebastian,Athletic Bilbao,3:0,Home
+2023-10-01T18:51:16.742Z,43,AS Monaco,Olympique Marseille,3:2,Home
+2023-10-01T18:51:16.742Z,43,Fatih Karagumruk Istanbul,Kasimpasa Istanbul,2:3,Away
+2023-10-01T18:51:16.742Z,43,1 FC Nuremberg,1. FC Magdeburg,1:0,Home
+2023-10-01T18:51:16.742Z,43,SV 07 Elversberg,Greuther Furth,1:1,Draw
+2023-10-01T18:51:16.742Z,43,VfL 1899 Osnabruck,1 FC Kaiserslautern,2:2,Draw
+2023-10-01T18:51:16.742Z,43,Udinese Calcio,Genoa CFC,2:2,Draw
+2023-10-01T18:51:16.742Z,43,Nottingham Forest,Brentford FC,1:1,Draw
+2023-10-01T18:51:16.742Z,43,Deportivo Alaves,CA Osasuna,0:2,Away
+2023-10-01T18:51:16.742Z,43,FC Luzern,FC Zurich,1:4,Away
+2023-10-01T18:51:16.742Z,43,FK Austria Wien,SK Rapid Wien,0:0,Draw
+2023-10-01T18:51:16.742Z,43,FC Lorient,Montpellier HSC,0:3,Away
+2023-10-01T18:51:16.742Z,43,Atalanta BC,Juventus Turin,0:0,Draw
+2023-10-01T18:51:16.742Z,43,Konyaspor,Besiktas Istanbul,0:2,Away
+2023-10-01T18:51:16.742Z,43,Viborg FF,AGF Aarhus,2:1,Home
+2023-10-09T07:58:10.372Z,44,Werder Bremen,TSG Hoffenheim,2:3,Away
+2023-10-09T07:58:10.372Z,44,RCD Mallorca,Valencia CF,1:1,Draw
+2023-10-09T07:58:10.372Z,44,Stade Reims,AS Monaco,1:3,Away
+2023-10-09T07:58:10.372Z,44,FC Lugano,Servette Geneva,0:1,Away
+2023-10-09T07:58:10.372Z,44,West Ham United,Newcastle United,2:2,Draw
+2023-10-09T07:58:10.372Z,44,GIF Sundsvall,IK Brage,1:2,Away
+2023-10-09T07:58:10.372Z,44,Wolverhampton Wanderers,Aston Villa,1:1,Draw
+2023-10-09T07:58:10.372Z,44,Brighton & Hove Albion,Liverpool FC,2:2,Draw
+2023-10-09T07:58:10.372Z,44,Lazio Rome,Atalanta BC,3:2,Home
+2023-10-09T07:58:10.372Z,44,Frosinone Calcio,Hellas Verona,2:1,Home
+2023-10-09T07:58:10.372Z,44,FC Famalicao,Vitoria SC Guimaraes,1:3,Away
+2023-10-09T07:58:10.372Z,44,Lausanne-Sport,FC Luzern,3:1,Home
+2023-10-09T07:58:10.372Z,44,FK Haugesund,Stroemsgodset IF,1:0,Home
+2023-10-09T07:58:10.372Z,44,RC Lens,Lille OSC,1:1,Draw
+2023-10-09T07:58:10.372Z,44,Arsenal FC,Manchester City,1:0,Home
+2023-10-09T07:58:10.372Z,44,Hammarby IF,Hacken Gothenburg,2:2,Draw
+2023-10-09T07:58:10.372Z,44,Deportivo Alaves,Real Betis Seville,1:1,Draw
+2023-10-15T21:38:14.958Z,45,FC Cartagena,Racing Santander,2:3,Away
+2023-10-15T21:38:14.958Z,45,Sporting Gijon,Real Zaragoza,2:2,Draw
+2023-10-15T21:38:14.958Z,45,Hungary,Serbia,2:1,Home
+2023-10-15T21:38:14.958Z,45,Detroit City FC,Pittsburgh Riverhounds,0:0,Draw
+2023-10-15T21:38:14.958Z,45,Ituano FC SP,CR Brasil AL,0:0,Draw
+2023-10-15T21:38:14.958Z,45,CS Deportivo Pereira,CD La Equidad,1:0,Home
+2023-10-15T21:38:14.958Z,45,Alebrijes de Oaxaca FC,Cancun FC,2:5,Away
+2023-10-15T21:38:14.958Z,45,Atletico Nacional Medellin,Independiente Medellin,1:2,Away
+2023-10-15T21:38:14.958Z,45,Cuiaba Esporte Clube MT,Cruzeiro EC MG,0:0,Draw
+2023-10-15T21:38:14.958Z,45,Monterey Bay FC,Orange County SC,0:1,Away
+2023-10-15T21:38:14.958Z,45,Las Vegas Lights,San Diego Loyal SC,0:2,Away
+2023-10-15T21:38:14.958Z,45,Los Angeles Galaxy,Real Salt Lake,2:2,Draw
+2023-10-15T21:38:14.958Z,45,FC Osaka,FC Gifu,1:1,Draw
+2023-10-15T21:38:14.958Z,45,Club Deportivo Eldense,Elche CF,1:1,Draw
+2023-10-15T21:38:14.958Z,45,SC Preussen 06 Munster,TSV 1860 Munich,1:1,Draw
+2023-10-15T21:38:14.958Z,45,CA Estudiantes,Tristan Suarez,0:2,Away
+2023-10-15T21:38:14.958Z,45,AA Ponte Preta SP,AC Goianiense GO,0:2,Away
+2023-10-22T20:36:38.487Z,46,Chelsea FC,Arsenal FC,2:2,Draw
+2023-10-22T20:36:38.487Z,46,FC Annecy,Amiens SC,1:1,Draw
+2023-10-22T20:36:38.487Z,46,Sassuolo Calcio,Lazio Rome,0:2,Away
+2023-10-22T20:36:38.487Z,46,Real Zaragoza,SD Eibar,2:3,Away
+2023-10-22T20:36:38.487Z,46,Nashville SC,New York Red Bulls,0:1,Away
+2023-10-22T20:36:38.487Z,46,Colorado Rapids,Real Salt Lake,0:1,Away
+2023-10-22T20:36:38.487Z,46,Tochigi SC,Oita Trinita,1:1,Draw
+2023-10-22T20:36:38.487Z,46,Chungbuk Cheongju FC,Gyeongnam FC,1:1,Draw
+2023-10-22T20:36:38.487Z,46,1 FC Nuremberg,Hertha BSC,3:1,Home
+2023-10-22T20:36:38.487Z,46,Hansa Rostock,Holstein Kiel,1:3,Away
+2023-10-22T20:36:38.487Z,46,UD Las Palmas,Rayo Vallecano,0:1,Away
+2023-10-22T20:36:38.487Z,46,SCR Altach,Wolfsberger AC,0:0,Draw
+2023-10-22T20:36:38.487Z,46,CSM Politehnica Iasi,FC U Craiova 1948,1:1,Draw
+2023-10-22T20:36:38.487Z,46,FC Nantes,Montpellier HSC,2:0,Home
+2023-10-22T20:36:38.487Z,46,FC Spartak Trnava,SK Slovan Bratislava,1:2,Away
+2023-10-22T20:36:38.487Z,46,Erzgebirge Aue,SSV Ulm 1846,1:2,Away
+2023-10-22T20:36:38.487Z,46,Pumas UNAM,CF Monterrey,0:1,Away
+2023-10-29T20:51:20.957Z,47,US Lecce,Torino FC,0:1,Away
+2023-10-29T20:51:20.957Z,47,Sporting Gijon,Espanyol Barcelona,2:0,Home
+2023-10-29T20:51:20.957Z,47,Almere City FC,Go Ahead Eagles,0:0,Draw
+2023-10-29T20:51:20.957Z,47,Vasteras SK,GAIS,2:1,Home
+2023-10-29T20:51:20.957Z,47,Kilmarnock FC,Aberdeen FC,2:0,Home
+2023-10-29T20:51:20.957Z,47,Naestved BK,Vendsyssel FF,1:1,Draw
+2023-10-29T20:51:20.957Z,47,Soroksar SC,Szeged-Csanad Grosics Akademia,1:1,Draw
+2023-10-29T20:51:20.957Z,47,Adanaspor,Umraniyespor,1:0,Home
+2023-10-29T20:51:20.957Z,47,Vejle BK,Viborg FF,1:1,Draw
+2023-10-29T20:51:20.957Z,47,FC Volendam,Excelsior Rotterdam,3:1,Home
+2023-10-29T20:51:20.957Z,47,Lille OSC,AS Monaco,2:0,Home
+2023-10-29T20:51:20.957Z,47,NK Radomlje,Mura Murska Sobota,1:1,Draw
+2023-10-29T20:51:20.957Z,47,SD Huesca,Albacete Balompie,0:0,Draw
+2023-10-29T20:51:20.957Z,47,Brescia Calcio,SSC Bari,1:2,Away
+2023-10-29T20:51:20.957Z,47,Rio Ave FC,SC Farense,3:4,Away
+2023-10-29T20:51:20.957Z,47,Estrela Amadora,FC Famalicao,1:0,Home
+2023-10-29T20:51:20.957Z,47,UD Oliveirense,UD Leiria,1:4,Away
+2023-11-05T22:27:28.539Z,48,Union Berlin,Eintracht Frankfurt,0:3,Away
+2023-11-05T22:27:28.539Z,48,1. FC Cologne,FC Augsburg,1:1,Draw
+2023-11-05T22:27:28.539Z,48,Swansea City,Sunderland AFC,0:0,Draw
+2023-11-05T22:27:28.539Z,48,Preston North End,Coventry City,3:2,Home
+2023-11-05T22:27:28.539Z,48,Huddersfield Town,Watford FC,0:0,Draw
+2023-11-05T22:27:28.539Z,48,Rotherham United,Queens Park Rangers,1:1,Draw
+2023-11-05T22:27:28.539Z,48,Burnley FC,Crystal Palace,0:2,Away
+2023-11-05T22:27:28.539Z,48,Everton FC,Brighton & Hove Albion,1:1,Draw
+2023-11-05T22:27:28.539Z,48,Sampdoria Genoa,Palermo FC,1:0,Home
+2023-11-05T22:27:28.539Z,48,Atalanta BC,Inter Milano,1:2,Away
+2023-11-05T22:27:28.539Z,48,Newcastle United,Arsenal FC,1:0,Home
+2023-11-05T22:27:28.539Z,48,RC Celta de Vigo,Sevilla FC,1:1,Draw
+2023-11-05T22:27:28.539Z,48,Real Sociedad San Sebastian,FC Barcelona,0:1,Away
+2023-11-05T22:27:28.539Z,48,Hellas Verona,AC Monza,1:3,Away
+2023-11-05T22:27:28.539Z,48,FC Nantes,Stade Reims,0:1,Away
+2023-11-05T22:27:28.539Z,48,Cagliari Calcio,Genoa CFC,2:1,Home
+2023-11-05T22:27:28.539Z,48,ACF Fiorentina,Juventus Turin,0:1,Away
+2023-11-12T22:21:37.192Z,49,VfL Bochum,1. FC Cologne,1:1,Draw
+2023-11-12T22:21:37.192Z,49,Granada CF,Getafe CF,1:1,Draw
+2023-11-12T22:21:37.192Z,49,AC Monza,Torino FC,1:1,Draw
+2023-11-12T22:21:37.192Z,49,Urawa Red Diamonds,Vissel Kobe,1:2,Away
+2023-11-12T22:21:37.192Z,49,Pendikspor,Samsunspor,1:0,Home
+2023-11-12T22:21:37.192Z,49,Greuther Furth,Fortuna Dusseldorf,1:0,Home
+2023-11-12T22:21:37.192Z,49,SV Wehen Wiesbaden,1 FC Kaiserslautern,2:1,Home
+2023-11-12T22:21:37.192Z,49,Vejle BK,Lyngby BK,1:0,Home
+2023-11-12T22:21:37.192Z,49,FC Metz,FC Nantes,3:1,Home
+2023-11-12T22:21:37.192Z,49,Clermont Foot 63,FC Lorient,1:0,Home
+2023-11-12T22:21:37.192Z,49,FC Midtjylland,FC Nordsjaelland,2:0,Home
+2023-11-12T22:21:37.192Z,49,Sandefjord Fotball,Rosenborg BK,3:2,Home
+2023-11-12T22:21:37.192Z,49,Werder Bremen,Eintracht Frankfurt,2:2,Draw
+2023-11-12T22:21:37.192Z,49,Lazio Rome,AS Roma,0:0,Draw
+2023-11-12T22:21:37.192Z,49,KAA Gent,RSC Anderlecht,1:1,Draw
+2023-11-12T22:21:37.192Z,49,Ceara SC CE,Mirassol FC SP,2:0,Home
+2023-11-12T22:21:37.192Z,49,RC Lens,Olympique Marseille,1:0,Home
+2023-11-20T00:50:43.268Z,50,Niger,Tanzania,0:1,Away
+2023-11-20T00:50:43.268Z,50,SD Amorebieta,Tenerife CD,2:0,Home
+2023-11-20T00:50:43.268Z,50,Cerro Largo FC,Plaza Colonia,4:0,Home
+2023-11-20T00:50:43.268Z,50,Israel,Romania,1:2,Away
+2023-11-20T00:50:43.268Z,50,Racing Club de Ferrol,Burgos CF,1:1,Draw
+2023-11-20T00:50:43.268Z,50,Novara FC,US Pergolettese Crema,2:1,Home
+2023-11-20T00:50:43.268Z,50,Fermana FC,SS Arezzo,2:3,Away
+2023-11-20T00:50:43.268Z,50,SC Cambuur,Roda JC Kerkrade,1:1,Draw
+2023-11-20T00:50:43.268Z,50,CF Os Belenenses,FC Penafiel,2:0,Home
+2023-11-20T00:50:43.268Z,50,Club Deportivo Eldense,CD Mirandes,2:2,Draw
+2023-11-20T00:50:43.268Z,50,Real Oviedo,SD Eibar,2:1,Home
+2023-11-20T00:50:43.268Z,50,Cyprus,Lithuania,1:0,Home
+2023-11-20T00:50:43.268Z,50,Villarreal CF B,FC Andorra,0:0,Draw
+2023-11-20T00:50:43.268Z,50,FC Cartagena,Albacete Balompie,1:1,Draw
+2023-11-20T00:50:43.268Z,50,Potenza Calcio,Audace Cerignola,2:2,Draw
+2023-11-20T00:50:43.268Z,50,Danubio FC,CA Penarol Montevideo,2:1,Home
+2023-11-20T00:50:43.268Z,50,Bosnia & Herzegovina,Slovakia,1:2,Away
+2023-11-26T22:14:14.548Z,51,Newcastle United,Chelsea FC,4:1,Home
+2023-11-26T22:14:14.548Z,51,Nottingham Forest,Brighton & Hove Albion,2:3,Away
+2023-11-26T22:14:14.548Z,51,Millwall FC,Coventry City,0:3,Away
+2023-11-26T22:14:14.548Z,51,Swansea City,Hull City,2:2,Draw
+2023-11-26T22:14:14.548Z,51,Sheffield United,AFC Bournemouth,1:3,Away
+2023-11-26T22:14:14.548Z,51,Stoke City,Blackburn Rovers,0:3,Away
+2023-11-26T22:14:14.548Z,51,Atalanta BC,SSC Napoli,1:2,Away
+2023-11-26T22:14:14.548Z,51,Eintracht Frankfurt,VfB Stuttgart,1:2,Away
+2023-11-26T22:14:14.548Z,51,West Bromwich Albion,Ipswich Town,2:0,Home
+2023-11-26T22:14:14.548Z,51,Kayserispor,Adana Demirspor,1:1,Draw
+2023-11-26T22:14:14.548Z,51,Cagliari Calcio,AC Monza,1:1,Draw
+2023-11-26T22:14:14.548Z,51,KAA Gent,Union Saint-Gilloise,1:1,Draw
+2023-11-26T22:14:14.548Z,51,Wolfsberger AC,FK Austria Wien,1:0,Home
+2023-11-26T22:14:14.548Z,51,Tottenham Hotspur,Aston Villa,1:2,Away
+2023-11-26T22:14:14.548Z,51,Frosinone Calcio,Genoa CFC,2:1,Home
+2023-11-26T22:14:14.548Z,51,Everton FC,Manchester United,0:3,Away
+2023-11-26T22:14:14.548Z,51,Juventus Turin,Inter Milano,1:1,Draw
+2023-12-03T22:35:54.403Z,52,Nottingham Forest,Everton FC,0:1,Away
+2023-12-03T22:35:54.403Z,52,FC Volendam,PEC Zwolle,0:5,Away
+2023-12-03T22:35:54.403Z,52,CA Osasuna,Real Sociedad San Sebastian,1:1,Draw
+2023-12-03T22:35:54.403Z,52,Albirex Niigata,Cerezo Osaka,1:0,Home
+2023-12-03T22:35:54.403Z,52,Feyenoord Rotterdam,PSV Eindhoven,1:2,Away
+2023-12-03T22:35:54.403Z,52,US Lecce,Bologna FC,1:1,Draw
+2023-12-03T22:35:54.403Z,52,RCD Mallorca,Deportivo Alaves,0:0,Draw
+2023-12-03T22:35:54.403Z,52,Bristol City,Norwich City,1:2,Away
+2023-12-03T22:35:54.403Z,52,FSV Mainz,SC Freiburg,0:1,Away
+2023-12-03T22:35:54.403Z,52,AD Alcorcon,Elche CF,0:2,Away
+2023-12-03T22:35:54.403Z,52,UD Almeria,Real Betis Seville,0:0,Draw
+2023-12-03T22:35:54.403Z,52,FK Austria Wien,LASK,0:0,Draw
+2023-12-03T22:35:54.403Z,52,CD Mirandes,Racing Santander,0:0,Draw
+2023-12-03T22:35:54.403Z,52,Racing Club de Ferrol,Albacete Balompie,5:4,Home
+2023-12-03T22:35:54.403Z,52,FC Augsburg,Eintracht Frankfurt,2:1,Home
+2023-12-03T22:35:54.403Z,52,SSC Napoli,Inter Milano,0:3,Away
+2023-12-03T22:35:54.403Z,52,SD Amorebieta,Burgos CF,0:1,Away
+2023-12-10T20:57:06.461Z,53,Atalanta BC,AC Milan,3:2,Home
+2023-12-10T20:57:06.461Z,53,Borussia Dortmund,RB Leipzig,2:3,Away
+2023-12-10T20:57:06.461Z,53,Villarreal CF,Real Sociedad San Sebastian,0:3,Away
+2023-12-10T20:57:06.461Z,53,RCD Mallorca,Sevilla FC,1:0,Home
+2023-12-10T20:57:06.461Z,53,Istanbulspor AS,Alanyaspor,0:1,Away
+2023-12-10T20:57:06.461Z,53,Frosinone Calcio,Torino FC,0:0,Draw
+2023-12-10T20:57:06.461Z,53,Hansa Rostock,Schalke 04,0:2,Away
+2023-12-10T20:57:06.461Z,53,Fulham FC,West Ham United,5:0,Home
+2023-12-10T20:57:06.461Z,53,FC Metz,Stade Brest 29,0:1,Away
+2023-12-10T20:57:06.461Z,53,VfB Stuttgart,Bayer Leverkusen,1:1,Draw
+2023-12-10T20:57:06.461Z,53,Racing Santander,Real Oviedo,2:2,Draw
+2023-12-10T20:57:06.461Z,53,Estrela Amadora,Boavista Porto,3:1,Home
+2023-12-10T20:57:06.461Z,53,Gaziantep FK,Trabzonspor,1:3,Away
+2023-12-10T20:57:06.461Z,53,Tottenham Hotspur,Newcastle United,4:1,Home
+2023-12-10T20:57:06.461Z,53,1. FC Cologne,FSV Mainz,0:0,Draw
+2023-12-10T20:57:06.461Z,53,Cadiz CF,CA Osasuna,1:1,Draw
+2023-12-10T20:57:06.461Z,53,FC Arouca,Rio Ave FC,2:2,Draw
+2023-12-18T09:30:21.347Z,54,FC Cartagena,Burgos CF,0:3,Away
+2023-12-18T09:30:21.347Z,54,Excelsior Rotterdam,Go Ahead Eagles,1:1,Draw
+2023-12-18T09:30:21.347Z,54,FC Arouca,Gil Vicente Barcelos,3:0,Home
+2023-12-18T09:30:21.347Z,54,Ankara Keciorengucu,Bandirmaspor,PD:X,Draw
+2023-12-18T09:30:21.347Z,54,FC Nantes,Stade Brest 29,0:2,Away
+2023-12-18T09:30:21.347Z,54,Eintracht Braunschweig,1 FC Kaiserslautern,2:1,Home
+2023-12-18T09:30:21.347Z,54,Alanyaspor,MKE Ankaragucu,PD:X,Draw
+2023-12-18T09:30:21.347Z,54,FC Winterthur,Lausanne-Sport,1:0,Home
+2023-12-18T09:30:21.347Z,54,FC Metz,Montpellier HSC,0:1,Away
+2023-12-18T09:30:21.347Z,54,West Ham United,Wolverhampton Wanderers,3:0,Home
+2023-12-18T09:30:21.347Z,54,FC Lorient,Strasbourg Alsace,1:2,Away
+2023-12-18T09:30:21.347Z,54,Udinese Calcio,Sassuolo Calcio,2:2,Draw
+2023-12-18T09:30:21.347Z,54,Toulouse FC,Stade Rennes,0:0,Draw
+2023-12-18T09:30:21.347Z,54,Calcio Lecco 1912,Ternana Calcio,2:3,Away
+2023-12-18T09:30:21.347Z,54,GD Chaves,Casa Pia Lisbon,1:3,Away
+2023-12-18T09:30:21.347Z,54,Bologna FC,AS Roma,2:0,Home
+2023-12-18T09:30:21.347Z,54,SD Amorebieta,Real Zaragoza,1:1,Draw
+2023-12-24T08:40:32.940Z,55,Nottingham Forest,AFC Bournemouth,2:3,Away
+2023-12-24T08:40:32.940Z,55,Blackburn Rovers,Watford FC,1:2,Away
+2023-12-24T08:40:32.940Z,55,Middlesbrough FC,West Bromwich Albion,1:0,Home
+2023-12-24T08:40:32.940Z,55,Plymouth Argyle,Birmingham City,3:3,Draw
+2023-12-24T08:40:32.940Z,55,Sheffield Wednesday,Cardiff City,1:2,Away
+2023-12-24T08:40:32.940Z,55,Stoke City,Millwall FC,0:0,Draw
+2023-12-24T08:40:32.940Z,55,Barnsley,Stevenage FC,2:1,Home
+2023-12-24T08:40:32.940Z,55,Carlisle United,Cheltenham Town,0:1,Away
+2023-12-24T08:40:32.940Z,55,Northampton Town,Oxford United,2:1,Home
+2023-12-24T08:40:32.940Z,55,Wycombe Wanderers,Port Vale,1:1,Draw
+2023-12-24T08:40:32.940Z,55,Accrington Stanley,Walsall FC,2:1,Home
+2023-12-24T08:40:32.940Z,55,Morecambe FC,Milton Keynes Dons,1:3,Away
+2023-12-24T08:40:32.940Z,55,Tranmere Rovers FC,Swindon Town,2:1,Home
+2023-12-24T08:40:32.940Z,55,Dundee FC,Aberdeen FC,PD:2,Away
+2023-12-24T08:40:32.940Z,55,Ross County FC,Hibernian FC,PD:1,Home
+2023-12-24T08:40:32.940Z,55,Airdrieonians FC,Greenock Morton FC,0:0,Draw
+2023-12-24T08:40:32.940Z,55,Alloa Athletic FC,Montrose FC,2:2,Draw
+2023-12-31T08:41:24.818Z,56,Udinese Calcio,Bologna FC,3:0,Home
+2023-12-31T08:41:24.818Z,56,National Bank of Egypt SC,Al Mokawloon Al Arab,3:1,Home
+2023-12-31T08:41:24.818Z,56,Cagliari Calcio,Empoli FC,0:0,Draw
+2023-12-31T08:41:24.818Z,56,Glentoran FC,Cliftonville FC,PD:X,Draw
+2023-12-31T08:41:24.818Z,56,Ayr United FC,Dunfermline Athletic FC,2:2,Draw
+2023-12-31T08:41:24.818Z,56,Inverness Caledonian Thistle FC,Greenock Morton FC,0:0,Draw
+2023-12-31T08:41:24.818Z,56,Larne FC,Linfield FC,1:1,Draw
+2023-12-31T08:41:24.818Z,56,Crystal Palace,Brentford FC,3:1,Home
+2023-12-31T08:41:24.818Z,56,Wolverhampton Wanderers,Everton FC,3:0,Home
+2023-12-31T08:41:24.818Z,56,Queens Park FC,Airdrieonians FC,1:2,Away
+2023-12-31T08:41:24.818Z,56,Kidderminster Harriers FC,Boreham Wood FC,1:2,Away
+2023-12-31T08:41:24.818Z,56,Truro City,Torquay United,PD:1,Home
+2023-12-31T08:41:24.818Z,56,Gil Vicente Barcelos,Boavista Porto,1:0,Home
+2023-12-31T08:41:24.818Z,56,Talaea El Gaish,Zed FC,1:0,Home
+2023-12-31T08:41:24.818Z,56,Enppi Club,Baladiyyat AL Mehalla,3:0,Home
+2023-12-31T08:41:24.818Z,56,Nottingham Forest,Manchester United,2:1,Home
+2023-12-31T08:41:24.818Z,56,Sekhukhune United,Kaizer Chiefs,1:1,Draw
+2024-01-07T22:27:51.997Z,57,Port Vale,Charlton Athletic,3:3,Draw
+2024-01-07T22:27:51.997Z,57,Burton Albion,Wycombe Wanderers,1:1,Draw
+2024-01-07T22:27:51.997Z,57,Estrela Amadora,FC Vizela,1:1,Draw
+2024-01-07T22:27:51.997Z,57,Espanyol Barcelona,Getafe CF,0:1,Away
+2024-01-07T22:27:51.997Z,57,MKE Ankaragucu,Trabzonspor,0:1,Away
+2024-01-07T22:27:51.997Z,57,US Lecce,Cagliari Calcio,1:1,Draw
+2024-01-07T22:27:51.997Z,57,Sheffield Wednesday,Cardiff City,4:0,Home
+2024-01-07T22:27:51.997Z,57,SD Huesca,Rayo Vallecano,0:0,Draw
+2024-01-07T22:27:51.997Z,57,Deportivo Alaves,Real Betis Seville,1:0,Home
+2024-01-07T22:27:51.997Z,57,Sassuolo Calcio,ACF Fiorentina,1:0,Home
+2024-01-07T22:27:51.997Z,57,Burgos CF,RCD Mallorca,0:3,Away
+2024-01-07T22:27:51.997Z,57,RC Lens,AS Monaco,2:2,Draw
+2024-01-07T22:27:51.997Z,57,Shrewsbury Town,Wrexham AFC,0:1,Away
+2024-01-07T22:27:51.997Z,57,Torino FC,SSC Napoli,3:0,Home
+2024-01-07T22:27:51.997Z,57,Udinese Calcio,Lazio Rome,1:2,Away
+2024-01-07T22:27:51.997Z,57,FC Cartagena,Valencia CF,1:1,Draw
+2024-01-07T22:27:51.997Z,57,AS Roma,Atalanta BC,1:1,Draw
+2024-01-14T19:10:48.891Z,58,Hellas Verona,Empoli FC,2:1,Home
+2024-01-14T19:10:48.891Z,58,Tenerife CD,Elche CF,0:1,Away
+2024-01-14T19:10:48.891Z,58,PEC Zwolle,SC Heerenveen,2:2,Draw
+2024-01-14T19:10:48.891Z,58,Stade Rennes,OGC Nice,2:0,Home
+2024-01-14T19:10:48.891Z,58,Burgos CF,Real Valladolid,1:0,Home
+2024-01-14T19:10:48.891Z,58,Brisbane Roar FC,Newcastle United Jets FC,3:2,Home
+2024-01-14T19:10:48.891Z,58,Perth Glory FC,Wellington Phoenix FC,3:4,Away
+2024-01-14T19:10:48.891Z,58,FC Volendam,Almere City FC,0:1,Away
+2024-01-14T19:10:48.891Z,58,Queens Park Rangers,Watford FC,1:2,Away
+2024-01-14T19:10:48.891Z,58,Vitesse Arnhem,FC Utrecht,0:0,Draw
+2024-01-14T19:10:48.891Z,58,Everton FC,Aston Villa,0:0,Draw
+2024-01-14T19:10:48.891Z,58,Cagliari Calcio,Bologna FC,2:1,Home
+2024-01-14T19:10:48.891Z,58,FC Metz,Toulouse FC,0:1,Away
+2024-01-14T19:10:48.891Z,58,VfL Bochum,Werder Bremen,1:1,Draw
+2024-01-14T19:10:48.891Z,58,Cadiz CF,Valencia CF,1:4,Away
+2024-01-14T19:10:48.891Z,58,Le Havre AC,Olympique Lyon,3:1,Home
+2024-01-14T19:10:48.891Z,58,Manchester United,Tottenham Hotspur,2:2,Draw
+2024-01-22T08:54:57.270Z,59,Valencia CF,Athletic Bilbao,1:0,Home
+2024-01-22T08:54:57.270Z,59,RB Leipzig,Bayer Leverkusen,2:3,Away
+2024-01-22T08:54:57.270Z,59,Barnet FC,Chesterfield FC,PD:X,Draw
+2024-01-22T08:54:57.270Z,59,RC Celta de Vigo,Real Sociedad San Sebastian,0:1,Away
+2024-01-22T08:54:57.270Z,59,Frosinone Calcio,Cagliari Calcio,3:1,Home
+2024-01-22T08:54:57.270Z,59,CA Osasuna,Getafe CF,3:2,Home
+2024-01-22T08:54:57.270Z,59,Sparta Rotterdam,Go Ahead Eagles,0:2,Away
+2024-01-22T08:54:57.270Z,59,Sheffield United,West Ham United,2:2,Draw
+2024-01-22T08:54:57.270Z,59,Empoli FC,AC Monza,3:0,Home
+2024-01-22T08:54:57.270Z,59,Konyaspor,Antalyaspor,1:1,Draw
+2024-01-22T08:54:57.270Z,59,CD Mirandes,Levante UD,1:1,Draw
+2024-01-22T08:54:57.270Z,59,Clermont Foot 63,Strasbourg Alsace,1:3,Away
+2024-01-22T08:54:57.270Z,59,US Salernitana,Genoa CFC,1:2,Away
+2024-01-22T08:54:57.270Z,59,Zambia,Tanzania,1:1,Draw
+2024-01-22T08:54:57.270Z,59,SD Huesca,SD Eibar,2:3,Away
+2024-01-22T08:54:57.270Z,59,Elche CF,Real Valladolid,0:0,Draw
+2024-01-22T08:54:57.270Z,59,Stade Rennes,Olympique Marseille,1:1,Draw
+2024-01-28T23:21:47.251Z,60,Fulham FC,Newcastle United,0:2,Away
+2024-01-28T23:21:47.251Z,60,RCD Mallorca,Real Betis Seville,0:1,Away
+2024-01-28T23:21:47.251Z,60,Olympique Marseille,AS Monaco,2:2,Draw
+2024-01-28T23:21:47.251Z,60,Genoa CFC,US Lecce,2:1,Home
+2024-01-28T23:21:47.251Z,60,RC Celta de Vigo,Girona FC,0:1,Away
+2024-01-28T23:21:47.251Z,60,Clermont Foot 63,Strasbourg Alsace,1:1,Draw
+2024-01-28T23:21:47.251Z,60,AC Monza,Sassuolo Calcio,1:0,Home
+2024-01-28T23:21:47.251Z,60,Hellas Verona,Frosinone Calcio,1:1,Draw
+2024-01-28T23:21:47.251Z,60,FC Lorient,Le Havre AC,3:3,Draw
+2024-01-28T23:21:47.251Z,60,FC Andorra,Elche CF,0:1,Away
+2024-01-28T23:21:47.251Z,60,Gil Vicente Barcelos,Vitoria SC Guimaraes,1:0,Home
+2024-01-28T23:21:47.251Z,60,Moreirense FC,FC Famalicao,1:0,Home
+2024-01-28T23:21:47.251Z,60,Lazio Rome,SSC Napoli,0:0,Draw
+2024-01-28T23:21:47.251Z,60,Sevilla FC,CA Osasuna,1:1,Draw
+2024-01-28T23:21:47.251Z,60,RSC Anderlecht,Union Saint-Gilloise,2:2,Draw
+2024-01-28T23:21:47.251Z,60,Burgos CF,Albacete Balompie,2:1,Home
+2024-01-28T23:21:47.251Z,60,PAOK Thessaloniki,Panathinaikos Athens,2:1,Home
+2024-02-04T22:17:23.530Z,61,1. FC Cologne,Eintracht Frankfurt,2:0,Home
+2024-02-04T22:17:23.530Z,61,Fortuna Sittard,SC Heerenveen,3:3,Draw
+2024-02-04T22:17:23.530Z,61,Girona FC,Real Sociedad San Sebastian,0:0,Draw
+2024-02-04T22:17:23.530Z,61,Pendikspor,Adana Demirspor,2:1,Home
+2024-02-04T22:17:23.530Z,61,Vitesse Arnhem,Go Ahead Eagles,0:2,Away
+2024-02-04T22:17:23.530Z,61,Kasimpasa Istanbul,Alanyaspor,2:1,Home
+2024-02-04T22:17:23.530Z,61,Racing Club de Ferrol,SD Eibar,1:1,Draw
+2024-02-04T22:17:23.530Z,61,FC Metz,FC Lorient,1:2,Away
+2024-02-04T22:17:23.530Z,61,VfL Wolfsburg,TSG Hoffenheim,2:2,Draw
+2024-02-04T22:17:23.530Z,61,CA Osasuna,RC Celta de Vigo,0:3,Away
+2024-02-04T22:17:23.530Z,61,SD Amorebieta,Racing Santander,0:1,Away
+2024-02-04T22:17:23.530Z,61,GD Chaves,SC Farense,1:1,Draw
+2024-02-04T22:17:23.530Z,61,FC Luzern,FC St. Gallen 1879,1:0,Home
+2024-02-04T22:17:23.530Z,61,Stade Brest 29,OGC Nice,0:0,Draw
+2024-02-04T22:17:23.530Z,61,Arsenal FC,Liverpool FC,3:1,Home
+2024-02-04T22:17:23.530Z,61,Atalanta BC,Lazio Rome,3:1,Home
+2024-02-04T22:17:23.530Z,61,Olympique Lyon,Olympique Marseille,1:0,Home
+2024-02-12T00:48:34.282Z,62,UD Las Palmas,Valencia CF,2:0,Home
+2024-02-12T00:48:34.282Z,62,Heracles Almelo,Vitesse Arnhem,3:2,Home
+2024-02-12T00:48:34.282Z,62,Le Havre AC,Stade Rennes,0:1,Away
+2024-02-12T00:48:34.282Z,62,Getafe CF,RC Celta de Vigo,3:2,Home
+2024-02-12T00:48:34.282Z,62,Konyaspor,MKE Ankaragucu,1:0,Home
+2024-02-12T00:48:34.282Z,62,Istanbulspor AS,Gaziantep FK,1:3,Away
+2024-02-12T00:48:34.282Z,62,Toulouse FC,FC Nantes,1:2,Away
+2024-02-12T00:48:34.282Z,62,FC Pacos Ferreira,Maritimo Madeira,1:2,Away
+2024-02-12T00:48:34.282Z,62,RCD Mallorca,Rayo Vallecano,2:1,Home
+2024-02-12T00:48:34.282Z,62,AD Alcorcon,FC Andorra,1:0,Home
+2024-02-12T00:48:34.282Z,62,FC Cartagena,CD Mirandes,1:0,Home
+2024-02-12T00:48:34.282Z,62,Ternana Calcio,Spezia Calcio,1:1,Draw
+2024-02-12T00:48:34.282Z,62,Rio Ave FC,Casa Pia Lisbon,1:0,Home
+2024-02-12T00:48:34.282Z,62,Montpellier HSC,Olympique Lyon,1:2,Away
+2024-02-12T00:48:34.282Z,62,Aston Villa,Manchester United,1:2,Away
+2024-02-12T00:48:34.282Z,62,Genoa CFC,Atalanta BC,1:4,Away
+2024-02-12T00:48:34.282Z,62,OGC Nice,AS Monaco,2:3,Away
+2024-02-18T21:20:02.637Z,63,Fulham FC,Aston Villa,1:2,Away
+2024-02-18T21:20:02.637Z,63,Nottingham Forest,West Ham United,2:0,Home
+2024-02-18T21:20:02.637Z,63,GD Chaves,Boavista Porto,2:1,Home
+2024-02-18T21:20:02.637Z,63,Oud-Heverlee Leuven,Royal Charleroi SC,0:0,Draw
+2024-02-18T21:20:02.637Z,63,Valencia CF,Sevilla FC,0:0,Draw
+2024-02-18T21:20:02.637Z,63,PEC Zwolle,Almere City FC,0:1,Away
+2024-02-18T21:20:02.637Z,63,Macarthur FC,Wellington Phoenix FC,1:2,Away
+2024-02-18T21:20:02.637Z,63,Lazio Rome,Bologna FC,1:2,Away
+2024-02-18T21:20:02.637Z,63,Gaziantep FK,Samsunspor,1:1,Draw
+2024-02-18T21:20:02.637Z,63,Albacete Balompie,Racing Santander,2:0,Home
+2024-02-18T21:20:02.637Z,63,SC Freiburg,Eintracht Frankfurt,3:3,Draw
+2024-02-18T21:20:02.637Z,63,Racing Club de Ferrol,Levante UD,0:0,Draw
+2024-02-18T21:20:02.637Z,63,Casa Pia Lisbon,FC Arouca,1:0,Home
+2024-02-18T21:20:02.637Z,63,Stade Reims,RC Lens,1:1,Draw
+2024-02-18T21:20:02.637Z,63,RCD Mallorca,Real Sociedad San Sebastian,1:2,Away
+2024-02-18T21:20:02.637Z,63,FC Dinamo Bucuresti 1948,ASC Otelul Galati,3:1,Home
+2024-02-18T21:20:02.637Z,63,Estoril Praia,Gil Vicente Barcelos,1:3,Away
+2024-02-25T21:16:58.370Z,64,Blackburn Rovers,Norwich City,1:1,Draw
+2024-02-25T21:16:58.370Z,64,SC Farense,Moreirense FC,0:1,Away
+2024-02-25T21:16:58.370Z,64,FC Lorient,FC Nantes,0:1,Away
+2024-02-25T21:16:58.370Z,64,SCR Altach,TSV Hartberg,1:2,Away
+2024-02-25T21:16:58.370Z,64,US Salernitana,AC Monza,0:2,Away
+2024-02-25T21:16:58.370Z,64,Grasshopper Club Zurich,FC Luzern,0:1,Away
+2024-02-25T21:16:58.370Z,64,CA Boston River,Danubio FC,0:0,Draw
+2024-02-25T21:16:58.370Z,64,RC Lens,AS Monaco,2:3,Away
+2024-02-25T21:16:58.370Z,64,Cadiz CF,RC Celta de Vigo,2:2,Draw
+2024-02-25T21:16:58.370Z,64,FC Lugano,FC Zurich,2:0,Home
+2024-02-25T21:16:58.370Z,64,Widzew Lodz,Gornik Zabrze,3:1,Home
+2024-02-25T21:16:58.370Z,64,Sivasspor,Pendikspor,4:1,Home
+2024-02-25T21:16:58.370Z,64,AD Alcorcon,Tenerife CD,1:1,Draw
+2024-02-25T21:16:58.370Z,64,FC Vizela,Estoril Praia,3:3,Draw
+2024-02-25T21:16:58.370Z,64,AGF Aarhus,FC Midtjylland,2:3,Away
+2024-02-25T21:16:58.370Z,64,UD Las Palmas,CA Osasuna,1:1,Draw
+2024-02-25T21:16:58.370Z,64,FC Cartagena,Elche CF,0:1,Away
+2024-03-03T23:42:11.091Z,65,Brentford FC,Chelsea FC,2:2,Draw
+2024-03-03T23:42:11.091Z,65,Fulham FC,Brighton & Hove Albion,3:0,Home
+2024-03-03T23:42:11.091Z,65,Stade Reims,Lille OSC,0:1,Away
+2024-03-03T23:42:11.091Z,65,VfL Wolfsburg,VfB Stuttgart,2:3,Away
+2024-03-03T23:42:11.091Z,65,Torino FC,ACF Fiorentina,0:0,Draw
+2024-03-03T23:42:11.091Z,65,Standard Liege,KAA Gent,4:2,Home
+2024-03-03T23:42:11.091Z,65,Hellas Verona,Sassuolo Calcio,1:0,Home
+2024-03-03T23:42:11.091Z,65,Toulouse FC,OGC Nice,2:1,Home
+2024-03-03T23:42:11.091Z,65,KRC Genk,Club Brugge,0:3,Away
+2024-03-03T23:42:11.091Z,65,Empoli FC,Cagliari Calcio,0:1,Away
+2024-03-03T23:42:11.091Z,65,Frosinone Calcio,US Lecce,1:1,Draw
+2024-03-03T23:42:11.091Z,65,Casa Pia Lisbon,Gil Vicente Barcelos,0:0,Draw
+2024-03-03T23:42:11.091Z,65,Sparta Prague,Slavia Prague,0:0,Draw
+2024-03-03T23:42:11.091Z,65,Heracles Almelo,Almere City FC,2:2,Draw
+2024-03-03T23:42:11.091Z,65,Olympique Lyon,RC Lens,0:3,Away
+2024-03-03T23:42:11.091Z,65,SSC Napoli,Juventus Turin,2:1,Home
+2024-03-03T23:42:11.091Z,65,FC Porto,SL Benfica,5:0,Home
+2024-03-10T23:27:53.910Z,66,Amiens SC,Rodez Aveyron Football,1:1,Draw
+2024-03-10T23:27:53.910Z,66,Boavista Porto,Moreirense FC,1:0,Home
+2024-03-10T23:27:53.910Z,66,Genoa CFC,AC Monza,2:3,Away
+2024-03-10T23:27:53.910Z,66,Macarthur FC,Central Coast Mariners,0:3,Away
+2024-03-10T23:27:53.910Z,66,US Lecce,Hellas Verona,0:1,Away
+2024-03-10T23:27:53.910Z,66,Huddersfield Town,West Bromwich Albion,1:4,Away
+2024-03-10T23:27:53.910Z,66,Bristol City,Swansea City,1:0,Home
+2024-03-10T23:27:53.910Z,66,Deportivo Alaves,Rayo Vallecano,1:0,Home
+2024-03-10T23:27:53.910Z,66,Aston Villa,Tottenham Hotspur,0:4,Away
+2024-03-10T23:27:53.910Z,66,Racing Santander,Tenerife CD,4:2,Home
+2024-03-10T23:27:53.910Z,66,Le Havre AC,Toulouse FC,1:0,Home
+2024-03-10T23:27:53.910Z,66,FC Metz,Clermont Foot 63,1:0,Home
+2024-03-10T23:27:53.910Z,66,VfL Bochum,SC Freiburg,1:2,Away
+2024-03-10T23:27:53.910Z,66,Liverpool FC,Manchester City,1:1,Draw
+2024-03-10T23:27:53.910Z,66,Juventus Turin,Atalanta BC,2:2,Draw
+2024-03-10T23:27:53.910Z,66,ACF Fiorentina,AS Roma,2:2,Draw
+2024-03-10T23:27:53.910Z,66,Real Betis Seville,Villarreal CF,2:3,Away
+2024-03-17T23:17:59.998Z,67,Burnley FC,Brentford FC,2:1,Home
+2024-03-17T23:17:59.998Z,67,Luton Town,Nottingham Forest,1:1,Draw
+2024-03-17T23:17:59.998Z,67,FC Nantes,Strasbourg Alsace,1:3,Away
+2024-03-17T23:17:59.998Z,67,US Salernitana,US Lecce,0:1,Away
+2024-03-17T23:17:59.998Z,67,Fulham FC,Tottenham Hotspur,3:0,Home
+2024-03-17T23:17:59.998Z,67,Getafe CF,Girona FC,1:0,Home
+2024-03-17T23:17:59.998Z,67,SC Farense,Rio Ave FC,1:1,Draw
+2024-03-17T23:17:59.998Z,67,Frosinone Calcio,Lazio Rome,2:3,Away
+2024-03-17T23:17:59.998Z,67,RC Lens,OGC Nice,1:3,Away
+2024-03-17T23:17:59.998Z,67,Stade Brest 29,Lille OSC,1:1,Draw
+2024-03-17T23:17:59.998Z,67,West Ham United,Aston Villa,1:1,Draw
+2024-03-17T23:17:59.998Z,67,Clermont Foot 63,Le Havre AC,2:1,Home
+2024-03-17T23:17:59.998Z,67,Moreirense FC,FC Arouca,1:0,Home
+2024-03-17T23:17:59.998Z,67,Sparta Rotterdam,Ajax Amsterdam,2:2,Draw
+2024-03-17T23:17:59.998Z,67,Stade Rennes,Olympique Marseille,2:0,Home
+2024-03-17T23:17:59.998Z,67,Rayo Vallecano,Real Betis Seville,2:0,Home
+2024-03-17T23:17:59.998Z,67,Atletico Madrid,FC Barcelona,0:3,Away
+2024-03-24T20:21:34.200Z,68,Villarreal CF B,CD Leganes,1:2,Away
+2024-03-24T20:21:34.200Z,68,FC Cartagena,FC Andorra,1:0,Home
+2024-03-24T20:21:34.200Z,68,New York Red Bulls,Inter Miami CF,4:0,Home
+2024-03-24T20:21:34.200Z,68,Louisville City FC,Pittsburgh Riverhounds,3:1,Home
+2024-03-24T20:21:34.200Z,68,North Carolina FC,Tampa Bay Rowdies,1:1,Draw
+2024-03-24T20:21:34.200Z,68,Charlotte FC,Columbus Crew,2:0,Home
+2024-03-24T20:21:34.200Z,68,Toronto FC,Atlanta United FC,2:0,Home
+2024-03-24T20:21:34.200Z,68,Las Vegas Lights,El Paso Locomotive FC,1:0,Home
+2024-03-24T20:21:34.200Z,68,Portland Timbers,Philadelphia Union,1:3,Away
+2024-03-24T20:21:34.200Z,68,San Jose Earthquakes,Seattle Sounders,3:2,Home
+2024-03-24T20:21:34.200Z,68,Iwaki FC,Montedio Yamagata,0:0,Draw
+2024-03-24T20:21:34.200Z,68,Tochigi SC,Oita Trinita,2:1,Home
+2024-03-24T20:21:34.200Z,68,V-Varen Nagasaki,Ventforet Kofu,1:1,Draw
+2024-03-24T20:21:34.200Z,68,SD Amorebieta,Sporting Gijon,3:1,Home
+2024-03-24T20:21:34.200Z,68,SD Huesca,Burgos CF,3:0,Home
+2024-03-24T20:21:34.200Z,68,CD Mirandes,Real Zaragoza,0:0,Draw
+2024-03-24T20:21:34.200Z,68,Levante UD,Elche CF,3:2,Home
+2024-03-31T21:50:09.506Z,69,Lazio Rome,Juventus Turin,1:0,Home
+2024-03-31T21:50:09.506Z,69,Sparta Rotterdam,Fortuna Sittard,4:0,Home
+2024-03-31T21:50:09.506Z,69,Boavista Porto,Rio Ave FC,0:0,Draw
+2024-03-31T21:50:09.506Z,69,RKC Waalwijk,SC Heerenveen,1:1,Draw
+2024-03-31T21:50:09.506Z,69,ACF Fiorentina,AC Milan,1:2,Away
+2024-03-31T21:50:09.506Z,69,Olympique Lyon,Stade Reims,1:1,Draw
+2024-03-31T21:50:09.506Z,69,Brentford FC,Manchester United,1:1,Draw
+2024-03-31T21:50:09.506Z,69,Schalke 04,Karlsruher SC,0:0,Draw
+2024-03-31T21:50:09.506Z,69,AD Alcorcon,SD Amorebieta,1:1,Draw
+2024-03-31T21:50:09.506Z,69,Clermont Foot 63,Toulouse FC,0:3,Away
+2024-03-31T21:50:09.506Z,69,Le Havre AC,Montpellier HSC,0:2,Away
+2024-03-31T21:50:09.506Z,69,Racing Club de Ferrol,Elche CF,1:0,Home
+2024-03-31T21:50:09.506Z,69,Real Zaragoza,Tenerife CD,3:1,Home
+2024-03-31T21:50:09.506Z,69,Strasbourg Alsace,Stade Rennes,2:0,Home
+2024-03-31T21:50:09.506Z,69,Deportivo Alaves,Real Sociedad San Sebastian,0:1,Away
+2024-03-31T21:50:09.506Z,69,FC Vizela,Casa Pia Lisbon,0:4,Away
+2024-03-31T21:50:09.506Z,69,Olympique Marseille,Paris Saint-Germain,0:2,Away
+2024-04-08T09:15:50.387Z,70,AS Roma,Lazio Rome,1:0,Home
+2024-04-08T09:15:50.387Z,70,Borussia Dortmund,VfB Stuttgart,0:1,Away
+2024-04-08T09:15:50.387Z,70,Empoli FC,Torino FC,3:2,Home
+2024-04-08T09:15:50.387Z,70,Vitesse Arnhem,NEC Nijmegen,0:3,Away
+2024-04-08T09:15:50.387Z,70,Glasgow Rangers,Celtic Glasgow,3:3,Draw
+2024-04-08T09:15:50.387Z,70,SD Huesca,CD Leganes,0:0,Draw
+2024-04-08T09:15:50.387Z,70,Stade Reims,OGC Nice,0:0,Draw
+2024-04-08T09:15:50.387Z,70,TSG Hoffenheim,FC Augsburg,3:1,Home
+2024-04-08T09:15:50.387Z,70,Villarreal CF B,Burgos CF,2:1,Home
+2024-04-08T09:15:50.387Z,70,CD Mirandes,Sporting Gijon,1:3,Away
+2024-04-08T09:15:50.387Z,70,GD Chaves,Portimonense SC,2:3,Away
+2024-04-08T09:15:50.387Z,70,FK Haugesund,Lillestrom SK,0:2,Away
+2024-04-08T09:15:50.387Z,70,Hellas Verona,Genoa CFC,1:2,Away
+2024-04-08T09:15:50.387Z,70,Tenerife CD,SD Eibar,2:1,Home
+2024-04-08T09:15:50.387Z,70,SC Heerenveen,FC Utrecht,2:3,Away
+2024-04-08T09:15:50.387Z,70,Galatasaray Istanbul,Fenerbahce Istanbul,PD:2,Away
+2024-04-08T09:15:50.387Z,70,FC Nantes,Olympique Lyon,1:3,Away
+2024-04-15T08:56:59.227Z,71,Torino FC,Juventus Turin,0:0,Draw
+2024-04-15T08:56:59.227Z,71,AFC Bournemouth,Manchester United,2:2,Draw
+2024-04-15T08:56:59.227Z,71,US Concarneau,Amiens SC,0:0,Draw
+2024-04-15T08:56:59.227Z,71,Almere City FC,Sparta Rotterdam,2:3,Away
+2024-04-15T08:56:59.227Z,71,Heracles Almelo,SC Heerenveen,0:2,Away
+2024-04-15T08:56:59.227Z,71,Le Havre AC,FC Nantes,0:1,Away
+2024-04-15T08:56:59.227Z,71,West Ham United,Fulham FC,0:2,Away
+2024-04-15T08:56:59.227Z,71,Clermont Foot 63,Montpellier HSC,1:1,Draw
+2024-04-15T08:56:59.227Z,71,FC Andorra,SD Eibar,0:2,Away
+2024-04-15T08:56:59.227Z,71,Estrela Amadora,Rio Ave FC,2:2,Draw
+2024-04-15T08:56:59.227Z,71,Ajax Amsterdam,FC Twente Enschede,2:1,Home
+2024-04-15T08:56:59.227Z,71,Udinese Calcio,AS Roma,PD:X,Draw
+2024-04-15T08:56:59.227Z,71,Burgos CF,Racing Santander,2:1,Home
+2024-04-15T08:56:59.227Z,71,Real Zaragoza,Elche CF,1:1,Draw
+2024-04-15T08:56:59.227Z,71,Portimonense SC,Casa Pia Lisbon,2:2,Draw
+2024-04-15T08:56:59.227Z,71,Olympique Lyon,Stade Brest 29,4:3,Home
+2024-04-15T08:56:59.227Z,71,Racing Club de Ferrol,SD Huesca,2:1,Home
+2024-04-21T18:05:39.962Z,72,Sheffield United,Burnley FC,1:4,Away
+2024-04-21T18:05:39.962Z,72,Watford FC,Hull City,0:0,Draw
+2024-04-21T18:05:39.962Z,72,Pau FC,Stade Lavallois MFC,3:0,Home
+2024-04-21T18:05:39.962Z,72,AC Ajaccio,SM Caen,2:1,Home
+2024-04-21T18:05:39.962Z,72,Boavista Porto,Estrela Amadora,1:1,Draw
+2024-04-21T18:05:39.962Z,72,Hellas Verona,Udinese Calcio,1:0,Home
+2024-04-21T18:05:39.962Z,72,SD Huesca,Real Zaragoza,1:2,Away
+2024-04-21T18:05:39.962Z,72,Club Leon,CF Monterrey,2:0,Home
+2024-04-21T18:05:39.962Z,72,Oita Trinita,Iwaki FC,0:2,Away
+2024-04-21T18:05:39.962Z,72,Gangwon FC,Incheon United FC,4:1,Home
+2024-04-21T18:05:39.962Z,72,Perth Glory FC,Western United FC,3:4,Away
+2024-04-21T18:05:39.962Z,72,Sassuolo Calcio,US Lecce,0:3,Away
+2024-04-21T18:05:39.962Z,72,Hansa Rostock,1. FC Magdeburg,0:2,Away
+2024-04-21T18:05:39.962Z,72,Cercle Brugge,Royal Antwerp FC,0:1,Away
+2024-04-21T18:05:39.962Z,72,ASC Otelul Galati,FC Universitatea Cluj,1:0,Home
+2024-04-21T18:05:39.962Z,72,GD Chaves,Estoril Praia,2:2,Draw
+2024-04-21T18:05:39.962Z,72,Stade Brest 29,AS Monaco,0:2,Away
+2024-04-28T23:49:34.653Z,73,Juventus Turin,AC Milan,0:0,Draw
+2024-04-28T23:49:34.653Z,73,Everton FC,Brentford FC,1:0,Home
+2024-04-28T23:49:34.653Z,73,Aston Villa,Chelsea FC,2:2,Draw
+2024-04-28T23:49:34.653Z,73,Cadiz CF,RCD Mallorca,1:1,Draw
+2024-04-28T23:49:34.653Z,73,RKC Waalwijk,FC Utrecht,2:2,Draw
+2024-04-28T23:49:34.653Z,73,AFC Bournemouth,Brighton & Hove Albion,3:0,Home
+2024-04-28T23:49:34.653Z,73,Strasbourg Alsace,OGC Nice,1:3,Away
+2024-04-28T23:49:34.653Z,73,FC Lorient,Toulouse FC,1:2,Away
+2024-04-28T23:49:34.653Z,73,Borussia Monchengladbach,Union Berlin,0:0,Draw
+2024-04-28T23:49:34.653Z,73,Granada CF,CA Osasuna,3:0,Home
+2024-04-28T23:49:34.653Z,73,Portimonense SC,Moreirense FC,0:2,Away
+2024-04-28T23:49:34.653Z,73,Stade Rennes,Stade Brest 29,4:5,Away
+2024-04-28T23:49:34.653Z,73,Estoril Praia,FC Famalicao,1:0,Home
+2024-04-28T23:49:34.653Z,73,Olympique Lyon,AS Monaco,3:2,Home
+2024-04-28T23:49:34.653Z,73,Real Betis Seville,Sevilla FC,1:1,Draw
+2024-04-28T23:49:34.653Z,73,Olympique Marseille,RC Lens,2:1,Home
+2024-04-28T23:49:34.653Z,73,FC Porto,Sporting Lisbon,2:2,Draw
+2024-05-06T00:41:55.282Z,74,Girona FC,FC Barcelona,4:2,Home
+2024-05-06T00:41:55.282Z,74,1. FC Cologne,SC Freiburg,0:0,Draw
+2024-05-06T00:41:55.282Z,74,Cercle Brugge,KRC Genk,4:1,Home
+2024-05-06T00:41:55.282Z,74,Cagliari Calcio,US Lecce,1:1,Draw
+2024-05-06T00:41:55.282Z,74,CA Osasuna,Real Betis Seville,0:2,Away
+2024-05-06T00:41:55.282Z,74,FC Basel 1893,FC Luzern,1:1,Draw
+2024-05-06T00:41:55.282Z,74,Hellas Verona,ACF Fiorentina,2:1,Home
+2024-05-06T00:41:55.282Z,74,Empoli FC,Frosinone Calcio,0:0,Draw
+2024-05-06T00:41:55.282Z,74,Brighton & Hove Albion,Aston Villa,1:0,Home
+2024-05-06T00:41:55.282Z,74,Oud-Heverlee Leuven,Standard Liege,3:1,Home
+2024-05-06T00:41:55.282Z,74,RC Celta de Vigo,Villarreal CF,3:2,Home
+2024-05-06T00:41:55.282Z,74,FC Zurich,Young Boys Bern,0:2,Away
+2024-05-06T00:41:55.282Z,74,AZ Alkmaar,FC Twente Enschede,2:1,Home
+2024-05-06T00:41:55.282Z,74,Eintracht Frankfurt,Bayer Leverkusen,1:5,Away
+2024-05-06T00:41:55.282Z,74,Club Deportivo Eldense,CD Leganes,1:2,Away
+2024-05-06T00:41:55.282Z,74,1. FC Heidenheim,FSV Mainz,1:1,Draw
+2024-05-06T00:41:55.282Z,74,AS Roma,Juventus Turin,1:1,Draw
+2024-05-12T22:18:16.637Z,75,Genoa CFC,Sassuolo Calcio,2:1,Home
+2024-05-12T22:18:16.637Z,75,Hellas Verona,Torino FC,1:2,Away
+2024-05-12T22:18:16.637Z,75,West Bromwich Albion,Southampton FC,0:0,Draw
+2024-05-12T22:18:16.637Z,75,Broendby IF,FC Copenhagen,1:3,Away
+2024-05-12T22:18:16.637Z,75,St. Truidense VV,Yellow-Red KV Mechelen,2:1,Home
+2024-05-12T22:18:16.637Z,75,FC St. Gallen 1879,Servette Geneva,1:1,Draw
+2024-05-12T22:18:16.637Z,75,Stroemsgodset IF,Viking FK,0:1,Away
+2024-05-12T22:18:16.637Z,75,LASK,SK Sturm Graz,2:2,Draw
+2024-05-12T22:18:16.637Z,75,KFUM Oslo,Fredrikstad FK,1:4,Away
+2024-05-12T22:18:16.637Z,75,Sandefjord Fotball,Sarpsborg 08,4:1,Home
+2024-05-12T22:18:16.637Z,75,Valencia CF,Rayo Vallecano,0:0,Draw
+2024-05-12T22:18:16.637Z,75,Albacete Balompie,CD Leganes,1:0,Home
+2024-05-12T22:18:16.637Z,75,FC Cartagena,Tenerife CD,2:0,Home
+2024-05-12T22:18:16.637Z,75,Royal Antwerp FC,Cercle Brugge,1:2,Away
+2024-05-12T22:18:16.637Z,75,Casa Pia Lisbon,Moreirense FC,0:1,Away
+2024-05-12T22:18:16.637Z,75,Strasbourg Alsace,FC Metz,2:1,Home
+2024-05-12T22:18:16.637Z,75,Stade Rennes,RC Lens,1:1,Draw
+2024-05-19T23:54:37.915Z,76,Heracles Almelo,Fortuna Sittard,0:0,Draw
+2024-05-19T23:54:37.915Z,76,Almere City FC,NEC Nijmegen,1:4,Away
+2024-05-19T23:54:37.915Z,76,AC Monza,Frosinone Calcio,0:1,Away
+2024-05-19T23:54:37.915Z,76,Hannover 96,Holstein Kiel,1:2,Away
+2024-05-19T23:54:37.915Z,76,Hansa Rostock,SC Paderborn 07,1:2,Away
+2024-05-19T23:54:37.915Z,76,AD Alcorcon,Real Valladolid,1:1,Draw
+2024-05-19T23:54:37.915Z,76,Crystal Palace,Aston Villa,5:0,Home
+2024-05-19T23:54:37.915Z,76,Burnley FC,Nottingham Forest,1:2,Away
+2024-05-19T23:54:37.915Z,76,Brentford FC,Newcastle United,2:4,Away
+2024-05-19T23:54:37.915Z,76,Luton Town,Fulham FC,2:4,Away
+2024-05-19T23:54:37.915Z,76,Ekenas Idrottsforening,FC Lahti,1:1,Draw
+2024-05-19T23:54:37.915Z,76,Galatasaray Istanbul,Fenerbahce Istanbul,0:1,Away
+2024-05-19T23:54:37.915Z,76,RSC Anderlecht,Club Brugge,0:1,Away
+2024-05-19T23:54:37.915Z,76,Real Betis Seville,Real Sociedad San Sebastian,0:2,Away
+2024-05-19T23:54:37.915Z,76,Granada CF,RC Celta de Vigo,1:2,Away
+2024-05-19T23:54:37.915Z,76,Valencia CF,Girona FC,1:3,Away
+2024-05-19T23:54:37.915Z,76,Stade Reims,Stade Rennes,2:1,Home
+2024-05-26T20:02:42.475Z,77,Gefle IF,Orebro SK,3:1,Home
+2024-05-26T20:02:42.475Z,77,National Bank of Egypt SC,Ismaily SC,2:2,Draw
+2024-05-26T20:02:42.475Z,77,Leeds United,Southampton FC,0:1,Away
+2024-05-26T20:02:42.475Z,77,Helsingborgs IF,Landskrona BoIS,0:1,Away
+2024-05-26T20:02:42.475Z,77,UD Las Palmas,Deportivo Alaves,1:1,Draw
+2024-05-26T20:02:42.475Z,77,Vasteras SK,IF Brommapojkarna,1:1,Draw
+2024-05-26T20:02:42.475Z,77,Odds BK,Lillestroem SK,2:1,Home
+2024-05-26T20:02:42.475Z,77,Al-Wasl FC,Shabab Al Ahli Dubai,3:0,Home
+2024-05-26T20:02:42.475Z,77,Atalanta BC,Torino FC,3:0,Home
+2024-05-26T20:02:42.475Z,77,Trabzonspor,MKE Ankaragucu,4:2,Home
+2024-05-26T20:02:42.475Z,77,Pendikspor,Gaziantep FK,0:1,Away
+2024-05-26T20:02:42.475Z,77,FC Porto,Sporting Lisbon,1:1,Draw
+2024-05-26T20:02:42.475Z,77,Sporting Gijon,SD Eibar,1:0,Home
+2024-05-26T20:02:42.475Z,77,Albacete Balompie,CD Mirandes,2:2,Draw
+2024-05-26T20:02:42.475Z,77,Racing Club de Ferrol,CD Leganes,2:2,Draw
+2024-05-26T20:02:42.475Z,77,FC Cartagena,SD Huesca,0:2,Away
+2024-05-26T20:02:42.475Z,77,SD Amorebieta,Espanyol Barcelona,0:0,Draw
+2024-06-02T20:33:40.175Z,78,Orebro SK,IK Oddevold,2:2,Draw
+2024-06-02T20:33:40.175Z,78,KRC Genk,KAA Gent,0:1,Away
+2024-06-02T20:33:40.175Z,78,Kalmar FF,Vasteras SK,0:4,Away
+2024-06-02T20:33:40.175Z,78,Servette Geneva,FC Lugano,0:0,Draw
+2024-06-02T20:33:40.175Z,78,GIF Sundsvall,Helsingborgs IF,1:3,Away
+2024-06-02T20:33:40.175Z,78,CA River Plate (URU),Racing Club Montevideo,3:3,Draw
+2024-06-02T20:33:40.175Z,78,FC Fredericia,Hobro IK,0:1,Away
+2024-06-02T20:33:40.175Z,78,AD Alcorcon,Burgos CF,1:1,Draw
+2024-06-02T20:33:40.175Z,78,SD Huesca,Levante UD,0:0,Draw
+2024-06-02T20:33:40.175Z,78,FC Andorra,Racing Club de Ferrol,1:0,Home
+2024-06-02T20:33:40.175Z,78,IFK Varnamo,Mjallby AIF,1:2,Away
+2024-06-02T20:33:40.175Z,78,Kristiansund BK,Sarpsborg 08,3:1,Home
+2024-06-02T20:33:40.175Z,78,Tromsoe IL,Lillestroem SK,1:2,Away
+2024-06-02T20:33:40.175Z,78,FF Jaro,Turun Palloseura,0:1,Away
+2024-06-02T20:33:40.175Z,78,Tenerife CD,Real Valladolid,2:1,Home
+2024-06-02T20:33:40.175Z,78,Rosenborg BK,Fredrikstad FK,1:1,Draw
+2024-06-02T20:33:40.175Z,78,CA Platense,Boca Juniors,1:0,Home
+2024-06-09T21:37:53.716Z,79,Sweden,Serbia,0:3,Away
+2024-06-09T21:37:53.716Z,79,Switzerland,Austria,1:1,Draw
+2024-06-09T21:37:53.716Z,79,Real Oviedo,SD Eibar,0:0,Draw
+2024-06-09T21:37:53.716Z,79,Denmark,Norway,3:1,Home
+2024-06-09T21:37:53.716Z,79,USA,Colombia,1:5,Away
+2024-06-09T21:37:53.716Z,79,Sporting Kansas City,Seattle Sounders,2:1,Home
+2024-06-09T21:37:53.716Z,79,Montedio Yamagata,Oita Trinita,0:0,Draw
+2024-06-09T21:37:53.716Z,79,IFK Stocksund,Orebro Syrianska IF,4:1,Home
+2024-06-09T21:37:53.716Z,79,Mjoendalen IF,Ranheim,3:3,Draw
+2024-06-09T21:37:53.716Z,79,IK Start,Lyn 1896 FK,1:4,Away
+2024-06-09T21:37:53.716Z,79,Sollentuna FK,Vasalunds IF,0:1,Away
+2024-06-09T21:37:53.716Z,79,CD Maipu,CA Estudiantes,1:0,Home
+2024-06-09T21:37:53.716Z,79,CA Guemes,San Martin de Tucuman,0:0,Draw
+2024-06-09T21:37:53.716Z,79,Racing de Cordoba,San Martin de San Juan,0:0,Draw
+2024-06-09T21:37:53.716Z,79,Deportivo Madryn,Colon de Santa Fe,0:0,Draw
+2024-06-09T21:37:53.716Z,79,Montenegro,Georgia,1:3,Away
+2024-06-09T21:37:53.716Z,79,Sporting Gijon,Espanyol Barcelona,0:1,Away
+2024-06-16T23:00:51.194Z,80,Union de Santa Fe,CA San Lorenzo de Almagro,2:1,Home
+2024-06-16T23:00:51.194Z,80,New England Revolution,Vancouver Whitecaps FC,3:2,Home
+2024-06-16T23:00:51.194Z,80,Orlando City SC,Los Angeles FC,1:3,Away
+2024-06-16T23:00:51.194Z,80,FC Dallas,Saint Louis City SC,2:0,Home
+2024-06-16T23:00:51.194Z,80,San Jose Earthquakes,FC Cincinnati,2:4,Away
+2024-06-16T23:00:51.194Z,80,Iwaki FC,Ventforet Kofu,1:1,Draw
+2024-06-16T23:00:51.194Z,80,Mito Hollyhock,Blaublitz Akita,1:0,Home
+2024-06-16T23:00:51.194Z,80,Vegalta Sendai,V-Varen Nagasaki,2:2,Draw
+2024-06-16T23:00:51.194Z,80,Gamba Osaka,Kashiwa Reysol,2:1,Home
+2024-06-16T23:00:51.194Z,80,Roasso Kumamoto,Fagiano Okayama,0:1,Away
+2024-06-16T23:00:51.194Z,80,Jeonbuk Hyundai Motors FC,Incheon United FC,2:2,Draw
+2024-06-16T23:00:51.194Z,80,Daegu FC,Jeju United FC,1:0,Home
+2024-06-16T23:00:51.194Z,80,Moss FK,Bryne FK,1:0,Home
+2024-06-16T23:00:51.194Z,80,Al Mokawloon Al Arab,Talaea El Gaish,3:1,Home
+2024-06-16T23:00:51.194Z,80,EC Vitoria BA,SC Internacional RS,2:1,Home
+2024-06-16T23:00:51.194Z,80,CA Paranaense PR,CR Flamengo RJ,1:1,Draw
+2024-06-16T23:00:51.194Z,80,SC Corinthians SP,Sao Paulo FC SP,2:2,Draw
+2024-06-23T20:30:21.315Z,81,Tristan Suarez,CA All Boys,1:0,Home
+2024-06-23T20:30:21.315Z,81,Deportivo Madryn,Estudiantes Rio Cuarto,1:0,Home
+2024-06-23T20:30:21.315Z,81,CA Brown de Adrogue,Deportivo Moron,0:0,Draw
+2024-06-23T20:30:21.315Z,81,Club Almagro,Nueva Chicago,1:2,Away
+2024-06-23T20:30:21.315Z,81,Racing Club Montevideo,Defensor Sporting,0:1,Away
+2024-06-23T20:30:21.315Z,81,CA Temperley,Quilmes AC,1:0,Home
+2024-06-23T20:30:21.315Z,81,Gremio FB Porto Alegrense RS,SC Internacional RS,0:1,Away
+2024-06-23T20:30:21.315Z,81,DC United,Houston Dynamo,1:4,Away
+2024-06-23T20:30:21.315Z,81,CR Vasco da Gama RJ,Sao Paulo FC SP,4:1,Home
+2024-06-23T20:30:21.315Z,81,Nashville SC,New York City FC,1:0,Home
+2024-06-23T20:30:21.315Z,81,Portland Timbers,Vancouver Whitecaps FC,2:0,Home
+2024-06-23T20:30:21.315Z,81,Tokushima Vortis,Mito Hollyhock,1:0,Home
+2024-06-23T20:30:21.315Z,81,Ostersunds FK,Utsiktens BK,1:0,Home
+2024-06-23T20:30:21.315Z,81,IK Oddevold,Degerfors IF,1:1,Draw
+2024-06-23T20:30:21.315Z,81,Mjoendalen IF,Egersunds IK,0:3,Away
+2024-06-23T20:30:21.315Z,81,Aalesunds FK,Ranheim,1:2,Away
+2024-06-23T20:30:21.315Z,81,Aasane Fotball,Moss FK,1:4,Away
+2024-06-30T13:03:08.207Z,82,Switzerland,Italy,2:0,Home
+2024-06-30T13:03:08.207Z,82,Zamalek SC,Ceramica Cleopatra,4:2,Home
+2024-06-30T13:03:08.207Z,82,CA All Boys,CA Patronato Parana,1:0,Home
+2024-06-30T13:03:08.207Z,82,Agropecuario Argentino,Racing de Cordoba,2:4,Away
+2024-06-30T13:03:08.207Z,82,CA Estudiantes,CA San Miguel,1:1,Draw
+2024-06-30T13:03:08.207Z,82,Botafogo FC SP,SC Recife PE,1:1,Draw
+2024-06-30T13:03:08.207Z,82,CR Vasco da Gama RJ,Botafogo FR RJ,1:1,Draw
+2024-06-30T13:03:08.207Z,82,Cuiaba Esporte Clube MT,Red Bull Bragantino SP,1:1,Draw
+2024-06-30T13:03:08.207Z,82,CF Montreal,Philadelphia Union,4:2,Home
+2024-06-30T13:03:08.207Z,82,New England Revolution,Columbus Crew,1:5,Away
+2024-06-30T13:03:08.207Z,82,Canada,Chile,0:0,Draw
+2024-06-30T13:03:08.207Z,82,FC Dallas,FC Cincinnati,0:1,Away
+2024-06-30T13:03:08.207Z,82,San Jose Earthquakes,Los Angeles Galaxy,0:3,Away
+2024-06-30T13:03:08.207Z,82,Gamba Osaka,Machida Zelvia,1:3,Away
+2024-06-30T13:03:08.207Z,82,Cerezo Osaka,Nagoya Grampus,2:1,Home
+2024-06-30T13:03:08.207Z,82,FC Tokyo,Avispa Fukuoka,0:1,Away
+2024-06-30T13:03:08.207Z,82,Sagan Tosu,Kashiwa Reysol,1:4,Away
+2024-07-07T18:20:34.571Z,83,England,Switzerland,1:1,Draw
+2024-07-07T18:20:34.571Z,83,Zed FC,National Bank of Egypt SC,0:1,Away
+2024-07-07T18:20:34.571Z,83,CA Brown de Adrogue,CA Talleres de Remedios,0:0,Draw
+2024-07-07T18:20:34.571Z,83,Club Almagro,CA Temperley,0:0,Draw
+2024-07-07T18:20:34.571Z,83,Club Atletico Atlanta,Estudiantes Rio Cuarto,1:1,Draw
+2024-07-07T18:20:34.571Z,83,CF Montreal,Vancouver Whitecaps FC,1:1,Draw
+2024-07-07T18:20:34.571Z,83,Philadelphia Union,New York Red Bulls,0:0,Draw
+2024-07-07T18:20:34.571Z,83,Austin FC,New York City FC,2:1,Home
+2024-07-07T18:20:34.571Z,83,Daejeon Citizen FC,Jeonbuk Hyundai Motors FC,2:2,Draw
+2024-07-07T18:20:34.571Z,83,Gangwon FC,Gwangju FC,2:0,Home
+2024-07-07T18:20:34.571Z,83,Avispa Fukuoka,Kyoto Sanga FC,1:2,Away
+2024-07-07T18:20:34.571Z,83,IFK Varnamo,IFK Goteborg,2:0,Home
+2024-07-07T18:20:34.571Z,83,GAIS,Hammarby IF,0:0,Draw
+2024-07-07T18:20:34.571Z,83,KFUM Oslo,Viking FK,1:2,Away
+2024-07-07T18:20:34.571Z,83,FK Haugesund,Sarpsborg 08,1:2,Away
+2024-07-07T18:20:34.571Z,83,IFK Mariehamn,FC Haka Valkeakoski,0:3,Away
+2024-07-07T18:20:34.571Z,83,CA Progreso,Racing Club Montevideo,3:2,Home
+2024-07-17T08:55:20.458Z,84,Suwon FC,Daegu FC,2:2,Draw
+2024-07-17T08:55:20.458Z,84,Yokohama F Marinos,Kashima Antlers,4:1,Home
+2024-07-17T08:55:20.458Z,84,IF Gnistan,IFK Mariehamn,PD:X,Draw
+2024-07-17T08:55:20.458Z,84,CA Cerro,Cerro Largo FC,0:1,Away
+2024-07-17T08:55:20.458Z,84,Kalmar FF,IF Brommapojkarna,0:1,Away
+2024-07-17T08:55:20.458Z,84,FF Jaro,FC KTP Kotka,5:2,Home
+2024-07-17T08:55:20.458Z,84,Arsenal de Sarandi,Ferro Carril Oeste,0:0,Draw
+2024-07-17T08:55:20.458Z,84,FC Lahti,AC Oulu,1:2,Away
+2024-07-17T08:55:20.458Z,84,CA Fenix Montevideo,Defensor Sporting,1:2,Away
+2024-07-17T08:55:20.458Z,84,Nueva Chicago,San Telmo,0:3,Away
+2024-07-17T08:55:20.458Z,84,CA Aldosivi,Club Atletico Atlanta,2:1,Home
+2024-07-17T08:55:20.458Z,84,Guillermo Brown,Gimnasia Jujuy,0:0,Draw
+2024-07-17T08:55:20.458Z,84,Alianza Atletico,Atletico Grau,0:0,Draw
+2024-07-17T08:55:20.458Z,84,Gimnasia Y Tiro de Salta,Deportivo Madryn,0:0,Draw
+2024-07-17T08:55:20.458Z,84,Spain,England,2:1,Home
+2024-07-17T08:55:20.458Z,84,CA Patronato Parana,Colon de Santa Fe,1:0,Home
+2024-07-17T08:55:20.458Z,84,Agropecuario Argentino,CA Guemes,3:1,Home
+2024-07-21T23:30:14.289Z,85,Incheon United FC,Suwon FC,1:4,Away
+2024-07-21T23:30:14.289Z,85,Daegu FC,Gwangju FC,0:1,Away
+2024-07-21T23:30:14.289Z,85,Ostersunds FK,Degerfors IF,2:1,Home
+2024-07-21T23:30:14.289Z,85,GKS Tychy,Miedz Legnica,2:2,Draw
+2024-07-21T23:30:14.289Z,85,MKS Cracovia Krakow,GKS Piast Gliwice,1:1,Draw
+2024-07-21T23:30:14.289Z,85,Vejle BK,Randers FC,2:3,Away
+2024-07-21T23:30:14.289Z,85,Lausanne-Sport,FC Basel 1893,3:2,Home
+2024-07-21T23:30:14.289Z,85,FC Luzern,Servette Geneva,1:2,Away
+2024-07-21T23:30:14.289Z,85,Hamarkameratene,Fredrikstad FK,0:1,Away
+2024-07-21T23:30:14.289Z,85,CD Palestino,CD Everton Vina del Mar,1:4,Away
+2024-07-21T23:30:14.289Z,85,CA Defensores Unidos,Gimnasia Y Tiro de Salta,0:1,Away
+2024-07-21T23:30:14.289Z,85,Enppi Club,Zed FC,1:4,Away
+2024-07-21T23:30:14.289Z,85,Deportivo Madryn,Gimnasia y Esgrima Mendoza,0:2,Away
+2024-07-21T23:30:14.289Z,85,Guarani FC SP,Goias EC GO,2:3,Away
+2024-07-21T23:30:14.289Z,85,Oakland Roots SC,Sacramento Republic FC,2:5,Away
+2024-07-21T23:30:14.289Z,85,CA Central Cordoba SE,CA Platense,0:2,Away
+2024-07-21T23:30:14.289Z,85,CA Talleres de Remedios,CA Chacarita Juniors,2:1,Home
+2024-07-28T21:42:19.612Z,86,FC Sion,Lausanne-Sport,4:0,Home
+2024-07-28T21:42:19.612Z,86,FK Zeleziarne Podbrezova,MSK Zilina,0:0,Draw
+2024-07-28T21:42:19.612Z,86,K Beerschot VA,Oud-Heverlee Leuven,0:0,Draw
+2024-07-28T21:42:19.612Z,86,CA Brown de Adrogue,CA Chaco For Ever,0:0,Draw
+2024-07-28T21:42:19.612Z,86,NK Domzale,Mura Murska Sobota,1:2,Away
+2024-07-28T21:42:19.612Z,86,FC Basel 1893,FC Lugano,1:2,Away
+2024-07-28T21:42:19.612Z,86,Detroit City FC,Sacramento Republic FC,0:1,Away
+2024-07-28T21:42:19.612Z,86,CA Aldosivi,Colon de Santa Fe,1:0,Home
+2024-07-28T21:42:19.612Z,86,St Albans Saints,Dandenong Thunder,1:0,Home
+2024-07-28T21:42:19.612Z,86,Canberra Croatia FC,Gungahlin United FC,2:3,Away
+2024-07-28T21:42:19.612Z,86,GIF Sundsvall,Trelleborgs FF,2:1,Home
+2024-07-28T21:42:19.612Z,86,Henan,Shandong Taishan FC,1:0,Home
+2024-07-28T21:42:19.612Z,86,Aalborg BK,Silkeborg IF,2:1,Home
+2024-07-28T21:42:19.612Z,86,IF Elfsborg,Djurgardens IF,1:2,Away
+2024-07-28T21:42:19.612Z,86,Odds BK,Stroemsgodset IF,2:0,Home
+2024-07-28T21:42:19.612Z,86,Viking FK,Molde FK,1:0,Home
+2024-07-28T21:42:19.612Z,86,Guarani FC SP,Brusque FC SC,1:0,Home
+2024-08-04T18:38:27.217Z,87,Royal Antwerp FC,RSC Anderlecht,1:2,Away
+2024-08-04T18:38:27.217Z,87,SV Darmstadt 98,Fortuna Dusseldorf,0:2,Away
+2024-08-04T18:38:27.217Z,87,SSV Ulm 1846,1 FC Kaiserslautern,1:2,Away
+2024-08-04T18:38:27.217Z,87,Silkeborg IF,Viborg FF,3:2,Home
+2024-08-04T18:38:27.217Z,87,Esbjerg FB,AC Horsens,0:1,Away
+2024-08-04T18:38:27.217Z,87,IFK Varnamo,IK Sirius,2:4,Away
+2024-08-04T18:38:27.217Z,87,Lausanne-Sport,FC St. Gallen 1879,3:4,Away
+2024-08-04T18:38:27.217Z,87,FC Vaduz,FC Wil 1900,3:2,Home
+2024-08-04T18:38:27.217Z,87,Dundee United,Dundee FC,2:2,Draw
+2024-08-04T18:38:27.217Z,87,LKP Motor Lublin,Korona Kielce,1:1,Draw
+2024-08-04T18:38:27.217Z,87,St Mirren FC,Hibernian FC,3:0,Home
+2024-08-04T18:38:27.217Z,87,Kalmar FF,Hammarby IF,1:4,Away
+2024-08-04T18:38:27.217Z,87,Blau-Weiss Linz,FK Austria Wien,1:0,Home
+2024-08-04T18:38:27.217Z,87,SK Rapid,SK Sturm Graz,1:0,Home
+2024-08-04T18:38:27.217Z,87,Kristiansund BK,Lillestroem SK,2:1,Home
+2024-08-04T18:38:27.217Z,87,Hamarkameratene,Viking FK,3:3,Draw
+2024-08-04T18:38:27.217Z,87,Kuopion Palloseura,Seinajoen JK,2:1,Home
+2024-08-11T20:33:19.756Z,88,Oita Trinita,Roasso Kumamoto,2:1,Home
+2024-08-11T20:33:19.756Z,88,Montedio Yamagata,Tokushima Vortis,1:0,Home
+2024-08-11T20:33:19.756Z,88,IK Oddevold,Sandvikens IF,2:2,Draw
+2024-08-11T20:33:19.756Z,88,SC Preussen 06 Munster,Hannover 96,0:0,Draw
+2024-08-11T20:33:19.756Z,88,Eintracht Braunschweig,1. FC Magdeburg,1:3,Away
+2024-08-11T20:33:19.756Z,88,FC Schaffhausen,FC Vaduz,1:1,Draw
+2024-08-11T20:33:19.756Z,88,Odra Opole,Wisla Plock,1:2,Away
+2024-08-11T20:33:19.756Z,88,KS Lechia Gdansk,Zaglebie Lubin,1:1,Draw
+2024-08-11T20:33:19.756Z,88,Estoril Praia,Santa Clara Azores,1:4,Away
+2024-08-11T20:33:19.756Z,88,De Graafschap,FC Volendam,4:3,Home
+2024-08-11T20:33:19.756Z,88,Odds BK,Sarpsborg 08,1:1,Draw
+2024-08-11T20:33:19.756Z,88,FK Austria Wien,Wolfsberger AC,3:1,Home
+2024-08-11T20:33:19.756Z,88,KFUM Oslo,Rosenborg BK,1:0,Home
+2024-08-11T20:33:19.756Z,88,Kongsvinger IL Toppfotball,Lyn 1896 FK,1:1,Draw
+2024-08-11T20:33:19.756Z,88,Royal Charleroi SC,KAA Gent,1:0,Home
+2024-08-11T20:33:19.756Z,88,SC Farense,Moreirense FC,1:2,Away
+2024-08-11T20:33:19.756Z,88,Lillestroem SK,Molde FK,1:2,Away
+2024-08-18T18:30:00.506Z,89,Nottingham Forest,AFC Bournemouth,1:1,Draw
+2024-08-18T18:30:00.506Z,89,Everton FC,Brighton & Hove Albion,0:3,Away
+2024-08-18T18:30:00.506Z,89,Racing Club de Ferrol,Malaga CF,2:2,Draw
+2024-08-18T18:30:00.506Z,89,West Ham United,Aston Villa,1:2,Away
+2024-08-18T18:30:00.506Z,89,RC Deportivo La Coruna,Real Oviedo,0:1,Away
+2024-08-18T18:30:00.506Z,89,Pisa SC,Spezia Calcio,2:2,Draw
+2024-08-18T18:30:00.506Z,89,Empoli FC,AC Monza,0:0,Draw
+2024-08-18T18:30:00.506Z,89,FC Pacos Ferreira,Maritimo Madeira,1:2,Away
+2024-08-18T18:30:00.506Z,89,Sunderland AFC,Sheffield Wednesday,4:0,Home
+2024-08-18T18:30:00.506Z,89,Brentford FC,Crystal Palace,2:1,Home
+2024-08-18T18:30:00.506Z,89,AJ Auxerre,OGC Nice,2:1,Home
+2024-08-18T18:30:00.506Z,89,CD Feirense,Academico de Viseu FC,2:2,Draw
+2024-08-18T18:30:00.506Z,89,Oud-Heverlee Leuven,Cercle Brugge,1:1,Draw
+2024-08-18T18:30:00.506Z,89,Moreirense FC,FC Arouca,3:1,Home
+2024-08-18T18:30:00.506Z,89,Montpellier HSC,Strasbourg Alsace,1:1,Draw
+2024-08-18T18:30:00.506Z,89,Toulouse FC,FC Nantes,0:0,Draw
+2024-08-18T18:30:00.506Z,89,Racing Santander,UD Almeria,2:2,Draw
+2024-08-25T20:30:56.343Z,90,Crystal Palace,West Ham United,0:2,Away
+2024-08-25T20:30:56.343Z,90,Southampton FC,Nottingham Forest,0:1,Away
+2024-08-25T20:30:56.343Z,90,CA Osasuna,RCD Mallorca,1:0,Home
+2024-08-25T20:30:56.343Z,90,Olympique Lyon,AS Monaco,0:2,Away
+2024-08-25T20:30:56.343Z,90,Udinese Calcio,Lazio Rome,2:1,Home
+2024-08-25T20:30:56.343Z,90,AC Monza,Genoa CFC,0:1,Away
+2024-08-25T20:30:56.343Z,90,Getafe CF,Rayo Vallecano,0:0,Draw
+2024-08-25T20:30:56.343Z,90,Espanyol Barcelona,Real Sociedad San Sebastian,0:1,Away
+2024-08-25T20:30:56.343Z,90,AFC Bournemouth,Newcastle United,1:1,Draw
+2024-08-25T20:30:56.343Z,90,Strasbourg Alsace,Stade Rennes,3:1,Home
+2024-08-25T20:30:56.343Z,90,FC Nantes,AJ Auxerre,2:0,Home
+2024-08-25T20:30:56.343Z,90,FC St. Pauli,1. FC Heidenheim,0:2,Away
+2024-08-25T20:30:56.343Z,90,Torino FC,Atalanta BC,2:1,Home
+2024-08-25T20:30:56.343Z,90,CD Leganes,UD Las Palmas,2:1,Home
+2024-08-25T20:30:56.343Z,90,Estoril Praia,Gil Vicente Barcelos,0:0,Draw
+2024-08-25T20:30:56.343Z,90,Albacete Balompie,Elche CF,1:0,Home
+2024-08-25T20:30:56.343Z,90,Deportivo Alaves,Real Betis Seville,0:0,Draw
+2024-09-01T20:46:53.378Z,91,Athletic Bilbao,Atletico Madrid,0:1,Away
+2024-09-01T20:46:53.378Z,91,Espanyol Barcelona,Rayo Vallecano,2:1,Home
+2024-09-01T20:46:53.378Z,91,Lazio Rome,AC Milan,2:2,Draw
+2024-09-01T20:46:53.378Z,91,Valencia CF,Villarreal CF,1:1,Draw
+2024-09-01T20:46:53.378Z,91,Newcastle United,Tottenham Hotspur,2:1,Home
+2024-09-01T20:46:53.378Z,91,1. FC Heidenheim,FC Augsburg,4:0,Home
+2024-09-01T20:46:53.378Z,91,KAA Gent,Royal Antwerp FC,1:1,Draw
+2024-09-01T20:46:53.378Z,91,IFK Goteborg,Hammarby IF,0:1,Away
+2024-09-01T20:46:53.378Z,91,Nacional da Madeir,SC Farense,2:0,Home
+2024-09-01T20:46:53.378Z,91,Le Havre AC,AJ Auxerre,3:1,Home
+2024-09-01T20:46:53.378Z,91,Stade Reims,Stade Rennes,2:1,Home
+2024-09-01T20:46:53.378Z,91,CA Osasuna,RC Celta de Vigo,3:2,Home
+2024-09-01T20:46:53.378Z,91,SCR Altach,FK Austria Wien,1:1,Draw
+2024-09-01T20:46:53.378Z,91,Eyupspor,Trabzonspor,0:0,Draw
+2024-09-01T20:46:53.378Z,91,Sevilla FC,Girona FC,0:2,Away
+2024-09-01T20:46:53.378Z,91,Rio Ave FC,FC Arouca,1:0,Home
+2024-09-01T20:46:53.378Z,91,Getafe CF,Real Sociedad San Sebastian,0:0,Draw
+2024-09-08T19:36:05.527Z,92,Georgia,Czechia,4:1,Home
+2024-09-08T19:36:05.527Z,92,SD Huesca,Burgos CF,0:1,Away
+2024-09-08T19:36:05.527Z,92,Sporting Gijon,Real Oviedo,3:1,Home
+2024-09-08T19:36:05.527Z,92,Aldershot Town FC,Rochdale AFC,0:2,Away
+2024-09-08T19:36:05.527Z,92,Avai FC SC,SC Recife PE,0:2,Away
+2024-09-08T19:36:05.527Z,92,Hartford Athletic,Indy Eleven,0:0,Draw
+2024-09-08T19:36:05.527Z,92,Pittsburgh Riverhounds,Rhode Island FC,2:0,Home
+2024-09-08T19:36:05.527Z,92,Boca Juniors,CA Talleres de Cordoba,1:1,Draw
+2024-09-08T19:36:05.527Z,92,New England Revolution,Saint Louis City SC,2:2,Draw
+2024-09-08T19:36:05.527Z,92,Houston Dynamo,Los Angeles FC,0:0,Draw
+2024-09-08T19:36:05.527Z,92,Colorado Springs Switchbacks FC,Tampa Bay Rowdies,4:2,Home
+2024-09-08T19:36:05.527Z,92,El Paso Locomotive FC,Detroit City FC,0:0,Draw
+2024-09-08T19:36:05.527Z,92,Monterey Bay FC,San Antonio FC,0:1,Away
+2024-09-08T19:36:05.527Z,92,FC Cartagena,Levante UD,0:1,Away
+2024-09-08T19:36:05.527Z,92,Bulgaria,Northern Ireland,1:0,Home
+2024-09-08T19:36:05.527Z,92,Club Deportivo Eldense,UD Almeria,1:0,Home
+2024-09-08T19:36:05.527Z,92,Real Zaragoza,Elche CF,3:0,Home
+2024-09-16T14:08:48.267Z,93,Fulham FC,West Ham United,1:1,Draw
+2024-09-16T14:08:48.267Z,93,Espanyol Barcelona,Deportivo Alaves,3:2,Home
+2024-09-16T14:08:48.267Z,93,Sevilla FC,Getafe CF,1:0,Home
+2024-09-16T14:08:48.267Z,93,Genoa CFC,AS Roma,1:1,Draw
+2024-09-16T14:08:48.267Z,93,Royal Antwerp FC,Union Saint-Gilloise,2:0,Home
+2024-09-16T14:08:48.267Z,93,CD Mirandes,Albacete Balompie,2:0,Home
+2024-09-16T14:08:48.267Z,93,Odds BK,Tromsoe IL,1:0,Home
+2024-09-16T14:08:48.267Z,93,Tottenham Hotspur,Arsenal FC,0:1,Away
+2024-09-16T14:08:48.267Z,93,St. Truidense VV,Oud-Heverlee Leuven,2:1,Home
+2024-09-16T14:08:48.267Z,93,Kayserispor,Eyupspor,2:2,Draw
+2024-09-16T14:08:48.267Z,93,Kalmar FF,IFK Varnamo,3:1,Home
+2024-09-16T14:08:48.267Z,93,FC Nantes,Stade Reims,1:2,Away
+2024-09-16T14:08:48.267Z,93,FK Haugesund,Stroemsgodset IF,0:0,Draw
+2024-09-16T14:08:48.267Z,93,FK Austria Wien,SK Sturm Graz,PD:2,Away
+2024-09-16T14:08:48.267Z,93,Wolverhampton Wanderers,Newcastle United,1:2,Away
+2024-09-16T14:08:48.267Z,93,Burgos CF,Real Zaragoza,1:0,Home
+2024-09-16T14:08:48.267Z,93,Lillestroem SK,Rosenborg BK,1:1,Draw
+2024-09-22T18:54:11.929Z,94,Juventus Turin,SSC Napoli,0:0,Draw
+2024-09-22T18:54:11.929Z,94,Crystal Palace,Manchester United,0:0,Draw
+2024-09-22T18:54:11.929Z,94,US Lecce,Parma Calcio,2:2,Draw
+2024-09-22T18:54:11.929Z,94,ACF Fiorentina,Lazio Rome,2:1,Home
+2024-09-22T18:54:11.929Z,94,Preston North End,Blackburn Rovers,0:0,Draw
+2024-09-22T18:54:11.929Z,94,1. FC Magdeburg,Karlsruher SC,2:2,Draw
+2024-09-22T18:54:11.929Z,94,Getafe CF,CD Leganes,1:1,Draw
+2024-09-22T18:54:11.929Z,94,Tenerife CD,Sporting Gijon,1:1,Draw
+2024-09-22T18:54:11.929Z,94,AC Monza,Bologna FC,1:2,Away
+2024-09-22T18:54:11.929Z,94,Frosinone Calcio,SSC Bari,0:3,Away
+2024-09-22T18:54:11.929Z,94,Yellow-Red KV Mechelen,Cercle Brugge,2:0,Home
+2024-09-22T18:54:11.929Z,94,Caykur Rizespor,Samsunspor,0:1,Away
+2024-09-22T18:54:11.929Z,94,FC Cartagena,Cadiz CF,1:2,Away
+2024-09-22T18:54:11.929Z,94,Angers SCO,FC Nantes,1:1,Draw
+2024-09-22T18:54:11.929Z,94,Stade Brest 29,Toulouse FC,2:0,Home
+2024-09-22T18:54:11.929Z,94,Montpellier HSC,AJ Auxerre,3:2,Home
+2024-09-22T18:54:11.929Z,94,VfB Stuttgart,Borussia Dortmund,5:1,Home
+2024-09-29T22:41:03.512Z,95,Standard Liege,KVC Westerlo,1:2,Away
+2024-09-29T22:41:03.512Z,95,Sporting Gijon,Real Zaragoza,1:0,Home
+2024-09-29T22:41:03.512Z,95,Malaga CF,Elche CF,0:3,Away
+2024-09-29T22:41:03.512Z,95,Torino FC,Lazio Rome,2:3,Away
+2024-09-29T22:41:03.512Z,95,Levante UD,UD Almeria,4:2,Home
+2024-09-29T22:41:03.512Z,95,Como 1907,Hellas Verona,3:2,Home
+2024-09-29T22:41:03.512Z,95,Modena FC,Sampdoria Genoa,1:3,Away
+2024-09-29T22:41:03.512Z,95,Toulouse FC,Olympique Lyon,1:2,Away
+2024-09-29T22:41:03.512Z,95,Swansea City,Bristol City,1:1,Draw
+2024-09-29T22:41:03.512Z,95,FC Luzern,FC Basel 1893,1:0,Home
+2024-09-29T22:41:03.512Z,95,Angers SCO,Stade Reims,1:3,Away
+2024-09-29T22:41:03.512Z,95,Lillestroem SK,Viking FK,1:4,Away
+2024-09-29T22:41:03.512Z,95,Manchester United,Tottenham Hotspur,0:3,Away
+2024-09-29T22:41:03.512Z,95,TSG Hoffenheim,Werder Bremen,3:4,Away
+2024-09-29T22:41:03.512Z,95,Empoli FC,ACF Fiorentina,0:0,Draw
+2024-09-29T22:41:03.512Z,95,Sandefjord Fotball,Rosenborg BK,0:1,Away
+2024-09-29T22:41:03.512Z,95,Atletico Madrid,Real Madrid,1:1,Draw
+2024-10-06T22:22:23.256Z,96,Everton FC,Newcastle United,0:0,Draw
+2024-10-06T22:22:23.256Z,96,FC Arouca,Avs Futebol Sad,1:1,Draw
+2024-10-06T22:22:23.256Z,96,Stade Rennes,AS Monaco,1:2,Away
+2024-10-06T22:22:23.256Z,96,Fortuna Dusseldorf,Hamburger SV,0:3,Away
+2024-10-06T22:22:23.256Z,96,Girona FC,Athletic Bilbao,2:1,Home
+2024-10-06T22:22:23.256Z,96,Aston Villa,Manchester United,0:0,Draw
+2024-10-06T22:22:23.256Z,96,Viborg FF,AGF Aarhus,1:1,Draw
+2024-10-06T22:22:23.256Z,96,Club Deportivo Eldense,CD Castellon,2:3,Away
+2024-10-06T22:22:23.256Z,96,SC Farense,Estoril Praia,1:0,Home
+2024-10-06T22:22:23.256Z,96,FC Basel 1893,Young Boys Bern,1:0,Home
+2024-10-06T22:22:23.256Z,96,SK Sturm Graz,FC Salzburg,5:0,Home
+2024-10-06T22:22:23.256Z,96,Strasbourg Alsace,RC Lens,2:2,Draw
+2024-10-06T22:22:23.256Z,96,Brighton & Hove Albion,Tottenham Hotspur,3:2,Home
+2024-10-06T22:22:23.256Z,96,Broendby IF,FC Midtjylland,2:0,Home
+2024-10-06T22:22:23.256Z,96,Sevilla FC,Real Betis Seville,1:0,Home
+2024-10-06T22:22:23.256Z,96,ACF Fiorentina,AC Milan,2:1,Home
+2024-10-06T22:22:23.256Z,96,Real Sociedad San Sebastian,Atletico Madrid,1:1,Draw
+2024-10-13T21:29:22.325Z,97,Longford Town FC,Cobh Ramblers,2:0,Home
+2024-10-13T21:29:22.325Z,97,Serbia,Switzerland,2:0,Home
+2024-10-13T21:29:22.325Z,97,CD La Equidad,CD Junior FC,1:0,Home
+2024-10-13T21:29:22.325Z,97,CA Talleres de Remedios,Gimnasia Y Esgrima De Jujuy,0:1,Away
+2024-10-13T21:29:22.325Z,97,AD Union Adarve,CD Guadalajara,0:1,Away
+2024-10-13T21:29:22.325Z,97,San Sebastian Reyes,CF Talavera de La Reina,3:1,Home
+2024-10-13T21:29:22.325Z,97,CD Arenteiro,Gimnastic de Tarragona,4:0,Home
+2024-10-13T21:29:22.325Z,97,RC Recreativo de Huelva,Real Murcia CF,0:1,Away
+2024-10-13T21:29:22.325Z,97,FC Alania Vladikavkaz,FC Baltika Kaliningrad,0:2,Away
+2024-10-13T21:29:22.325Z,97,Espanyol Barcelona B,CE Europa,1:1,Draw
+2024-10-13T21:29:22.325Z,97,CD Coria,CDA Navalcarnero,1:2,Away
+2024-10-13T21:29:22.325Z,97,UE Sant Andreu,CE Sabadell FC,2:1,Home
+2024-10-13T21:29:22.325Z,97,Malta,Moldova,1:0,Home
+2024-10-13T21:29:22.325Z,97,Miramar Misiones,Racing Club Montevideo,2:2,Draw
+2024-10-13T21:29:22.325Z,97,CF Fuenlabrada,CD Alcoyano,0:2,Away
+2024-10-13T21:29:22.325Z,97,Canuelas FC,Deportivo Merlo,0:2,Away
+2024-10-13T21:29:22.325Z,97,Faroe Islands,Latvia,1:1,Draw
+2024-10-21T13:45:38.564Z,98,1 FC Kaiserslautern,SC Paderborn 07,3:0,Home
+2024-10-21T13:45:38.564Z,98,Sligo Rovers FC,Bohemians Dublin FC,0:2,Away
+2024-10-21T13:45:38.564Z,98,CD Mirandes,SD Eibar,1:0,Home
+2024-10-21T13:45:38.564Z,98,Willem II Tilburg,Fortuna Sittard,0:0,Draw
+2024-10-21T13:45:38.564Z,98,Hammarby IF,Djurgardens IF,2:0,Home
+2024-10-21T13:45:38.564Z,98,FC Groningen,FC Utrecht,0:1,Away
+2024-10-21T13:45:38.564Z,98,Reggiana 1919,Frosinone Calcio,2:0,Home
+2024-10-21T13:45:38.564Z,98,US Lecce,ACF Fiorentina,0:6,Away
+2024-10-21T13:45:38.564Z,98,Holstein Kiel,Union Berlin,0:2,Away
+2024-10-21T13:45:38.564Z,98,Oud-Heverlee Leuven,Royal Antwerp FC,1:1,Draw
+2024-10-21T13:45:38.564Z,98,Hull City,Sunderland AFC,0:1,Away
+2024-10-21T13:45:38.564Z,98,Racing Club de Ferrol,SD Huesca,0:0,Draw
+2024-10-21T13:45:38.564Z,98,FC Nantes,OGC Nice,1:1,Draw
+2024-10-21T13:45:38.564Z,98,AJ Auxerre,Stade Reims,2:1,Home
+2024-10-21T13:45:38.564Z,98,Kristiansund BK,Stroemsgodset IF,0:0,Draw
+2024-10-21T13:45:38.564Z,98,Cagliari Calcio,Torino FC,3:2,Home
+2024-10-21T13:45:38.564Z,98,Standard Liege,Royal Charleroi SC,2:1,Home
+2024-10-27T22:28:48.052Z,99,Everton FC,Fulham FC,1:1,Draw
+2024-10-27T22:28:48.052Z,99,Stade Reims,Stade Brest 29,1:2,Away
+2024-10-27T22:28:48.052Z,99,RC Lens,Lille OSC,0:2,Away
+2024-10-27T22:28:48.052Z,99,Parma Calcio,Empoli FC,1:1,Draw
+2024-10-27T22:28:48.052Z,99,CD Leganes,RC Celta de Vigo,3:0,Home
+2024-10-27T22:28:48.052Z,99,West Ham United,Manchester United,2:1,Home
+2024-10-27T22:28:48.052Z,99,AC Monza,Venezia FC,2:2,Draw
+2024-10-27T22:28:48.052Z,99,Norwich City,Middlesbrough FC,3:3,Draw
+2024-10-27T22:28:48.052Z,99,Getafe CF,Valencia CF,1:1,Draw
+2024-10-27T22:28:48.052Z,99,RC Deportivo La Coruna,Racing Santander,1:2,Away
+2024-10-27T22:28:48.052Z,99,Montpellier HSC,Toulouse FC,0:3,Away
+2024-10-27T22:28:48.052Z,99,OGC Nice,AS Monaco,2:1,Home
+2024-10-27T22:28:48.052Z,99,Arsenal FC,Liverpool FC,2:2,Draw
+2024-10-27T22:28:48.052Z,99,Union Berlin,Eintracht Frankfurt,1:1,Draw
+2024-10-27T22:28:48.052Z,99,Real Betis Seville,Atletico Madrid,1:0,Home
+2024-10-27T22:28:48.052Z,99,1. FC Heidenheim,TSG Hoffenheim,0:0,Draw
+2024-10-27T22:28:48.052Z,99,ACF Fiorentina,AS Roma,5:1,Home
+2024-11-03T22:26:21.376Z,100,Borussia Dortmund,RB Leipzig,2:1,Home
+2024-11-03T22:26:21.376Z,100,Wolverhampton Wanderers,Crystal Palace,2:2,Draw
+2024-11-03T22:26:21.376Z,100,Stade Brest 29,OGC Nice,0:1,Away
+2024-11-03T22:26:21.376Z,100,IF Brommapojkarna,IFK Varnamo,0:1,Away
+2024-11-03T22:26:21.376Z,100,BB Bodrumspor,Alanyaspor,0:0,Draw
+2024-11-03T22:26:21.376Z,100,FC Midtjylland,Broendby IF,1:5,Away
+2024-11-03T22:26:21.376Z,100,Sparta Rotterdam,FC Utrecht,1:4,Away
+2024-11-03T22:26:21.376Z,100,WSG Tirol,SCR Altach,1:0,Home
+2024-11-03T22:26:21.376Z,100,Torino FC,ACF Fiorentina,0:1,Away
+2024-11-03T22:26:21.376Z,100,Orebro SK,Helsingborgs IF,2:1,Home
+2024-11-03T22:26:21.376Z,100,Millwall FC,Burnley FC,1:0,Home
+2024-11-03T22:26:21.376Z,100,Cercle Brugge,Royal Charleroi SC,2:0,Home
+2024-11-03T22:26:21.376Z,100,IK Sirius,Mjallby AIF,1:1,Draw
+2024-11-03T22:26:21.376Z,100,Helmond Sport,Excelsior Rotterdam,0:1,Away
+2024-11-03T22:26:21.376Z,100,RKC Waalwijk,Almere City FC,2:0,Home
+2024-11-03T22:26:21.376Z,100,Manchester United,Chelsea FC,1:1,Draw
+2024-11-03T22:26:21.376Z,100,Sevilla FC,Real Sociedad San Sebastian,0:2,Away
+2024-11-11T09:35:01.504Z,101,Crystal Palace,Fulham FC,0:2,Away
+2024-11-11T09:35:01.504Z,101,FC Groningen,Sparta Rotterdam,1:0,Home
+2024-11-11T09:35:01.504Z,101,Espanyol Barcelona,Valencia CF,PD:X,Draw
+2024-11-11T09:35:01.504Z,101,Cercle Brugge,RSC Anderlecht,0:5,Away
+2024-11-11T09:35:01.504Z,101,FC Twente Enschede,Ajax Amsterdam,2:2,Draw
+2024-11-11T09:35:01.504Z,101,OGC Nice,Lille OSC,2:2,Draw
+2024-11-11T09:35:01.504Z,101,Nottingham Forest,Newcastle United,1:3,Away
+2024-11-11T09:35:01.504Z,101,AS Roma,Bologna FC,2:3,Away
+2024-11-11T09:35:01.504Z,101,FC Augsburg,TSG Hoffenheim,0:0,Draw
+2024-11-11T09:35:01.504Z,101,RCD Mallorca,Atletico Madrid,0:1,Away
+2024-11-11T09:35:01.504Z,101,Estrela Amadora,Nacional da Madeir,2:0,Home
+2024-11-11T09:35:01.504Z,101,Le Havre AC,Stade Reims,0:3,Away
+2024-11-11T09:35:01.504Z,101,Stade Rennes,Toulouse FC,0:2,Away
+2024-11-11T09:35:01.504Z,101,Montpellier HSC,Stade Brest 29,3:1,Home
+2024-11-11T09:35:01.504Z,101,Chelsea FC,Arsenal FC,1:1,Draw
+2024-11-11T09:35:01.504Z,101,Santa Clara Azores,Vitoria SC Guimaraes,1:0,Home
+2024-11-11T09:35:01.504Z,101,Getafe CF,Girona FC,0:1,Away
+2024-11-17T22:09:32.229Z,103,Crewe Alexandra,Notts County,2:0,Home
+2024-11-17T22:09:32.229Z,103,Stockport County FC,Wrexham AFC,1:0,Home
+2024-11-17T22:09:32.229Z,103,CF Algeciras,Real Murcia CF,1:1,Draw
+2024-11-17T22:09:32.229Z,103,Montenegro,Iceland,0:2,Away
+2024-11-17T22:09:32.229Z,103,Georgia,Ukraine,1:1,Draw
+2024-11-17T22:09:32.229Z,103,Forest Green Rovers,York City FC,2:0,Home
+2024-11-17T22:09:32.229Z,103,Larne FC,Linfield FC,0:1,Away
+2024-11-17T22:09:32.229Z,103,Unionistas de Salamanca CF,Zamora CF,1:1,Draw
+2024-11-17T22:09:32.229Z,103,Guinea,DR Congo,1:0,Home
+2024-11-17T22:09:32.229Z,103,Albania,Czechia,0:0,Draw
+2024-11-17T22:09:32.229Z,103,SD Amorebieta,FC Barcelona Atletic,2:1,Home
+2024-11-17T22:09:32.229Z,103,CF Intercity,CF Fuenlabrada,1:3,Away
+2024-11-17T22:09:32.229Z,103,FC Eindhoven,MVV Maastricht,1:1,Draw
+2024-11-17T22:09:32.229Z,103,FC Cartagena,SD Huesca,1:0,Home
+2024-11-17T22:09:32.229Z,103,Lyn 1896 FK,Kongsvinger IL Toppfotball,1:1,Draw
+2024-11-17T22:09:32.229Z,103,CD Lugo,CD Arenteiro,1:1,Draw
+2024-11-17T22:09:32.229Z,103,Italy,France,1:3,Away

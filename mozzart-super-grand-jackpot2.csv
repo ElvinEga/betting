@@ -1,0 +1,1001 @@
+date,home_team,away_team,score,result
+09-12-2023,Wolverhampton,Nottingham,1-1,draw
+09-12-2023,Cardiff,Millwall,1-0,home
+09-12-2023,Huddersfield,Bristol City,1-1,draw
+09-12-2023,Middlesbrough,Ipswich,0-2,away
+09-12-2023,Norwich,Preston,0-0,draw
+09-12-2023,QPR,Hull,2-0,home
+09-12-2023,Rotherham,Swansea,1-2,away
+09-12-2023,Stoke,Sheffield Wed,0-1,away
+09-12-2023,Watford,Southampton,1-1,draw
+09-12-2023,Rennes,Monaco,1-2,away
+09-12-2023,Atalanta,Milan,3-2,home
+09-12-2023,Aston Villa,Arsenal,1-0,home
+09-12-2023,Dortmund,RB Leipzig,2-3,away
+09-12-2023,Villarreal,Real Sociedad,0-3,away
+09-12-2023,Everton,Chelsea,2-0,home
+09-12-2023,Fulham,West Ham,5-0,home
+09-12-2023,Stuttgart,Leverkusen,1-1,draw
+09-12-2023,Tottenham,Newcastle,4-1,home
+09-12-2023,Koln,Mainz,0-0,draw
+09-12-2023,Roma,Fiorentina,1-1,draw
+02-12-2023,Burnley,Sheffield Utd,5-0,home
+02-12-2023,Hull,Watford,1-2,away
+02-12-2023,Millwall,Sunderland,1-1,draw
+02-12-2023,Plymouth,Stoke,2-1,home
+02-12-2023,Sheffield Wed,Blackburn,3-1,home
+02-12-2023,Nottingham,Everton,0-1,away
+02-12-2023,Newcastle,Manchester Utd,1-0,home
+02-12-2023,Osasuna,Real Sociedad,1-1,draw
+02-12-2023,Lecce,Bologna,1-1,draw
+02-12-2023,Mallorca,Alaves,0-0,draw
+02-12-2023,Bristol City,Norwich,1-2,away
+02-12-2023,Bournemouth,Aston Villa,2-2,draw
+02-12-2023,West Ham,Crystal Palace,1-1,draw
+02-12-2023,Mainz,Freiburg,0-1,away
+02-12-2023,Almeria,Betis,0-0,draw
+02-12-2023,Sassuolo,AS Roma,1-2,away
+02-12-2023,Sevilla,Villarreal,1-1,draw
+02-12-2023,Augsburg,Eintracht Frankfurt,2-1,home
+02-12-2023,Napoli,Inter,0-3,away
+02-12-2023,Barcelona,Atl. Madrid,1-0,home
+25-11-2023,Burnley,West Ham,1-2,away
+25-11-2023,Luton,Crystal Palace,2-1,home
+25-11-2023,Newcastle,Chelsea,4-1,home
+25-11-2023,Nottingham,Brighton,2-3,away
+25-11-2023,Sheffield Utd,Bournemouth,1-3,away
+25-11-2023,Birmingham,Sheffield Wed,2-1,home
+25-11-2023,Millwall,Coventry,0-3,away
+25-11-2023,Plymouth,Sunderland,2-0,home
+25-11-2023,Preston,Cardiff,1-2,away
+25-11-2023,Stoke,Blackburn,0-3,away
+25-11-2023,Swansea,Hull,2-2,draw
+25-11-2023,Valencia,Celta Vigo,0-0,draw
+25-11-2023,Atalanta,Napoli,1-2,away
+25-11-2023,WBA,Ipswich,2-0,home
+25-11-2023,Milan,Fiorentina,1-0,home
+25-11-2023,Villarreal,Osasuna,3-1,home
+25-11-2023,Tottenham,Aston Villa,1-2,away
+25-11-2023,Everton,Manchester Utd,0-3,away
+25-11-2023,Juventus,Inter,1-1,draw
+25-11-2023,Olympique Lyon,Lille,0-2,away
+18-11-2023,Alcorcon,Gijon,0-0,draw
+18-11-2023,Tondela,Feirense,2-0,home
+18-11-2023,Niger,Tanzania,0-1,away
+18-11-2023,Amorebieta,Tenerife,2-0,home
+18-11-2023,Zaragoza,Huesca,0-2,away
+18-11-2023,Israel,Romania,1-2,away
+18-11-2023,Vitoria,Sport Recife,1-0,home
+18-11-2023,Espanyol,Elche,2-0,home
+18-11-2023,Fortaleza,Cruzeiro,0-1,away
+18-11-2023,Ferrol,Burgos CF,1-1,draw
+18-11-2023,Cambuur,Roda,1-1,draw
+18-11-2023,Os Belenenses,Penafiel,2-0,home
+18-11-2023,Penybont,Newtown,1-1,draw
+18-11-2023,Eldense,Mirandes,2-2,draw
+18-11-2023,Oviedo,Eibar,2-1,home
+18-11-2023,MVV,NAC Breda,1-4,away
+18-11-2023,Cartagena,Albacete,1-1,draw
+18-11-2023,Villarreal II,Andorra,0-0,draw
+18-11-2023,Scotland,Norway,3-3,draw
+18-11-2023,B&H,Slovakia,1-2,away
+11-11-2023,Crystal Palace,Everton,2-3,away
+11-11-2023,Cardiff,Norwich,2-3,away
+11-11-2023,Coventry,Stoke,0-0,draw
+11-11-2023,Middlesbrough,Leicester,1-0,home
+11-11-2023,QPR,Bristol City,0-0,draw
+11-11-2023,Sheffield Wed,Millwall,0-4,away
+11-11-2023,Southampton,WBA,2-1,home
+11-11-2023,Bochum,Koln,1-1,draw
+11-11-2023,Granada,Getafe,1-1,draw
+11-11-2023,Osasuna,Las Palmas,1-1,draw
+11-11-2023,RKC Waalwijk,Go Ahead,0-1,away
+11-11-2023,Monza,Torino,1-1,draw
+11-11-2023,Vitesse,Heerenveen,1-3,away
+11-11-2023,Volendam,Sparta,1-4,away
+11-11-2023,Fiorentina,Bologna,2-1,home
+11-11-2023,Udinese,Atalanta,1-1,draw
+11-11-2023,Werder,Eintracht Frankfurt,2-2,draw
+11-11-2023,Lazio,Roma,0-0,draw
+11-11-2023,Sevilla,Betis,1-1,draw
+11-11-2023,Lens,Olympique Marseille,1-0,home
+04-11-2023,– Brentford,West Ham,3-2,home
+04-11-2023,– Burnley,Crystal Palace,0-2,away
+04-11-2023,– Everton,Brighton,1-1,draw
+04-11-2023,– Sheffield Utd,Wolverhampton,2-1,home
+04-11-2023,– Sampdoria,Palermo,1-0,home
+04-11-2023,– Atalanta,Inter,1-2,away
+04-11-2023,– Newcastle,Arsenal,1-0,home
+04-11-2023,– Celta Vigo,Sevilla,1-1,draw
+04-11-2023,– Sociedad,Barcelona,0-1,away
+04-11-2023,– Olympique Marseille,Lille,0-0,draw
+04-11-2023,– Verona,Monza,1-3,away
+04-11-2023,– Hansa Rostock,Hertha Berlin,0-0,draw
+04-11-2023,– Karlsruher SC,Paderborn,0-3,away
+04-11-2023,– Cagliari,Genoa,2-1,home
+04-11-2023,– Nantes,Reims,0-1,away
+04-11-2023,– Strasbourg,Clermont,0-0,draw
+04-11-2023,– Toulouse,Le Havre,1-2,away
+04-11-2023,– Villarreal,Ath Bilbao,2-3,away
+04-11-2023,– Fiorentina,Juventus,0-1,away
+04-11-2023,– Nice,Rennes,2-0,home
+28-10-2023,– Bournemouth,Burnley,2-1,home
+28-10-2023,– Blackburn,Swansea,0-1,away
+28-10-2023,– Cardiff,Bristol City,2-0,home
+28-10-2023,– Barcelona,Real Madrid,1-2,away
+28-10-2023,– Lecce,Torino,0-1,away
+28-10-2023,– Mallorca,Getafe,0-0,draw
+28-10-2023,– Kaiserslautern,Hamburger SV,3-3,draw
+28-10-2023,– Cadiz,Sevilla,2-2,draw
+28-10-2023,– Cagliari,Frosinone,4-3,home
+28-10-2023,– Holstein Kiel,Nurnberg,0-2,away
+28-10-2023,– Magdeburg,Elversberg,1-2,away
+28-10-2023,– Wehen,Hansa Rostock,1-0,home
+28-10-2023,– Betis,Osasuna,2-1,home
+28-10-2023,– West Ham,Everton,0-1,away
+28-10-2023,– Lille,Monaco,2-0,home
+28-10-2023,– Metz,Le Havre,0-0,draw
+28-10-2023,– Monza,Udinese,1-1,draw
+28-10-2023,– Eintracht Frankfurt,Dortmund,3-3,draw
+28-10-2023,– Rayo Vallecano,Real Sociedad,2-2,draw
+28-10-2023,– Napoli,Milan,2-2,draw
+21-10-2023,– Bournemouth,Wolverhampton,1-2,away
+21-10-2023,– Blackburn,Cardiff,1-0,home
+21-10-2023,– Bristol City,Coventry,1-0,home
+21-10-2023,– Huddersfield,QPR,2-1,home
+21-10-2023,– Hull,Southampton,1-2,away
+21-10-2023,– Norwich,Leeds,2-3,away
+21-10-2023,– Stoke,Sunderland,2-1,home
+21-10-2023,– Getafe,Betis,1-1,draw
+21-10-2023,– Chelsea,Arsenal,2-2,draw
+21-10-2023,– Sevilla,Real Madrid,1-1,draw
+21-10-2023,– Sassuolo,Lazio,0-2,away
+21-10-2023,– Celta Vigo,Atl. Madrid,0-3,away
+21-10-2023,– Nice,Olympique Marseille,1-0,home
+21-10-2023,– Las Palmas,Rayo Vallecano,0-1,away
+21-10-2023,– Salernitana,Cagliari,2-2,draw
+21-10-2023,– Nantes,Montpellier,2-0,home
+21-10-2023,– Toulouse,Reims,1-1,draw
+21-10-2023,– Koln,B. Monchengladbach,3-1,home
+21-10-2023,– Aston Villa,West Ham,4-1,home
+21-10-2023,– Milan,Juventus,0-1,away
+14-10-2023,– Blackpool,Stevenage,3-0,home
+14-10-2023,– Cambridge Utd,Shrewsbury,1-1,draw
+14-10-2023,– Carlisle,Leyton Orient,0-1,away
+14-10-2023,– Mirandes,Tenerife,1-1,draw
+14-10-2023,– Bielefeld,Mannheim,3-1,home
+14-10-2023,– Slovenia,Finland,3-0,home
+14-10-2023,– Cartagena,Santander,2-3,away
+14-10-2023,– Gijon,Zaragoza,2-2,draw
+14-10-2023,– Longford,Bray,2-2,draw
+14-10-2023,– Hungary,Serbia,2-1,home
+14-10-2023,– Finn Harps,Athlone,4-1,home
+14-10-2023,– Ituano,CRB,0-0,draw
+14-10-2023,– Cuiaba,Cruzeiro,0-0,draw
+14-10-2023,– Los Angeles Galaxy,Real Salt Lake,2-2,draw
+14-10-2023,– Ulm,Dynamo Dresden,2-3,away
+14-10-2023,– Burgos,Villarreal II,3-2,home
+14-10-2023,– Eldense,Elche,1-1,draw
+14-10-2023,– Andorra,Alcorcon,2-0,home
+14-10-2023,– Munster,Munich 1860,1-1,draw
+14-10-2023,– Wales,Croatia,2-1,home
+06-10-2023,– Empoli,Udinese,0-0,draw
+06-10-2023,– B. Monchengladbach,Mainz,2-2,draw
+06-10-2023,– Lecce,Sassuolo,1-1,draw
+06-10-2023,– Strasbourg,Nantes,1-2,away
+06-10-2023,– Cadiz,Girona,0-1,away
+06-10-2023,– Stuttgart,Wolfsburg,3-1,home
+06-10-2023,– Crystal Palace,Nottingham,0-0,draw
+06-10-2023,– Mallorca,Valencia,1-1,draw
+06-10-2023,– Werder Bremen,Hoffenheim,2-3,away
+06-10-2023,– Genoa,Milan,0-1,away
+06-10-2023,– Reims,Monaco,1-3,away
+06-10-2023,– Brighton,Liverpool,2-2,draw
+06-10-2023,– West Ham,Newcastle,2-2,draw
+06-10-2023,– Wolverhampton,Aston Villa,1-1,draw
+06-10-2023,– Frosinone,Verona,2-1,home
+06-10-2023,– Lazio,Atalanta,3-2,home
+06-10-2023,– Lens,Lille,1-1,draw
+06-10-2023,– Arsenal,Manchester City,1-0,home
+06-10-2023,– Alaves,Betis,1-1,draw
+06-10-2023,– Celta,Getafe,2-2,draw
+29-09-2023,– Hoffenheim,Dortmund,1-3,away
+29-09-2023,– Strasbourg,Lens,0-1,away
+29-09-2023,– Benfica,Porto,1-0,home
+29-09-2023,– Aston Villa,Brighton,6-1,home
+29-09-2023,– Getafe,Villarreal,0-0,draw
+29-09-2023,– Koln,Stuttgart,0-2,away
+29-09-2023,– Bochum,B. Monchengladbach,1-3,away
+29-09-2023,– Heidenheim,Union Berlin,1-0,home
+29-09-2023,– Wolfsburg,Eintracht Frankfurt,2-0,home
+29-09-2023,– Tottenham,Liverpool,2-1,home
+29-09-2023,– Rayo Vallecano,Mallorca,2-2,draw
+29-09-2023,– RB Leipzig,Bayern Munich,2-2,draw
+29-09-2023,– Sociedad,Ath Bilbao,3-0,home
+29-09-2023,– Monaco,Olympique Marseille,3-2,home
+29-09-2023,– Reims,Olympique Lyon,2-0,home
+29-09-2023,– Almeria,Granada,3-3,draw
+29-09-2023,– Nottingham,Brentford,1-1,draw
+29-09-2023,– Darmstadt,Werder Bremen,4-2,home
+29-09-2023,– Alaves,Osasuna,0-2,away
+29-09-2023,– Betis,Valencia,3-0,home
+23-09-2023,– Crystal Palace,Fulham,0-0,draw
+23-09-2023,– Luton,Wolverhampton,1-1,draw
+23-09-2023,– Middlesbrough,Southampton,2-1,home
+23-09-2023,– Plymouth,Norwich,6-2,home
+23-09-2023,– Rotherham,Preston,1-1,draw
+23-09-2023,– Swansea,Sheffield Wed,3-0,home
+23-09-2023,– WBA,Millwall,0-0,draw
+23-09-2023,– Osasuna,Sevilla,0-0,draw
+23-09-2023,– Almeria,Valencia,2-2,draw
+23-09-2023,– Brest,Olympique Lyon,1-0,home
+23-09-2023,– Stoke,Hull,1-3,away
+23-09-2023,– Ajax,Feyenoord,Abn,unknown
+23-09-2023,– Udinese,Fiorentina,0-2,away
+23-09-2023,– Sunderland,Cardiff,0-1,away
+23-09-2023,– Rayo Vallecano,Villarreal,1-1,draw
+23-09-2023,– Montpellier,Rennes,0-0,draw
+23-09-2023,– Eintracht Frankfurt,Freiburg,0-0,draw
+23-09-2023,– Las Palmas,Granada,1-0,home
+23-09-2023,– Torino,Roma,1-1,draw
+23-09-2023,– Atl. Madrid,Real Madrid,3-1,home
+16-09-2023,– Aston Villa,Crystal Palace,3-1,home
+16-09-2023,– Manchester Utd,Brighton,1-3,away
+16-09-2023,– Blackburn,Middlesbrough,2-1,home
+16-09-2023,– Bristol City,WBA,0-0,draw
+16-09-2023,– Preston,Plymouth,2-1,home
+16-09-2023,– QPR,Sunderland,1-3,away
+16-09-2023,– Sheffield Wed,Ipswich,0-1,away
+16-09-2023,– Watford,Birmingham,2-0,home
+16-09-2023,– Inter,Milan,5-1,home
+16-09-2023,– Bochum,Eintracht Frankfurt,1-1,draw
+16-09-2023,– Celta Vigo,Mallorca,0-1,away
+16-09-2023,– Cardiff,Swansea,2-0,home
+16-09-2023,– Cagliari,Udinese,0-0,draw
+16-09-2023,– Millwall,Leeds,0-3,away
+16-09-2023,– Getafe,Osasuna,3-2,home
+16-09-2023,– Frosinone,Sassuolo,4-2,home
+16-09-2023,– Monza,Lecce,1-1,draw
+16-09-2023,– Heidenheim,Werder Bremen,4-2,home
+16-09-2023,– Darmstadt,B. Monchengladbach,3-3,draw
+16-09-2023,– Fiorentina,Atalanta,3-2,home
+09-09-2023,– York City,Boreham Wood,2-2,draw
+09-09-2023,– Eastleigh,Gateshead,0-6,away
+09-09-2023,– Kidderminster,Rochdale,1-1,draw
+09-09-2023,– Oxford City,Hartlepool,5-2,home
+09-09-2023,– Accrington,Mansfield,0-3,away
+09-09-2023,– Wimbledon,Stockport,1-2,away
+09-09-2023,– Wealdstone,Ebbsfleet,2-1,home
+09-09-2023,– Colchester,Tranmere,2-0,home
+09-09-2023,– Crawley,Newport,4-1,home
+09-09-2023,– Forest Green,Crewe,1-4,away
+09-09-2023,– Milton Keynes Dons,Notts County,1-1,draw
+09-09-2023,– Salford,Walsall,1-2,away
+09-09-2023,– Romania,Israel,1-1,draw
+09-09-2023,– Inter Miami,Sporting Kansas City,3-2,home
+09-09-2023,– Portland Timbers,Los Angeles FC,2-0,home
+09-09-2023,– Ferrol,Villarreal II,2-2,draw
+09-09-2023,– Santander,Amorebieta,1-0,home
+09-09-2023,– Cartagena,Zaragoza,1-3,away
+09-09-2023,– Mirandes,Andorra,4-3,home
+09-09-2023,– Valladolid,Elche,1-1,draw
+02-09-2023,– Coventry,Watford,3-3,draw
+02-09-2023,– Plymouth,Blackburn,3-0,home
+02-09-2023,– Stoke,Preston,0-2,away
+02-09-2023,– Gijon,Burgos CF,2-1,home
+02-09-2023,– Brest,Rennes,0-0,draw
+02-09-2023,– Brighton,Newcastle,3-1,home
+02-09-2023,– Alaves,Valencia,1-0,home
+02-09-2023,– Betis,Rayo Vallecano,1-0,home
+02-09-2023,– Monaco,Lens,3-0,home
+02-09-2023,– Greuther Furth,Hannover,1-3,away
+02-09-2023,– VfL Osnabruck,Elversberg,0-1,away
+02-09-2023,– Crystal Palace,Wolverhampton,3-2,home
+02-09-2023,– Le Havre,Lorient,3-0,home
+02-09-2023,– Metz,Reims,2-2,draw
+02-09-2023,– Mallorca,Ath Bilbao,0-0,draw
+02-09-2023,– Eibar,Leganes,0-1,away
+02-09-2023,– Nice,Strasbourg,2-0,home
+02-09-2023,– Union Berlin,RB Leipzig,0-3,away
+02-09-2023,– Torino,Genoa,1-0,home
+02-09-2023,– Lecce,Salernitana,2-0,home
+26-08-2023,– Brentford,Crystal Palace,1-1,draw
+26-08-2023,– Everton,Wolverhampton,0-1,away
+26-08-2023,– Birmingham,Plymouth,2-1,home
+26-08-2023,– Cardiff,Sheffield Wed,2-1,home
+26-08-2023,– Coventry,Sunderland,0-0,draw
+26-08-2023,– Huddersfield,Norwich,0-4,away
+26-08-2023,– Ipswich,Leeds,3-4,away
+26-08-2023,– Millwall,Stoke,1-0,home
+26-08-2023,– Preston,Swansea,2-1,home
+26-08-2023,– WBA,Middlesbrough,4-2,home
+26-08-2023,– B. Monchengladbach,Bayer Leverkusen,0-3,away
+26-08-2023,– Verona,Roma,2-1,home
+26-08-2023,– Watford,Blackburn,0-1,away
+26-08-2023,– Burnley,Aston Villa,1-3,away
+26-08-2023,– Strasbourg,Toulouse,2-0,home
+26-08-2023,– Mainz,Eintracht Frankfurt,1-1,draw
+26-08-2023,– Newcastle,Liverpool,1-2,away
+26-08-2023,– Villarreal,Barcelona,3-4,away
+26-08-2023,– Valencia,Osasuna,1-2,away
+26-08-2023,– Nice,Olympique Lyon,0-0,draw
+19-08-2023,– Fulham,Brentford,0-3,away
+19-08-2023,– Bristol City,Birmingham,0-2,away
+19-08-2023,– QPR,Ipswich,0-1,away
+19-08-2023,– Sheffield Wed,Preston,0-1,away
+19-08-2023,– Stoke,Watford,1-0,home
+19-08-2023,– Swansea,Coventry,1-1,draw
+19-08-2023,– Tottenham,Manchester Utd,2-0,home
+19-08-2023,– Empoli,Verona,0-1,away
+19-08-2023,– Genoa,Fiorentina,1-4,away
+19-08-2023,– Osasuna,Ath Bilbao,0-2,away
+19-08-2023,– Norwich,Millwall,3-1,home
+19-08-2023,– Union Berlin,Mainz,4-1,home
+19-08-2023,– Monaco,Strasbourg,3-0,home
+19-08-2023,– West Ham,Chelsea,3-1,home
+19-08-2023,– Girona,Getafe,3-0,home
+19-08-2023,– Sassuolo,Atalanta,0-2,away
+19-08-2023,– Lecce,Lazio,2-1,home
+19-08-2023,– Udinese,Juventus,0-3,away
+19-08-2023,– Lens,Rennes,1-1,draw
+19-08-2023,– Betis,Atl. Madrid,0-0,draw
+12-08-2023,– Bournemouth,West Ham,1-1,draw
+12-08-2023,– Everton,Fulham,0-1,away
+12-08-2023,– Sheffield Utd,Crystal Palace,0-1,away
+12-08-2023,– Cardiff,QPR,1-2,away
+12-08-2023,– Hull,Sheffield Wed,4-2,home
+12-08-2023,– Ipswich,Stoke,2-0,home
+12-08-2023,– Preston,Sunderland,2-1,home
+12-08-2023,– Rotherham,Blackburn,2-2,draw
+12-08-2023,– WBA,Swansea,3-2,home
+12-08-2023,– Las Palmas,Mallorca,1-1,draw
+12-08-2023,– Ath Bilbao,Real Madrid,0-2,away
+12-08-2023,– Brentford,Tottenham,2-2,draw
+12-08-2023,– Clermont,Monaco,2-4,away
+12-08-2023,– Montpellier,Le Havre,2-2,draw
+12-08-2023,– Nantes,Toulouse,1-2,away
+12-08-2023,– Celta Vigo,Osasuna,0-2,away
+12-08-2023,– Aalesund,Ham-Kam,0-2,away
+12-08-2023,– Lillestrom,Viking,1-3,away
+12-08-2023,– Chelsea,Liverpool,1-1,draw
+12-08-2023,– Strasbourg,Olympique Lyon,2-1,home
+05-08-2023,– Blackburn,WBA,2-1,home
+05-08-2023,– Bristol City,Preston,1-1,draw
+05-08-2023,– Middlesbrough,Millwall,0-1,away
+05-08-2023,– Plymouth,Huddersfield,3-1,home
+05-08-2023,– Watford,QPR,4-0,home
+05-08-2023,– Dundee,Motherwell,1-1,draw
+05-08-2023,– Livingston,Aberdeen,0-0,draw
+05-08-2023,– St Johnstone,Hearts,0-2,away
+05-08-2023,– Zurich,Lugano,3-0,home
+05-08-2023,– Karlsruher,Hamburger,2-2,draw
+05-08-2023,– Magdeburg,Braunschweig,2-1,home
+05-08-2023,– Nurnberg,Hannover,2-2,draw
+05-08-2023,– Anderlecht,Antwerp,1-0,home
+05-08-2023,– Kalmar,AIK,1-1,draw
+05-08-2023,– Hibernian,St. Mirren,2-3,away
+05-08-2023,– Lyngby,Midtjylland,4-1,home
+05-08-2023,– Baltika,Fakel,2-1,home
+05-08-2023,– Grasshoppers,Basel,3-1,home
+05-08-2023,– Sunderland,Ipswich,1-2,away
+05-08-2023,– Sochi,Akhmat Grozny,1-2,away
+29-07-2023,– SJK,Helsinki,1-2,away
+29-07-2023,– Hartberg,A. Lustenau,2-2,draw
+29-07-2023,– WSG Tirol,Austria Klagenfurt,1-3,away
+29-07-2023,– Wolfsberger,BW Linz,2-1,home
+29-07-2023,– Degerfors,Brommapojkarna,2-0,home
+29-07-2023,– Lausanne,Grasshoppers,1-1,draw
+29-07-2023,– Lugano,St. Gallen,1-0,home
+29-07-2023,– Halmstad,Varbergs BoIS FC,0-5,away
+29-07-2023,– Fortuna Dusseldorf,Hertha Berlin,1-0,home
+29-07-2023,– Braunschweig,Holstein Kiel,0-1,away
+29-07-2023,– Greuther Furth,Paderborn,5-0,home
+29-07-2023,– Hansa Rostock,Nurnberg,2-0,home
+29-07-2023,– Haka,Lahti,1-1,draw
+29-07-2023,– Mjallby,Djurgarden,0-1,away
+29-07-2023,– Honka,AC Oulu,4-1,home
+29-07-2023,– Fakel,Lokomotiv Moscow,1-4,away
+29-07-2023,– Austria Vienna,Sturm Graz,0-3,away
+29-07-2023,– Aalesund,Stromsgodset,1-0,home
+29-07-2023,– Goteborg,Kalmar,2-0,home
+29-07-2023,– Akhmat Grozny,CSKA,2-3,away
+22-07-2023,– Grasshoppers,Servette,1-3,away
+22-07-2023,– St. Gallen,Basel,2-1,home
+22-07-2023,– Akhmat Grozny,Krylya Sovetov,1-2,away
+22-07-2023,– Koper,Olimpija,2-1,home
+22-07-2023,– Winterthur,Luzern,0-0,draw
+22-07-2023,– Lahti,Mariehamn,0-2,away
+22-07-2023,– Bellinzona,Wil,0-2,away
+22-07-2023,– Vaduz,Sion,0-2,away
+22-07-2023,– AIK,Malmo,0-0,draw
+22-07-2023,– Liberec,Ostrava,3-1,home
+22-07-2023,– Odense,Randers,2-2,draw
+22-07-2023,– Ham-Kam,Stabaek,3-2,home
+22-07-2023,– Haugesund,Lillestrom,1-0,home
+22-07-2023,– Odd Grenland,Valerenga,2-1,home
+22-07-2023,– Tromso,Brann,3-1,home
+22-07-2023,– Goteborg,Halmstad,0-0,draw
+22-07-2023,– Silkeborg,Brondby,1-2,away
+22-07-2023,– Stromsgodset,Rosenborg,0-1,away
+22-07-2023,– Aluminij,Celje,2-2,draw
+22-07-2023,– Lok. Zagreb,Istra 1961,1-1,draw
+15-07-2023,– VPS,AC Oulu,3-0,home
+15-07-2023,– Ostersund,Landskrona,4-1,home
+15-07-2023,– Degerfors,Sirius,0-3,away
+15-07-2023,– Hermannstadt,Farul Constanta,0-1,away
+15-07-2023,– Valerenga,Molde,0-4,away
+15-07-2023,– D. Zagreb,Hajduk Split,1-0,home
+15-07-2023,– Rakow,Legia,0-0,draw
+15-07-2023,– Tokyo,Kashima Antlers,1-3,away
+15-07-2023,– Gamba Osaka,Kashiwa Reysol,3-1,home
+15-07-2023,– Kyoto Purple Sanga,Nagoya GE,2-1,home
+15-07-2023,– Shonan Bellmare,Fukuoka,0-1,away
+15-07-2023,– Hammarby TFF,Kalmar,3-1,home
+15-07-2023,– AFC Eskilstuna,Brage,2-1,home
+15-07-2023,– Aalesund,Odd Grenland,0-3,away
+15-07-2023,– Rosenborg,Tromso,2-1,home
+15-07-2023,– Stabaek,Viking,0-1,away
+15-07-2023,– Mjallby,Norrkoping,1-2,away
+15-07-2023,– Lahti,SJK,1-1,draw
+15-07-2023,– Fluminense,Flamengo,0-0,draw
+15-07-2023,– Internacional,Palmeiras,0-0,draw
+08-07-2023,– Haka,Inter Turku,2-2,draw
+08-07-2023,– SJK,Honka,1-0,home
+08-07-2023,– Gefle,AFC Eskilstuna,2-0,home
+08-07-2023,– Farul Constanta,Sepsi,0-1,away
+08-07-2023,– Montreal,Atlanta Utd,0-1,away
+08-07-2023,– Charlotte FC,Cincinnati,2-2,draw
+08-07-2023,– New York,New England,2-1,home
+08-07-2023,– Toronto,St. Louis City,0-1,away
+08-07-2023,– Chicago,Nashville,1-0,home
+08-07-2023,– Fredrikstad,Kongsvinger,1-1,draw
+08-07-2023,– Moss,Bryne,2-1,home
+08-07-2023,– Sirius,Hammarby TFF,1-2,away
+08-07-2023,– Brage,Orgryte,4-1,home
+08-07-2023,– Rosenborg,Lillestrom,1-2,away
+08-07-2023,– Sandefjord,Stabaek,0-0,draw
+08-07-2023,– Stromsgodset,Sarpsborg 08,5-2,home
+08-07-2023,– Tromso,Valerenga,0-0,draw
+08-07-2023,– Kalmar,Elfsborg,0-4,away
+08-07-2023,– Mariehamn,AC Oulu,1-2,away
+08-07-2023,– Molde,Brann,2-0,home
+01-07-2023,– Valerenga,Viking,1-2,away
+01-07-2023,– Haugesund,Odd Grenland,2-1,home
+01-07-2023,– Aalesund,Rosenborg,1-0,home
+01-07-2023,– Brommapojkarna,AIK,0-2,away
+01-07-2023,– Degerfors,Varnamo,0-2,away
+01-07-2023,– Halmstad,Goteborg,0-0,draw
+01-07-2023,– Honka,Helsink,1-1,draw
+01-07-2023,– Ilves,SJK,1-1,draw
+01-07-2023,– VPS,Inter Turku,3-0,home
+01-07-2023,– El Salvador,Costa Rica,0-0,draw
+01-07-2023,– Cuba,Guadeloupe,1-4,away
+01-07-2023,– San Lorenzo,Rosario Central,1-0,home
+01-07-2023,– Sao Paulo,Fluminense,1-0,home
+01-07-2023,– Internacional,Cruzeiro,0-0,draw
+01-07-2023,– Corinthians,Bragantino,0-1,away
+01-07-2023,– Athletico-PR,Palmeiras,2-2,draw
+01-07-2023,– Inter Miami,Austin FC,1-1,draw
+01-07-2023,– Columbus Crew,New York Red Bulls,2-1,home
+01-07-2023,– CF Montreal,New York City,0-1,away
+01-07-2023,– FC Cincinnati,New England Revolution,2-2,draw
+24-06-2023,– Huracan,Newells Old Boys,1-1,draw
+24-06-2023,– Argentinos Jrs,Defensa y Justicia,3-1,home
+24-06-2023,– Viking,Brann,3-1,home
+24-06-2023,– Portugal U21,Netherlands U21,1-1,draw
+24-06-2023,– Romania U21,Ukraine U21,0-1,away
+24-06-2023,– Sogndal,Fredrikstad,0-1,away
+24-06-2023,– Athletico-PR,Corinthians,1-0,home
+24-06-2023,– Union de Santa Fe,Independiente,3-0,home
+24-06-2023,– Lanus,Talleres,2-1,home
+24-06-2023,– DC United,Cincinnati,3-0,home
+24-06-2023,– Cruzeiro,Sao Paulo,1-0,home
+24-06-2023,– Colorado,Los Angeles Galaxy,0-0,draw
+24-06-2023,– Salt Lake,Minnesota,2-2,draw
+24-06-2023,– San Jose,St. Louis City,1-2,away
+24-06-2023,– Seattle,Orlando City,0-0,draw
+24-06-2023,– Ham-Kam,Odd Grenland,0-1,away
+24-06-2023,– Rosenborg,Sarpsborg 08,0-3,away
+24-06-2023,– Tromso,Stabaek,2-1,home
+24-06-2023,– Switzerland U21,Italy U21,2-3,away
+24-06-2023,– Arsenal Sarandi,Platense,0-2,away
+17-06-2023,– KaPa,JaPS,3-1,home
+17-06-2023,– Saipa,Gnistan,1-3,away
+17-06-2023,– SJK II,HIFK,2-2,draw
+17-06-2023,– Lithuania,Bulgaria,1-1,draw
+17-06-2023,– Norway,Scotland,1-2,away
+17-06-2023,– Azerbaijan,Estonia,1-1,draw
+17-06-2023,– Montenegro,Hungary,0-0,draw
+17-06-2023,– Cyprus,Georgia,1-2,away
+17-06-2023,– Iceland,Slovakia,1-2,away
+17-06-2023,– Levante,Alaves,0-0,draw
+17-06-2023,– New York City,Columbus,1-1,draw
+17-06-2023,– New England,Orlando City,3-1,home
+17-06-2023,– Guyana,Grenada,1-1,draw
+17-06-2023,– San Jose,Portland,0-0,draw
+17-06-2023,– Shimizu SP,Urawa RD,1-1,draw
+17-06-2023,– Bellmare S.,Kawasaki F.,2-3,away
+17-06-2023,– Nagoya GE,Sanfrecce Hiroshima,2-1,home
+17-06-2023,– Kashiwa R.,Fukuoka,0-1,away
+17-06-2023,– Cerezo Osaka,Gamba Osaka,0-1,away
+17-06-2023,– Kyoto Purple Sanga,Tokyo,1-3,away
+10-06-2023,– Varbergs BoIS FC,Halmstad,1-2,away
+10-06-2023,– Montreal,Minnesota,4-0,home
+10-06-2023,– Charlotte FC,Seattle,3-3,draw
+10-06-2023,– Toronto,Nashville,1-1,draw
+10-06-2023,– Chicago,Columbus,1-2,away
+10-06-2023,– Houston,Los Angeles,4-0,home
+10-06-2023,– Kansas City,Austin,4-1,home
+10-06-2023,– Salt Lake,New York City,0-0,draw
+10-06-2023,– San Jose,Philadelphia,2-1,home
+10-06-2023,– Bryne,Asane,1-2,away
+10-06-2023,– Fredrikstad,Start,3-1,home
+10-06-2023,– Kongsvinger,Ranheim,3-0,home
+10-06-2023,– Sandnes,Hodd,1-3,away
+10-06-2023,– AIK,Elfsborg,1-2,away
+10-06-2023,– Sirius,Goteborg,2-0,home
+10-06-2023,– Krasnodar,CSKA,1-1,draw
+10-06-2023,– Aalesund,Tromso,2-3,away
+10-06-2023,– Haugesund,Sandefjord,3-2,home
+10-06-2023,– Sarpsborg 08,Viking,1-3,away
+10-06-2023,– Stabaek,Rosenborg,2-2,draw
+02-06-2023,– Roma,Spezia,2-1,home
+02-06-2023,– Cremonese,Salernitana,2-0,home
+02-06-2023,– Empoli,Lazio,0-2,away
+02-06-2023,– Lecce,Bologna,2-3,away
+02-06-2023,– Sassuolo,Fiorentina,1-3,away
+02-06-2023,– Torino,Inter,0-1,away
+02-06-2023,– Udinese,Juventus,0-1,away
+02-06-2023,– Union de Santa Fe,Gimnasia L.P.,2-0,home
+02-06-2023,– Braga,Porto,0-2,away
+02-06-2023,– Genk,Antwerp,2-2,draw
+02-06-2023,– Betis,Valencia,1-1,draw
+02-06-2023,– Celta Vigo,Barcelona,2-1,home
+02-06-2023,– Elche,Cadiz,1-1,draw
+02-06-2023,– Espanyol,Almeria,3-3,draw
+02-06-2023,– Mallorca,Rayo Vallecano,3-0,home
+02-06-2023,– Osasuna,Girona,2-1,home
+02-06-2023,– Real Madrid,Ath Bilbao,1-1,draw
+02-06-2023,– Sociedad,Sevilla,2-1,home
+02-06-2023,– Valladolid,Getafe,0-0,draw
+02-06-2023,– Villarreal,Atl. Madrid,2-2,draw
+27-05-2023,– Coventry,Luton,1-1,draw
+27-05-2023,– Fiorentina,Roma,2-1,home
+27-05-2023,– Angers,Troyes,2-1,home
+27-05-2023,– Clermont,Lorient,2-0,home
+27-05-2023,– Montpellier,Nice,2-3,away
+27-05-2023,– Rennes,Monaco,2-0,home
+27-05-2023,– Toulouse,Auxerre,1-1,draw
+27-05-2023,– AZ Alkmaar,PSV,1-2,away
+27-05-2023,– Cambuur,RKC Waalwijk,4-0,home
+27-05-2023,– Bologna,Napoli,2-2,draw
+27-05-2023,– Monza,Lecce,0-1,away
+27-05-2023,– Chaves,Boavista,1-4,away
+27-05-2023,– Gil Vicente,Casa Pia,1-0,home
+27-05-2023,– Portimonense,Arouca,0-2,away
+27-05-2023,– Aston Villa,Brighton,2-1,home
+27-05-2023,– Chelsea,Newcastle,1-1,draw
+27-05-2023,– Leeds,Tottenham,1-4,away
+27-05-2023,– Leicester,West Ham,2-1,home
+27-05-2023,– Juventus,Milan,0-1,away
+27-05-2023,– Corinthians,Fluminense,2-0,home
+20-05-2023,– Fulham,Crystal Palace,2-2,draw
+20-05-2023,– Wolverhampton,Everton,1-1,draw
+20-05-2023,– Nantes,Montpellier,0-3,away
+20-05-2023,– Almeria,Mallorca,3-0,home
+20-05-2023,– Cartagena,Las Palmas,1-4,away
+20-05-2023,– Leganes,Andorra,1-1,draw
+20-05-2023,– Oviedo,Santander,1-0,home
+20-05-2023,– Ibiza,Zaragoza,1-0,home
+20-05-2023,– Lille,Marseille,2-1,home
+20-05-2023,– Lecce,Spezia,0-0,draw
+20-05-2023,– Rayo Vallecano,Espanyol,1-2,away
+20-05-2023,– West Ham,Leeds,3-1,home
+20-05-2023,– Torino,Fiorentina,1-1,draw
+20-05-2023,– Brest,Clermont,2-1,home
+20-05-2023,– Mainz,Stuttgart,1-4,away
+20-05-2023,– Napoli,Inter,3-1,home
+20-05-2023,– Valencia,Real Madrid,1-0,home
+20-05-2023,– Udinese,Lazio,0-1,away
+20-05-2023,– Sevilla,Betis,0-0,draw
+20-05-2023,– Sporting,Benfica,2-2,draw
+13-05-2023,– Aston Villa,Tottenham,2-1,home
+13-05-2023,– Crystal Palace,Bournemouth,2-0,home
+13-05-2023,– Southampton,Fulham,0-2,away
+13-05-2023,– Osasuna,Almeria,3-1,home
+13-05-2023,– Strasbourg,Nice,2-0,home
+13-05-2023,– Spezia,Milan,2-0,home
+13-05-2023,– Villarreal,Ath Bilbao,5-1,home
+13-05-2023,– St. Pauli,Fortuna Dusseldorf,0-0,draw
+13-05-2023,– Verona,Torino,0-1,away
+13-05-2023,– Hannover,Darmstadt,2-1,home
+13-05-2023,– Paderborn,Heidenheim,3-2,home
+13-05-2023,– Celta,Valencia,1-2,away
+13-05-2023,– Brentford,West Ham,2-0,home
+13-05-2023,– Brest,Auxerre,1-0,home
+13-05-2023,– Toulouse,Nantes,0-0,draw
+13-05-2023,– Stuttgart,Leverkusen,1-1,draw
+13-05-2023,– Monaco,Lille,0-0,draw
+13-05-2023,– Arsenal,Brighton,0-3,away
+13-05-2023,– Bologna,Roma,0-0,draw
+13-05-2023,– Valladolid,Sevilla,0-3,away
+06-05-2023,– Bournemouth,Chelsea,1-3,away
+06-05-2023,– Wolverhampton,Aston Villa,1-0,home
+06-05-2023,– Santa Clara,Gil Vicente,3-2,home
+06-05-2023,– Nice,Rennes,2-1,home
+06-05-2023,– Roma,Inter,0-2,away
+06-05-2023,– Reims,Lille,1-0,home
+06-05-2023,– NEC,Heerenveen,2-3,away
+06-05-2023,– Cremonese,Spezia,2-0,home
+06-05-2023,– Lens,Marseille,2-1,home
+06-05-2023,– Atalanta,Juventus,0-2,away
+06-05-2023,– Torino,Monza,1-1,draw
+06-05-2023,– Ajaccio,Toulouse,0-0,draw
+06-05-2023,– Auxerre,Clermont,1-1,draw
+06-05-2023,– Lorient,Brest,2-1,home
+06-05-2023,– Nantes,Strasbourg,0-2,away
+06-05-2023,– Maritimo,Rio Ave,2-2,draw
+06-05-2023,– Newcastle,Arsenal,0-2,away
+06-05-2023,– Guimaraes,Vizela,3-0,home
+06-05-2023,– West Ham,Manchester Utd,1-0,home
+06-05-2023,– Lecce,Verona,0-1,away
+29-04-2023,– Reading,Wigan,1-1,draw
+29-04-2023,– Stoke,QPR,0-1,away
+29-04-2023,– Elche,Rayo Vallecano,4-0,home
+29-04-2023,– Maritimo,Guimaraes,1-2,away
+29-04-2023,– Roma,Milan,1-1,draw
+29-04-2023,– WBA,Norwich,2-1,home
+29-04-2023,– Torino,Atalanta,1-2,away
+29-04-2023,– Nantes,Toulouse,1-5,away
+29-04-2023,– Cardiff,Huddersfield,1-2,away
+29-04-2023,– Cadiz,Valencia,2-1,home
+29-04-2023,– Bournemouth,Leeds,4-1,home
+29-04-2023,– Cremonese,Verona,1-1,draw
+29-04-2023,– Sassuolo,Empoli,2-1,home
+29-04-2023,– Clermont,Reims,1-0,home
+29-04-2023,– Villarreal,Celta Vigo,3-1,home
+29-04-2023,– Estoril,Santa Clara,3-0,home
+29-04-2023,– Ajax,PSV,1-1,draw
+29-04-2023,– Besiktas,Galatasaray,3-1,home
+29-04-2023,– Espanyol,Getafe,1-0,home
+29-04-2023,– Bologna,Juventus,1-1,draw
+22-04-2023,– Brentford,Aston Villa,1-1,draw
+22-04-2023,– Crystal Palace,Everton,0-0,draw
+22-04-2023,– Leicester,Wolverhampton,2-1,home
+22-04-2023,– Birmingham,Blackpool,0-1,away
+22-04-2023,– Bristol City,Rotherham,2-1,home
+22-04-2023,– Cardiff,Stoke,1-1,draw
+22-04-2023,– Hull,Watford,1-0,home
+22-04-2023,– Norwich,Swansea,0-3,away
+22-04-2023,– Wigan,Millwall,2-1,home
+22-04-2023,– Preston,Blackburn,1-1,draw
+22-04-2023,– Lens,Monaco,3-0,home
+22-04-2023,– WBA,Sunderland,1-2,away
+22-04-2023,– Reims,Strasbourg,0-2,away
+22-04-2023,– PSV,Ajax,3-0,home
+22-04-2023,– Bournemouth,West Ham,0-4,away
+22-04-2023,– Barcelona,Atl. Madrid,1-0,home
+22-04-2023,– Montpellier,Rennes,1-0,home
+22-04-2023,– Olympique Lyon,Olympique Marseille,1-2,away
+22-04-2023,– Juventus,Napoli,0-1,away
+22-04-2023,– Sevilla,Villarreal,2-1,home
+15-04-2023,– Chelsea,Brighton,1-2,away
+15-04-2023,– Everton,Fulham,1-3,away
+15-04-2023,– Southampton,Crystal Palace,0-2,away
+15-04-2023,– Wolverhampton,Brentford,2-0,home
+15-04-2023,– Ath Bilbao,Sociedad,2-0,home
+15-04-2023,– Estoril,Portimonense,0-1,away
+15-04-2023,– Maritimo,Ferreira,3-1,home
+15-04-2023,– Rennes,Reims,3-0,home
+15-04-2023,– Sparta,Heerenveen,4-0,home
+15-04-2023,– NEC,Vitesse,1-4,away
+15-04-2023,– Lecce,Sampdoria,1-1,draw
+15-04-2023,– Utrecht,Twente,1-0,home
+15-04-2023,– Auxerre,Nantes,2-1,home
+15-04-2023,– Brest,Nice,1-0,home
+15-04-2023,– Clermont,Angers,2-1,home
+15-04-2023,– Werder,Freiburg,1-2,away
+15-04-2023,– Rio Ave,Casa Pia,1-1,draw
+15-04-2023,– Sassuolo,Juventus,1-0,home
+15-04-2023,– Wolfsburg,Leverkusen,0-0,draw
+15-04-2023,– Valencia,Sevilla,0-2,away
+08-04-2023,– Brentford,Newcastle,1-2,away
+08-04-2023,– Fulham,West Ham,0-1,away
+08-04-2023,– Tottenham,Brighton,2-1,home
+08-04-2023,– Wolverhampton,Chelsea,1-0,home
+08-04-2023,– Espanyol,Ath Bilbao,1-2,away
+08-04-2023,– Sampdoria,Cremonese,2-3,away
+08-04-2023,– Torino,Roma,0-1,away
+08-04-2023,– Verona,Sassuolo,2-1,home
+08-04-2023,– Vitesse,Go Head,2-0,home
+08-04-2023,– Lazio,Juventus,2-1,home
+08-04-2023,– Valladolid,Mallorca,3-3,draw
+08-04-2023,– Emmen,NEC,0-0,draw
+08-04-2023,– Leeds,Crystal Palace,1-5,away
+08-04-2023,– B. Monchengladbach,Wolfsburg,2-0,home
+08-04-2023,– Nantes,Monaco,2-2,draw
+08-04-2023,– Liverpool,Arsenal,2-2,draw
+08-04-2023,– Bochum,Stuttgart,2-3,away
+08-04-2023,– Almeria,Valencia,2-1,home
+08-04-2023,– Hoffenheim,Schalke,2-0,home
+08-04-2023,– Rayo Vallecano,Atl. Madrid,1-2,away
+01-04-2023,– Bournemouth,Fulham,2-1,home
+01-04-2023,– Crystal Palace,Leicester,2-1,home
+01-04-2023,– Nottingham,Wolverhampton,1-1,draw
+01-04-2023,– Birmingham,Blackburn,1-0,home
+01-04-2023,– Cardiff,Swansea,2-3,away
+01-04-2023,– Coventry,Stoke,0-4,away
+01-04-2023,– Hull,Rotherham,0-0,draw
+01-04-2023,– Norwich,Sheffield Utd,0-1,away
+01-04-2023,– WBA,Millwall,0-0,draw
+01-04-2023,– Wigan,QPR,1-0,home
+01-04-2023,– Cadiz,Sevilla,0-2,away
+01-04-2023,– Rennes,Lens,0-1,away
+01-04-2023,– Bologna,Udinese,3-0,home
+01-04-2023,– Monza,Lazio,0-2,away
+01-04-2023,– Spezia,Salernitana,1-1,draw
+01-04-2023,– Nantes,Reims,0-3,away
+01-04-2023,– Koln,B. Monchengladbach,0-0,draw
+01-04-2023,– Newcastle,Manchester Utd,2-0,home
+01-04-2023,– Werder,Hoffenheim,1-2,away
+01-04-2023,– Villarreal,Sociedad,2-0,home
+25-03-2023,– Charlton,Wycombe,1-1,draw
+25-03-2023,– Peterborough,Derby,2-0,home
+25-03-2023,– Portsmouth,Port Vale,2-2,draw
+25-03-2023,– Gillingham,Carlisle,1-0,home
+25-03-2023,– Grimsby,Walsall,1-1,draw
+25-03-2023,– Mansfield,Sutton,0-0,draw
+25-03-2023,– Swindon,Stockport County,0-1,away
+25-03-2023,– Santander,Levante,0-1,away
+25-03-2023,– Portland Timbers,Los Angeles Galaxy,0-0,draw
+25-03-2023,– Columbus Crew,Atlanta Utd,6-1,home
+25-03-2023,– DC United,New England Revolution,1-2,away
+25-03-2023,– Inter Miami,Chicago Fire,2-3,away
+25-03-2023,– Houston Dynamo,New York City,1-0,home
+25-03-2023,– Minnesota United,Vancouver Whitecaps,1-1,draw
+25-03-2023,– Nashville SC,FC Cincinnati,0-1,away
+25-03-2023,– Sporting Kansas City,Seattle Sounders,1-4,away
+25-03-2023,– Real Salt Lake,St. Louis City,0-4,away
+25-03-2023,– Ponferradina,Mirandes,0-0,draw
+25-03-2023,– Zaragoza,Albacete,1-1,draw
+25-03-2023,– Raith,Hamilton,0-1,away
+18-03-2023,– Brentford,Leicester,1-1,draw
+18-03-2023,– Wolverhampton,Leeds,2-4,away
+18-03-2023,– Rayo Vallecano,Girona,2-2,draw
+18-03-2023,– Toulouse,Lille,0-2,away
+18-03-2023,– Salernitana,Bologna,2-2,draw
+18-03-2023,– Espanyol,Celta Vigo,1-3,away
+18-03-2023,– Arouca,Ferreira,1-1,draw
+18-03-2023,– Udinese,Milan,3-1,home
+18-03-2023,– Sampdoria,Verona,3-1,home
+18-03-2023,– Montpellier,Clermont,2-1,home
+18-03-2023,– Strasbourg,Auxerre,2-0,home
+18-03-2023,– Troyes,Brest,2-2,draw
+18-03-2023,– Union Berlin,Eintracht Frankfurt,2-0,home
+18-03-2023,– Osasuna,Villarreal,0-3,away
+18-03-2023,– Lazio,AS Roma,1-0,home
+18-03-2023,– Getafe,Sevilla,2-0,home
+18-03-2023,– Mainz,Freiburg,1-1,draw
+18-03-2023,– Inter,Juventus,0-1,away
+18-03-2023,– Reims,Olympique Marseille,1-2,away
+18-03-2023,– Barcelona,Real Madrid,2-1,home
+11-03-2023,– Everton,Brentford,1-0,home
+11-03-2023,– Leeds,Brighton,2-2,draw
+11-03-2023,– Leicester,Chelsea,1-3,away
+11-03-2023,– Birmingham,Rotherham,2-0,home
+11-03-2023,– Coventry,Hull,1-1,draw
+11-03-2023,– Preston,Cardiff,2-0,home
+11-03-2023,– QPR,Watford,1-0,home
+11-03-2023,– Reading,Millwall,0-1,away
+11-03-2023,– Sheffield Utd,Luton,0-1,away
+11-03-2023,– Swansea,Middlesbrough,1-3,away
+11-03-2023,– Auxerre,Rennes,0-0,draw
+11-03-2023,– Bologna,Lazio,0-0,draw
+11-03-2023,– Lecce,Torino,0-2,away
+11-03-2023,– Norwich,Sunderland,0-1,away
+11-03-2023,– West Ham,Aston Villa,1-1,draw
+11-03-2023,– Verona,Monza,1-1,draw
+11-03-2023,– Nantes,Nice,2-2,draw
+11-03-2023,– Freiburg,Hoffenheim,2-1,home
+11-03-2023,– Werder,Leverkusen,2-3,away
+11-03-2023,– Wolfsburg,Union Berlin,1-1,draw
+04-03-2023,– Aston Villa,Crystal Palace,1-0,home
+04-03-2023,– Wolverhampton,Tottenham,1-0,home
+04-03-2023,– Huddersfield,Coventry,0-4,away
+04-03-2023,– Luton,Swansea,1-0,home
+04-03-2023,– Millwall,Norwich,2-3,away
+04-03-2023,– Rotherham,QPR,3-1,home
+04-03-2023,– Sunderland,Stoke,1-5,away
+04-03-2023,– Watford,Preston,0-0,draw
+04-03-2023,– Wigan,Birmingham,1-1,draw
+04-03-2023,– Lens,Lille,1-1,draw
+04-03-2023,– Southampton,Leicester,1-0,home
+04-03-2023,– Fiorentina,Milan,2-1,home
+04-03-2023,– Valladolid,Espanyol,2-1,home
+04-03-2023,– Nottingham,Everton,2-2,draw
+04-03-2023,– Liverpool,Manchester Utd,7-0,home
+04-03-2023,– Wolfsburg,Eintracht Frankfurt,2-2,draw
+04-03-2023,– Rayo Vallecano,Ath Bilbao,0-0,draw
+04-03-2023,– Roma,Juventus,1-0,home
+04-03-2023,– Rennes,Olympique Marseille,0-1,away
+04-03-2023,– Betis,Real Madrid,0-0,draw
+25-02-2023,– Everton,Aston Villa,0-2,away
+25-02-2023,– Leeds,Southampton,1-0,home
+25-02-2023,– Birmingham,Luton,0-1,away
+25-02-2023,– Bristol City,Hull,1-0,home
+25-02-2023,– Preston,Wigan,2-1,home
+25-02-2023,– Cadiz,Rayo Vallecano,1-0,home
+25-02-2023,– Schalke,Stuttgart,2-1,home
+25-02-2023,– Real Madrid,Atl. Madrid,1-1,draw
+25-02-2023,– Lecce,Sassuolo,0-1,away
+25-02-2023,– Valencia,Sociedad,1-0,home
+25-02-2023,– Lorient,Auxerre,0-1,away
+25-02-2023,– Tottenham,Chelsea,2-0,home
+25-02-2023,– Salernitana,Monza,3-0,home
+25-02-2023,– Ajaccio,Troyes,2-1,home
+25-02-2023,– Clermont,Strasbourg,1-1,draw
+25-02-2023,– Nantes,Rennes,0-1,away
+25-02-2023,– Reims,Toulouse,3-0,home
+25-02-2023,– Freiburg,Leverkusen,1-1,draw
+25-02-2023,– Milan,Atalanta,2-0,home
+25-02-2023,– Olympique Marseille,PSG,0-3,away
+18-02-2023,– Brentford,Crystal Palace,1-1,draw
+18-02-2023,– Everton,Leeds,1-0,home
+18-02-2023,– Blackburn,Swansea,1-0,home
+18-02-2023,– Blackpool,Stoke,1-0,home
+18-02-2023,– Huddersfield,Birmingham,2-1,home
+18-02-2023,– Hull,Preston,0-0,draw
+18-02-2023,– Luton,Burnley,0-1,away
+18-02-2023,– Rotherham,Coventry,0-2,away
+18-02-2023,– Sunderland,Bristol City,1-1,draw
+18-02-2023,– Wigan,Norwich,0-0,draw
+18-02-2023,– Nice,Reims,0-0,draw
+18-02-2023,– Monza,Milan,0-1,away
+18-02-2023,– Newcastle,Liverpool,0-2,away
+18-02-2023,– Mallorca,Villarreal,4-2,home
+18-02-2023,– Strasbourg,Angers,2-1,home
+18-02-2023,– Elche,Espanyol,0-1,away
+18-02-2023,– Lorient,Ajaccio,3-0,home
+18-02-2023,– Troyes,Montpellier,0-1,away
+18-02-2023,– Rayo Vallecano,Sevilla,1-1,draw
+18-02-2023,– Atl. Madrid,Ath Bilbao,1-0,home
+11-02-2023,– Crystal Palace,Brighton,1-1,draw
+11-02-2023,– Fulham,Nott.Forest,2-0,home
+11-02-2023,– Leicester,Tottenham,4-1,home
+11-02-2023,– Southampton,Wolverhampton,1-2,away
+11-02-2023,– Wigan,Huddersfield,1-0,home
+11-02-2023,– Watford,Blackburn,1-1,draw
+11-02-2023,– Blackpool,Rotherham,0-0,draw
+11-02-2023,– Bristol City,Norwich,1-0,home
+11-02-2023,– Cardiff,Middlesbrough,1-3,away
+11-02-2023,– Monaco,PSG,3-1,home
+11-02-2023,– Lecce,Roma,1-1,draw
+11-02-2023,– Sevilla,Mallorca,2-0,home
+11-02-2023,– Lazio,Atalanta,0-2,away
+11-02-2023,– Valencia,Ath Bilbao,1-2,away
+11-02-2023,– Udinese,Sassuolo,2-2,draw
+11-02-2023,– Celta Vigo,Atl. Madrid,0-1,away
+11-02-2023,– Juventus,Fiorentina,1-0,home
+11-02-2023,– Sporting,Porto,1-2,away
+11-02-2023,– Olympique Lyon,Lens,2-1,home
+11-02-2023,– Villarreal,Barcelona,0-1,away
+04-02-2023,– Aston Villa,Leicester,2-4,away
+04-02-2023,– Brentford,Southampton,3-0,home
+04-02-2023,– Huddersfield,QPR,1-1,draw
+04-02-2023,– Hull,Cardiff,1-0,home
+04-02-2023,– Luton,Stoke,1-0,home
+04-02-2023,– Millwall,Sunderland,1-1,draw
+04-02-2023,– Preston,Bristol City,1-2,away
+04-02-2023,– Reading,Watford,2-2,draw
+04-02-2023,– Swansea,Birmingham,3-4,away
+04-02-2023,– Sassuolo,Atalanta,1-0,home
+04-02-2023,– Betis,Celta Vigo,3-4,away
+04-02-2023,– Rennes,Lille,1-3,away
+04-02-2023,– Nottingham,Leeds,1-0,home
+04-02-2023,– Torino,Udinese,1-0,home
+04-02-2023,– Ajaccio,Nantes,0-2,away
+04-02-2023,– Auxerre,Reims,0-0,draw
+04-02-2023,– Strasbourg,Montpellier,2-0,home
+04-02-2023,– Stuttgart,Werder,0-2,away
+04-02-2023,– Girona,Valencia,1-0,home
+04-02-2023,– Inter,Milan,1-0,home
+28-01-2023,– Ipswich,Burnley,0-0,draw
+28-01-2023,– Blackburn,Birmingham,2-2,draw
+28-01-2023,– Bristol City,WBA,3-0,home
+28-01-2023,– Getafe,Betis,0-1,away
+28-01-2023,– Olympique Marseille,Monaco,1-1,draw
+28-01-2023,– Nice,Lille,1-0,home
+28-01-2023,– Valladolid,Valencia,1-0,home
+28-01-2023,– Brighton,Liverpool,2-1,home
+28-01-2023,– Auxerre,Montpellier,0-2,away
+28-01-2023,– Brest,Angers,4-0,home
+28-01-2023,– Clermont,Nantes,0-0,draw
+28-01-2023,– Strasbourg,Toulouse,1-2,away
+28-01-2023,– Schalke,Koln,0-0,draw
+28-01-2023,– Osasuna,Atl. Madrid,0-1,away
+28-01-2023,– Vizela,Rio Ave,3-1,home
+28-01-2023,– Leverkusen,Dortmund,0-2,away
+28-01-2023,– Lazio,Fiorentina,1-1,draw
+28-01-2023,– Celta Vigo,Ath Bilbao,1-0,home
+28-01-2023,– Boavista,Portimonense,4-2,home
+28-01-2023,– Famalicao,Estoril,1-0,home
+21-01-2023,– Bournemouth,Nottingham,1-1,draw
+21-01-2023,– Leicester,Brighton,2-2,draw
+21-01-2023,– Southampton,Aston Villa,0-1,away
+21-01-2023,– Birmingham,Preston,1-2,away
+21-01-2023,– Blackpool,Huddersfield,Postp,postponed
+21-01-2023,– Bristol City,Blackburn,1-1,draw
+21-01-2023,– Cardiff,Millwall,0-1,away
+21-01-2023,– QPR,Swansea,1-1,draw
+21-01-2023,– Stoke,Reading,4-0,home
+21-01-2023,– Wigan,Luton,0-2,away
+21-01-2023,– Crystal Palace,Newcastle,0-0,draw
+21-01-2023,– Koln,Werder,7-1,home
+21-01-2023,– Fiorentina,Torino,0-1,away
+21-01-2023,– Sampdoria,Udinese,0-1,away
+21-01-2023,– Sunderland,Middlesbrough,2-0,home
+21-01-2023,– Leeds,Brentford,0-0,draw
+21-01-2023,– Arsenal,Manchester Utd,3-2,home
+21-01-2023,– Monchengladbach,Leverkusen,2-3,away
+21-01-2023,– Juventus,Atalanta,3-3,draw
+21-01-2023,– Ath Bilbao,Real Madrid,0-2,away
+14-01-2023,– Brighton,Liverpool,3-0,home
+14-01-2023,– Everton,Southampton,1-2,away
+14-01-2023,– Nott.Forest,Leicester,2-0,home
+14-01-2023,– Wolverhampton,West Ham,1-0,home
+14-01-2023,– Bristol City,Birmingham,4-2,home
+14-01-2023,– Cardiff,Wigan,1-1,draw
+14-01-2023,– Hull,Huddersfield,1-1,draw
+14-01-2023,– Luton,WBA,2-3,away
+14-01-2023,– Middlesbrough,Millwall,1-0,home
+14-01-2023,– Preston,Norwich,0-4,away
+14-01-2023,– Reading,QPR,2-2,draw
+14-01-2023,– Sunderland,Swansea,1-3,away
+14-01-2023,– Girona,Sevilla,2-1,home
+14-01-2023,– Osasuna,Mallorca,1-0,home
+14-01-2023,– Sociedad,Ath Bilbao,3-1,home
+14-01-2023,– Sassuolo,Lazio,0-2,away
+14-01-2023,– Getafe,Espanyol,1-2,away
+14-01-2023,– Udinese,Bologna,1-2,away
+14-01-2023,– Tottenham,Arsenal,0-2,away
+14-01-2023,– Roma,Fiorentina,2-0,home
+07-01-2023,– Bournemouth,Burnley,2-4,away
+07-01-2023,– Millwall,Sheffield Utd,0-2,away
+07-01-2023,– Shrewsbury,Sunderland,1-2,away
+07-01-2023,– Villarreal,Real Madrid,2-1,home
+07-01-2023,– Mallorca,Valladolid,1-0,home
+07-01-2023,– Brentford,West Ham,0-1,away
+07-01-2023,– Coventry,Wrexham,3-4,away
+07-01-2023,– Grimsby,Burton,1-0,home
+07-01-2023,– Luton,Wigan,1-1,draw
+07-01-2023,– Espanyol,Girona,2-2,draw
+07-01-2023,– Salernitana,Torino,1-1,draw
+07-01-2023,– Bristol City,Swansea,1-1,draw
+07-01-2023,– Derby,Barnsley,3-0,home
+07-01-2023,– Almeria,Real Sociedad,0-2,away
+07-01-2023,– Spezia,Lecce,0-0,draw
+07-01-2023,– Norwich,Blackburn,0-1,away
+07-01-2023,– Cardiff,Leeds,2-2,draw
+07-01-2023,– Stockport County,Walsall,1-2,away
+07-01-2023,– Milan,Roma,2-2,draw
+07-01-2023,– Atl. Madrid,Barcelona,0-1,away
+31-12-2022,– Bournemouth,Crystal Palace,0-2,away
+31-12-2022,– Fulham,Southampton,2-1,home
+31-12-2022,– Sociedad,Osasuna,2-0,home
+31-12-2022,– Villarreal,Valencia,2-1,home
+31-12-2022,– Brighton,Arsenal,2-4,away
+31-12-2022,– Newcastle Jets,Sydney FC,0-2,away
+31-12-2022,– Sydney W.,Macarthur FC,4-0,home
+31-12-2022,– Angers,Lorient,1-2,away
+31-12-2022,– Nantes,Auxerre,1-0,home
+31-12-2022,– Toulouse,AC Ajaccio,2-0,home
+31-12-2022,– Blackpool,Sunderland,1-1,draw
+31-12-2022,– Coventry,Bristol City,1-1,draw
+31-12-2022,– Huddersfield,Luton,1-2,away
+31-12-2022,– Bristol Rovers,Cheltenham,2-1,home
+31-12-2022,– Forest Green,Port Vale,1-3,away
+31-12-2022,– Morecambe,Burton,5-0,home
+31-12-2022,– Oxford Utd,Exeter,0-1,away
+31-12-2022,– Peterborough,Wycombe,0-3,away
+31-12-2022,– Portsmouth,Charlton,1-3,away
+31-12-2022,– Shrewsbury,Fleetwood,0-3,away
