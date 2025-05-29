@@ -73,7 +73,7 @@ async def fetch_jackpot_details(db: Session = Depends(get_db)):
 
 
 @jackpot_module.get("/scrape-links/")
-async def scrape_links(start_page: int = 241, end_page: int = 344):
+async def scrape_links(start_page: int = 1, end_page: int = 38):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
@@ -98,7 +98,7 @@ async def scrape_links(start_page: int = 241, end_page: int = 344):
         # Scrape all links
         all_match_data = scrape_all_links(all_links)
 
-        save_matches_to_csv(all_match_data, "mozzart-bet-jackpot4.csv")
+        save_matches_to_csv(all_match_data, "mozzart-bet-jackpot5.csv")
         # Output the scraped data
         # for match in all_match_data:
         #     print(match)
