@@ -67,7 +67,8 @@ A professional FastAPI template
 │   │   ├── __init__.py
 │   │   └── user.py
 │   └── utils       # Can include utility functions that are used across different features.
-├── requirements.txt # Lists project dependencies.
+├── pyproject.toml   # Project configuration and dependency definitions.
+├── uv.lock          # Locked dependency versions.
 ```
 
 **app/api/endpoints/**: Contains modules for each feature (user, product, payments).
@@ -90,46 +91,41 @@ A professional FastAPI template
 
 **scripts/**: Contains utility scripts.
 
-**requirements.txt**: Lists project dependencies.
+**pyproject.toml**: Defines project metadata and dependencies.
 
-# Setup
+# Setup & Usage
 
 The first thing to do is to clone the repository:
 
 ```sh
-$ https://github.com/MahmudJewel/fastapi-starter-kit
-```
-
-Create a virtual environment to install dependencies in and activate it:
-
-```sh
+$ git clone https://github.com/MahmudJewel/fastapi-starter-kit
 $ cd fastapi-starter-kit
-$ python -m venv venv
-$ source .venv/bin/activate
 ```
 
-Then install the dependencies:
+Install dependencies and set up the virtual environment using [`uv`](https://github.com/astral-sh/uv):
 
 ```sh
-# for fixed version
-(venv)$ pip install -r requirements.txt
-
-# or for updated version
-(venv)$ pip install -r dev.txt
+$ uv sync
 ```
 
-Note the `(venv)` in front of the prompt. This indicates that this terminal
-session operates in a virtual environment set up by `virtualenv2`.
+### Usage Commands
 
-Once `pip` has finished downloading the dependencies:
-
-```sh
-# db migrations
-(venv)$ alembic upgrade head
-
-# start the server
-(venv)$ uvicorn app.main:app --reload
-```
+- **Install/Sync dependencies**:
+  ```bash
+  uv sync
+  ```
+- **Add a new package**:
+  ```bash
+  uv add <package_name>
+  ```
+- **Run migrations**:
+  ```bash
+  uv run alembic upgrade head
+  ```
+- **Start dev server**:
+  ```bash
+  uv run uvicorn app.main:app --reload
+  ```
 
 ## User module's API
 
