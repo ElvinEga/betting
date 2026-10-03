@@ -1,24 +1,30 @@
 # jackpot.py
 from typing import List
+from urllib.parse import quote_plus
 
+import requests
+from bs4 import BeautifulSoup
 from fastapi import APIRouter, Depends, HTTPException
 
 # sqlalchemy
 from sqlalchemy.orm import Session
-
-import requests
 from starlette.responses import JSONResponse
 
-from app.api.endpoints.jackpot.functions import save_to_csv, save_to_database, save_to_json, save_matches_to_csv
+from app.api.endpoints.jackpot.functions import (
+    save_matches_to_csv,
+    save_to_csv,
+    save_to_database,
+    save_to_json,
+)
 from app.api.endpoints.jackpot.scraplinks import scrape_all_links
-# import
-from app.schemas.jackpot import JackpotDetails, EventModel
 from app.core.dependencies import get_db
-from bs4 import BeautifulSoup
+
+# import
+from app.schemas.jackpot import EventModel, JackpotDetails
 
 jackpot_module = APIRouter()
 
-BASE_URL = "https://footballplatform.com/category/mozzart-bet-jackpot/page/"
+ARCHIVE_URL = "https://footballplatform.com/archive/"
 
 
 @jackpot_module.get("/fetch-jackpot-details", response_model=List[JackpotDetails])
@@ -73,36 +79,47 @@ async def fetch_jackpot_details(db: Session = Depends(get_db)):
 
 
 @jackpot_module.get("/scrape-links/")
-async def scrape_links(start_page: int = 1, end_page: int = 38):
+async def scrape_links(
+    start_page: int = 4,
+    end_page: int = 6,
+    source: str = "mozzart super jackpot",
+    filename: str = "mozzart-super-jackpot2.csv",
+):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
     try:
         all_links = []
+        seen = set()
         print("Processing Links ...")
         for page in range(start_page, end_page + 1):
-            url = f"{BASE_URL}{page}/"
+            url = f"{ARCHIVE_URL}?paged={page}&tp_s={quote_plus(source)}&tp_pp=100&tp_date&tp_cat"
             response = requests.get(url, headers=headers)
             if response.status_code == 200:
                 soup = BeautifulSoup(response.content, "html.parser")
-                titles = soup.select(".entry-title a")
-                links = [title['href'] for title in titles if title.has_attr('href')]
-                all_links.extend(links)
+                titles = soup.select(".tp-tips-archive-list a[href]")
+                links = [title['href'] for title in titles]
+                for link in links:
+                    if link not in seen:
+                        seen.add(link)
+                        all_links.append(link)
             else:
                 return JSONResponse(
                     content={"error": f"Failed to retrieve page {page}"},
                     status_code=500
                 )
 
-        print(all_links)
         # Scrape all links
         all_match_data = scrape_all_links(all_links)
 
-        save_matches_to_csv(all_match_data, "mozzart-bet-jackpot5.csv")
-        # Output the scraped data
-        # for match in all_match_data:
-        #     print(match)
-        return {"links": all_links}
+        save_matches_to_csv(all_match_data, filename)
+        return {
+            "source": source,
+            "pages": end_page - start_page + 1,
+            "links": len(all_links),
+            "matches": len(all_match_data),
+            "file": filename,
+        }
     except Exception as e:
         return JSONResponse(
             content={"error": str(e)},
