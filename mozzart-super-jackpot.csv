@@ -312,7 +312,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 03-08-2025,Valerenga,Sandefjord,Norway – Eliteserien,2-1,3.10,FT,2,home
 03-08-2025,Waterford,St Patrick's Athl.,Ireland – Premier Division,0-2,3.30,FT,X,away
 03-08-2025,AFC Hermannstadt,Universitatea Cluj,Romania – Liga I,2-2,1.30,DC,X2,draw
-03-08-2025,Motor Lublin,Jagiellonia,Poland – Ekstraklasa,1.55,1.55,DC,1X,unknown
+03-08-2025,Motor Lublin,Jagiellonia,Poland – Ekstraklasa,Abn,1.55,DC,1X,abandoned
 03-08-2025,Radomiak Radom,Raków Częstochowa,Poland – Ekstraklasa,3-1,3.25,FT,X,home
 03-08-2025,Ajka,Fehérvár FC,Hungary – NB II,1-1,1.50,DC,1X,draw
 03-08-2025,Charleroi,St. Truiden,Belgium – Jupiler Pro League,1-1,1.30,DC,1X,draw
@@ -981,7 +981,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 22-06-2025,Oddevold,Varbergs BoIS FC,Sweden – Superettan,2-1,1.35,DC,X2,home
 22-06-2025,Aktobe,FC Astana,Kazakhstan – Premier League,0-1,1.85,FT,2,away
 22-06-2025,LDU de Quito,Independiente del Valle,Ecuador – Liga Pro,1-1,1.95,FT,1,draw
-22-06-2025,Salernitana,Sampdoria,Italy – Serie B,3.10,3.10,FT,X,unknown
+22-06-2025,Salernitana,Sampdoria,Italy – Serie B,Abn,3.10,FT,X,abandoned
 22-06-2025,Atletico Goianiense,Volta Redonda,Brazil – Serie B,2-0,1.80,DC,X2,home
 22-06-2025,A. Italiano,Colo Colo,Chile – Primera División,2-1,1.80,FT,2,home
 22-06-2025,KA Akureyri,Vikingur Reykjavik,Iceland – Úrvalsdeild,0-2,3.60,FT,1,away
@@ -2106,7 +2106,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 10-04-2025,Sportivo Trinidense,Atl. Tembetary,,1-1,1.30,DC,1X,draw
 10-04-2025,La Equidad,Santa Fe,,2-1,2.10,FT,2,home
 10-04-2025,Manta,Tecnico U.,,2-1,2.05,FT,2,home
-10-04-2025,Colo Colo (Chi),Fortaleza (Bra),,1.75,1.75,FT,1,unknown
+10-04-2025,Colo Colo (Chi),Fortaleza (Bra),,Abn,1.75,FT,1,abandoned
 10-04-2025,Cuiaba,Avai,,2-2,2.10,FT,1,draw
 10-04-2025,FC Tokyo,Kashiwa Reysol,,1-1,3.10,FT,X,draw
 10-04-2025,Al Okhdood,Al Taawon,,1-1,2.10,FT,1,draw
@@ -2500,7 +2500,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 16-03-2025,Aue,Mannheim,,0-1,2.50,FT,2,away
 16-03-2025,A. Klagenfurt,Altach,,2-2,1.50,DC,1X,draw
 16-03-2025,BW Linz,Hartberg,,4-1,1.30,DC,1X,home
-16-03-2025,Montpellier,St Etienne,,2.20,2.20,FT,1,unknown
+16-03-2025,Montpellier,St Etienne,,Abn,2.20,FT,1,abandoned
 16-03-2025,Strasbourg,Toulouse,,2-1,2.30,FT,1,home
 16-03-2025,Heidenheim,Holstein Kiel,,3-1,2.00,FT,1,home
 16-03-2025,Fiorentina,Juventus,,3-0,1.30,DC,X2,home
@@ -3149,7 +3149,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 04-02-2025,Dag & Red,Forest Green,,0-2,2.00,FT,2,away
 04-02-2025,Stranraer,Forfar Athletic,,Postp,1.40,DC,X2,postponed
 04-02-2025,Stirling,Spartans,,1-3,1.40,DC,X2,away
-04-02-2025,Godoy Cruz,Talleres Cordoba,,2.10,2.10,FT,2,unknown
+04-02-2025,Godoy Cruz,Talleres Cordoba,,Abn,2.10,FT,2,abandoned
 03-02-2025,Farul Constanta,Petrolul,,2-1,2.90,FT,X,home
 03-02-2025,Slask Wroclaw,Piast Gliwice,,1-3,1.40,DC,1X,away
 03-02-2025,De Graafschap,Den Haag,,1-2,1.35,DC,1X,away
@@ -3266,7 +3266,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 27-01-2025,Haras El Hodood,Modern Sport,,1-0,2.50,FT,X,home
 27-01-2025,Venezia,Verona,,1-1,1.35,DC,1X,draw
 27-01-2025,Torreense,Benfica B,,1-1,3.20,FT,X,draw
-27-01-2025,Maccabi Haifa,Maccabi Tel Aviv,,3.30,3.30,FT,X,unknown
+27-01-2025,Maccabi Haifa,Maccabi Tel Aviv,,Abn,3.30,FT,X,abandoned
 27-01-2025,Jong PSV,Venlo,,1-2,3.75,FT,X,away
 27-01-2025,Cadiz CF,Mirandes,,3-1,2.80,FT,X,home
 27-01-2025,Genoa,Monza,,2-0,1.30,DC,1X,home
@@ -3868,7 +3868,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 21-12-2024,Boavista,AVS,,0-0,1.30,DC,1X,draw
 21-12-2024,AZ Alkmaar,Twente,,1-0,2.20,FT,1,home
 21-12-2024,Beerschot VA,Kortrijk,,2-2,1.30,DC,12,draw
-21-12-2024,Heracles,Groningen,,2.20,2.20,FT,1,unknown
+21-12-2024,Heracles,Groningen,,Abn,2.20,FT,1,abandoned
 21-12-2024,Velez Sarsfield,Estudiantes L.P.,,0-3,1.30,DC,1X,away
 20-12-2024,Mladost,Novi Pazar,,1-3,1.35,DC,1X,away
 20-12-2024,Sepsi Sf. Gheorghe,U. Cluj,,0-0,1.35,DC,X2,draw
