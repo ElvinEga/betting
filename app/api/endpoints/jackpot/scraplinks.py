@@ -45,6 +45,14 @@ def normalize_score(value):
     return value or "Abn"
 
 
+def split_teams(text):
+    # Site typos: missing spaces ("Masjedvs Zob", "K.S.vs"), nbsp separators,
+    # capital "Vs". Returns [home, away] or None.
+    text = text.replace('\u00A0', ' ').strip()
+    parts = re.split(r"(?i)\s*vs\.?\s*", text, maxsplit=1)
+    return [p.strip() for p in parts] if len(parts) == 2 else None
+
+
 def scrape_table_from_link(link):
     try:
         response = requests.get(link, headers=HEADERS)
@@ -79,8 +87,8 @@ def scrape_table_from_link(link):
                     teams_text = legacy.find('b').get_text(strip=True)
                     team_cell = legacy
 
-                team_names = teams_text.split(' vs ')
-                if len(team_names) != 2:
+                team_names = split_teams(teams_text)
+                if team_names is None:
                     continue
 
                 tds = row.find_all('td')
