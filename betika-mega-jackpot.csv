@@ -1,0 +1,188 @@
+date,home_team,away_team,league,score,odds,bet_type,pick,result
+19-02-2023,Sandhausen,Karlsruher,,0-3,1.35,DC,X2,away
+19-02-2023,Cercle Brugge,Club Brugge,,2-2,2.10,FT,2,draw
+19-02-2023,Odense,Randers,,0-0,1.35,DC,1X,draw
+19-02-2023,Elche,Espanyol,,0-1,2.60,FT,2,away
+19-02-2023,Huesca,Granada,,1-1,2.80,FT,X,draw
+19-02-2023,Lorient,Ajaccio,,3-0,2.05,FT,1,home
+19-02-2023,Troyes,Montpellier,,0-1,3.30,FT,X,away
+19-02-2023,Vallecano,Sevilla,,1-1,3.10,FT,X,draw
+19-02-2023,Andorra,Gijon,,1-0,1.25,DC,1X,home
+19-02-2023,Atl. Madrid,Ath Bilbao,,1-0,2.05,FT,1,home
+19-02-2023,Burgos,Albacete,,1-1,2.75,FT,X,draw
+19-02-2023,St. Truiden,Westerlo,,0-1,2.65,FT,1,away
+19-02-2023,PAOK,AEK Athens,,2-0,2.95,FT,X,home
+19-02-2023,Excelsior,NEC Nijmegen,,0-3,3.10,FT,1,away
+19-02-2023,Villarreal B,Racing Santander,,2-1,3.00,FT,X,home
+19-02-2023,Casa Pia,Vitoria Guimaraes,,0-0,3.15,FT,X,draw
+19-02-2023,Getafe,Valencia,,1-0,2.90,FT,X,home
+12-02-2023,Getafe,Vallecano,,1-1,2.80,FT,X,draw
+12-02-2023,Leeds,Manchester Utd,,0-2,1.90,FT,2,away
+12-02-2023,Bologna,Monza,,0-1,1.30,DC,1X,away
+12-02-2023,Montpellier,Brest,,3-0,2.35,FT,1,home
+12-02-2023,Angers,Auxerre,,1-1,2.25,FT,1,draw
+12-02-2023,Hertha Berlin,B. Monchengladbach,,4-1,2.40,FT,2,home
+12-02-2023,Anderlecht,St. Truiden,,3-1,1.95,FT,1,home
+12-02-2023,Celta Vigo,Atletico Madrid,,0-1,2.20,FT,2,away
+12-02-2023,Nantes,Lorient,,1-0,1.25,DC,1X,home
+12-02-2023,Koln,Eintracht Frankfurt,,3-0,2.50,FT,2,home
+12-02-2023,Juventus,Fiorentina,,1-0,1.85,FT,1,home
+12-02-2023,Valladolid,Osasuna,,0-0,2.75,FT,1,draw
+12-02-2023,Aris Thessaloniki,Panathinaikos,,1-2,1.35,DC,X2,away
+12-02-2023,Sporting,Porto,,1-2,2.70,FT,1,away
+12-02-2023,Zulte Waregem,Oostende,,1-1,2.00,FT,1,draw
+12-02-2023,Lyon,Lens,,2-1,3.45,FT,X,home
+12-02-2023,Villarreal,Barcelona,,0-1,1.80,FT,2,away
+05-02-2023,Antwerp,Club Brugge,,0-0,2.50,FT,1,draw
+05-02-2023,Hatayspor,Kasimpasa,,1-0,2.35,FT,1,home
+05-02-2023,Nottingham,Leeds,,1-0,2.60,FT,1,home
+05-02-2023,Torino,Udinese,,1-0,3.15,FT,X,home
+05-02-2023,Auxerre,Reims,,0-0,2.10,FT,2,draw
+05-02-2023,Strasbourg,Montpellier,,2-0,2.05,FT,1,home
+05-02-2023,Ajaccio,Nantes,,0-2,1.45,DC,X2,away
+05-02-2023,Lorient,Angers,,0-0,1.90,FT,1,draw
+05-02-2023,Stuttgart,Bremen,,0-2,2.05,FT,1,away
+05-02-2023,KV Mechelen,Charleroi,,2-2,3.00,FT,2,draw
+05-02-2023,Girona,Valencia,,1-0,2.20,FT,1,home
+05-02-2023,Brest,Lens,,1-1,1.80,FT,2,draw
+05-02-2023,Gent,Genk,,2-3,2.30,FT,1,away
+05-02-2023,Unam Pumas,Atlas,,2-2,1.35,DC,1X,draw
+05-02-2023,PAOK,Olympiacos,,0-0,3.00,FT,X,draw
+05-02-2023,Inter,Milan,,1-0,2.00,FT,1,home
+05-02-2023,Lugo,Ibiza Eivissa,,0-0,1.35,DC,1X,draw
+29-01-2023,Nice,Lille,,1-0,2.45,FT,2,home
+29-01-2023,Anderlecht,Antwerp,,0-0,2.65,FT,1,draw
+29-01-2023,Valladolid,Valencia,,1-0,1.35,DC,X2,home
+29-01-2023,Brighton,Liverpool,,2-1,2.40,FT,2,home
+29-01-2023,Strasbourg,Toulouse,,1-2,3.40,FT,X,away
+29-01-2023,Clermont,Nantes,,0-0,1.55,DC,X2,draw
+29-01-2023,Brest,Angers,,4-0,2.10,FT,1,home
+29-01-2023,Auxerre,Montpellier,,0-2,3.40,FT,X,away
+29-01-2023,Schalke 04,Koln,,0-0,1.95,FT,2,draw
+29-01-2023,Cercle Brugge,Gent,,3-2,2.20,FT,2,home
+29-01-2023,Osasuna,Atl. Madrid,,0-1,3.20,FT,X,away
+29-01-2023,Ajaccio,Lyon,,0-2,1.80,FT,2,away
+29-01-2023,Leverkusen,Dortmund,,0-2,2.65,FT,2,away
+29-01-2023,Lazio,Fiorentina,,1-1,2.10,FT,1,draw
+29-01-2023,Celta Vigo,Ath Bilbao,,1-0,3.00,FT,X,home
+29-01-2023,Boavista,Portimonense,,4-2,2.15,FT,1,home
+29-01-2023,Platense,Newells Old Boys,,2-2,1.35,DC,1X,draw
+22-01-2023,Heerenveen,Groningen,,3-1,1.70,FT,1,home
+22-01-2023,Sampdoria,Udinese,,0-1,2.10,FT,2,away
+22-01-2023,Sunderland,Middlesbrough,,2-0,2.40,FT,2,home
+22-01-2023,Kayserispor,Besiktas,,0-2,2.05,FT,2,away
+22-01-2023,Sion,Lugano,,2-3,1.30,DC,12,away
+22-01-2023,Feyenoord,Ajax,,1-1,3.50,FT,X,draw
+22-01-2023,Leeds,Brentford,,0-0,1.30,DC,12,draw
+22-01-2023,Monza,Sassuolo,,1-1,2.25,FT,1,draw
+22-01-2023,Elche,Osasuna,,1-1,2.15,FT,2,draw
+22-01-2023,St. Gallen,Basel,,1-1,2.25,FT,1,draw
+22-01-2023,Maritimo,Estoril,,1-0,2.35,FT,1,home
+22-01-2023,Borussia (Mg),Leverkusen,,2-3,2.40,FT,2,away
+22-01-2023,Arsenal,Manchester Utd,,3-2,1.85,FT,1,home
+22-01-2023,Panathinaikos,PAOK,,0-3,1.25,DC,1X,away
+22-01-2023,Juventus,Atalanta,,3-3,2.10,FT,1,draw
+22-01-2023,Bilbao,Real Madrid,,2-3,2.40,FT,2,away
+22-01-2023,Brest,Lens,,1-3,1.85,FT,2,away
+15-01-2023,Sassuolo,Lazio,,0-2,2.20,FT,2,away
+15-01-2023,Club Brugge,Anderlecht,,1-1,1.95,FT,1,draw
+15-01-2023,Getafe,Espanyol,,1-2,2.50,FT,1,away
+15-01-2023,G.A. Eagles,Utrecht,,2-2,2.35,FT,2,draw
+15-01-2023,Udinese,Bologna,,1-2,1.95,FT,1,away
+15-01-2023,Angers,Clermont,,1-2,2.80,FT,2,away
+15-01-2023,Montpellier,Nantes,,0-3,2.70,FT,2,away
+15-01-2023,Toulouse,Brest,,1-1,2.00,FT,1,draw
+15-01-2023,Reims,Nice,,0-0,1.40,DC,1X,draw
+15-01-2023,Emmen,Cambuur,,0-0,2.10,FT,1,draw
+15-01-2023,Tottenham,Arsenal,,0-2,2.15,FT,2,away
+15-01-2023,Union Gilloise,Antwerp,,2-0,1.95,FT,1,home
+15-01-2023,Madagascar,Ghana,,2-1,1.85,FT,2,home
+15-01-2023,Bragantino,Corinthians,,1-0,1.40,DC,X2,home
+15-01-2023,Roma,Fiorentina,,2-0,2.00,FT,1,home
+15-01-2023,Rennes,PSG,,1-0,1.55,FT,2,home
+15-01-2023,Charleroi,Cercle Brugge,,2-1,1.30,DC,12,home
+07-01-2023,Necaxa,San Luis,,2-3,2.20,FT,1,away
+07-01-2023,Salernitana,Torino,,1-1,2.20,FT,2,draw
+07-01-2023,Bristol City,Swansea,,1-1,2.40,FT,2,draw
+07-01-2023,Genk,Club Brugge,,3-1,2.10,FT,1,home
+07-01-2023,Almeria,Real Sociedad,,0-2,1.95,FT,2,away
+07-01-2023,Motherwell,Hibernian,,2-3,3.15,FT,X,away
+07-01-2023,Spezia,Lecce,,0-0,3.05,FT,X,draw
+07-01-2023,Giresunspor,Umraniyespor,,0-1,2.10,FT,1,away
+07-01-2023,Zulte Waregem,KV Mechelen,,2-0,2.20,FT,2,home
+07-01-2023,Vallecano,Betis,,1-2,1.35,DC,1X,away
+07-01-2023,Pacos Ferreira,Chaves,,1-1,2.50,FT,2,draw
+07-01-2023,Excelsior,Groningen,,1-0,2.40,FT,2,home
+07-01-2023,Fenerbahce,Galatasaray,,0-3,2.35,FT,1,away
+07-01-2023,Anderlecht,Union Gilloise,,1-3,1.30,DC,12,away
+07-01-2023,Atl. Madrid,Barcelona,,0-1,2.20,FT,2,away
+07-01-2023,Boavista,Gil Vicente,,1-0,3.20,FT,X,home
+07-01-2023,Alanyaspor,Trabzonspor,,5-0,1.30,DC,12,home
+01-01-2023,Angers,Lorient,,1-2,2.45,FT,2,away
+01-01-2023,Nantes,Auxerre,,1-0,1.95,FT,1,home
+01-01-2023,Toulouse,AC Ajaccio,,2-0,2.00,FT,1,home
+01-01-2023,Blackpool,Sunderland,,1-1,2.50,FT,2,draw
+01-01-2023,Huddersfield,Luton,,1-2,1.30,DC,12,away
+01-01-2023,Coventry,Bristol City,,1-1,2.00,FT,1,draw
+01-01-2023,Lens,PSG,,3-1,2.15,FT,2,home
+01-01-2023,Glasgow Rangers,Celtic,,2-2,2.25,FT,2,draw
+01-01-2023,Swansea,Burnley,,1-2,2.20,FT,2,away
+01-01-2023,Birmingham,Middlesbrough,,1-3,2.45,FT,2,away
+01-01-2023,Norwich,Watford,,0-1,2.00,FT,1,away
+01-01-2023,Stoke,Preston,,0-1,2.25,FT,1,away
+01-01-2023,Wigan,Hull,,1-4,1.55,DC,X2,away
+01-01-2023,Hearts,Hibernian,,3-0,1.25,DC,12,home
+01-01-2023,Kilmarnock,St. Mirren,,0-0,2.70,FT,1,draw
+01-01-2023,St Johnstone,Dundee Utd,,0-1,2.20,FT,1,away
+01-01-2023,QPR,Sheffield Utd,,1-1,2.25,FT,2,draw
+26-12-2022,Brentford,Tottenham,,2-2,1.25,DC,X2,draw
+26-12-2022,Sunderland,Blackburn,,2-1,1.35,DC,1X,home
+26-12-2022,Crystal Palace,Fulham,,0-3,2.05,FT,1,away
+26-12-2022,Leicester,Newcastle,,0-3,3.20,FT,2,away
+26-12-2022,Everton,Wolves,,1-2,1.35,DC,1X,away
+26-12-2022,Southampton,Brighton,,1-3,2.10,FT,2,away
+26-12-2022,Hull,Blackpool,,1-1,2.10,FT,1,draw
+26-12-2022,Bristol City,West Brom,,0-2,2.30,FT,2,away
+26-12-2022,Rotherham,Stoke,,2-2,2.25,FT,2,draw
+26-12-2022,Annecy,St Etienne,,2-1,2.25,FT,2,home
+26-12-2022,Cardiff,QPR,,0-0,2.95,FT,2,draw
+26-12-2022,Charleroi,Anderlecht,,0-1,2.25,FT,2,away
+26-12-2022,Luton,Norwich,,2-1,3.25,FT,X,home
+26-12-2022,Valenciennes,Amiens,,1-1,3.00,FT,X,draw
+26-12-2022,Pau FC,Paris FC,,0-1,3.00,FT,X,away
+26-12-2022,Nimes,Guingamp,,1-2,2.90,FT,1,away
+26-12-2022,Quevilly Rouen,Grenoble,,2-0,2.90,FT,X,home
+11-12-2022,U. Cluj,UTA Arad,,0-0,2.40,FT,1,draw
+11-12-2022,QPR,Burnley,,0-3,1.35,DC,X2,away
+11-12-2022,Genclerbirligi,E. Buyuksehir,,1-2,2.35,FT,2,away
+11-12-2022,Gillingham,Bradford City,,Postp,2.20,FT,2,postponed
+11-12-2022,Roda,Heracles,,1-3,2.50,FT,2,away
+11-12-2022,De Graafschap,Eindhoven FC,,1-2,2.10,FT,1,away
+11-12-2022,Telstar,Den Bosch,,1-0,1.95,FT,1,home
+11-12-2022,Venlo,Maastricht,,2-1,1.95,FT,1,home
+11-12-2022,Newtown,Haverfordwest,,2-0,2.05,FT,1,home
+11-12-2022,Altinordu,Bodrum,,0-2,2.05,FT,2,away
+11-12-2022,AEL Limassol,Aris Limassol,,0-0,2.10,FT,2,draw
+11-12-2022,Szeged,MTK Budapest,,1-3,1.30,DC,X2,away
+11-12-2022,C. Targoviste,FCSB,,0-2,2.10,FT,2,away
+11-12-2022,FC U Craiova 1948,Arges,,1-0,2.10,FT,1,home
+11-12-2022,Jong Az Alkmaar,Jong PSV,,2-3,2.65,FT,2,away
+11-12-2022,Sunderland,West Brom,,1-2,1.35,DC,X2,away
+11-12-2022,Boavista,V. Guimaraes,,0-0,2.55,FT,2,draw
+04-12-2022,Wycombe,Portsmouth,,2-0,3.30,FT,X,home
+04-12-2022,Adanaspor,Goztepespor,,2-2,2.60,FT,1,draw
+04-12-2022,FC Andorra,Cartagena,,0-1,2.15,FT,1,away
+04-12-2022,Ascoli,Como,,3-3,3.25,FT,X,draw
+04-12-2022,Brescia,Sp. Reggina 1914,,0-2,2.50,FT,1,away
+04-12-2022,Bari 1908,Pisa,,0-0,3.15,FT,X,draw
+04-12-2022,Cosenza,Perugia,,0-0,2.90,FT,1,draw
+04-12-2022,Sudtirol,Frosinone,,1-1,2.25,FT,2,draw
+04-12-2022,Anorthosis,Aris Limassol,,0-2,1.35,DC,X2,away
+04-12-2022,Racing Santander,Lugo,,0-1,1.70,FT,1,away
+04-12-2022,Altay,Boluspor,,5-1,1.85,FT,2,home
+04-12-2022,Benevento,Palermo,,0-1,1.95,FT,1,away
+04-12-2022,Arges,Rapid B.,,1-1,1.90,FT,2,draw
+04-12-2022,Eibar,Huesca,,2-1,1.80,FT,1,home
+04-12-2022,Rizespor,Pendikspor,,1-1,1.35,DC,1X,draw
+04-12-2022,Ponferradina,Burgos,,1-2,2.95,FT,X,away
+04-12-2022,Mafra,Vizela,,1-1,1.35,DC,X2,draw

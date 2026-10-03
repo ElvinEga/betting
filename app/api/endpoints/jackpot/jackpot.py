@@ -101,8 +101,8 @@ async def fetch_jackpot_details(db: Session = Depends(get_db)):
 async def scrape_links(
     start_page: int = 1,
     end_page: int = 1,
-    source: str = "betika must be won",
-    filename: str = "betika-must-be-won-jackpot.csv",
+    source: str = "betika mega",
+    filename: str = "betika-mega-jackpot.csv",
 ):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
