@@ -26,15 +26,34 @@ jackpot_module = APIRouter()
 
 ARCHIVE_URL = "https://footballplatform.com/archive/"
 
+# The Sportpesa API is behind Akamai Bot Manager: plain requests get 403 and a
+# browser User-Agent alone gets a JS-challenge page instead of JSON. Refresh these
+# values from a logged browser session (DevTools > copy as cURL) when they expire.
+SPORTPESA_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) QoderApp/0.3.4 Chrome/150.0.7871.114 Electron/43.1.1 Safari/537.36",
+    "Accept": "application/json",
+}
+SPORTPESA_COOKIES = {
+    "bm_so": "3AC865D4857DC06A379E2CB623DD214EE7BEEDEF18E7691322F10B31FE30C213~YAAQZqERAj19GfSgAQAA1lFIAQkbi/ojlLO+rs/2Jp21V/WnqJYEc6If61WMsUzkh7IQPVcwqXc8Nr1oIzoeyWUkr0kWg8eiRmEeWmG4M/r3ZcRgN7Fk8piReHqe9ThtjU/uEJCvk56RmRPxU7aYBS+G0MJhFVWqdmkpiMlC3+4XqCRF8J4u88zV6bhKdYbIi4yNj0OzOqQCRoqikOaqEntL11n9Hs4/zjSaCqt8n2FYOxk1cXapRqYzX+IIkVAQkzYcg3EaDqpeqUKwAc6cuGrBB4yp7wXb7r92pS8ED1OixCH8woZgUdItbTSqS0Hw5e3nyJgmME9s8BE7g2+uhNE9V0ho4UiSYYT4xgAEpUYPC4bO2+fIrmppwEUcGm6uFO4XZKX9eLnxduhwQJFfr3QDsxn0FM/17eP19oShn9ntuPbq4fHbw9yPOTflLWeaRMYwNf0EVlprisrEzEtF/6zo4Pd5bzCAtOxDkd3IJc0QDwoYhypi~2",
+    "bm_sv": "1D9DA4DEFF9FABC3427C312CD0ACEECB~YAAQZqERAj59GfSgAQAA1lFIAQGEbKyHE+vPcw2b/g9gRpSJy+s0AdZqyeVw4KKTRaGp6t55JFhhM1815iz0730uKgVkFmIxJYy0BhEe4eFBP30wwEzpP1V0st4CNGm8RttSrqJAEqrO6+md3CACJajft/6bvO4vYWrU5K1Jyo0/+Qah3lun9pywVNoEVMTH3UPfvngiGhay73eDEXJS715gEotArWDPcQ59Vsmn40SuiEriJveuZU2T1HOGJCpt8ej9V/UrxSpAf3H5PYv14A==~1",
+}
+
 
 @jackpot_module.get("/fetch-jackpot-details", response_model=List[JackpotDetails])
 async def fetch_jackpot_details(db: Session = Depends(get_db)):
-    initial_jackpot_id = "528371ab-d123-4978-a136-383eb6c99da0"
+    # jackpotHumanId 1 (oldest finished jackpot); the chain is crawled forward via nextJackpot.
+    initial_jackpot_id = "6ab8a2c7-f7a3-419d-8303-d7898ebbe6a5"
     all_jackpot_details = []
 
     def fetch_and_process_jackpot(jackpot_id):
-        url = "https://jackpot-betslip.ke.sportpesa.com/api/jackpots/history/{jackpot_id}/details"
-        response = requests.get(url)
+        url = f"https://jackpot-betslip.ke.sportpesa.com/api/jackpots/history/{jackpot_id}/details"
+        response = requests.get(url, headers=SPORTPESA_HEADERS, cookies=SPORTPESA_COOKIES, timeout=30)
+        if "json" not in response.headers.get("content-type", ""):
+            raise HTTPException(
+                status_code=503,
+                detail="Sportpesa returned an anti-bot challenge page; refresh SPORTPESA_COOKIES/HEADERS in jackpot.py",
+            )
+        response.raise_for_status()
         data = response.json()
         print(jackpot_id)
 
