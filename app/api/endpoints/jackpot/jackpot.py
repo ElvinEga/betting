@@ -100,9 +100,9 @@ async def fetch_jackpot_details(db: Session = Depends(get_db)):
 @jackpot_module.get("/scrape-links/")
 async def scrape_links(
     start_page: int = 1,
-    end_page: int = 4,
-    source: str = "betika midweek",
-    filename: str = "betika-midweek-jackpos.csv",
+    end_page: int = 1,
+    source: str = "betika must be won",
+    filename: str = "betika-must-be-won-jackpot.csv",
 ):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
