@@ -102,7 +102,7 @@ def parse_match_data(match):
 
 def save_matches_to_csv(matches, filename):
     # Specify the CSV file headers
-    headers = ["date", "home_team", "away_team", "score", "result"]
+    headers = ["date", "home_team", "away_team", "league", "score", "odds", "bet_type", "pick", "result"]
 
     # Write the data to a CSV file
     with open(filename, mode='w', newline='', encoding='utf-8') as file:
