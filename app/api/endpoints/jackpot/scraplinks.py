@@ -12,9 +12,19 @@ HEADERS = {
 LEFT_CELL_PATTERN = re.compile(r'text-align:\s*left\s*!important')
 
 
+POSTPONED_VALUES = ("postp", "postponed", "ppd")
+ABANDONED_VALUES = ("abn", "abandoned")
+
+
+def is_score_like(value):
+    return bool(re.match(r"^\d+\s*-\s*\d+$", value)) or value.lower() in POSTPONED_VALUES + ABANDONED_VALUES
+
+
 def classify_result(score):
-    if score.lower() in ("postp", "postponed", "ppd"):
+    if score.lower() in POSTPONED_VALUES:
         return "postponed"
+    elif score.lower() in ABANDONED_VALUES:
+        return "abandoned"
     elif re.match(r"^\d+\s*-\s*\d+$", score):
         home_score, away_score = map(int, re.split(r"\s*-\s*", score))
         if home_score > away_score:
@@ -68,8 +78,11 @@ def scrape_table_from_link(link):
 
                 score_cell = row.find('td', class_='score-cell')
                 score = score_cell.get_text(' ', strip=True) if score_cell else cell_text(2)
-                if not re.match(r"^\d+\s*-\s*\d+$", score) and score.lower() not in ("postp", "postponed", "ppd"):
-                    score = cell_text(3) or score
+                if not is_score_like(score):
+                    # Legacy pages keep the score in the next cell; never fall back to odds.
+                    score = cell_text(3) if is_score_like(cell_text(3)) else score
+                # Matches with no published score are abandoned.
+                score = score or "Abn"
 
                 matches.append({
                     "date": date,
