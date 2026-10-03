@@ -33,7 +33,7 @@ async def fetch_jackpot_details(db: Session = Depends(get_db)):
     all_jackpot_details = []
 
     def fetch_and_process_jackpot(jackpot_id):
-        url = f"https://jackpot-betslip.ke.sportpesa.com/api/jackpots/history/{jackpot_id}/details"
+        url = "https://jackpot-betslip.ke.sportpesa.com/api/jackpots/history/{jackpot_id}/details"
         response = requests.get(url)
         data = response.json()
         print(jackpot_id)

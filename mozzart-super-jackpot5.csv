@@ -238,6 +238,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 03-01-2022,Tondela,Moreirense,,2-1,2.50,FT,1,home
 03-01-2022,Guangzhou City,Hebei CFFC,,2-1,1.90,FT,1,home
 03-01-2022,Shenzhen,Guoan Beijing,,0-1,2.00,FT,1,away
+03-01-2022,Hapoel K.S.,Hapoel R.G.,,0-1,3.00,FT,X,away
 02-01-2022,Morecambe,Doncaster,,4-3,2.00,FT,1,home
 02-01-2022,Shrewsbury,Sheffield Wed,,1-0,1.30,DC,12,home
 02-01-2022,Arbroath,Inverness,,0-0,1.45,DC,X2,draw
@@ -1037,6 +1038,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 14-11-2021,Vitoria,Cruzeiro,,3-0,2.85,FT,X,home
 14-11-2021,Dep.Lara,Caracas,,0-0,2.40,FT,2,draw
 14-11-2021,Atletico Huila,Deportivo Pereira,,0-2,1.90,FT,2,away
+14-11-2021,River M.,Penarol,,1-1,2.00,FT,2,draw
 13-11-2021,Accrington,Plymouth,,1-4,1.35,DC,X2,away
 13-11-2021,Burton,Charlton,,0-1,2.60,FT,1,away
 13-11-2021,Ipswich,Oxford Utd,,0-0,2.25,FT,1,draw
@@ -2620,6 +2622,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 07-08-2021,Gillingham,Lincoln,,1-1,2.35,FT,2,draw
 07-08-2021,Shrewsbury,Burton,,0-1,1.30,DC,12,away
 07-08-2021,Charlton,Sheffield Wed,,0-0,1.30,DC,12,draw
+07-08-2021,Manchester City,Leicester,,0-1,1.90,FT,1,away
 06-08-2021,Leczna Bogdanka,Warta Poznan,,0-4,1.35,DC,X2,away
 06-08-2021,Silkeborg,Viborg,,4-1,3.30,FT,X,home
 06-08-2021,Boulogne,Chambly,,1-1,1.35,DC,1X,draw
@@ -3003,6 +3006,7 @@ date,home_team,away_team,league,score,odds,bet_type,pick,result
 13-07-2021,Sh.Soligorsk,Ludogorets,,0-1,1.85,FT,2,away
 13-07-2021,MC Alger,USM Alger,,2-2,1.30,DC,12,draw
 13-07-2021,Oran,Setif,,4-0,1.25,DC,X2,home
+13-07-2021,Naft Masjed,Zob Ahan,,2-3,2.55,FT,X,away
 12-07-2021,HIFK,Lahti,,0-1,1.45,DC,X2,away
 12-07-2021,KTP,Mariehamn,,1-3,2.20,FT,2,away
 12-07-2021,Bryne,Sogndal,,0-1,1.25,DC,12,away
