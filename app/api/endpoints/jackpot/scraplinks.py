@@ -37,6 +37,14 @@ def classify_result(score):
         return "unknown"
 
 
+def normalize_score(value):
+    # Site uses en-dashes ("2–1"), trailing dots ("Postp."), and occasional
+    # decimal typos ("2.2" meaning 2-2).
+    value = value.strip().rstrip('.').replace('\u2013', '-').replace('\u2014', '-')
+    value = re.sub(r"^(\d+)\.(\d+)$", r"\1-\2", value)
+    return value or "Abn"
+
+
 def scrape_table_from_link(link):
     try:
         response = requests.get(link, headers=HEADERS)
@@ -45,9 +53,12 @@ def scrape_table_from_link(link):
         soup = BeautifulSoup(response.content, 'html.parser')
         date = extract_date(link)
         matches = []
+        seen_rows = set()
         for row in soup.find_all('tr'):
             try:
-                # New template: classed cells. Legacy template: style-based team cell with <b>.
+                # Templates differ: new pages use classed cells; older pages use a
+                # style-based team cell with <b>, sometimes with extra leading cells.
+                # score/odds/bet/pick are always the 4 cells after the team cell.
                 team_cell = row.find('td', class_='ha-cell')
                 league = ""
                 if team_cell:
@@ -66,35 +77,40 @@ def scrape_table_from_link(link):
                     if legacy is None or legacy.find('b') is None:
                         continue
                     teams_text = legacy.find('b').get_text(strip=True)
+                    team_cell = legacy
 
                 team_names = teams_text.split(' vs ')
                 if len(team_names) != 2:
                     continue
 
                 tds = row.find_all('td')
+                rest = tds[tds.index(team_cell) + 1:]
 
                 def cell_text(index):
-                    return tds[index].get_text(' ', strip=True) if len(tds) > index else ""
+                    return rest[index].get_text(' ', strip=True) if len(rest) > index else ""
 
-                score_cell = row.find('td', class_='score-cell')
-                score = score_cell.get_text(' ', strip=True) if score_cell else cell_text(2)
+                score = normalize_score(cell_text(0))
                 if not is_score_like(score):
-                    # Legacy pages keep the score in the next cell; never fall back to odds.
-                    score = cell_text(3) if is_score_like(cell_text(3)) else score
-                # Matches with no published score are abandoned.
-                score = score or "Abn"
+                    alt = normalize_score(cell_text(1))
+                    score = alt if is_score_like(alt) else score
 
-                matches.append({
+                match = {
                     "date": date,
                     "home_team": clean_team_name(team_names[0]),
                     "away_team": clean_team_name(team_names[1]),
                     "league": league,
                     "score": score,
-                    "odds": cell_text(3),
-                    "bet_type": cell_text(4),
-                    "pick": cell_text(5),
+                    "odds": cell_text(1),
+                    "bet_type": cell_text(2),
+                    "pick": cell_text(3),
                     "result": classify_result(score),
-                })
+                }
+                # Some 2023 pages repeat the same block twice; skip exact duplicates.
+                key = tuple(match.values())
+                if key in seen_rows:
+                    continue
+                seen_rows.add(key)
+                matches.append(match)
             except Exception as e:
                 print(f"Error processing row: {e}")
         return matches
@@ -130,6 +146,8 @@ def extract_date(url):
 
 
 def clean_team_name(team_name):
+    # Drop the row-number prefix ("3 – Guanacasteca" -> "Guanacasteca")
+    team_name = re.sub(r"^\d+\s*[–-]\s*", "", team_name)
     # Remove numbers and any non-breaking spaces
     cleaned_name = re.sub(r"^\d+\s+|(\u00A0|\s)+", " ", team_name)
     # Strip leading and trailing spaces
