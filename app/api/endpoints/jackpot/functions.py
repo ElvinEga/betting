@@ -77,8 +77,10 @@ def parse_match_data(match):
     score = match['score']
 
     # Calculate result
-    if score == "Postp":
+    if score.lower() in ("postp", "postponed", "ppd"):
         result = "postponed"
+    elif score.lower() in ("abn", "abandoned"):
+        result = "abandoned"
     elif "-" in score:
         home_score, away_score = map(int, score.split("-"))
         if home_score > away_score:
