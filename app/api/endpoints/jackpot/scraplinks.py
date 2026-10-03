@@ -5,73 +5,85 @@ from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
+
+LEFT_CELL_PATTERN = re.compile(r'text-align:\s*left\s*!important')
+
+
+def classify_result(score):
+    if score.lower() in ("postp", "postponed", "ppd"):
+        return "postponed"
+    elif re.match(r"^\d+\s*-\s*\d+$", score):
+        home_score, away_score = map(int, re.split(r"\s*-\s*", score))
+        if home_score > away_score:
+            return "home"
+        elif away_score > home_score:
+            return "away"
+        else:
+            return "draw"
+    else:
+        return "unknown"
+
 
 def scrape_table_from_link(link):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    }
     try:
-        # Send a GET request to the link
-        response = requests.get(link, headers=headers)
+        response = requests.get(link, headers=HEADERS)
         response.raise_for_status()
 
-        # Parse the HTML content
         soup = BeautifulSoup(response.content, 'html.parser')
-
-        # Extract all rows with match data
-        # rows = soup.find_all('tr', role="row")
-        tbody = soup.find('tbody')
-        matches = []
         date = extract_date(link)
-        print(date)
-        style_pattern = re.compile(r'text-align:\s*left\s*!important')
-        # Loop through each row and extract relevant data
-        for row in tbody.find_all('tr'):
+        matches = []
+        for row in soup.find_all('tr'):
             try:
-                if "group" in row.get("class", []) or not row.find_all("td"):
+                # New template: classed cells. Legacy template: style-based team cell with <b>.
+                team_cell = row.find('td', class_='ha-cell')
+                league = ""
+                if team_cell:
+                    main = team_cell.find('span', class_='ha-main')
+                    if main is None:
+                        continue
+                    teams_text = main.get_text(strip=True)
+                    sub = team_cell.find('span', class_='ha-sub')
+                    if sub:
+                        flag = sub.find('span', class_='flag-emoji')
+                        if flag:
+                            flag.extract()
+                        league = sub.get_text(' ', strip=True)
+                else:
+                    legacy = row.find('td', style=LEFT_CELL_PATTERN)
+                    if legacy is None or legacy.find('b') is None:
+                        continue
+                    teams_text = legacy.find('b').get_text(strip=True)
+
+                team_names = teams_text.split(' vs ')
+                if len(team_names) != 2:
                     continue
 
-                # team_cell = row.find('td', style='text-align:left!important')
-                team_cell = row.find('td', style=style_pattern)
-                score_info = row.find_all('td')[2].text.strip()  # The score is in the second <td> after the team names
-                # score_cell = row.find_all('td')[3]  # Betika
-                fallback_info = row.find_all('td')[3].text.strip()
+                tds = row.find_all('td')
 
-                # print(score_cell)
-                # Extract the team names and score
-                team_names = team_cell.find('b').get_text(strip=True).split(' vs ')
-                # score = score_cell.get_text(strip=True)
+                def cell_text(index):
+                    return tds[index].get_text(' ', strip=True) if len(tds) > index else ""
 
-                if re.match(r"^\d+-\d+$", score_info):  # Check if score is in "1-2" format
-                    score = score_info
-                else:
-                    score = fallback_info
+                score_cell = row.find('td', class_='score-cell')
+                score = score_cell.get_text(' ', strip=True) if score_cell else cell_text(2)
+                if not re.match(r"^\d+\s*-\s*\d+$", score) and score.lower() not in ("postp", "postponed", "ppd"):
+                    score = cell_text(3) or score
 
-                # Determine the result
-                if score.lower() == "postp":
-                    result = "postponed"
-                elif "-" in score:
-                    home_score, away_score = map(int, score.split("-"))
-                    if home_score > away_score:
-                        result = "home"
-                    elif away_score > home_score:
-                        result = "away"
-                    else:
-                        result = "draw"
-                else:
-                    result = "unknown"
-
-                # Append the data to the list
                 matches.append({
                     "date": date,
                     "home_team": clean_team_name(team_names[0]),
                     "away_team": clean_team_name(team_names[1]),
+                    "league": league,
                     "score": score,
-                    "result": result,
+                    "odds": cell_text(3),
+                    "bet_type": cell_text(4),
+                    "pick": cell_text(5),
+                    "result": classify_result(score),
                 })
             except Exception as e:
                 print(f"Error processing row: {e}")
-        # print(matches)
         return matches
     except Exception as e:
         print(f"Error fetching link {link}: {e}")
@@ -85,14 +97,6 @@ def scrape_all_links(links):
         data = scrape_table_from_link(link)
         all_data.extend(data)
     return all_data
-
-
-# Example: List of links
-# all_links = [
-#     "https://example.com/page1",
-#     "https://example.com/page2",
-#     # Add more links here
-# ]
 
 
 def extract_date(url):
