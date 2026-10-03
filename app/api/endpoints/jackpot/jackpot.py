@@ -99,10 +99,10 @@ async def fetch_jackpot_details(db: Session = Depends(get_db)):
 
 @jackpot_module.get("/scrape-links/")
 async def scrape_links(
-    start_page: int = 14,
-    end_page: int = 17,
-    source: str = "mozzart super jackpot",
-    filename: str = "mozzart-super-jackpot5.csv",
+    start_page: int = 1,
+    end_page: int = 3,
+    source: str = "mozzart super grand",
+    filename: str = "mozzart-super-grand-jackpot.csv",
 ):
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
