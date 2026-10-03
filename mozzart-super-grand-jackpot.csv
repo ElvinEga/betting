@@ -1,244 +1,244 @@
 date,home_team,away_team,league,score,odds,bet_type,pick,result
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Celta de Vigo II,Sabadell,Spain – Segunda División,1-1,2.25,FT,2,draw
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',England,Spain,World – UEFA Nations League,2-3,2.45,FT,2,away
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Czechia,Croatia,World – UEFA Nations League,1-2,2.30,FT,2,away
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Atlanta United FC,New York City FC,USA – Major League Soccer,2-2,1.66,DC,X2,draw
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',CF Montreal,FC Cincinnati,USA – Major League Soccer,3-1,1.50,DC,X2,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Charlotte,Chicago Fire,USA – Major League Soccer,0-1,2.15,FT,1,away
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',New York Red Bulls,St. Louis City,USA – Major League Soccer,Postp,2.15,FT,2,postponed
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Seattle Sounders,Minnesota United FC,USA – Major League Soccer,3-1,2.10,FT,1,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',FC Dallas,Los Angeles FC,USA – Major League Soccer,1-0,2.34,FT,1,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Austin,San Diego,USA – Major League Soccer,3-3,2.23,FT,1,draw
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Los Angeles Galaxy,Colorado Rapids,USA – Major League Soccer,3-2,2.20,FT,1,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Valladolid,Cordoba,Spain – Segunda División,3-1,1.63,DC,X2,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Lithuania,Azerbaijan,World – UEFA Nations League,1-1,1.38,DC,1X,draw
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Mallorca,Almeria,Spain – Segunda División,0-1,2.10,FT,1,away
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Gibraltar,Andorra,World – UEFA Nations League,0-0,1.33,DC,X2,draw
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Eibar,Las Palmas,Spain – Segunda División,3-2,2.10,FT,1,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Israel,Rep. Of Ireland,World – UEFA Nations League,0-3,2.35,FT,2,away
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Norway,Portugal,World – UEFA Nations League,1-2,2.24,FT,2,away
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Oviedo,Sporting Gijon,Spain – Segunda División,2-0,1.73,DC,X2,home
-Invalid date format: time data '26-sep-2026' does not match format '%d-%B-%Y',Columbus Crew,Inter Miami,USA – Major League Soccer,2-1,2.25,FT,2,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Paris FC,Strasbourg,France – Ligue 1,2-1,2.05,FT,1,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',AS Roma,Inter,Italy – Serie A,2-2,1.47,DC,X2,draw
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',VfB Stuttgart,Borussia Dortmund,Germany – Bundesliga,0-1,1.44,DC,1X,away
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Sparta Rotterdam,Heerenveen,Netherlands – Eredivisie,0-4,2.45,FT,1,away
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Le Mans,Lorient,France – Ligue 1,2-1,1.46,DC,X2,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Angers,Estac Troyes,France – Ligue 1,2-0,2.25,FT,1,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Lyon,Rennes,France – Ligue 1,4-0,1.35,DC,1X,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Venezia,Lazio,Italy – Serie A,0-2,2.00,FT,2,away
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Willem II,Fortuna Sittard,Netherlands – Eredivisie,0-1,2.40,FT,2,away
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Fiorentina,Napoli,Italy – Serie A,1-1,2.25,FT,2,draw
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Getafe,Malaga,Spain – La Liga,1-0,2.15,FT,1,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Bournemouth,Liverpool,England – Premier League,0-1,2.20,FT,2,away
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Auxerre,Stade Brestois 29,France – Ligue 1,2-1,2.55,FT,2,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Parma,Genoa,Italy – Serie A,2-1,1.53,DC,1X,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Bayer Leverkusen,RB Leipzig,Germany – Bundesliga,2-0,1.33,DC,1X,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Nice,Lille,France – Ligue 1,2-1,2.05,FT,2,home
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Fulham,Manchester United,England – Premier League,1-1,2.05,FT,2,draw
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',FC Schalke 04,SV Elversberg,Germany – Bundesliga,0-0,2.08,FT,1,draw
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Deportivo La Coruna,Real Betis,Spain – La Liga,1-1,2.48,FT,2,draw
-Invalid date format: time data '19-sep-2026' does not match format '%d-%B-%Y',Valencia,Real Sociedad,Spain – La Liga,2-3,2.55,FT,2,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',FSV Mainz 05,Eintracht Frankfurt,Germany – Bundesliga,1-3,2.05,FT,1,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Hoffenheim,VfB Stuttgart,Germany – Bundesliga,2-1,1.60,DC,X2,home
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Bournemouth,Brentford,England – Premier League,2-2,1.52,DC,X2,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Aston Villa,Nottingham Forest,England – Premier League,1-2,1.35,DC,1X,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Crystal Palace,Ipswich,England – Premier League,2-3,1.95,FT,1,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Osasuna,Espanyol,Spain – La Liga,0-2,2.15,FT,1,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Strasbourg,Monaco,France – Ligue 1,1-1,2.20,FT,2,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Lazio,AC Milan,Italy – Serie A,2-2,1.35,DC,X2,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',1. FC Köln,Werder Bremen,Germany – Bundesliga,1-1,2.10,FT,1,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Tottenham,Everton,England – Premier League,0-0,2.05,FT,1,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',GO Ahead Eagles,Groningen,Netherlands – Eredivisie,1-1,2.30,FT,1,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Auxerre,Nice,France – Ligue 1,1-0,1.30,DC,X2,home
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Le Havre,Angers,France – Ligue 1,0-0,2.25,FT,1,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Paris FC,Lyon,France – Ligue 1,0-0,1.28,DC,12,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Lorient,Toulouse,France – Ligue 1,2-2,3.35,FT,X,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Excelsior,Utrecht,Netherlands – Eredivisie,1-2,2.20,FT,1,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Lecce,Monza,Italy – Serie A,3-2,2.60,FT,1,home
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Manchester United,Manchester City,England – Premier League,0-1,2.15,FT,2,away
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Getafe,Deportivo La Coruna,Spain – La Liga,1-1,2.50,FT,1,draw
-Invalid date format: time data '12-sep-2026' does not match format '%d-%B-%Y',Real Sociedad,Atletico Madrid,Spain – La Liga,0-3,2.43,FT,2,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Newcastle,Bournemouth,England – Premier League,2-2,2.20,FT,1,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Hoffenheim,Borussia Dortmund,Germany – Bundesliga,2-3,1.40,DC,X2,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',SC Paderborn 07,SC Freiburg,Germany – Bundesliga,0-1,2.10,FT,2,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Fulham,Crystal Palace,England – Premier League,2-3,1.40,DC,1X,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Nottingham Forest,Tottenham,England – Premier League,0-0,1.45,DC,1X,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Erzurumspor FK,Konyaspor,Turkey – Süper Lig,1-0,3.10,FT,2,home
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Athletic Club,Atletico Madrid,Spain – La Liga,3-0,2.40,FT,2,home
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Estrela,Famalicao,Portugal – Primeira Liga,2-2,3.25,FT,X,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Rayo Vallecano,Racing Santander,Spain – La Liga,3-2,1.35,DC,1X,home
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Ajax,PSV Eindhoven,Netherlands – Eredivisie,1-3,1.25,DC,12,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Le Havre,Stade Brestois 29,France – Ligue 1,1-2,1.40,DC,X2,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Everton,Manchester United,England – Premier League,2-2,2.20,FT,2,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Frosinone,Venezia,Italy – Serie A,3-2,2.75,FT,1,home
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Parma,Monza,Italy – Serie A,1-1,2.50,FT,1,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Estac Troyes,Strasbourg,France – Ligue 1,2-6,3.40,FT,X,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Hamburger SV,FSV Mainz 05,Germany – Bundesliga,0-5,2.40,FT,2,away
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Alaves,Osasuna,Spain – La Liga,5-2,2.30,FT,1,home
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Malaga,Levante,Spain – La Liga,0-0,2.95,FT,2,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Juventus,AC Milan,Italy – Serie A,1-1,2.15,FT,1,draw
-Invalid date format: time data '05-sep-2026' does not match format '%d-%B-%Y',Espanyol,Sevilla,Spain – La Liga,1-1,2.30,FT,1,draw
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',1. FC Köln,Hoffenheim,Germany – Bundesliga,3-2,1.60,DC,1X,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Union Berlin,Eintracht Frankfurt,Germany – Bundesliga,3-3,3.35,FT,X,draw
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Bournemouth,Everton,England – Premier League,1-1,2.15,FT,1,draw
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Levante,Real Betis,Spain – La Liga,5-2,2.35,FT,2,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Strasbourg,Lens,France – Ligue 1,2-1,2.15,FT,2,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Monza,Udinese,Italy – Serie A,2-3,2.35,FT,2,away
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Sassuolo,Torino,Italy – Serie A,2-1,1.35,DC,1X,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Tottenham,Newcastle,England – Premier League,0-2,1.62,DC,X2,away
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Stade Brestois 29,Toulouse,France – Ligue 1,2-2,1.48,DC,1X,draw
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Sevilla,Atletico Madrid,Spain – La Liga,1-3,2.10,FT,2,away
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Paris FC,Nice,France – Ligue 1,3-0,2.10,FT,1,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Leeds,Brentford,England – Premier League,1-1,1.50,DC,X2,draw
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Sunderland,Fulham,England – Premier League,1-0,2.43,FT,1,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Antwerp,St. Truiden,Belgium – Jupiler Pro League,1-4,2.50,FT,1,away
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',FC Augsburg,FC Schalke 04,Germany – Bundesliga,3-0,3.45,FT,X,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',FC Nordsjaelland,Brondby,Denmark – Superliga,3-1,2.17,FT,1,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Napoli,Como,Italy – Serie A,1-2,1.52,DC,X2,away
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Deportivo La Coruna,Valencia,Spain – La Liga,3-1,3.15,FT,X,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Monaco,Marseille,France – Ligue 1,2-0,2.75,FT,2,home
-Invalid date format: time data '29-aug-2026' does not match format '%d-%B-%Y',Celta Vigo,Athletic Club,Spain – La Liga,0-2,2.47,FT,1,away
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Everton,Crystal Palace,England – Premier League,2-0,1.35,DC,1X,home
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Ipswich,Sunderland,England – Premier League,2-1,3.20,FT,X,home
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Nottingham Forest,Leeds,England – Premier League,0-1,1.40,DC,1X,away
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Blackburn,Middlesbrough,England – Championship,2-1,2.15,FT,2,home
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Derby,Cardiff,England – Championship,2-2,1.30,DC,12,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Swansea,Sheffield Utd,England – Championship,0-0,2.40,FT,1,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Wrexham,Watford,England – Championship,1-1,1.95,FT,1,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Brentford,Tottenham,England – Premier League,3-0,2.80,FT,2,home
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Valencia,Celta Vigo,Spain – La Liga,0-0,1.38,DC,1X,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Parma,Cagliari,Italy – Serie A,0-1,3.10,FT,X,away
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Le Mans,Stade Brestois 29,France – Ligue 1,2-2,2.50,FT,1,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Nice,Lorient,France – Ligue 1,0-0,2.15,FT,1,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Toulouse,Lyon,France – Ligue 1,0-2,1.57,DC,1X,away
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Estac Troyes,Paris FC,France – Ligue 1,0-0,2.30,FT,2,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',West Brom,Burnley,England – Championship,3-1,3.25,FT,X,home
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',IFK Goteborg,IF Elfsborg,Sweden – Allsvenskan,1-1,2.75,FT,2,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Brighton,Aston Villa,England – Premier League,4-0,3.45,FT,X,home
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Newcastle,Liverpool,England – Premier League,2-2,1.95,FT,2,draw
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Venezia,Lecce,Italy – Serie A,0-2,1.33,DC,1X,away
-Invalid date format: time data '22-aug-2026' does not match format '%d-%B-%Y',Getafe,Racing Santander,Spain – La Liga,1-0,3.15,FT,X,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Bristol City,Millwall,England – Championship,0-2,1.47,DC,X2,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Charlton,Derby,England – Championship,2-1,1.46,DC,X2,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Norwich,West Brom,England – Championship,1-2,2.00,FT,1,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Portsmouth,QPR,England – Championship,1-3,2.30,FT,1,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Stoke City,Swansea,England – Championship,1-2,2.40,FT,1,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Sheffield Utd,Birmingham,England – Championship,0-0,1.40,DC,1X,draw
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Cadiz,Celta de Vigo II,Spain – Segunda División,0-0,2.10,FT,1,draw
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Alaves,Getafe,Spain – La Liga,3-0,1.30,DC,1X,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Sevilla,Rayo Vallecano,Spain – La Liga,2-1,2.30,FT,1,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',ADO Den Haag,Groningen,Netherlands – Eredivisie,1-4,2.35,FT,2,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',SK Beveren,Anderlecht,Belgium – Jupiler Pro League,1-0,2.15,FT,2,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Watford,Southampton,England – Championship,2-1,2.15,FT,2,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Arsenal,Manchester City,England – Community Shield,3-0,1.48,DC,1X,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',RAAL La Louvière,Gent,Belgium – Jupiler Pro League,1-2,2.35,FT,2,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Burnley,West Ham,England – Championship,2-2,2.30,FT,2,draw
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Racing Santander,Villarreal,Spain – La Liga,2-2,1.40,DC,X2,draw
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',KV Mechelen,Standard Liege,Belgium – Jupiler Pro League,3-3,2.70,FT,2,draw
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Espanyol,Levante,Spain – La Liga,3-0,2.10,FT,1,home
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Lommel United,Charleroi,Belgium – Jupiler Pro League,0-1,2.25,FT,2,away
-Invalid date format: time data '15-aug-2026' does not match format '%d-%B-%Y',Celta Vigo,Osasuna,Spain – La Liga,Postp,2.10,FT,1,postponed
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Dundee,Aberdeen,Scotland – Premiership,2-0,2.60,FT,2,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',ST Mirren,ST Johnstone,Scotland – Premiership,1-0,1.37,DC,1X,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Maritimo,Casa Pia,Portugal – Primeira Liga,1-0,1.53,DC,X2,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Lausanne,BSC Young Boys,Switzerland – Super League,2-2,2.20,FT,2,draw
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Start,Fredrikstad,Norway – Eliteserien,0-1,1.60,DC,X2,away
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Sochaux,Saint Etienne,France – Ligue 2,0-3,2.00,FT,2,away
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Boulogne,Nancy,France – Ligue 2,0-0,2.50,FT,1,draw
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Clermont Foot,Reims,France – Ligue 2,0-0,2.00,FT,2,draw
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Energie Cottbus,Hannover 96,Germany – 2. Bundesliga,3-1,1.62,DC,1X,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',1. FC Nürnberg,Dynamo Dresden,Germany – 2. Bundesliga,3-0,2.15,FT,1,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Gent,KV Mechelen,Belgium – Jupiler Pro League,2-0,2.05,FT,1,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Groningen,Utrecht,Netherlands – Eredivisie,2-1,1.55,DC,X2,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Lillestrom,Rosenborg,Norway – Eliteserien,0-2,1.57,DC,X2,away
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Zulte Waregem,Genk,Belgium – Jupiler Pro League,2-1,2.20,FT,2,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Randers FC,Lyngby,Denmark – Superliga,2-0,2.05,FT,1,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',FC ST. Gallen,FC Luzern,Switzerland – Super League,2-2,2.10,FT,1,draw
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Heerenveen,Twente,Netherlands – Eredivisie,1-0,2.15,FT,2,home
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Ried,Rapid Vienna,Austria – Bundesliga,1-2,2.35,FT,2,away
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Ham-Kam,Aalesund,Norway – Eliteserien,1-1,2.10,FT,1,draw
-Invalid date format: time data '08-aug-2026' does not match format '%d-%B-%Y',Austria Vienna,Lask Linz,Austria – Bundesliga,0-2,2.05,FT,2,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Falkirk,ST Mirren,Scotland – Premiership,0-2,2.05,FT,1,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Fredrikstad,Sandefjord,Norway – Eliteserien,1-0,2.30,FT,1,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',AC Oulu,Ilves,Finland – Veikkausliiga,1-0,1.25,DC,12,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',FC Voluntari,Uta Arad,Romania – Liga I,1-0,1.40,DC,X2,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Dinamo Makhachkala,Lokomotiv,Russia – Premier League,2-1,2.10,FT,2,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',FC Basel 1893,Lausanne,Switzerland – Super League,0-1,1.95,FT,1,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Gnistan,KuPS,Finland – Veikkausliiga,0-1,1.35,DC,X2,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Baltika,Dynamo,Russia – Premier League,2-1,2.90,FT,1,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Novi Pazar,OFK Beograd,Serbia – Super Liga,1-4,2.00,FT,1,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',FC Thun,BSC Young Boys,Switzerland – Super League,0-6,1.25,DC,12,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Cukaricki,Radnicki 1923,Serbia – Super Liga,3-0,2.40,FT,1,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',FC Vaduz,FC ST. Gallen,Switzerland – Super League,2-3,1.35,DC,X2,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',IF Brommapojkarna,Malmo FF,Sweden – Allsvenskan,1-2,2.15,FT,2,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',ST Johnstone,Kilmarnock,Scotland – Premiership,4-3,2.25,FT,1,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Waterford,Shelbourne,Ireland – Premier Division,1-0,1.30,DC,X2,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Austria Lustenau,Ried,Austria – Bundesliga,1-1,3.20,FT,X,draw
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Wolfsberger AC,Austria Vienna,Austria – Bundesliga,3-0,2.20,FT,1,home
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Hibernian,Motherwell,Scotland – Premiership,1-2,2.20,FT,1,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Zemun,Radnicki NIS,Serbia – Super Liga,0-1,2.20,FT,2,away
-Invalid date format: time data '01-aug-2026' does not match format '%d-%B-%Y',Rapid,CFR 1907 Cluj,Romania – Liga I,3-1,2.00,FT,1,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Londrina,Athletic Club,Brazil – Serie B,2-0,1.45,DC,X2,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Celta de Vigo II,Ponferradina,Spain – Primera División RFEF - Play Offs,4-1,1.45,DC,X2,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Almeria,Malaga,Spain – Segunda División,1-2,2.10,FT,1,away
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Vila Nova,Nautico Recife,Brazil – Serie B,4-3,2.30,FT,1,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Hartford Athletic,Pittsburgh Riverhounds,USA – USL Championship,0-0,3.30,FT,X,draw
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',IK brage,IFK Varnamo,Sweden – Superettan,5-1,2.05,FT,1,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Osters IF,Falkenbergs FF,Sweden – Superettan,1-3,1.40,DC,1X,away
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Egersund,Haugesund,Norway – 1. Division,5-2,2.10,FT,2,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Kongsvinger,Stromsgodset,Norway – 1. Division,4-4,1.45,DC,X2,draw
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Raufoss,Sogndal,Norway – 1. Division,3-1,2.10,FT,2,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Avai,Cuiaba,Brazil – Serie B,1-0,1.50,DC,X2,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Norrby IF,United Nordic,Sweden – Superettan,0-0,2.35,FT,2,draw
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Ostersunds FK,IFK Norrkoping,Sweden – Superettan,0-2,1.40,DC,X2,away
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Bate Borisov,Arsenal,Belarus – Premier League,2-3,3.20,FT,X,away
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Neman,Dinamo Minsk,Belarus – Premier League,1-3,2.40,FT,2,away
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',IBV Vestmannaeyjar,Stjarnan,Iceland – Úrvalsdeild,2-1,2.25,FT,2,home
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Valur Reykjavik,Keflavik,Iceland – Úrvalsdeild,1-1,2.10,FT,1,draw
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',CRB,Fortaleza EC,Brazil – Serie B,1-1,2.25,FT,1,draw
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',São Bernardo,Juventude,Brazil – Serie B,0-1,2.45,FT,1,away
-Invalid date format: time data '20-jun-2026' does not match format '%d-%B-%Y',Goias,Operario-PR,Brazil – Serie B,0-3,2.15,FT,1,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',VPS,KuPS,Finland – Veikkausliiga,1-1,3.30,FT,X,draw
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Tammeka,Vaprus,Estonia – Meistriliiga,0-0,1.20,DC,12,draw
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Lahti,SJK,Finland – Veikkausliiga,2-3,1.30,DC,12,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Mariehamn,Gnistan,Finland – Veikkausliiga,0-3,1.25,DC,X2,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Flora Tallinn,FC Levadia Tallinn,Estonia – Meistriliiga,1-3,1.90,FT,2,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Dinamo Brest,Neman,Belarus – Premier League,1-3,3.20,FT,X,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Longford Town,Cobh Ramblers,Ireland – First Division,2-1,1.35,DC,1X,home
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Everton de Vina,Palestino,Chile – Primera División,1-2,1.40,DC,1X,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Ulytau,Zhenys,Kazakhstan – Premier League,2-1,3.05,FT,X,home
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Yelimay Semey,Ordabasy,Kazakhstan – Premier League,1-3,3.35,FT,X,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Lyn,Bryne,Norway – 1. Division,0-3,2.30,FT,2,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Kaspiy,Kaisar,Kazakhstan – Premier League,1-2,2.65,FT,1,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',FC Dnepr Mogilev,Arsenal,Belarus – Premier League,0-1,3.30,FT,X,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',MP,Klubi-04,Finland – Ykkösliiga,2-2,2.00,FT,1,draw
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Concepción,Deportes Limache,Chile – Primera División,3-2,2.20,FT,2,home
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Thor Akureyri,IBV Vestmannaeyjar,Iceland – Úrvalsdeild,1-4,2.30,FT,2,away
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Torpedo Zhodino,Slavia Mozyr,Belarus – Premier League,1-1,1.30,DC,X2,draw
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Union La Calera,Universidad de Chile,Chile – Primera División,2-2,2.00,FT,2,draw
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Netherlands,Japan,World – World Cup,2-2,3.40,FT,X,draw
-Invalid date format: time data '13-jun-2026' does not match format '%d-%B-%Y',Ivory Coast,Ecuador,World – World Cup,1-0,2.90,FT,X,home
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Wanderers,Danubio,Uruguay – Primera División - Apertura,0-0,1.30,DC,1X,draw
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Operario-PR,Juventude,Brazil – Serie B,2-1,3.10,FT,X,home
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Kashima,Vissel Kobe,Japan – J1 League,2-0,2.50,FT,1,home
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',FC Tokyo,Cerezo Osaka,Japan – J1 League,1-3,1.90,FT,1,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',JEF United Chiba,Avispa Fukuoka,Japan – J1 League,1-2,1.40,DC,X2,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Machida Zelvia,Nagoya Grampus,Japan – J1 League,0-0,2.15,FT,1,draw
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Mito Hollyhock,V-varen Nagasaki,Japan – J1 League,0-1,2.85,FT,2,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Tokyo Verdy,Gamba Osaka,Japan – J1 League,2-4,1.35,DC,X2,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Urawa,Fagiano Okayama,Japan – J1 League,0-2,2.00,FT,1,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Yokohama F. Marinos,Shimizu S-pulse,Japan – J1 League,3-0,1.35,DC,1X,home
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Kashiwa Reysol,Kyoto Sanga,Japan – J1 League,0-1,2.00,FT,1,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Kawasaki Frontale,Sanfrecce Hiroshima,Japan – J1 League,0-1,2.05,FT,2,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Gyeongnam FC,Yongin City,South-Korea – K League 2,2-2,1.35,DC,1X,draw
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Hwaseong,Suwon Bluewings,South-Korea – K League 2,1-2,1.90,FT,2,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Central Espanol,Racing Montevideo,Uruguay – Primera División - Apertura,1-1,2.00,FT,2,draw
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Atletico Torque,Deportivo Maldonado,Uruguay – Primera División - Apertura,2-4,3.10,FT,X,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Cheonan City,Suwon City FC,South-Korea – K League 2,2-2,1.35,DC,X2,draw
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Gimpo Citizen,Jeonnam Dragons,South-Korea – K League 2,2-2,2.00,FT,1,draw
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Progreso,Albion FC,Uruguay – Primera División - Apertura,1-2,2.15,FT,2,away
-Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',Defensor Sporting,Boston River,Uruguay – Primera División - Apertura,1-1,2.05,FT,1,draw
+26-09-2026,Celta de Vigo II,Sabadell,Spain – Segunda División,1-1,2.25,FT,2,draw
+26-09-2026,England,Spain,World – UEFA Nations League,2-3,2.45,FT,2,away
+26-09-2026,Czechia,Croatia,World – UEFA Nations League,1-2,2.30,FT,2,away
+26-09-2026,Atlanta United FC,New York City FC,USA – Major League Soccer,2-2,1.66,DC,X2,draw
+26-09-2026,CF Montreal,FC Cincinnati,USA – Major League Soccer,3-1,1.50,DC,X2,home
+26-09-2026,Charlotte,Chicago Fire,USA – Major League Soccer,0-1,2.15,FT,1,away
+26-09-2026,New York Red Bulls,St. Louis City,USA – Major League Soccer,Postp,2.15,FT,2,postponed
+26-09-2026,Seattle Sounders,Minnesota United FC,USA – Major League Soccer,3-1,2.10,FT,1,home
+26-09-2026,FC Dallas,Los Angeles FC,USA – Major League Soccer,1-0,2.34,FT,1,home
+26-09-2026,Austin,San Diego,USA – Major League Soccer,3-3,2.23,FT,1,draw
+26-09-2026,Los Angeles Galaxy,Colorado Rapids,USA – Major League Soccer,3-2,2.20,FT,1,home
+26-09-2026,Valladolid,Cordoba,Spain – Segunda División,3-1,1.63,DC,X2,home
+26-09-2026,Lithuania,Azerbaijan,World – UEFA Nations League,1-1,1.38,DC,1X,draw
+26-09-2026,Mallorca,Almeria,Spain – Segunda División,0-1,2.10,FT,1,away
+26-09-2026,Gibraltar,Andorra,World – UEFA Nations League,0-0,1.33,DC,X2,draw
+26-09-2026,Eibar,Las Palmas,Spain – Segunda División,3-2,2.10,FT,1,home
+26-09-2026,Israel,Rep. Of Ireland,World – UEFA Nations League,0-3,2.35,FT,2,away
+26-09-2026,Norway,Portugal,World – UEFA Nations League,1-2,2.24,FT,2,away
+26-09-2026,Oviedo,Sporting Gijon,Spain – Segunda División,2-0,1.73,DC,X2,home
+26-09-2026,Columbus Crew,Inter Miami,USA – Major League Soccer,2-1,2.25,FT,2,home
+19-09-2026,Paris FC,Strasbourg,France – Ligue 1,2-1,2.05,FT,1,home
+19-09-2026,AS Roma,Inter,Italy – Serie A,2-2,1.47,DC,X2,draw
+19-09-2026,VfB Stuttgart,Borussia Dortmund,Germany – Bundesliga,0-1,1.44,DC,1X,away
+19-09-2026,Sparta Rotterdam,Heerenveen,Netherlands – Eredivisie,0-4,2.45,FT,1,away
+19-09-2026,Le Mans,Lorient,France – Ligue 1,2-1,1.46,DC,X2,home
+19-09-2026,Angers,Estac Troyes,France – Ligue 1,2-0,2.25,FT,1,home
+19-09-2026,Lyon,Rennes,France – Ligue 1,4-0,1.35,DC,1X,home
+19-09-2026,Venezia,Lazio,Italy – Serie A,0-2,2.00,FT,2,away
+19-09-2026,Willem II,Fortuna Sittard,Netherlands – Eredivisie,0-1,2.40,FT,2,away
+19-09-2026,Fiorentina,Napoli,Italy – Serie A,1-1,2.25,FT,2,draw
+19-09-2026,Getafe,Malaga,Spain – La Liga,1-0,2.15,FT,1,home
+19-09-2026,Bournemouth,Liverpool,England – Premier League,0-1,2.20,FT,2,away
+19-09-2026,Auxerre,Stade Brestois 29,France – Ligue 1,2-1,2.55,FT,2,home
+19-09-2026,Parma,Genoa,Italy – Serie A,2-1,1.53,DC,1X,home
+19-09-2026,Bayer Leverkusen,RB Leipzig,Germany – Bundesliga,2-0,1.33,DC,1X,home
+19-09-2026,Nice,Lille,France – Ligue 1,2-1,2.05,FT,2,home
+19-09-2026,Fulham,Manchester United,England – Premier League,1-1,2.05,FT,2,draw
+19-09-2026,FC Schalke 04,SV Elversberg,Germany – Bundesliga,0-0,2.08,FT,1,draw
+19-09-2026,Deportivo La Coruna,Real Betis,Spain – La Liga,1-1,2.48,FT,2,draw
+19-09-2026,Valencia,Real Sociedad,Spain – La Liga,2-3,2.55,FT,2,away
+12-09-2026,FSV Mainz 05,Eintracht Frankfurt,Germany – Bundesliga,1-3,2.05,FT,1,away
+12-09-2026,Hoffenheim,VfB Stuttgart,Germany – Bundesliga,2-1,1.60,DC,X2,home
+12-09-2026,Bournemouth,Brentford,England – Premier League,2-2,1.52,DC,X2,draw
+12-09-2026,Aston Villa,Nottingham Forest,England – Premier League,1-2,1.35,DC,1X,away
+12-09-2026,Crystal Palace,Ipswich,England – Premier League,2-3,1.95,FT,1,away
+12-09-2026,Osasuna,Espanyol,Spain – La Liga,0-2,2.15,FT,1,away
+12-09-2026,Strasbourg,Monaco,France – Ligue 1,1-1,2.20,FT,2,draw
+12-09-2026,Lazio,AC Milan,Italy – Serie A,2-2,1.35,DC,X2,draw
+12-09-2026,1. FC Köln,Werder Bremen,Germany – Bundesliga,1-1,2.10,FT,1,draw
+12-09-2026,Tottenham,Everton,England – Premier League,0-0,2.05,FT,1,draw
+12-09-2026,GO Ahead Eagles,Groningen,Netherlands – Eredivisie,1-1,2.30,FT,1,draw
+12-09-2026,Auxerre,Nice,France – Ligue 1,1-0,1.30,DC,X2,home
+12-09-2026,Le Havre,Angers,France – Ligue 1,0-0,2.25,FT,1,draw
+12-09-2026,Paris FC,Lyon,France – Ligue 1,0-0,1.28,DC,12,draw
+12-09-2026,Lorient,Toulouse,France – Ligue 1,2-2,3.35,FT,X,draw
+12-09-2026,Excelsior,Utrecht,Netherlands – Eredivisie,1-2,2.20,FT,1,away
+12-09-2026,Lecce,Monza,Italy – Serie A,3-2,2.60,FT,1,home
+12-09-2026,Manchester United,Manchester City,England – Premier League,0-1,2.15,FT,2,away
+12-09-2026,Getafe,Deportivo La Coruna,Spain – La Liga,1-1,2.50,FT,1,draw
+12-09-2026,Real Sociedad,Atletico Madrid,Spain – La Liga,0-3,2.43,FT,2,away
+05-09-2026,Newcastle,Bournemouth,England – Premier League,2-2,2.20,FT,1,draw
+05-09-2026,Hoffenheim,Borussia Dortmund,Germany – Bundesliga,2-3,1.40,DC,X2,away
+05-09-2026,SC Paderborn 07,SC Freiburg,Germany – Bundesliga,0-1,2.10,FT,2,away
+05-09-2026,Fulham,Crystal Palace,England – Premier League,2-3,1.40,DC,1X,away
+05-09-2026,Nottingham Forest,Tottenham,England – Premier League,0-0,1.45,DC,1X,draw
+05-09-2026,Erzurumspor FK,Konyaspor,Turkey – Süper Lig,1-0,3.10,FT,2,home
+05-09-2026,Athletic Club,Atletico Madrid,Spain – La Liga,3-0,2.40,FT,2,home
+05-09-2026,Estrela,Famalicao,Portugal – Primeira Liga,2-2,3.25,FT,X,draw
+05-09-2026,Rayo Vallecano,Racing Santander,Spain – La Liga,3-2,1.35,DC,1X,home
+05-09-2026,Ajax,PSV Eindhoven,Netherlands – Eredivisie,1-3,1.25,DC,12,away
+05-09-2026,Le Havre,Stade Brestois 29,France – Ligue 1,1-2,1.40,DC,X2,away
+05-09-2026,Everton,Manchester United,England – Premier League,2-2,2.20,FT,2,draw
+05-09-2026,Frosinone,Venezia,Italy – Serie A,3-2,2.75,FT,1,home
+05-09-2026,Parma,Monza,Italy – Serie A,1-1,2.50,FT,1,draw
+05-09-2026,Estac Troyes,Strasbourg,France – Ligue 1,2-6,3.40,FT,X,away
+05-09-2026,Hamburger SV,FSV Mainz 05,Germany – Bundesliga,0-5,2.40,FT,2,away
+05-09-2026,Alaves,Osasuna,Spain – La Liga,5-2,2.30,FT,1,home
+05-09-2026,Malaga,Levante,Spain – La Liga,0-0,2.95,FT,2,draw
+05-09-2026,Juventus,AC Milan,Italy – Serie A,1-1,2.15,FT,1,draw
+05-09-2026,Espanyol,Sevilla,Spain – La Liga,1-1,2.30,FT,1,draw
+29-08-2026,1. FC Köln,Hoffenheim,Germany – Bundesliga,3-2,1.60,DC,1X,home
+29-08-2026,Union Berlin,Eintracht Frankfurt,Germany – Bundesliga,3-3,3.35,FT,X,draw
+29-08-2026,Bournemouth,Everton,England – Premier League,1-1,2.15,FT,1,draw
+29-08-2026,Levante,Real Betis,Spain – La Liga,5-2,2.35,FT,2,home
+29-08-2026,Strasbourg,Lens,France – Ligue 1,2-1,2.15,FT,2,home
+29-08-2026,Monza,Udinese,Italy – Serie A,2-3,2.35,FT,2,away
+29-08-2026,Sassuolo,Torino,Italy – Serie A,2-1,1.35,DC,1X,home
+29-08-2026,Tottenham,Newcastle,England – Premier League,0-2,1.62,DC,X2,away
+29-08-2026,Stade Brestois 29,Toulouse,France – Ligue 1,2-2,1.48,DC,1X,draw
+29-08-2026,Sevilla,Atletico Madrid,Spain – La Liga,1-3,2.10,FT,2,away
+29-08-2026,Paris FC,Nice,France – Ligue 1,3-0,2.10,FT,1,home
+29-08-2026,Leeds,Brentford,England – Premier League,1-1,1.50,DC,X2,draw
+29-08-2026,Sunderland,Fulham,England – Premier League,1-0,2.43,FT,1,home
+29-08-2026,Antwerp,St. Truiden,Belgium – Jupiler Pro League,1-4,2.50,FT,1,away
+29-08-2026,FC Augsburg,FC Schalke 04,Germany – Bundesliga,3-0,3.45,FT,X,home
+29-08-2026,FC Nordsjaelland,Brondby,Denmark – Superliga,3-1,2.17,FT,1,home
+29-08-2026,Napoli,Como,Italy – Serie A,1-2,1.52,DC,X2,away
+29-08-2026,Deportivo La Coruna,Valencia,Spain – La Liga,3-1,3.15,FT,X,home
+29-08-2026,Monaco,Marseille,France – Ligue 1,2-0,2.75,FT,2,home
+29-08-2026,Celta Vigo,Athletic Club,Spain – La Liga,0-2,2.47,FT,1,away
+22-08-2026,Everton,Crystal Palace,England – Premier League,2-0,1.35,DC,1X,home
+22-08-2026,Ipswich,Sunderland,England – Premier League,2-1,3.20,FT,X,home
+22-08-2026,Nottingham Forest,Leeds,England – Premier League,0-1,1.40,DC,1X,away
+22-08-2026,Blackburn,Middlesbrough,England – Championship,2-1,2.15,FT,2,home
+22-08-2026,Derby,Cardiff,England – Championship,2-2,1.30,DC,12,draw
+22-08-2026,Swansea,Sheffield Utd,England – Championship,0-0,2.40,FT,1,draw
+22-08-2026,Wrexham,Watford,England – Championship,1-1,1.95,FT,1,draw
+22-08-2026,Brentford,Tottenham,England – Premier League,3-0,2.80,FT,2,home
+22-08-2026,Valencia,Celta Vigo,Spain – La Liga,0-0,1.38,DC,1X,draw
+22-08-2026,Parma,Cagliari,Italy – Serie A,0-1,3.10,FT,X,away
+22-08-2026,Le Mans,Stade Brestois 29,France – Ligue 1,2-2,2.50,FT,1,draw
+22-08-2026,Nice,Lorient,France – Ligue 1,0-0,2.15,FT,1,draw
+22-08-2026,Toulouse,Lyon,France – Ligue 1,0-2,1.57,DC,1X,away
+22-08-2026,Estac Troyes,Paris FC,France – Ligue 1,0-0,2.30,FT,2,draw
+22-08-2026,West Brom,Burnley,England – Championship,3-1,3.25,FT,X,home
+22-08-2026,IFK Goteborg,IF Elfsborg,Sweden – Allsvenskan,1-1,2.75,FT,2,draw
+22-08-2026,Brighton,Aston Villa,England – Premier League,4-0,3.45,FT,X,home
+22-08-2026,Newcastle,Liverpool,England – Premier League,2-2,1.95,FT,2,draw
+22-08-2026,Venezia,Lecce,Italy – Serie A,0-2,1.33,DC,1X,away
+22-08-2026,Getafe,Racing Santander,Spain – La Liga,1-0,3.15,FT,X,home
+15-08-2026,Bristol City,Millwall,England – Championship,0-2,1.47,DC,X2,away
+15-08-2026,Charlton,Derby,England – Championship,2-1,1.46,DC,X2,home
+15-08-2026,Norwich,West Brom,England – Championship,1-2,2.00,FT,1,away
+15-08-2026,Portsmouth,QPR,England – Championship,1-3,2.30,FT,1,away
+15-08-2026,Stoke City,Swansea,England – Championship,1-2,2.40,FT,1,away
+15-08-2026,Sheffield Utd,Birmingham,England – Championship,0-0,1.40,DC,1X,draw
+15-08-2026,Cadiz,Celta de Vigo II,Spain – Segunda División,0-0,2.10,FT,1,draw
+15-08-2026,Alaves,Getafe,Spain – La Liga,3-0,1.30,DC,1X,home
+15-08-2026,Sevilla,Rayo Vallecano,Spain – La Liga,2-1,2.30,FT,1,home
+15-08-2026,ADO Den Haag,Groningen,Netherlands – Eredivisie,1-4,2.35,FT,2,away
+15-08-2026,SK Beveren,Anderlecht,Belgium – Jupiler Pro League,1-0,2.15,FT,2,home
+15-08-2026,Watford,Southampton,England – Championship,2-1,2.15,FT,2,home
+15-08-2026,Arsenal,Manchester City,England – Community Shield,3-0,1.48,DC,1X,home
+15-08-2026,RAAL La Louvière,Gent,Belgium – Jupiler Pro League,1-2,2.35,FT,2,away
+15-08-2026,Burnley,West Ham,England – Championship,2-2,2.30,FT,2,draw
+15-08-2026,Racing Santander,Villarreal,Spain – La Liga,2-2,1.40,DC,X2,draw
+15-08-2026,KV Mechelen,Standard Liege,Belgium – Jupiler Pro League,3-3,2.70,FT,2,draw
+15-08-2026,Espanyol,Levante,Spain – La Liga,3-0,2.10,FT,1,home
+15-08-2026,Lommel United,Charleroi,Belgium – Jupiler Pro League,0-1,2.25,FT,2,away
+15-08-2026,Celta Vigo,Osasuna,Spain – La Liga,Postp,2.10,FT,1,postponed
+08-08-2026,Dundee,Aberdeen,Scotland – Premiership,2-0,2.60,FT,2,home
+08-08-2026,ST Mirren,ST Johnstone,Scotland – Premiership,1-0,1.37,DC,1X,home
+08-08-2026,Maritimo,Casa Pia,Portugal – Primeira Liga,1-0,1.53,DC,X2,home
+08-08-2026,Lausanne,BSC Young Boys,Switzerland – Super League,2-2,2.20,FT,2,draw
+08-08-2026,Start,Fredrikstad,Norway – Eliteserien,0-1,1.60,DC,X2,away
+08-08-2026,Sochaux,Saint Etienne,France – Ligue 2,0-3,2.00,FT,2,away
+08-08-2026,Boulogne,Nancy,France – Ligue 2,0-0,2.50,FT,1,draw
+08-08-2026,Clermont Foot,Reims,France – Ligue 2,0-0,2.00,FT,2,draw
+08-08-2026,Energie Cottbus,Hannover 96,Germany – 2. Bundesliga,3-1,1.62,DC,1X,home
+08-08-2026,1. FC Nürnberg,Dynamo Dresden,Germany – 2. Bundesliga,3-0,2.15,FT,1,home
+08-08-2026,Gent,KV Mechelen,Belgium – Jupiler Pro League,2-0,2.05,FT,1,home
+08-08-2026,Groningen,Utrecht,Netherlands – Eredivisie,2-1,1.55,DC,X2,home
+08-08-2026,Lillestrom,Rosenborg,Norway – Eliteserien,0-2,1.57,DC,X2,away
+08-08-2026,Zulte Waregem,Genk,Belgium – Jupiler Pro League,2-1,2.20,FT,2,home
+08-08-2026,Randers FC,Lyngby,Denmark – Superliga,2-0,2.05,FT,1,home
+08-08-2026,FC ST. Gallen,FC Luzern,Switzerland – Super League,2-2,2.10,FT,1,draw
+08-08-2026,Heerenveen,Twente,Netherlands – Eredivisie,1-0,2.15,FT,2,home
+08-08-2026,Ried,Rapid Vienna,Austria – Bundesliga,1-2,2.35,FT,2,away
+08-08-2026,Ham-Kam,Aalesund,Norway – Eliteserien,1-1,2.10,FT,1,draw
+08-08-2026,Austria Vienna,Lask Linz,Austria – Bundesliga,0-2,2.05,FT,2,away
+01-08-2026,Falkirk,ST Mirren,Scotland – Premiership,0-2,2.05,FT,1,away
+01-08-2026,Fredrikstad,Sandefjord,Norway – Eliteserien,1-0,2.30,FT,1,home
+01-08-2026,AC Oulu,Ilves,Finland – Veikkausliiga,1-0,1.25,DC,12,home
+01-08-2026,FC Voluntari,Uta Arad,Romania – Liga I,1-0,1.40,DC,X2,home
+01-08-2026,Dinamo Makhachkala,Lokomotiv,Russia – Premier League,2-1,2.10,FT,2,home
+01-08-2026,FC Basel 1893,Lausanne,Switzerland – Super League,0-1,1.95,FT,1,away
+01-08-2026,Gnistan,KuPS,Finland – Veikkausliiga,0-1,1.35,DC,X2,away
+01-08-2026,Baltika,Dynamo,Russia – Premier League,2-1,2.90,FT,1,home
+01-08-2026,Novi Pazar,OFK Beograd,Serbia – Super Liga,1-4,2.00,FT,1,away
+01-08-2026,FC Thun,BSC Young Boys,Switzerland – Super League,0-6,1.25,DC,12,away
+01-08-2026,Cukaricki,Radnicki 1923,Serbia – Super Liga,3-0,2.40,FT,1,home
+01-08-2026,FC Vaduz,FC ST. Gallen,Switzerland – Super League,2-3,1.35,DC,X2,away
+01-08-2026,IF Brommapojkarna,Malmo FF,Sweden – Allsvenskan,1-2,2.15,FT,2,away
+01-08-2026,ST Johnstone,Kilmarnock,Scotland – Premiership,4-3,2.25,FT,1,home
+01-08-2026,Waterford,Shelbourne,Ireland – Premier Division,1-0,1.30,DC,X2,home
+01-08-2026,Austria Lustenau,Ried,Austria – Bundesliga,1-1,3.20,FT,X,draw
+01-08-2026,Wolfsberger AC,Austria Vienna,Austria – Bundesliga,3-0,2.20,FT,1,home
+01-08-2026,Hibernian,Motherwell,Scotland – Premiership,1-2,2.20,FT,1,away
+01-08-2026,Zemun,Radnicki NIS,Serbia – Super Liga,0-1,2.20,FT,2,away
+01-08-2026,Rapid,CFR 1907 Cluj,Romania – Liga I,3-1,2.00,FT,1,home
+20-06-2026,Londrina,Athletic Club,Brazil – Serie B,2-0,1.45,DC,X2,home
+20-06-2026,Celta de Vigo II,Ponferradina,Spain – Primera División RFEF - Play Offs,4-1,1.45,DC,X2,home
+20-06-2026,Almeria,Malaga,Spain – Segunda División,1-2,2.10,FT,1,away
+20-06-2026,Vila Nova,Nautico Recife,Brazil – Serie B,4-3,2.30,FT,1,home
+20-06-2026,Hartford Athletic,Pittsburgh Riverhounds,USA – USL Championship,0-0,3.30,FT,X,draw
+20-06-2026,IK brage,IFK Varnamo,Sweden – Superettan,5-1,2.05,FT,1,home
+20-06-2026,Osters IF,Falkenbergs FF,Sweden – Superettan,1-3,1.40,DC,1X,away
+20-06-2026,Egersund,Haugesund,Norway – 1. Division,5-2,2.10,FT,2,home
+20-06-2026,Kongsvinger,Stromsgodset,Norway – 1. Division,4-4,1.45,DC,X2,draw
+20-06-2026,Raufoss,Sogndal,Norway – 1. Division,3-1,2.10,FT,2,home
+20-06-2026,Avai,Cuiaba,Brazil – Serie B,1-0,1.50,DC,X2,home
+20-06-2026,Norrby IF,United Nordic,Sweden – Superettan,0-0,2.35,FT,2,draw
+20-06-2026,Ostersunds FK,IFK Norrkoping,Sweden – Superettan,0-2,1.40,DC,X2,away
+20-06-2026,Bate Borisov,Arsenal,Belarus – Premier League,2-3,3.20,FT,X,away
+20-06-2026,Neman,Dinamo Minsk,Belarus – Premier League,1-3,2.40,FT,2,away
+20-06-2026,IBV Vestmannaeyjar,Stjarnan,Iceland – Úrvalsdeild,2-1,2.25,FT,2,home
+20-06-2026,Valur Reykjavik,Keflavik,Iceland – Úrvalsdeild,1-1,2.10,FT,1,draw
+20-06-2026,CRB,Fortaleza EC,Brazil – Serie B,1-1,2.25,FT,1,draw
+20-06-2026,São Bernardo,Juventude,Brazil – Serie B,0-1,2.45,FT,1,away
+20-06-2026,Goias,Operario-PR,Brazil – Serie B,0-3,2.15,FT,1,away
+13-06-2026,VPS,KuPS,Finland – Veikkausliiga,1-1,3.30,FT,X,draw
+13-06-2026,Tammeka,Vaprus,Estonia – Meistriliiga,0-0,1.20,DC,12,draw
+13-06-2026,Lahti,SJK,Finland – Veikkausliiga,2-3,1.30,DC,12,away
+13-06-2026,Mariehamn,Gnistan,Finland – Veikkausliiga,0-3,1.25,DC,X2,away
+13-06-2026,Flora Tallinn,FC Levadia Tallinn,Estonia – Meistriliiga,1-3,1.90,FT,2,away
+13-06-2026,Dinamo Brest,Neman,Belarus – Premier League,1-3,3.20,FT,X,away
+13-06-2026,Longford Town,Cobh Ramblers,Ireland – First Division,2-1,1.35,DC,1X,home
+13-06-2026,Everton de Vina,Palestino,Chile – Primera División,1-2,1.40,DC,1X,away
+13-06-2026,Ulytau,Zhenys,Kazakhstan – Premier League,2-1,3.05,FT,X,home
+13-06-2026,Yelimay Semey,Ordabasy,Kazakhstan – Premier League,1-3,3.35,FT,X,away
+13-06-2026,Lyn,Bryne,Norway – 1. Division,0-3,2.30,FT,2,away
+13-06-2026,Kaspiy,Kaisar,Kazakhstan – Premier League,1-2,2.65,FT,1,away
+13-06-2026,FC Dnepr Mogilev,Arsenal,Belarus – Premier League,0-1,3.30,FT,X,away
+13-06-2026,MP,Klubi-04,Finland – Ykkösliiga,2-2,2.00,FT,1,draw
+13-06-2026,Concepción,Deportes Limache,Chile – Primera División,3-2,2.20,FT,2,home
+13-06-2026,Thor Akureyri,IBV Vestmannaeyjar,Iceland – Úrvalsdeild,1-4,2.30,FT,2,away
+13-06-2026,Torpedo Zhodino,Slavia Mozyr,Belarus – Premier League,1-1,1.30,DC,X2,draw
+13-06-2026,Union La Calera,Universidad de Chile,Chile – Primera División,2-2,2.00,FT,2,draw
+13-06-2026,Netherlands,Japan,World – World Cup,2-2,3.40,FT,X,draw
+13-06-2026,Ivory Coast,Ecuador,World – World Cup,1-0,2.90,FT,X,home
+06-06-2026,Wanderers,Danubio,Uruguay – Primera División - Apertura,0-0,1.30,DC,1X,draw
+06-06-2026,Operario-PR,Juventude,Brazil – Serie B,2-1,3.10,FT,X,home
+06-06-2026,Kashima,Vissel Kobe,Japan – J1 League,2-0,2.50,FT,1,home
+06-06-2026,FC Tokyo,Cerezo Osaka,Japan – J1 League,1-3,1.90,FT,1,away
+06-06-2026,JEF United Chiba,Avispa Fukuoka,Japan – J1 League,1-2,1.40,DC,X2,away
+06-06-2026,Machida Zelvia,Nagoya Grampus,Japan – J1 League,0-0,2.15,FT,1,draw
+06-06-2026,Mito Hollyhock,V-varen Nagasaki,Japan – J1 League,0-1,2.85,FT,2,away
+06-06-2026,Tokyo Verdy,Gamba Osaka,Japan – J1 League,2-4,1.35,DC,X2,away
+06-06-2026,Urawa,Fagiano Okayama,Japan – J1 League,0-2,2.00,FT,1,away
+06-06-2026,Yokohama F. Marinos,Shimizu S-pulse,Japan – J1 League,3-0,1.35,DC,1X,home
+06-06-2026,Kashiwa Reysol,Kyoto Sanga,Japan – J1 League,0-1,2.00,FT,1,away
+06-06-2026,Kawasaki Frontale,Sanfrecce Hiroshima,Japan – J1 League,0-1,2.05,FT,2,away
+06-06-2026,Gyeongnam FC,Yongin City,South-Korea – K League 2,2-2,1.35,DC,1X,draw
+06-06-2026,Hwaseong,Suwon Bluewings,South-Korea – K League 2,1-2,1.90,FT,2,away
+06-06-2026,Central Espanol,Racing Montevideo,Uruguay – Primera División - Apertura,1-1,2.00,FT,2,draw
+06-06-2026,Atletico Torque,Deportivo Maldonado,Uruguay – Primera División - Apertura,2-4,3.10,FT,X,away
+06-06-2026,Cheonan City,Suwon City FC,South-Korea – K League 2,2-2,1.35,DC,X2,draw
+06-06-2026,Gimpo Citizen,Jeonnam Dragons,South-Korea – K League 2,2-2,2.00,FT,1,draw
+06-06-2026,Progreso,Albion FC,Uruguay – Primera División - Apertura,1-2,2.15,FT,2,away
+06-06-2026,Defensor Sporting,Boston River,Uruguay – Primera División - Apertura,1-1,2.05,FT,1,draw
 30-05-2026,Falkenbergs FF,Oddevold,Sweden – Superettan,2-1,1.35,DC,1X,home
 30-05-2026,GIF Sundsvall,Sandviken,Sweden – Superettan,0-3,2.85,FT,1,away
 30-05-2026,FC Gomel,Dinamo Brest,Belarus – Premier League,2-1,3.05,FT,X,home
@@ -2098,7 +2098,7 @@ Invalid date format: time data '06-jun-2026' does not match format '%d-%B-%Y',De
 17-08-2024,Cagliari,AS Roma,,0-0,1.95,FT,2,draw
 17-08-2024,Rennes,Olympique Lyon,,3-0,2.95,FT,2,home
 10-08-2024,Ross County,Dundee Utd,,1-1,1.50,DC,X2,draw
-10-08-2024,A,vs Nacional,,1-1,1.30,DC,1X,draw
+10-08-2024,AVS,Nacional,,1-1,1.30,DC,1X,draw
 10-08-2024,WSG Tirol,GAK,,0-0,2.65,FT,2,draw
 10-08-2024,Teplice,Liberec,,2-1,3.20,FT,X,home
 10-08-2024,Goteborg,Varnamo,,0-0,1.30,DC,1X,draw

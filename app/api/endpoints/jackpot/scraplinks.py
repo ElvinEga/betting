@@ -47,9 +47,12 @@ def normalize_score(value):
 
 def split_teams(text):
     # Site typos: missing spaces ("Masjedvs Zob", "K.S.vs"), nbsp separators,
-    # capital "Vs". Returns [home, away] or None.
+    # capital "Vs". Prefer the spaced separator so clubs whose name embeds "VS"
+    # ("AVS vs Nacional") are not split inside the word. Returns [home, away] or None.
     text = text.replace('\u00A0', ' ').strip()
-    parts = re.split(r"(?i)\s*vs\.?\s*", text, maxsplit=1)
+    parts = re.split(r"(?i)\s+vs\.?\s+", text, maxsplit=1)
+    if len(parts) != 2:
+        parts = re.split(r"(?i)\s*vs\.?\s*", text, maxsplit=1)
     return [p.strip() for p in parts] if len(parts) == 2 else None
 
 
@@ -143,12 +146,13 @@ def extract_date(url):
 
     if match:
         date_str = match.group(1)  # Extract the matched date string
-        # Convert the date string to a proper date format (optional)
-        try:
-            date_obj = datetime.strptime(date_str, "%d-%B-%Y")
-            return date_obj.strftime("%d-%m-%Y")  # Return formatted date
-        except ValueError as e:
-            return f"Invalid date format: {e}"
+        # Slugs use full ("august") or abbreviated ("aug", "sep") month names.
+        for fmt in ("%d-%B-%Y", "%d-%b-%Y"):
+            try:
+                return datetime.strptime(date_str, fmt).strftime("%d-%m-%Y")
+            except ValueError:
+                continue
+        return f"Invalid date format: {date_str}"
     else:
         return "No date found"
 
