@@ -21471,5 +21471,550 @@
             }
         ],
         "NextJackpotId": null
+    },
+    {
+        "Date": "2026-10-04T14:56:07.253Z",
+        "JackpotId": 202,
+        "Events": [
+            {
+                "Home": "Queen of the South FC",
+                "Away": "Cove Rangers FC",
+                "Score": "4:3",
+                "Result": "Home"
+            },
+            {
+                "Home": "Elgin City FC",
+                "Away": "Clyde FC",
+                "Score": "6:2",
+                "Result": "Home"
+            },
+            {
+                "Home": "Reading FC",
+                "Away": "Bradford City FC",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Crewe Alexandra",
+                "Away": "Bristol Rovers",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Exeter City",
+                "Away": "Rotherham United",
+                "Score": "1:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Rochdale AFC",
+                "Away": "Swindon Town",
+                "Score": "1:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "IFK Lidingo FK",
+                "Away": "Bollstanas SK",
+                "Score": "0:4",
+                "Result": "Away"
+            },
+            {
+                "Home": "Cadiz CF",
+                "Away": "CD Leganes",
+                "Score": "4:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Pro Vercelli 1892",
+                "Away": "AC Carpi",
+                "Score": "2:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "FC Fleury 91",
+                "Away": "SM Caen",
+                "Score": "3:2",
+                "Result": "Home"
+            },
+            {
+                "Home": "CA San Miguel",
+                "Away": "Mitre Santiago del Estero",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Newell's Old Boys",
+                "Away": "CA Lanus",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "FC Tulsa",
+                "Away": "Sacramento Republic FC",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Tegevajaro Miyazaki",
+                "Away": "RB Omiya Ardija",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "FK Veles Moscow",
+                "Away": "FC Volga Ulyanovsk",
+                "Score": "1:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Real Sociedad San Sebastian B",
+                "Away": "Granada CF",
+                "Score": "2:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "VVV Venlo",
+                "Away": "Roda JC Kerkrade",
+                "Score": "2:0",
+                "Result": "Home"
+            }
+        ],
+        "NextJackpotId": "1cf4fc55-b5ae-4379-8ca7-2393b920533e"
+    },
+    {
+        "Date": "2026-10-11T21:10:51.787Z",
+        "JackpotId": 203,
+        "Events": [
+            {
+                "Home": "Sunderland AFC",
+                "Away": "Brighton & Hove Albion",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Ipswich Town",
+                "Away": "Fulham FC",
+                "Score": "2:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Aston Villa",
+                "Away": "Brentford FC",
+                "Score": "2:2",
+                "Result": "Draw"
+            },
+            {
+                "Home": "FC Lorient",
+                "Away": "Paris FC",
+                "Score": "1:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Crystal Palace",
+                "Away": "Nottingham Forest",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "OGC Nice",
+                "Away": "Strasbourg Alsace",
+                "Score": "2:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "FK Teplice",
+                "Away": "SK Sigma Olomouc",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Gaziantep FK",
+                "Away": "Corum FK",
+                "Score": "0:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "US Catanzaro",
+                "Away": "Mantova 1911",
+                "Score": "1:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "Rio Ave FC",
+                "Away": "Nacional da Madeira",
+                "Score": "3:2",
+                "Result": "Home"
+            },
+            {
+                "Home": "FC Vaduz",
+                "Away": "FC Basel 1893",
+                "Score": "3:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Excelsior Rotterdam",
+                "Away": "FC Groningen",
+                "Score": "1:5",
+                "Result": "Away"
+            },
+            {
+                "Home": "Aalesunds FK",
+                "Away": "Sarpsborg 08",
+                "Score": "2:4",
+                "Result": "Away"
+            },
+            {
+                "Home": "Liverpool FC",
+                "Away": "Manchester City",
+                "Score": "0:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "FC Midtjylland",
+                "Away": "FC Copenhagen",
+                "Score": "2:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Cadiz CF",
+                "Away": "Sporting Gijon",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "Racing Santander",
+                "Away": "Valencia CF",
+                "Score": "2:2",
+                "Result": "Draw"
+            }
+        ],
+        "NextJackpotId": "bb8534d6-1c0b-429d-86d2-82761883da48"
+    },
+    {
+        "Date": "2026-10-18T21:38:02.013Z",
+        "JackpotId": 204,
+        "Events": [
+            {
+                "Home": "Valencia CF",
+                "Away": "Athletic Bilbao",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Minnesota United FC",
+                "Away": "Saint Louis City SC",
+                "Score": "3:2",
+                "Result": "Home"
+            },
+            {
+                "Home": "Kasimpasa Istanbul",
+                "Away": "Samsunspor",
+                "Score": "4:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "1. FC Slovacko Uherske Hradiste",
+                "Away": "FC Zbrojovka Brno",
+                "Score": "1:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Dynamo Dresden",
+                "Away": "1. FC Magdeburg",
+                "Score": "2:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Soenderjyske",
+                "Away": "Silkeborg IF",
+                "Score": "4:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Sarpsborg 08",
+                "Away": "Rosenborg BK",
+                "Score": "0:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "Zaglebie Lubin",
+                "Away": "Jagiellonia Bialystok",
+                "Score": "1:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Leeds United",
+                "Away": "Manchester United",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Kocaelispor",
+                "Away": "Goztepe Izmir",
+                "Score": "1:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "FK Dinamo Moscow",
+                "Away": "CSKA Moscow",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Vaalerenga IF",
+                "Away": "SK Brann",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Sandefjord Fotball",
+                "Away": "Lillestroem SK",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "FC Uta Arad",
+                "Away": "FC CFR 1907 Cluj",
+                "Score": "1:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Le Havre AC",
+                "Away": "AJ Auxerre",
+                "Score": "1:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "FK Jablonec",
+                "Away": "FC Viktoria Plzen",
+                "Score": "2:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "Burgos CF",
+                "Away": "CE Sabadell FC",
+                "Score": "1:0",
+                "Result": "Home"
+            }
+        ],
+        "NextJackpotId": "57d0ce57-162d-4783-9800-22b19df74e8e"
+    },
+    {
+        "Date": "2026-10-25T20:08:56.519Z",
+        "JackpotId": 205,
+        "Events": [
+            {
+                "Home": "Coventry City",
+                "Away": "Fulham FC",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "SSC Napoli",
+                "Away": "AS Roma",
+                "Score": "3:3",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Racing Club De Lens",
+                "Away": "Paris FC",
+                "Score": "2:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Crystal Palace",
+                "Away": "Newcastle United",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "TSG Hoffenheim",
+                "Away": "Bayer Leverkusen",
+                "Score": "3:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "AC Horsens",
+                "Away": "Soenderjyske",
+                "Score": "5:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "RC Celta de Vigo",
+                "Away": "Real Betis Seville",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Albacete Balompie",
+                "Away": "Club Deportivo Eldense",
+                "Score": "2:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Kristiansund BK",
+                "Away": "KFUM Oslo",
+                "Score": "2:2",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Lillestroem SK",
+                "Away": "SK Brann",
+                "Score": "3:2",
+                "Result": "Home"
+            },
+            {
+                "Home": "Ankara Keciorengucu",
+                "Away": "Bursaspor",
+                "Score": "2:4",
+                "Result": "Away"
+            },
+            {
+                "Home": "Angers SCO",
+                "Away": "FC Lorient",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Legia Warszawa",
+                "Away": "KKS Lech Poznan",
+                "Score": "1:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Sunderland AFC",
+                "Away": "Leeds United",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "AGF Aarhus",
+                "Away": "Viborg FF",
+                "Score": "2:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "AEL Limassol",
+                "Away": "Aris Limassol FC",
+                "Score": "1:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "KAA Gent",
+                "Away": "RSC Anderlecht",
+                "Score": "4:0",
+                "Result": "Home"
+            }
+        ],
+        "NextJackpotId": null
+    },
+    {
+        "Date": "2026-11-02T22:11:47.803Z",
+        "JackpotId": 206,
+        "Events": [
+            {
+                "Home": "Coventry City",
+                "Away": "Sunderland AFC",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "OGC Nice",
+                "Away": "Stade Rennais FC",
+                "Score": "5:2",
+                "Result": "Home"
+            },
+            {
+                "Home": "FC Lorient",
+                "Away": "Stade Brest 29",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Albacete Balompie",
+                "Away": "CE Sabadell FC",
+                "Score": "2:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Getafe CF",
+                "Away": "Sevilla FC",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "SS Arezzo",
+                "Away": "Ascoli Calcio 1898",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Union Berlin",
+                "Away": "1. FC Cologne",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "AD Ceuta",
+                "Away": "Sporting Gijon",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Lausanne-Sport",
+                "Away": "FC Thun",
+                "Score": "4:5",
+                "Result": "Away"
+            },
+            {
+                "Home": "Panaitolikos Agrinio",
+                "Away": "OFI Crete",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "Paris FC",
+                "Away": "AS Monaco",
+                "Score": "3:1",
+                "Result": "Home"
+            },
+            {
+                "Home": "Liverpool FC",
+                "Away": "Arsenal FC",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "NK Lokomotiva Zagreb",
+                "Away": "NK Osijek",
+                "Score": "1:3",
+                "Result": "Away"
+            },
+            {
+                "Home": "US Lecce",
+                "Away": "Genoa CFC",
+                "Score": "1:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Elche CF",
+                "Away": "Valencia CF",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "Maritimo Madeira",
+                "Away": "Santa Clara Azores",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Vaalerenga IF",
+                "Away": "Tromsoe IL",
+                "Score": "4:0",
+                "Result": "Home"
+            }
+        ],
+        "NextJackpotId": null
     }
 ]
