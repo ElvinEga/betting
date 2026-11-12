@@ -22016,5 +22016,114 @@
             }
         ],
         "NextJackpotId": null
+    },
+    {
+        "Date": "2026-11-08T20:41:53.830Z",
+        "JackpotId": 207,
+        "Events": [
+            {
+                "Home": "Aberdeen FC",
+                "Away": "Hibernian FC",
+                "Score": "0:4",
+                "Result": "Away"
+            },
+            {
+                "Home": "Pau FC",
+                "Away": "FC Nantes",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Grasshopper Club Zurich",
+                "Away": "Lausanne-Sport",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "RAAL La Louviere",
+                "Away": "Cercle Brugge",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "IFK Goteborg",
+                "Away": "Malmo FF",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "WSG Tirol",
+                "Away": "FK Austria Wien",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "TSV Hartberg",
+                "Away": "SCR Altach",
+                "Score": "3:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "NK Brinje Grosuplje",
+                "Away": "Aluminij Kidricevo",
+                "Score": "1:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Virtus Entella",
+                "Away": "Modena FC",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "IF Brommapojkarna",
+                "Away": "Mjallby AIF",
+                "Score": "0:0",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Carrarese Calcio",
+                "Away": "Sampdoria Genoa",
+                "Score": "0:1",
+                "Result": "Away"
+            },
+            {
+                "Home": "Le Havre AC",
+                "Away": "FC Lorient",
+                "Score": "0:2",
+                "Result": "Away"
+            },
+            {
+                "Home": "Stade Brest 29",
+                "Away": "Olympique Lyon",
+                "Score": "2:0",
+                "Result": "Home"
+            },
+            {
+                "Home": "Manchester United",
+                "Away": "Aston Villa",
+                "Score": "4:4",
+                "Result": "Draw"
+            },
+            {
+                "Home": "FC Viktoria Plzen",
+                "Away": "Sparta Prague",
+                "Score": "1:1",
+                "Result": "Draw"
+            },
+            {
+                "Home": "Fredrikstad FK",
+                "Away": "SK Brann",
+                "Score": "2:2",
+                "Result": "Draw"
+            },
+            {
+                "Home": "L.R. Vicenza",
+                "Away": "US Cremonese",
+                "Score": "1:4",
+                "Result": "Away"
+            }
+        ],
+        "NextJackpotId": null
     }
 ]
